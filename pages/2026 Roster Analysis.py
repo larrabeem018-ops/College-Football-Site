@@ -28,7 +28,7 @@ def load_data():
         roster_2024 = pd.read_csv('data/Roster_2024.csv')
         roster_2025 = pd.read_csv('data/Roster_2025.csv')
         player_stats = pd.read_csv('player_stats_2024.csv')
-        transfers = pd.read_csv('data/Transfers_2025.csv')
+        transfers = pd.read_csv('data/transfers_2025.csv')
         teams = pd.read_csv('data/teams.csv')  # Add this line
         
         return draft, recruits, roster_2025, player_stats, transfers, teams # Add teams
