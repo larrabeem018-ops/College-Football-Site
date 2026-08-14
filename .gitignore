@@ -1,0 +1,13 @@
+# Old exploratory notebooks - not used by the live app, and they contain
+# an API key that was hardcoded during early development. Keep them on your
+# computer, just don't let GitHub Desktop upload them.
+*.ipynb
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# OS/editor clutter
+.DS_Store
+Thumbs.db

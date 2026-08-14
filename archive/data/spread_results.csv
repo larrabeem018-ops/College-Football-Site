@@ -1,0 +1,1210 @@
+homeTeam,awayTeam,spread,formattedSpread,homeScore,awayScore,win_margin,cover_margin,spread_result
+Nebraska,Michigan,3.5,Michigan -3.5,,,,,
+Nebraska,Michigan,3.0,Michigan -3,,,,,
+Washington State,Washington,12.5,Washington -12.5,,,,,
+Washington,Ohio State,13.5,Ohio State -13.5,,,,,
+Ole Miss,LSU,2.5,LSU -2.5,,,,,
+Ole Miss,LSU,2.0,LSU -2,,,,,
+Arkansas,Notre Dame,10.5,Notre Dame -10.5,,,,,
+Kansas,Fresno State,-14.0,Kansas -14,31.0,7.0,24.0,10.0,Kansas covered
+Kansas,Fresno State,-14.5,Kansas -14.5,31.0,7.0,24.0,9.5,Kansas covered
+Kansas,Fresno State,-14.0,Kansas -14.0,31.0,7.0,24.0,10.0,Kansas covered
+Western Kentucky,Sam Houston,-9.5,Western Kentucky -9.5,41.0,24.0,17.0,7.5,Western Kentucky covered
+Western Kentucky,Sam Houston,-10.5,Western Kentucky -10.5,41.0,24.0,17.0,6.5,Western Kentucky covered
+Western Kentucky,Sam Houston,-9.5,Western Kentucky -9.5,41.0,24.0,17.0,7.5,Western Kentucky covered
+Hawai'i,Stanford,-1.5,Hawai'i -1.5,23.0,20.0,3.0,1.5,Hawai'i covered
+Hawai'i,Stanford,-1.5,Hawai'i -1.5,23.0,20.0,3.0,1.5,Hawai'i covered
+Hawai'i,Stanford,-2.0,Hawai'i -2.0,23.0,20.0,3.0,1.0,Hawai'i covered
+South Florida,Boise State,8.5,Boise State -8.5,34.0,7.0,-27.0,-35.5,Boise State did NOT cover | OUTRIGHT UNDERDOG WIN: South Florida
+South Florida,Boise State,5.5,Boise State -5.5,34.0,7.0,-27.0,-32.5,Boise State did NOT cover | OUTRIGHT UNDERDOG WIN: South Florida
+South Florida,Boise State,4.5,Boise State -4.5,34.0,7.0,-27.0,-31.5,Boise State did NOT cover | OUTRIGHT UNDERDOG WIN: South Florida
+Rutgers,Ohio,-11.5,Rutgers -11.5,34.0,31.0,3.0,-8.5,Rutgers did NOT cover
+Rutgers,Ohio,-15.5,Rutgers -15.5,34.0,31.0,3.0,-12.5,Rutgers did NOT cover
+Rutgers,Ohio,-15.5,Rutgers -15.5,34.0,31.0,3.0,-12.5,Rutgers did NOT cover
+UCF,Jacksonville State,-16.5,UCF -16.5,17.0,10.0,7.0,-9.5,UCF did NOT cover
+UCF,Jacksonville State,-20.5,UCF -20.5,17.0,10.0,7.0,-13.5,UCF did NOT cover
+UCF,Jacksonville State,-20.5,UCF -20.5,17.0,10.0,7.0,-13.5,UCF did NOT cover
+NC State,East Carolina,-12.5,NC State -12.5,24.0,17.0,7.0,-5.5,NC State did NOT cover
+NC State,East Carolina,-13.5,NC State -13.5,24.0,17.0,7.0,-6.5,NC State did NOT cover
+NC State,East Carolina,-14.0,NC State -14.0,24.0,17.0,7.0,-7.0,NC State did NOT cover
+Akron,Wyoming,8.5,Wyoming -8.5,0.0,10.0,10.0,1.5,Wyoming covered
+Akron,Wyoming,4.5,Wyoming -4.5,0.0,10.0,10.0,5.5,Wyoming covered
+Akron,Wyoming,5.0,Wyoming -5.0,0.0,10.0,10.0,5.0,Wyoming covered
+Minnesota,Buffalo,-16.5,Minnesota -16.5,23.0,10.0,13.0,-3.5,Minnesota did NOT cover
+Minnesota,Buffalo,-16.5,Minnesota -16.5,23.0,10.0,13.0,-3.5,Minnesota did NOT cover
+Minnesota,Buffalo,-18.5,Minnesota -18.5,23.0,10.0,13.0,-5.5,Minnesota did NOT cover
+Wisconsin,Miami (OH),-17.5,Wisconsin -17.5,17.0,0.0,17.0,-0.5,Wisconsin did NOT cover
+Wisconsin,Miami (OH),-18.5,Wisconsin -18.5,17.0,0.0,17.0,-1.5,Wisconsin did NOT cover
+Wisconsin,Miami (OH),-18.0,Wisconsin -18.0,17.0,0.0,17.0,-1.0,Wisconsin did NOT cover
+Cincinnati,Nebraska,6.5,Nebraska -6.5,17.0,20.0,3.0,-3.5,Nebraska did NOT cover
+Cincinnati,Nebraska,5.5,Nebraska -5.5,17.0,20.0,3.0,-2.5,Nebraska did NOT cover
+Cincinnati,Nebraska,6.0,Nebraska -6.0,17.0,20.0,3.0,-3.0,Nebraska did NOT cover
+Michigan State,Western Michigan,-18.5,Michigan State -18.5,23.0,6.0,17.0,-1.5,Michigan State did NOT cover
+Michigan State,Western Michigan,-22.5,Michigan State -22.5,23.0,6.0,17.0,-5.5,Michigan State did NOT cover
+Michigan State,Western Michigan,-21.5,Michigan State -21.5,23.0,6.0,17.0,-4.5,Michigan State did NOT cover
+Wake Forest,Kennesaw State,-17.5,Wake Forest -17.5,10.0,9.0,1.0,-16.5,Wake Forest did NOT cover
+Wake Forest,Kennesaw State,-18.5,Wake Forest -18.5,10.0,9.0,1.0,-17.5,Wake Forest did NOT cover
+Wake Forest,Kennesaw State,-18.5,Wake Forest -18.5,10.0,9.0,1.0,-17.5,Wake Forest did NOT cover
+Charlotte,App State,8.5,App State -8.5,11.0,34.0,23.0,14.5,App State covered
+Charlotte,App State,19.5,App State -19.5,11.0,34.0,23.0,3.5,App State covered
+Charlotte,App State,3.0,App State -3.0,11.0,34.0,23.0,20.0,App State covered
+Colorado,Georgia Tech,4.0,Georgia Tech -4,20.0,27.0,7.0,3.0,Georgia Tech covered
+Colorado,Georgia Tech,3.5,Georgia Tech -3.5,20.0,27.0,7.0,3.5,Georgia Tech covered
+Colorado,Georgia Tech,3.5,Georgia Tech -3.5,20.0,27.0,7.0,3.5,Georgia Tech covered
+Baylor,Auburn,1.5,Auburn -1.5,24.0,38.0,14.0,12.5,Auburn covered
+Baylor,Auburn,-1.5,Baylor -1.5,24.0,38.0,-14.0,-15.5,Baylor did NOT cover | OUTRIGHT UNDERDOG WIN: Auburn
+Baylor,Auburn,1.0,Auburn -1.0,24.0,38.0,14.0,13.0,Auburn covered
+Sam Houston,UNLV,13.5,UNLV -13.5,21.0,38.0,17.0,3.5,UNLV covered
+Sam Houston,UNLV,8.5,UNLV -8.5,21.0,38.0,17.0,8.5,UNLV covered
+Sam Houston,UNLV,9.0,UNLV -9.0,21.0,38.0,17.0,8.0,UNLV covered
+San José State,Central Michigan,-11.5,San José State -11.5,14.0,16.0,-2.0,-13.5,San José State did NOT cover | OUTRIGHT UNDERDOG WIN: Central Michigan
+San José State,Central Michigan,-14.5,San José State -14.5,14.0,16.0,-2.0,-16.5,San José State did NOT cover | OUTRIGHT UNDERDOG WIN: Central Michigan
+San José State,Central Michigan,-14.5,San José State -14.5,14.0,16.0,-2.0,-16.5,San José State did NOT cover | OUTRIGHT UNDERDOG WIN: Central Michigan
+Purdue,Ball State,-16.5,Purdue -16.5,31.0,0.0,31.0,14.5,Purdue covered
+Purdue,Ball State,-16.5,Purdue -16.5,31.0,0.0,31.0,14.5,Purdue covered
+Purdue,Ball State,-16.5,Purdue -16.5,31.0,0.0,31.0,14.5,Purdue covered
+Maryland,Florida Atlantic,-16.5,Maryland -16.5,39.0,7.0,32.0,15.5,Maryland covered
+Maryland,Florida Atlantic,-13.5,Maryland -13.5,39.0,7.0,32.0,18.5,Maryland covered
+Maryland,Florida Atlantic,-12.5,Maryland -12.5,39.0,7.0,32.0,19.5,Maryland covered
+Southern Miss,Mississippi State,11.5,Mississippi State -11.5,17.0,34.0,17.0,5.5,Mississippi State covered
+Southern Miss,Mississippi State,15.5,Mississippi State -15.5,17.0,34.0,17.0,1.5,Mississippi State covered
+Southern Miss,Mississippi State,14.5,Mississippi State -14.5,17.0,34.0,17.0,2.5,Mississippi State covered
+Tulane,Northwestern,-6.5,Tulane -6.5,23.0,3.0,20.0,13.5,Tulane covered
+Tulane,Northwestern,-6.5,Tulane -6.5,23.0,3.0,20.0,13.5,Tulane covered
+Tulane,Northwestern,-5.0,Tulane -5.0,23.0,3.0,20.0,15.0,Tulane covered
+Kentucky,Toledo,-10.0,Kentucky -10,24.0,16.0,8.0,-2.0,Kentucky did NOT cover
+Kentucky,Toledo,-9.5,Kentucky -9.5,24.0,16.0,8.0,-1.5,Kentucky did NOT cover
+Kentucky,Toledo,-10.0,Kentucky -10.0,24.0,16.0,8.0,-2.0,Kentucky did NOT cover
+Indiana,Old Dominion,-23.5,Indiana -23.5,27.0,14.0,13.0,-10.5,Indiana did NOT cover
+Indiana,Old Dominion,-23.5,Indiana -23.5,27.0,14.0,13.0,-10.5,Indiana did NOT cover
+Indiana,Old Dominion,-23.0,Indiana -23.0,27.0,14.0,13.0,-10.0,Indiana did NOT cover
+Florida State,Alabama,13.5,Alabama -13.5,31.0,17.0,-14.0,-27.5,Alabama did NOT cover | OUTRIGHT UNDERDOG WIN: Florida State
+Florida State,Alabama,13.5,Alabama -13.5,31.0,17.0,-14.0,-27.5,Alabama did NOT cover | OUTRIGHT UNDERDOG WIN: Florida State
+Florida State,Alabama,13.5,Alabama -13.5,31.0,17.0,-14.0,-27.5,Alabama did NOT cover | OUTRIGHT UNDERDOG WIN: Florida State
+Georgia,Marshall,-39.5,Georgia -39.5,45.0,7.0,38.0,-1.5,Georgia did NOT cover
+Georgia,Marshall,-38.5,Georgia -38.5,45.0,7.0,38.0,-0.5,Georgia did NOT cover
+Georgia,Marshall,-38.5,Georgia -38.5,45.0,7.0,38.0,-0.5,Georgia did NOT cover
+Penn State,Nevada,-45.5,Penn State -45.5,46.0,11.0,35.0,-10.5,Penn State did NOT cover
+Penn State,Nevada,-43.5,Penn State -43.5,46.0,11.0,35.0,-8.5,Penn State did NOT cover
+Penn State,Nevada,-43.5,Penn State -43.5,46.0,11.0,35.0,-8.5,Penn State did NOT cover
+Massachusetts,Temple,3.0,Temple -3,10.0,42.0,32.0,29.0,Temple covered
+Massachusetts,Temple,2.5,Temple -2.5,10.0,42.0,32.0,29.5,Temple covered
+Massachusetts,Temple,1.5,Temple -1.5,10.0,42.0,32.0,30.5,Temple covered
+Virginia,Coastal Carolina,-12.5,Virginia -12.5,48.0,7.0,41.0,28.5,Virginia covered
+Virginia,Coastal Carolina,-13.5,Virginia -13.5,48.0,7.0,41.0,27.5,Virginia covered
+Virginia,Coastal Carolina,-13.5,Virginia -13.5,48.0,7.0,41.0,27.5,Virginia covered
+Texas A&M,UTSA,-21.5,Texas A&M -21.5,42.0,24.0,18.0,-3.5,Texas A&M did NOT cover
+Texas A&M,UTSA,-23.5,Texas A&M -23.5,42.0,24.0,18.0,-5.5,Texas A&M did NOT cover
+Texas A&M,UTSA,-24.0,Texas A&M -24.0,42.0,24.0,18.0,-6.0,Texas A&M did NOT cover
+Clemson,LSU,-3.5,Clemson -3.5,10.0,17.0,-7.0,-10.5,Clemson did NOT cover | OUTRIGHT UNDERDOG WIN: LSU
+Clemson,LSU,-5.5,Clemson -5.5,10.0,17.0,-7.0,-12.5,Clemson did NOT cover | OUTRIGHT UNDERDOG WIN: LSU
+Clemson,LSU,-5.5,Clemson -5.5,10.0,17.0,-7.0,-12.5,Clemson did NOT cover | OUTRIGHT UNDERDOG WIN: LSU
+Michigan,New Mexico,-36.5,Michigan -36.5,34.0,17.0,17.0,-19.5,Michigan did NOT cover
+Michigan,New Mexico,-34.5,Michigan -34.5,34.0,17.0,17.0,-17.5,Michigan did NOT cover
+Michigan,New Mexico,-34.5,Michigan -34.5,34.0,17.0,17.0,-17.5,Michigan did NOT cover
+USC,Missouri State,-34.5,USC -34.5,73.0,13.0,60.0,25.5,USC covered
+USC,Missouri State,-36.5,USC -36.5,73.0,13.0,60.0,23.5,USC covered
+USC,Missouri State,-36.5,USC -36.5,73.0,13.0,60.0,23.5,USC covered
+Utah State,UTEP,-3.5,Utah State -3.5,28.0,16.0,12.0,8.5,Utah State covered
+Utah State,UTEP,-4.5,Utah State -4.5,28.0,16.0,12.0,7.5,Utah State covered
+Utah State,UTEP,-5.5,Utah State -5.5,28.0,16.0,12.0,6.5,Utah State covered
+Ole Miss,Georgia State,-38.5,Ole Miss -38.5,63.0,7.0,56.0,17.5,Ole Miss covered
+Ole Miss,Georgia State,-33.5,Ole Miss -33.5,63.0,7.0,56.0,22.5,Ole Miss covered
+Ole Miss,Georgia State,-33.5,Ole Miss -33.5,63.0,7.0,56.0,22.5,Ole Miss covered
+Louisiana,Rice,-14.5,Louisiana -14.5,12.0,14.0,-2.0,-16.5,Louisiana did NOT cover | OUTRIGHT UNDERDOG WIN: Rice
+Louisiana,Rice,-9.5,Louisiana -9.5,12.0,14.0,-2.0,-11.5,Louisiana did NOT cover | OUTRIGHT UNDERDOG WIN: Rice
+Louisiana,Rice,-9.5,Louisiana -9.5,12.0,14.0,-2.0,-11.5,Louisiana did NOT cover | OUTRIGHT UNDERDOG WIN: Rice
+Texas State,Eastern Michigan,-14.0,Texas State -14,52.0,27.0,25.0,11.0,Texas State covered
+Texas State,Eastern Michigan,-13.5,Texas State -13.5,52.0,27.0,25.0,11.5,Texas State covered
+Texas State,Eastern Michigan,-14.0,Texas State -14.0,52.0,27.0,25.0,11.0,Texas State covered
+Fresno State,Georgia Southern,-2.5,Fresno State -2.5,42.0,14.0,28.0,25.5,Fresno State covered
+Fresno State,Georgia Southern,1.5,Georgia Southern -1.5,42.0,14.0,-28.0,-29.5,Georgia Southern did NOT cover | OUTRIGHT UNDERDOG WIN: Fresno State
+Fresno State,Georgia Southern,-2.0,Fresno State -2.0,42.0,14.0,28.0,26.0,Fresno State covered
+Arizona,Hawai'i,-13.5,Arizona -13.5,40.0,6.0,34.0,20.5,Arizona covered
+Arizona,Hawai'i,-15.5,Arizona -15.5,40.0,6.0,34.0,18.5,Arizona covered
+Arizona,Hawai'i,-15.5,Arizona -15.5,40.0,6.0,34.0,18.5,Arizona covered
+Oregon State,California,-3.0,Oregon State -3,15.0,34.0,-19.0,-22.0,Oregon State did NOT cover | OUTRIGHT UNDERDOG WIN: California
+Oregon State,California,2.5,California -2.5,15.0,34.0,19.0,16.5,California covered
+Oregon State,California,3.0,California -3.0,15.0,34.0,19.0,16.0,California covered
+Washington,Colorado State,-20.5,Washington -20.5,38.0,21.0,17.0,-3.5,Washington did NOT cover
+Washington,Colorado State,-22.5,Washington -22.5,38.0,21.0,17.0,-5.5,Washington did NOT cover
+Washington,Colorado State,-22.5,Washington -22.5,38.0,21.0,17.0,-5.5,Washington did NOT cover
+UCLA,Utah,6.5,Utah -6.5,10.0,43.0,33.0,26.5,Utah covered
+UCLA,Utah,6.5,Utah -6.5,10.0,43.0,33.0,26.5,Utah covered
+UCLA,Utah,6.5,Utah -6.5,10.0,43.0,33.0,26.5,Utah covered
+Miami,Notre Dame,2.5,Notre Dame -2.5,27.0,24.0,-3.0,-5.5,Notre Dame did NOT cover | OUTRIGHT UNDERDOG WIN: Miami
+Miami,Notre Dame,2.5,Notre Dame -2.5,27.0,24.0,-3.0,-5.5,Notre Dame did NOT cover | OUTRIGHT UNDERDOG WIN: Miami
+Miami,Notre Dame,3.0,Notre Dame -3.0,27.0,24.0,-3.0,-6.0,Notre Dame did NOT cover | OUTRIGHT UNDERDOG WIN: Miami
+North Carolina,TCU,3.0,TCU -3,14.0,48.0,34.0,31.0,TCU covered
+North Carolina,TCU,3.5,TCU -3.5,14.0,48.0,34.0,30.5,TCU covered
+North Carolina,TCU,3.5,TCU -3.5,14.0,48.0,34.0,30.5,TCU covered
+Iowa State,Iowa,-1.5,Iowa State -1.5,16.0,13.0,3.0,1.5,Iowa State covered
+Iowa State,Iowa,-3.0,Iowa State -3.0,16.0,13.0,3.0,0.0,Iowa State did NOT cover
+Iowa State,Iowa,-3.5,Iowa State -3.5,16.0,13.0,3.0,-0.5,Iowa State did NOT cover
+Missouri,Kansas,-7.0,Missouri -7,42.0,31.0,11.0,4.0,Missouri covered
+Missouri,Kansas,-5.5,Missouri -5.5,42.0,31.0,11.0,5.5,Missouri covered
+Missouri,Kansas,-6.5,Missouri -6.5,42.0,31.0,11.0,4.5,Missouri covered
+Oklahoma,Michigan,-3.0,Oklahoma -3,24.0,13.0,11.0,8.0,Oklahoma covered
+Oklahoma,Michigan,-4.0,Oklahoma -4.0,24.0,13.0,11.0,7.0,Oklahoma covered
+Oklahoma,Michigan,-3.5,Oklahoma -3.5,24.0,13.0,11.0,7.5,Oklahoma covered
+Georgia Tech,Clemson,8.5,Clemson -8.5,,,,,
+Georgia Tech,Clemson,9.5,Clemson -9.5,,,,,
+Tennessee,Georgia,7.5,Georgia -7.5,,,,,
+Tennessee,Georgia,7.0,Georgia -7,,,,,
+West Virginia,Pittsburgh,2.5,Pittsburgh -2.5,,,,,
+West Virginia,Pittsburgh,2.0,Pittsburgh -2,,,,,
+LSU,Florida,-5.5,LSU -5.5,,,,,
+LSU,Florida,-6.5,LSU -6.5,,,,,
+Notre Dame,Texas A&M,-7.0,Notre Dame -7,,,,,
+Notre Dame,Texas A&M,-6.5,Notre Dame -6.5,,,,,
+Indiana,Illinois,-2.5,Indiana -2.5,,,,,
+Oregon,Oregon State,-26.5,Oregon -26.5,,,,,
+Miami,Florida,-3.5,Miami -3.5,,,,,
+Miami,Florida,-3.0,Miami -3,,,,,
+Utah,Texas Tech,-3.5,Utah -3.5,,,,,
+Georgia,Alabama,-4.0,Georgia -4,,,,,
+Georgia,Alabama,-4.0,Georgia -4,,,,,
+Penn State,Oregon,-5.5,Penn State -5.5,,,,,
+Penn State,Oregon,-6.5,Penn State -6.5,,,,,
+North Carolina,Clemson,13.5,Clemson -13.5,,,,,
+Florida State,Miami,7.0,Miami -7,,,,,
+Florida State,Miami,4.5,Miami -4.5,,,,,
+Florida,Texas,6.5,Texas -6.5,,,,,
+Florida,Texas,6.5,Texas -6.5,,,,,
+Notre Dame,Boise State,-16.5,Notre Dame -16.5,,,,,
+Notre Dame,Boise State,-16.0,Notre Dame -16,,,,,
+USC,Michigan,1.5,Michigan -1.5,,,,,
+Oregon,Indiana,-14.5,Oregon -14.5,,,,,
+Oregon,Indiana,-13.5,Oregon -13.5,,,,,
+Auburn,Georgia,7.0,Georgia -7,,,,,
+Auburn,Georgia,6.0,Georgia -6,,,,,
+Utah,Arizona State,-2.5,Utah -2.5,,,,,
+Texas,Oklahoma,-9.5,Texas -9.5,,,,,
+Texas,Oklahoma,-9.5,Texas -9.5,,,,,
+Miami,Louisville,-6.5,Miami -6.5,,,,,
+Arizona State,Texas Tech,-4.0,Arizona State -4,,,,,
+Michigan,Washington,-10.5,Michigan -10.5,,,,,
+Michigan,Washington,-10.5,Michigan -10.5,,,,,
+Clemson,SMU,-11.5,Clemson -11.5,,,,,
+Alabama,Tennessee,-12.5,Alabama -12.5,,,,,
+Alabama,Tennessee,-11.5,Alabama -11.5,,,,,
+Georgia,Ole Miss,-10.5,Georgia -10.5,,,,,
+Georgia,Ole Miss,-10.5,Georgia -10.5,,,,,
+Notre Dame,USC,-10.5,Notre Dame -10.5,,,,,
+Notre Dame,USC,-10.5,Notre Dame -10.5,,,,,
+South Carolina,Alabama,7.5,Alabama -7.5,,,,,
+Michigan State,Michigan,8.5,Michigan -8.5,,,,,
+Michigan State,Michigan,8.0,Michigan -8,,,,,
+LSU,Texas A&M,-5.5,LSU -5.5,,,,,
+LSU,Texas A&M,-5.5,LSU -5.5,,,,,
+Kansas,Kansas State,4.0,Kansas State -4,,,,,
+Kansas,Kansas State,4.0,Kansas State -4,,,,,
+Ohio State,Penn State,-4.0,Ohio State -4,,,,,
+Ohio State,Penn State,-4.0,Ohio State -4,,,,,
+SMU,Miami,1.5,Miami -1.5,,,,,
+Kansas State,Texas Tech,-4.5,Kansas State -4.5,,,,,
+Kansas State,Texas Tech,-4.0,Kansas State -4,,,,,
+Florida,Georgia,7.5,Georgia -7.5,,,,,
+Florida,Georgia,7.0,Georgia -7,,,,,
+Clemson,Florida State,-16.5,Clemson -16.5,,,,,
+Clemson,Florida State,-17.0,Clemson -17,,,,,
+Alabama,LSU,-5.5,Alabama -5.5,,,,,
+Alabama,LSU,-6.0,Alabama -6,,,,,
+Louisville,Clemson,6.5,Clemson -6.5,,,,,
+Louisville,Clemson,6.0,Clemson -6,,,,,
+Alabama,Oklahoma,-12.5,Alabama -12.5,,,,,
+Alabama,Oklahoma,-12.5,Alabama -12.5,,,,,
+Georgia,Texas,-2.5,Georgia -2.5,,,,,
+Georgia,Texas,-2.5,Georgia -2.5,,,,,
+North Carolina,Duke,-1.5,North Carolina -1.5,,,,,
+North Carolina,Duke,1.5,Duke -1.5,,,,,
+South Carolina,Virginia Tech,-8.5,South Carolina -8.5,24.0,11.0,13.0,4.5,South Carolina covered
+South Carolina,Virginia Tech,-7.5,South Carolina -7.5,24.0,11.0,13.0,5.5,South Carolina covered
+South Carolina,Virginia Tech,-7.0,South Carolina -7.0,24.0,11.0,13.0,6.0,South Carolina covered
+Tennessee,Syracuse,-13.5,Tennessee -13.5,45.0,26.0,19.0,5.5,Tennessee covered
+Tennessee,Syracuse,-13.5,Tennessee -13.5,45.0,26.0,19.0,5.5,Tennessee covered
+Tennessee,Syracuse,-13.5,Tennessee -13.5,45.0,26.0,19.0,5.5,Tennessee covered
+Oregon,USC,-13.5,Oregon -13.5,,,,,
+Oregon,USC,-12.0,Oregon -12,,,,,
+Florida,Tennessee,-4.0,Florida -4,,,,,
+Colorado,Arizona State,4.5,Arizona State -4.5,,,,,
+UNLV,UCLA,2.5,UCLA -2.5,30.0,23.0,-7.0,-9.5,UCLA did NOT cover | OUTRIGHT UNDERDOG WIN: UNLV
+UNLV,UCLA,2.5,UCLA -2.5,30.0,23.0,-7.0,-9.5,UCLA did NOT cover | OUTRIGHT UNDERDOG WIN: UNLV
+UNLV,Idaho State,-30.5,UNLV -30.5,38.0,31.0,7.0,-23.5,UNLV did NOT cover
+UNLV,Idaho State,-30.5,UNLV -30.5,38.0,31.0,7.0,-23.5,UNLV did NOT cover
+Mississippi State,Arizona State,6.0,Arizona State -6.0,24.0,20.0,-4.0,-10.0,Arizona State did NOT cover | OUTRIGHT UNDERDOG WIN: Mississippi State
+Mississippi State,Arizona State,5.5,Arizona State -5.5,24.0,20.0,-4.0,-9.5,Arizona State did NOT cover | OUTRIGHT UNDERDOG WIN: Mississippi State
+Washington State,San Diego State,-2.0,Washington State -2.0,36.0,13.0,23.0,21.0,Washington State covered
+Washington State,San Diego State,-2.5,Washington State -2.5,36.0,13.0,23.0,20.5,Washington State covered
+Louisville,James Madison,-15.0,Louisville -15.0,28.0,14.0,14.0,-1.0,Louisville did NOT cover
+Louisville,James Madison,-15.5,Louisville -15.5,28.0,14.0,14.0,-1.5,Louisville did NOT cover
+Nicholls,Incarnate Word,13.5,Incarnate Word -13.5,20.0,6.0,-14.0,-27.5,Incarnate Word did NOT cover | OUTRIGHT UNDERDOG WIN: Nicholls
+Nicholls,Incarnate Word,13.5,Incarnate Word -13.5,20.0,6.0,-14.0,-27.5,Incarnate Word did NOT cover | OUTRIGHT UNDERDOG WIN: Nicholls
+Maryland,Northern Illinois,-17.0,Maryland -17.0,20.0,9.0,11.0,-6.0,Maryland did NOT cover
+Maryland,Northern Illinois,-16.5,Maryland -16.5,20.0,9.0,11.0,-5.5,Maryland did NOT cover
+South Carolina,Clemson,4.5,Clemson -4.5,,,,,
+Bowling Green,Lafayette,-21.0,Bowling Green -21.0,26.0,7.0,19.0,-2.0,Bowling Green did NOT cover
+Bowling Green,Lafayette,-21.5,Bowling Green -21.5,26.0,7.0,19.0,-2.5,Bowling Green did NOT cover
+Oregon,Montana State,-28.0,Oregon -28.0,59.0,13.0,46.0,18.0,Oregon covered
+Oregon,Montana State,-28.5,Oregon -28.5,59.0,13.0,46.0,17.5,Oregon covered
+Syracuse,UConn,-7.0,Syracuse -7.0,27.0,20.0,7.0,0.0,Syracuse did NOT cover
+Syracuse,UConn,-7.5,Syracuse -7.5,27.0,20.0,7.0,-0.5,Syracuse did NOT cover
+SMU,Baylor,-3.0,SMU -3.0,45.0,48.0,-3.0,-6.0,SMU did NOT cover | OUTRIGHT UNDERDOG WIN: Baylor
+SMU,Baylor,-2.5,SMU -2.5,45.0,48.0,-3.0,-5.5,SMU did NOT cover | OUTRIGHT UNDERDOG WIN: Baylor
+Duke,Illinois,2.5,Illinois -2.5,19.0,45.0,26.0,23.5,Illinois covered
+Duke,Illinois,2.5,Illinois -2.5,19.0,45.0,26.0,23.5,Illinois covered
+Penn State,Florida International,-42.0,Penn State -42.0,34.0,0.0,34.0,-8.0,Penn State did NOT cover
+Penn State,Florida International,-41.5,Penn State -41.5,34.0,0.0,34.0,-7.5,Penn State did NOT cover
+Florida,South Florida,-18.5,Florida -18.5,16.0,18.0,-2.0,-20.5,Florida did NOT cover | OUTRIGHT UNDERDOG WIN: South Florida
+Florida,South Florida,-18.5,Florida -18.5,16.0,18.0,-2.0,-20.5,Florida did NOT cover | OUTRIGHT UNDERDOG WIN: South Florida
+Colgate,Monmouth,14.5,Monmouth -14.5,39.0,42.0,3.0,-11.5,Monmouth did NOT cover
+Army,Tarleton State,-14.5,Army -14.5,27.0,30.0,-3.0,-17.5,Army did NOT cover | OUTRIGHT UNDERDOG WIN: Tarleton State
+Army,Tarleton State,-14.0,Army -14.0,27.0,30.0,-3.0,-17.0,Army did NOT cover | OUTRIGHT UNDERDOG WIN: Tarleton State
+UConn,Central Connecticut,-29.5,UConn -29.5,59.0,13.0,46.0,16.5,UConn covered
+UConn,Central Connecticut,-28.0,UConn -28.0,59.0,13.0,46.0,18.0,UConn covered
+Kansas State,Iowa State,-2.5,Kansas State -2.5,21.0,24.0,-3.0,-5.5,Kansas State did NOT cover | OUTRIGHT UNDERDOG WIN: Iowa State
+Kansas State,Iowa State,-3.5,Kansas State -3.5,21.0,24.0,-3.0,-6.5,Kansas State did NOT cover | OUTRIGHT UNDERDOG WIN: Iowa State
+Kansas State,Iowa State,-3.0,Kansas State -3.0,21.0,24.0,-3.0,-6.0,Kansas State did NOT cover | OUTRIGHT UNDERDOG WIN: Iowa State
+Delaware,Delaware State,-30.5,Delaware -30.5,35.0,17.0,18.0,-12.5,Delaware did NOT cover
+Delaware,Delaware State,-30.5,Delaware -30.5,35.0,17.0,18.0,-12.5,Delaware did NOT cover
+Navy,VMI,-42.5,Navy -42.5,52.0,7.0,45.0,2.5,Navy covered
+Navy,VMI,-42.0,Navy -42.0,52.0,7.0,45.0,3.0,Navy covered
+Michigan State,Boston College,-3.5,Michigan State -3.5,42.0,40.0,2.0,-1.5,Michigan State did NOT cover
+Michigan State,Boston College,-3.5,Michigan State -3.5,42.0,40.0,2.0,-1.5,Michigan State did NOT cover
+Oklahoma State,UT Martin,-26.0,Oklahoma State -26.0,27.0,7.0,20.0,-6.0,Oklahoma State did NOT cover
+Oklahoma State,UT Martin,,,27.0,7.0,,,
+Ohio State,Texas,-1.5,Ohio State -1.5,14.0,7.0,7.0,5.5,Ohio State covered
+Ohio State,Texas,-3.0,Ohio State -3,14.0,7.0,7.0,4.0,Ohio State covered
+Ohio State,Texas,-2.0,Ohio State -2.0,14.0,7.0,7.0,5.0,Ohio State covered
+Michigan,Ohio State,3.5,Ohio State -3.5,,,,,
+Michigan,Ohio State,5.5,Ohio State -5.5,,,,,
+Michigan,Ohio State,5.5,Ohio State -5.5,,,,,
+Rhode Island,Campbell,-11.5,Rhode Island -11.5,31.0,20.0,11.0,-0.5,Rhode Island did NOT cover
+UTSA,Texas State,-4.5,UTSA -4.5,36.0,43.0,-7.0,-11.5,UTSA did NOT cover | OUTRIGHT UNDERDOG WIN: Texas State
+UTSA,Texas State,-4.5,UTSA -4.5,36.0,43.0,-7.0,-11.5,UTSA did NOT cover | OUTRIGHT UNDERDOG WIN: Texas State
+Marist,New Haven,3.5,New Haven -3.5,31.0,14.0,-17.0,-20.5,New Haven did NOT cover | OUTRIGHT UNDERDOG WIN: Marist
+Florida,Long Island University,-46.5,Florida -46.5,55.0,0.0,55.0,8.5,Florida covered
+Florida,Long Island University,-47.0,Florida -47.0,55.0,0.0,55.0,8.0,Florida covered
+Arkansas,Alabama A&M,-45.5,Arkansas -45.5,52.0,7.0,45.0,-0.5,Arkansas did NOT cover
+Arkansas,Alabama A&M,-48.5,Arkansas -48.5,52.0,7.0,45.0,-3.5,Arkansas did NOT cover
+Duke,Elon,-36.5,Duke -36.5,45.0,17.0,28.0,-8.5,Duke did NOT cover
+Duke,Elon,,,45.0,17.0,,,
+Kentucky,Ole Miss,8.0,Ole Miss -8.0,23.0,30.0,7.0,-1.0,Ole Miss did NOT cover
+Kentucky,Ole Miss,7.5,Ole Miss -7.5,23.0,30.0,7.0,-0.5,Ole Miss did NOT cover
+Utah,Kansas State,-1.5,Utah -1.5,,,,,
+Texas Tech,Kent State,-48.5,Texas Tech -48.5,62.0,14.0,48.0,-0.5,Texas Tech did NOT cover
+Texas Tech,Kent State,-47.5,Texas Tech -47.5,62.0,14.0,48.0,0.5,Texas Tech covered
+Portland State,Tarleton State,17.5,Tarleton State -17.5,0.0,42.0,42.0,24.5,Tarleton State covered
+Portland State,Tarleton State,16.5,Tarleton State -16.5,0.0,42.0,42.0,25.5,Tarleton State covered
+Pittsburgh,Central Michigan,-21.5,Pittsburgh -21.5,45.0,17.0,28.0,6.5,Pittsburgh covered
+Pittsburgh,Central Michigan,-21.5,Pittsburgh -21.5,45.0,17.0,28.0,6.5,Pittsburgh covered
+Indiana,Kennesaw State,-35.5,Indiana -35.5,56.0,9.0,47.0,11.5,Indiana covered
+Indiana,Kennesaw State,-35.5,Indiana -35.5,56.0,9.0,47.0,11.5,Indiana covered
+Jacksonville State,Liberty,6.0,Liberty -6.0,34.0,24.0,-10.0,-16.0,Liberty did NOT cover | OUTRIGHT UNDERDOG WIN: Jacksonville State
+Jacksonville State,Liberty,6.5,Liberty -6.5,34.0,24.0,-10.0,-16.5,Liberty did NOT cover | OUTRIGHT UNDERDOG WIN: Jacksonville State
+UL Monroe,St. Francis (PA),-31.0,UL Monroe -31.0,29.0,0.0,29.0,-2.0,UL Monroe did NOT cover
+UL Monroe,St. Francis (PA),-30.5,UL Monroe -30.5,29.0,0.0,29.0,-1.5,UL Monroe did NOT cover
+Missouri,Central Arkansas,-38.5,Missouri -38.5,61.0,6.0,55.0,16.5,Missouri covered
+Missouri,Central Arkansas,-39.5,Missouri -39.5,61.0,6.0,55.0,15.5,Missouri covered
+Cincinnati,Bowling Green,-21.5,Cincinnati -21.5,34.0,20.0,14.0,-7.5,Cincinnati did NOT cover
+Cincinnati,Bowling Green,-22.5,Cincinnati -22.5,34.0,20.0,14.0,-8.5,Cincinnati did NOT cover
+Pittsburgh,Duquesne,-39.5,Pittsburgh -39.5,61.0,9.0,52.0,12.5,Pittsburgh covered
+Pittsburgh,Duquesne,-39.0,Pittsburgh -39.0,61.0,9.0,52.0,13.0,Pittsburgh covered
+Louisville,Eastern Kentucky,-37.5,Louisville -37.5,51.0,17.0,34.0,-3.5,Louisville did NOT cover
+Louisville,Eastern Kentucky,-38.0,Louisville -38.0,51.0,17.0,34.0,-4.0,Louisville did NOT cover
+Texas Tech,Arkansas-Pine Bluff,,,67.0,7.0,,,
+Texas Tech,Arkansas-Pine Bluff,-54.5,Texas Tech -54.5,67.0,7.0,60.0,5.5,Texas Tech covered
+Penn State,Indiana,-16.0,Penn State -16,,,,,
+BYU,Stanford,-20.5,BYU -20.5,27.0,3.0,24.0,3.5,BYU covered
+BYU,Stanford,-20.5,BYU -20.5,27.0,3.0,24.0,3.5,BYU covered
+San Diego State,Stony Brook,-19.5,San Diego State -19.5,42.0,0.0,42.0,22.5,San Diego State covered
+San Diego State,Stony Brook,,,42.0,0.0,,,
+Arizona State,Northern Arizona,-29.5,Arizona State -29.5,38.0,19.0,19.0,-10.5,Arizona State did NOT cover
+Arizona State,Northern Arizona,-30.5,Arizona State -30.5,38.0,19.0,19.0,-11.5,Arizona State did NOT cover
+Tulsa,Abilene Christian,-5.0,Tulsa -5.0,35.0,7.0,28.0,23.0,Tulsa covered
+Tulsa,Abilene Christian,-5.5,Tulsa -5.5,35.0,7.0,28.0,22.5,Tulsa covered
+Texas,San José State,-37.0,Texas -37.0,38.0,7.0,31.0,-6.0,Texas did NOT cover
+Texas,San José State,-36.5,Texas -36.5,38.0,7.0,31.0,-5.5,Texas did NOT cover
+NC State,Virginia,-3.0,NC State -3.0,35.0,31.0,4.0,1.0,NC State covered
+NC State,Virginia,-2.5,NC State -2.5,35.0,31.0,4.0,1.5,NC State covered
+Texas A&M,Utah State,-34.5,Texas A&M -34.5,44.0,22.0,22.0,-12.5,Texas A&M did NOT cover
+Texas A&M,Utah State,-34.5,Texas A&M -34.5,44.0,22.0,22.0,-12.5,Texas A&M did NOT cover
+Ohio,West Virginia,3.5,West Virginia -3.5,17.0,10.0,-7.0,-10.5,West Virginia did NOT cover | OUTRIGHT UNDERDOG WIN: Ohio
+Ohio,West Virginia,3.5,West Virginia -3.5,17.0,10.0,-7.0,-10.5,West Virginia did NOT cover | OUTRIGHT UNDERDOG WIN: Ohio
+Texas,Texas A&M,-10.5,Texas -10.5,,,,,
+Arkansas,Arkansas State,-23.5,Arkansas -23.5,56.0,14.0,42.0,18.5,Arkansas covered
+Arkansas,Arkansas State,-24.5,Arkansas -24.5,56.0,14.0,42.0,17.5,Arkansas covered
+Western Michigan,North Texas,12.0,North Texas -12.0,30.0,33.0,3.0,-9.0,North Texas did NOT cover
+Western Michigan,North Texas,12.5,North Texas -12.5,30.0,33.0,3.0,-9.5,North Texas did NOT cover
+Boston College,Fordham,-35.0,Boston College -35.0,66.0,10.0,56.0,21.0,Boston College covered
+Boston College,Fordham,-34.5,Boston College -34.5,66.0,10.0,56.0,21.5,Boston College covered
+West Virginia,Robert Morris,-40.0,West Virginia -40.0,45.0,3.0,42.0,2.0,West Virginia covered
+West Virginia,Robert Morris,-43.5,West Virginia -43.5,45.0,3.0,42.0,-1.5,West Virginia did NOT cover
+Rice,Houston,13.5,Houston -13.5,9.0,35.0,26.0,12.5,Houston covered
+Rice,Houston,13.5,Houston -13.5,9.0,35.0,26.0,12.5,Houston covered
+Iowa State,South Dakota,-16.5,Iowa State -16.5,55.0,7.0,48.0,31.5,Iowa State covered
+Iowa State,South Dakota,-13.5,Iowa State -13.5,55.0,7.0,48.0,34.5,Iowa State covered
+Georgia State,Memphis,14.5,Memphis -14.5,16.0,38.0,22.0,7.5,Memphis covered
+Georgia State,Memphis,15.5,Memphis -15.5,16.0,38.0,22.0,6.5,Memphis covered
+Wisconsin,Middle Tennessee,-28.5,Wisconsin -28.5,42.0,10.0,32.0,3.5,Wisconsin covered
+Wisconsin,Middle Tennessee,-28.5,Wisconsin -28.5,42.0,10.0,32.0,3.5,Wisconsin covered
+Illinois,Western Illinois,-48.5,Illinois -48.5,52.0,3.0,49.0,0.5,Illinois covered
+Illinois,Western Illinois,-48.5,Illinois -48.5,52.0,3.0,49.0,0.5,Illinois covered
+Kent State,Merrimack,-5.5,Kent State -5.5,21.0,17.0,4.0,-1.5,Kent State did NOT cover
+Rutgers,Miami (OH),-15.5,Rutgers -15.5,45.0,17.0,28.0,12.5,Rutgers covered
+Rutgers,Miami (OH),-15.5,Rutgers -15.5,45.0,17.0,28.0,12.5,Rutgers covered
+Louisiana Tech,SE Louisiana,-14.5,Louisiana Tech -14.5,24.0,0.0,24.0,9.5,Louisiana Tech covered
+Louisiana Tech,SE Louisiana,-14.5,Louisiana Tech -14.5,24.0,0.0,24.0,9.5,Louisiana Tech covered
+New Mexico State,Bryant,-19.5,New Mexico State -19.5,19.0,3.0,16.0,-3.5,New Mexico State did NOT cover
+New Mexico State,Bryant,-19.5,New Mexico State -19.5,19.0,3.0,16.0,-3.5,New Mexico State did NOT cover
+Oregon,Oklahoma State,-28.5,Oregon -28.5,69.0,3.0,66.0,37.5,Oregon covered
+Oregon,Oklahoma State,-28.5,Oregon -28.5,69.0,3.0,66.0,37.5,Oregon covered
+Washington State,Idaho,-16.5,Washington State -16.5,13.0,10.0,3.0,-13.5,Washington State did NOT cover
+Washington State,Idaho,-17.0,Washington State -17.0,13.0,10.0,3.0,-14.0,Washington State did NOT cover
+Marshall,Missouri State,-7.0,Marshall -7.0,20.0,21.0,-1.0,-8.0,Marshall did NOT cover | OUTRIGHT UNDERDOG WIN: Missouri State
+Marshall,Missouri State,-7.5,Marshall -7.5,20.0,21.0,-1.0,-8.5,Marshall did NOT cover | OUTRIGHT UNDERDOG WIN: Missouri State
+Colorado,Delaware,-23.5,Colorado -23.5,31.0,7.0,24.0,0.5,Colorado covered
+Colorado,Delaware,-23.5,Colorado -23.5,31.0,7.0,24.0,0.5,Colorado covered
+Oregon State,Fresno State,-1.0,Oregon State -1.0,27.0,36.0,-9.0,-10.0,Oregon State did NOT cover | OUTRIGHT UNDERDOG WIN: Fresno State
+Oregon State,Fresno State,-1.5,Oregon State -1.5,27.0,36.0,-9.0,-10.5,Oregon State did NOT cover | OUTRIGHT UNDERDOG WIN: Fresno State
+Clemson,Troy,-31.0,Clemson -31.0,27.0,16.0,11.0,-20.0,Clemson did NOT cover
+Clemson,Troy,-29.5,Clemson -29.5,27.0,16.0,11.0,-18.5,Clemson did NOT cover
+Navy,UAB,-20.5,Navy -20.5,38.0,24.0,14.0,-6.5,Navy did NOT cover
+Navy,UAB,-22.5,Navy -22.5,38.0,24.0,14.0,-8.5,Navy did NOT cover
+Kansas State,Army,-17.0,Kansas State -17.0,21.0,24.0,-3.0,-20.0,Kansas State did NOT cover | OUTRIGHT UNDERDOG WIN: Army
+Kansas State,Army,-16.5,Kansas State -16.5,21.0,24.0,-3.0,-19.5,Kansas State did NOT cover | OUTRIGHT UNDERDOG WIN: Army
+Auburn,Alabama,5.5,Alabama -5.5,,,,,
+Navy,Army,-3.5,Navy -3.5,,,,,
+Oklahoma,Illinois State,-39.5,Oklahoma -39.5,35.0,3.0,32.0,-7.5,Oklahoma did NOT cover
+Oklahoma,Illinois State,-38.5,Oklahoma -38.5,35.0,3.0,32.0,-6.5,Oklahoma did NOT cover
+Liberty,Maine,-25.5,Liberty -25.5,28.0,7.0,21.0,-4.5,Liberty did NOT cover
+Liberty,Maine,-25.5,Liberty -25.5,28.0,7.0,21.0,-4.5,Liberty did NOT cover
+BYU,Portland State,-43.5,BYU -43.5,69.0,0.0,69.0,25.5,BYU covered
+BYU,Portland State,-44.5,BYU -44.5,69.0,0.0,69.0,24.5,BYU covered
+SMU,East Texas A&M,-51.0,SMU -51.0,42.0,13.0,29.0,-22.0,SMU did NOT cover
+SMU,East Texas A&M,-50.5,SMU -50.5,42.0,13.0,29.0,-21.5,SMU did NOT cover
+Kansas State,North Dakota,-27.5,Kansas State -27.5,38.0,35.0,3.0,-24.5,Kansas State did NOT cover
+Kansas State,North Dakota,-27.5,Kansas State -27.5,38.0,35.0,3.0,-24.5,Kansas State did NOT cover
+Western Kentucky,North Alabama,-27.5,Western Kentucky -27.5,55.0,6.0,49.0,21.5,Western Kentucky covered
+Western Kentucky,North Alabama,-27.5,Western Kentucky -27.5,55.0,6.0,49.0,21.5,Western Kentucky covered
+Memphis,Chattanooga,-30.5,Memphis -30.5,45.0,10.0,35.0,4.5,Memphis covered
+Memphis,Chattanooga,-30.5,Memphis -30.5,45.0,10.0,35.0,4.5,Memphis covered
+Houston,Stephen F. Austin,-24.5,Houston -24.5,27.0,0.0,27.0,2.5,Houston covered
+Houston,Stephen F. Austin,-23.5,Houston -23.5,27.0,0.0,27.0,3.5,Houston covered
+Southern,North Carolina Central,10.5,North Carolina Central -10.5,14.0,31.0,17.0,6.5,North Carolina Central covered
+Vanderbilt,Charleston Southern,-37.5,Vanderbilt -37.5,45.0,3.0,42.0,4.5,Vanderbilt covered
+Vanderbilt,Charleston Southern,-38.5,Vanderbilt -38.5,45.0,3.0,42.0,3.5,Vanderbilt covered
+Troy,Nicholls,-16.5,Troy -16.5,38.0,20.0,18.0,1.5,Troy covered
+Troy,Nicholls,-19.5,Troy -19.5,38.0,20.0,18.0,-1.5,Troy did NOT cover
+South Alabama,Morgan State,-28.5,South Alabama -28.5,38.0,21.0,17.0,-11.5,South Alabama did NOT cover
+South Alabama,Morgan State,-28.5,South Alabama -28.5,38.0,21.0,17.0,-11.5,South Alabama did NOT cover
+North Texas,Lamar,-27.5,North Texas -27.5,51.0,0.0,51.0,23.5,North Texas covered
+North Texas,Lamar,-27.5,North Texas -27.5,51.0,0.0,51.0,23.5,North Texas covered
+South Alabama,Tulane,13.5,Tulane -13.5,31.0,33.0,2.0,-11.5,Tulane did NOT cover
+South Alabama,Tulane,13.5,Tulane -13.5,31.0,33.0,2.0,-11.5,Tulane did NOT cover
+James Madison,Weber State,-26.5,James Madison -26.5,45.0,10.0,35.0,8.5,James Madison covered
+James Madison,Weber State,-27.5,James Madison -27.5,45.0,10.0,35.0,7.5,James Madison covered
+Middle Tennessee,Austin Peay,-14.5,Middle Tennessee -14.5,14.0,34.0,-20.0,-34.5,Middle Tennessee did NOT cover | OUTRIGHT UNDERDOG WIN: Austin Peay
+Middle Tennessee,Austin Peay,-16.5,Middle Tennessee -16.5,14.0,34.0,-20.0,-36.5,Middle Tennessee did NOT cover | OUTRIGHT UNDERDOG WIN: Austin Peay
+UAB,Alabama State,-21.0,UAB -21.0,52.0,42.0,10.0,-11.0,UAB did NOT cover
+UAB,Alabama State,-21.5,UAB -21.5,52.0,42.0,10.0,-11.5,UAB did NOT cover
+LSU,Louisiana Tech,-36.5,LSU -36.5,23.0,7.0,16.0,-20.5,LSU did NOT cover
+LSU,Louisiana Tech,-36.5,LSU -36.5,23.0,7.0,16.0,-20.5,LSU did NOT cover
+USC,Georgia Southern,-29.0,USC -29.0,59.0,20.0,39.0,10.0,USC covered
+USC,Georgia Southern,-28.5,USC -28.5,59.0,20.0,39.0,10.5,USC covered
+Air Force,Bucknell,-31.0,Air Force -31.0,49.0,13.0,36.0,5.0,Air Force covered
+Air Force,Bucknell,-30.5,Air Force -30.5,49.0,13.0,36.0,5.5,Air Force covered
+Auburn,Ball State,-43.0,Auburn -43.0,42.0,3.0,39.0,-4.0,Auburn did NOT cover
+Auburn,Ball State,-42.5,Auburn -42.5,42.0,3.0,39.0,-3.5,Auburn did NOT cover
+Toledo,Western Kentucky,-8.5,Toledo -8.5,45.0,21.0,24.0,15.5,Toledo covered
+Toledo,Western Kentucky,-7.5,Toledo -7.5,45.0,21.0,24.0,16.5,Toledo covered
+Arkansas State,Southeast Missouri State,-15.5,Arkansas State -15.5,42.0,24.0,18.0,2.5,Arkansas State covered
+Nebraska,Akron,-34.0,Nebraska -34.0,68.0,0.0,68.0,34.0,Nebraska covered
+Nebraska,Akron,-33.5,Nebraska -33.5,68.0,0.0,68.0,34.5,Nebraska covered
+Alabama,UL Monroe,-34.0,Alabama -34.0,73.0,0.0,73.0,39.0,Alabama covered
+Alabama,UL Monroe,-34.5,Alabama -34.5,73.0,0.0,73.0,38.5,Alabama covered
+New Mexico State,Tulsa,3.0,Tulsa -3.0,21.0,14.0,-7.0,-10.0,Tulsa did NOT cover | OUTRIGHT UNDERDOG WIN: New Mexico State
+New Mexico State,Tulsa,3.5,Tulsa -3.5,21.0,14.0,-7.0,-10.5,Tulsa did NOT cover | OUTRIGHT UNDERDOG WIN: New Mexico State
+Northern Illinois,Holy Cross,-13.5,Northern Illinois -13.5,19.0,17.0,2.0,-11.5,Northern Illinois did NOT cover
+Northern Illinois,Holy Cross,-13.5,Northern Illinois -13.5,19.0,17.0,2.0,-11.5,Northern Illinois did NOT cover
+Hawai'i,Sam Houston,-7.0,Hawai'i -7.0,37.0,20.0,17.0,10.0,Hawai'i covered
+Hawai'i,Sam Houston,-7.5,Hawai'i -7.5,37.0,20.0,17.0,9.5,Hawai'i covered
+NC State,North Carolina,-2.5,NC State -2.5,,,,,
+Washington,Oregon,11.5,Oregon -11.5,,,,,
+Nebraska,Iowa,-2.5,Nebraska -2.5,,,,,
+Southern Utah,Idaho State,-4.5,Southern Utah -4.5,46.0,24.0,22.0,17.5,Southern Utah covered
+Southern Utah,Idaho State,-4.5,Southern Utah -4.5,46.0,24.0,22.0,17.5,Southern Utah covered
+Virginia Tech,Vanderbilt,-2.5,Virginia Tech -2.5,20.0,44.0,-24.0,-26.5,Virginia Tech did NOT cover | OUTRIGHT UNDERDOG WIN: Vanderbilt
+Virginia Tech,Vanderbilt,-1.5,Virginia Tech -1.5,20.0,44.0,-24.0,-25.5,Virginia Tech did NOT cover | OUTRIGHT UNDERDOG WIN: Vanderbilt
+Georgia Tech,Georgia,13.5,Georgia -13.5,,,,,
+Utah,Colorado,-8.5,Utah -8.5,,,,,
+Davidson,Georgetown,3.5,Georgetown -3.5,14.0,51.0,37.0,33.5,Georgetown covered
+Mississippi State,Ole Miss,11.5,Ole Miss -11.5,,,,,
+Kansas,Wagner,-45.5,Kansas -45.5,46.0,7.0,39.0,-6.5,Kansas did NOT cover
+Kansas,Wagner,-46.5,Kansas -46.5,46.0,7.0,39.0,-7.5,Kansas did NOT cover
+Florida International,Bethune-Cookman,-26.5,Florida International -26.5,42.0,9.0,33.0,6.5,Florida International covered
+Furman,William & Mary,-2.5,Furman -2.5,23.0,21.0,2.0,-0.5,Furman did NOT cover
+Sacred Heart,Stonehill,-6.5,Sacred Heart -6.5,12.0,7.0,5.0,-1.5,Sacred Heart did NOT cover
+Iowa,UAlbany,-39.5,Iowa -39.5,34.0,7.0,27.0,-12.5,Iowa did NOT cover
+Northern Iowa,Butler,-16.5,Northern Iowa -16.5,38.0,14.0,24.0,7.5,Northern Iowa covered
+Oklahoma,Missouri,-7.5,Oklahoma -7.5,,,,,
+Iowa,Penn State,10.5,Penn State -10.5,,,,,
+Youngstown State,Mercyhurst,-24.0,Youngstown State -24,24.0,15.0,9.0,-15.0,Youngstown State did NOT cover
+Jackson State,Hampton,-18.5,Jackson State -18.5,28.0,14.0,14.0,-4.5,Jackson State did NOT cover
+Florida A&M,Howard,-7.5,Florida A&M -7.5,9.0,10.0,-1.0,-8.5,Florida A&M did NOT cover | OUTRIGHT UNDERDOG WIN: Howard
+St. Thomas (MN),Lindenwood,6.5,Lindenwood -6.5,35.0,13.0,-22.0,-28.5,Lindenwood did NOT cover | OUTRIGHT UNDERDOG WIN: St. Thomas (MN)
+Illinois,Ohio State,13.5,Ohio State -13.5,,,,,
+Eastern Illinois,Dayton,-9.5,Eastern Illinois -9.5,24.0,14.0,10.0,0.5,Eastern Illinois covered
+Tennessee State,North Carolina A&T,-6.5,Tennessee State -6.5,24.0,21.0,3.0,-3.5,Tennessee State did NOT cover
+Norfolk State,Towson,8.5,Towson -8.5,7.0,27.0,20.0,11.5,Towson covered
+East Tennessee State,Murray State,-31.0,East Tennessee State -31,45.0,17.0,28.0,-3.0,East Tennessee State did NOT cover
+Mississippi Valley State,Southern,12.5,Southern -12.5,29.0,34.0,5.0,-7.5,Southern did NOT cover
+Samford,West Georgia,-6.5,Samford -6.5,3.0,34.0,-31.0,-37.5,Samford did NOT cover | OUTRIGHT UNDERDOG WIN: West Georgia
+Northwestern State,Alcorn State,10.5,Alcorn State -10.5,20.0,10.0,-10.0,-20.5,Alcorn State did NOT cover | OUTRIGHT UNDERDOG WIN: Northwestern State
+Mercer,Presbyterian,-22.5,Mercer -22.5,10.0,15.0,-5.0,-27.5,Mercer did NOT cover | OUTRIGHT UNDERDOG WIN: Presbyterian
+North Carolina Central,New Hampshire,-4.5,North Carolina Central -4.5,10.0,27.0,-17.0,-21.5,North Carolina Central did NOT cover | OUTRIGHT UNDERDOG WIN: New Hampshire
+South Carolina State,Wofford,-9.5,South Carolina State -9.5,16.0,15.0,1.0,-8.5,South Carolina State did NOT cover
+Alabama,Vanderbilt,-24.0,Alabama -24,,,,,
+Incarnate Word,Eastern Washington,-10.0,Incarnate Word -10,31.0,21.0,10.0,0.0,Incarnate Word did NOT cover
+Western Carolina,Gardner-Webb,-6.5,Western Carolina -6.5,45.0,52.0,-7.0,-13.5,Western Carolina did NOT cover | OUTRIGHT UNDERDOG WIN: Gardner-Webb
+South Dakota State,Sacramento State,-11.5,South Dakota State -11.5,20.0,3.0,17.0,5.5,South Dakota State covered
+San Diego,Cal Poly,-1.5,San Diego -1.5,17.0,41.0,-24.0,-25.5,San Diego did NOT cover | OUTRIGHT UNDERDOG WIN: Cal Poly
+Texas Southern,Prairie View A&M,-1.5,Texas Southern -1.5,21.0,22.0,-1.0,-2.5,Texas Southern did NOT cover | OUTRIGHT UNDERDOG WIN: Prairie View A&M
+Utah Tech,UC Davis,18.5,UC Davis -18.5,24.0,31.0,7.0,-11.5,UC Davis did NOT cover
+Boise State,Eastern Washington,-33.5,Boise State -33.5,51.0,14.0,37.0,3.5,Boise State covered
+Boise State,Eastern Washington,-33.0,Boise State -33.0,51.0,14.0,37.0,4.0,Boise State covered
+Northwestern,Western Illinois,-30.5,Northwestern -30.5,42.0,7.0,35.0,4.5,Northwestern covered
+Northwestern,Western Illinois,-31.5,Northwestern -31.5,42.0,7.0,35.0,3.5,Northwestern covered
+Minnesota,Northwestern State,-43.0,Minnesota -43.0,66.0,0.0,66.0,23.0,Minnesota covered
+Minnesota,Northwestern State,-43.5,Minnesota -43.5,66.0,0.0,66.0,22.5,Minnesota covered
+Temple,Howard,-28.0,Temple -28.0,55.0,7.0,48.0,20.0,Temple covered
+Temple,Howard,-27.5,Temple -27.5,55.0,7.0,48.0,20.5,Temple covered
+Tennessee,East Tennessee State,-39.5,Tennessee -39.5,72.0,17.0,55.0,15.5,Tennessee covered
+Tennessee,East Tennessee State,-40.5,Tennessee -40.5,72.0,17.0,55.0,14.5,Tennessee covered
+Georgia,Austin Peay,-47.0,Georgia -47.0,28.0,6.0,22.0,-25.0,Georgia did NOT cover
+Georgia,Austin Peay,-46.5,Georgia -46.5,28.0,6.0,22.0,-24.5,Georgia did NOT cover
+East Carolina,Campbell,-30.0,East Carolina -30.0,56.0,3.0,53.0,23.0,East Carolina covered
+East Carolina,Campbell,-30.5,East Carolina -30.5,56.0,3.0,53.0,22.5,East Carolina covered
+Wyoming,Northern Iowa,-14.0,Wyoming -14.0,31.0,7.0,24.0,10.0,Wyoming covered
+Wyoming,Northern Iowa,-13.5,Wyoming -13.5,31.0,7.0,24.0,10.5,Wyoming covered
+New Mexico,Idaho State,-17.5,New Mexico -17.5,32.0,22.0,10.0,-7.5,New Mexico did NOT cover
+New Mexico,Idaho State,-17.5,New Mexico -17.5,32.0,22.0,10.0,-7.5,New Mexico did NOT cover
+Buffalo,St. Francis (PA),-37.0,Buffalo -37.0,45.0,6.0,39.0,2.0,Buffalo covered
+Buffalo,St. Francis (PA),-37.5,Buffalo -37.5,45.0,6.0,39.0,1.5,Buffalo covered
+Southern Miss,Jackson State,-13.5,Southern Miss -13.5,38.0,20.0,18.0,4.5,Southern Miss covered
+Southern Miss,Jackson State,-13.5,Southern Miss -13.5,38.0,20.0,18.0,4.5,Southern Miss covered
+Old Dominion,North Carolina Central,-22.0,Old Dominion -22.0,54.0,6.0,48.0,26.0,Old Dominion covered
+Old Dominion,North Carolina Central,-21.5,Old Dominion -21.5,54.0,6.0,48.0,26.5,Old Dominion covered
+Florida Atlantic,Florida A&M,-21.0,Florida Atlantic -21.0,56.0,14.0,42.0,21.0,Florida Atlantic covered
+Florida Atlantic,Florida A&M,-21.5,Florida Atlantic -21.5,56.0,14.0,42.0,20.5,Florida Atlantic covered
+Utah,Cal Poly,-42.5,Utah -42.5,63.0,9.0,54.0,11.5,Utah covered
+Utah,Cal Poly,-42.5,Utah -42.5,63.0,9.0,54.0,11.5,Utah covered
+UTEP,UT Martin,-7.5,UTEP -7.5,42.0,17.0,25.0,17.5,UTEP covered
+UTEP,UT Martin,-7.5,UTEP -7.5,42.0,17.0,25.0,17.5,UTEP covered
+Coastal Carolina,Charleston Southern,-28.5,Coastal Carolina -28.5,13.0,0.0,13.0,-15.5,Coastal Carolina did NOT cover
+Coastal Carolina,Charleston Southern,-27.5,Coastal Carolina -27.5,13.0,0.0,13.0,-14.5,Coastal Carolina did NOT cover
+Louisiana,McNeese,-19.0,Louisiana -19.0,34.0,10.0,24.0,5.0,Louisiana covered
+Louisiana,McNeese,-19.5,Louisiana -19.5,34.0,10.0,24.0,4.5,Louisiana covered
+Purdue,Southern Illinois,-19.5,Purdue -19.5,34.0,17.0,17.0,-2.5,Purdue did NOT cover
+Purdue,Southern Illinois,-22.5,Purdue -22.5,34.0,17.0,17.0,-5.5,Purdue did NOT cover
+Wake Forest,Western Carolina,-17.5,Wake Forest -17.5,42.0,10.0,32.0,14.5,Wake Forest covered
+Wake Forest,Western Carolina,-17.5,Wake Forest -17.5,42.0,10.0,32.0,14.5,Wake Forest covered
+Ohio State,Grambling,-55.5,Ohio State -55.5,70.0,0.0,70.0,14.5,Ohio State covered
+Ohio State,Grambling,-51.5,Ohio State -51.5,70.0,0.0,70.0,18.5,Ohio State covered
+App State,Lindenwood,-31.5,App State -31.5,20.0,13.0,7.0,-24.5,App State did NOT cover
+App State,Lindenwood,-29.5,App State -29.5,20.0,13.0,7.0,-22.5,App State did NOT cover
+Georgia Tech,Gardner-Webb,-37.5,Georgia Tech -37.5,59.0,12.0,47.0,9.5,Georgia Tech covered
+Georgia Tech,Gardner-Webb,-37.5,Georgia Tech -37.5,59.0,12.0,47.0,9.5,Georgia Tech covered
+California,Texas Southern,-44.5,California -44.5,35.0,3.0,32.0,-12.5,California did NOT cover
+California,Texas Southern,-44.5,California -44.5,35.0,3.0,32.0,-12.5,California did NOT cover
+Eastern Michigan,Long Island University,-22.5,Eastern Michigan -22.5,23.0,28.0,-5.0,-27.5,Eastern Michigan did NOT cover | OUTRIGHT UNDERDOG WIN: Long Island University
+Eastern Michigan,Long Island University,-21.5,Eastern Michigan -21.5,23.0,28.0,-5.0,-26.5,Eastern Michigan did NOT cover | OUTRIGHT UNDERDOG WIN: Long Island University
+Arizona,Weber State,-31.5,Arizona -31.5,48.0,3.0,45.0,13.5,Arizona covered
+Arizona,Weber State,-31.5,Arizona -31.5,48.0,3.0,45.0,13.5,Arizona covered
+Nevada,Sacramento State,-8.0,Nevada -8.0,20.0,17.0,3.0,-5.0,Nevada did NOT cover
+Nevada,Sacramento State,-9.5,Nevada -9.5,20.0,17.0,3.0,-6.5,Nevada did NOT cover
+UCF,North Carolina A&T,-38.0,UCF -38.0,68.0,7.0,61.0,23.0,UCF covered
+UCF,North Carolina A&T,-37.0,UCF -37,68.0,7.0,61.0,24.0,UCF covered
+Florida State,East Texas A&M,-43.5,Florida State -43.5,77.0,3.0,74.0,30.5,Florida State covered
+Florida State,East Texas A&M,-45.5,Florida State -45.5,77.0,3.0,74.0,28.5,Florida State covered
+Massachusetts,Bryant,-14.5,Massachusetts -14.5,26.0,27.0,-1.0,-15.5,Massachusetts did NOT cover | OUTRIGHT UNDERDOG WIN: Bryant
+Massachusetts,Bryant,-16.5,Massachusetts -16.5,26.0,27.0,-1.0,-17.5,Massachusetts did NOT cover | OUTRIGHT UNDERDOG WIN: Bryant
+South Carolina,South Carolina State,-43.0,South Carolina -43.0,38.0,10.0,28.0,-15.0,South Carolina did NOT cover
+South Carolina,South Carolina State,-42.5,South Carolina -42.5,38.0,10.0,28.0,-14.5,South Carolina did NOT cover
+Washington,UC Davis,-28.0,Washington -28.0,70.0,10.0,60.0,32.0,Washington covered
+Washington,UC Davis,-29.5,Washington -29.5,70.0,10.0,60.0,30.5,Washington covered
+Charlotte,North Carolina,16.5,North Carolina -16.5,3.0,20.0,17.0,0.5,North Carolina covered
+Charlotte,North Carolina,15.0,North Carolina -15.0,3.0,20.0,17.0,2.0,North Carolina covered
+Colorado State,Northern Colorado,-35.0,Colorado State -35.0,21.0,17.0,4.0,-31.0,Colorado State did NOT cover
+Colorado State,Northern Colorado,-34.5,Colorado State -34.5,21.0,17.0,4.0,-30.5,Colorado State did NOT cover
+Miami,Bethune-Cookman,-54.5,Miami -54.5,45.0,3.0,42.0,-12.5,Miami did NOT cover
+Mercyhurst,New Haven,-12.5,Mercyhurst -12.5,48.0,14.0,34.0,21.5,Mercyhurst covered
+Lehigh,Sacred Heart,-20.0,Lehigh -20,28.0,10.0,18.0,-2.0,Lehigh did NOT cover
+Stonehill,Lafayette,14.0,Lafayette -14,26.0,42.0,16.0,2.0,Lafayette covered
+Marist,Bucknell,12.0,Bucknell -12,23.0,34.0,11.0,-1.0,Bucknell did NOT cover
+Tennessee Tech,Chattanooga,-5.5,Tennessee Tech -5.5,45.0,17.0,28.0,22.5,Tennessee Tech covered
+Indiana State,Eastern Illinois,-3.5,Indiana State -3.5,38.0,14.0,24.0,20.5,Indiana State covered
+Youngstown State,Robert Morris,-19.5,Youngstown State -19.5,56.0,10.0,46.0,26.5,Youngstown State covered
+Tennessee State,North Dakota State,32.5,North Dakota State -32.5,3.0,59.0,56.0,23.5,North Dakota State covered
+Georgetown,Wagner,-16.0,Georgetown -16,31.0,20.0,11.0,-5.0,Georgetown did NOT cover
+Samford,The Citadel,-2.5,Samford -2.5,13.0,40.0,-27.0,-29.5,Samford did NOT cover | OUTRIGHT UNDERDOG WIN: The Citadel
+Furman,Presbyterian,-8.5,Furman -8.5,38.0,39.0,-1.0,-9.5,Furman did NOT cover | OUTRIGHT UNDERDOG WIN: Presbyterian
+Idaho,St. Thomas (MN),-21.5,Idaho -21.5,37.0,30.0,7.0,-14.5,Idaho did NOT cover
+Northern Arizona,Utah Tech,-21.0,Northern Arizona -21,38.0,31.0,7.0,-14.0,Northern Arizona did NOT cover
+Delaware State,UAlbany,12.5,UAlbany -12.5,37.0,32.0,-5.0,-17.5,UAlbany did NOT cover | OUTRIGHT UNDERDOG WIN: Delaware State
+Villanova,Colgate,-20.0,Villanova -20,24.0,17.0,7.0,-13.0,Villanova did NOT cover
+Eastern Kentucky,Houston Christian,-18.0,Eastern Kentucky -18,20.0,10.0,10.0,-8.0,Eastern Kentucky did NOT cover
+Fordham,Monmouth,14.5,Monmouth -14.5,28.0,49.0,21.0,6.5,Monmouth covered
+Lamar,South Dakota,17.0,South Dakota -17,20.0,13.0,-7.0,-24.0,South Dakota did NOT cover | OUTRIGHT UNDERDOG WIN: Lamar
+North Dakota,Portland State,-36.5,North Dakota -36.5,50.0,20.0,30.0,-6.5,North Dakota did NOT cover
+New Hampshire,Holy Cross,-1.5,New Hampshire -1.5,16.0,16.0,0.0,-1.5,New Hampshire did NOT cover
+Morgan State,Towson,10.0,Towson -10,22.0,27.0,5.0,-5.0,Towson did NOT cover
+Illinois State,Morehead State,-31.5,Illinois State -31.5,34.0,13.0,21.0,-10.5,Illinois State did NOT cover
+Murray State,SE Louisiana,21.5,SE Louisiana -21.5,24.0,45.0,21.0,-0.5,SE Louisiana did NOT cover
+Central Arkansas,Arkansas-Pine Bluff,-27.0,Central Arkansas -27,41.0,17.0,24.0,-3.0,Central Arkansas did NOT cover
+Nicholls,West Georgia,-6.5,Nicholls -6.5,10.0,34.0,-24.0,-30.5,Nicholls did NOT cover | OUTRIGHT UNDERDOG WIN: West Georgia
+Southern,Alabama State,6.5,Alabama State -6.5,7.0,30.0,23.0,16.5,Alabama State covered
+Tarleton State,Mississippi Valley State,-44.5,Tarleton State -44.5,59.0,3.0,56.0,11.5,Tarleton State covered
+Southeast Missouri State,North Alabama,-15.5,Southeast Missouri State -15.5,30.0,21.0,9.0,-6.5,Southeast Missouri State did NOT cover
+Alabama A&M,Alcorn State,-3.5,Alabama A&M -3.5,35.0,31.0,4.0,0.5,Alabama A&M covered
+Wofford,Richmond,6.5,Richmond -6.5,10.0,14.0,4.0,-2.5,Richmond did NOT cover
+Elon,Davidson,-27.5,Elon -27.5,55.0,7.0,48.0,20.5,Elon covered
+Abilene Christian,Stephen F. Austin,2.5,Stephen F. Austin -2.5,28.0,14.0,-14.0,-16.5,Stephen F. Austin did NOT cover | OUTRIGHT UNDERDOG WIN: Abilene Christian
+William & Mary,Maine,-7.0,William & Mary -7,28.0,27.0,1.0,-6.0,William & Mary did NOT cover
+Montana State,South Dakota State,3.0,South Dakota State -3,24.0,30.0,6.0,3.0,South Dakota State covered
+Stony Brook,Rhode Island,7.0,Rhode Island -7,17.0,31.0,14.0,7.0,Rhode Island covered
+San Diego,Southern Utah,20.5,Southern Utah -20.5,30.0,27.0,-3.0,-23.5,Southern Utah did NOT cover | OUTRIGHT UNDERDOG WIN: San Diego
+Wyoming,Colorado State,,,,,,,
+Georgia Southern,Maine,,,,,,,
+Utah State,McNeese,,,,,,,
+Western Kentucky,New Mexico State,,,,,,,
+North Carolina,Virginia,,,,,,,
+West Virginia,Utah,,,,,,,
+Marshall,James Madison,,,,,,,
+Memphis,Tulsa,,,,,,,
+Oklahoma State,Iowa State,,,,,,,
+Nevada,Boise State,,,,,,,
+Wisconsin,Iowa,,,,,,,
+Toledo,Akron,,,,,,,
+South Alabama,Arkansas State,,,,,,,
+Boston College,Clemson,,,,,,,
+Hawai'i,Wyoming,,,,,,,
+Missouri State,Florida International,,,,,,,
+Kansas,Cincinnati,,,,,,,
+Rutgers,Norfolk State,,,,,,,
+Nevada,San Diego State,,,,,,,
+NC State,Virginia Tech,,,,,,,
+Western Kentucky,Middle Tennessee,,,,,,,
+Air Force,Hawai'i,,,,,,,
+Tennessee,New Mexico State,,,,,,,
+Purdue,Illinois,,,,,,,
+Missouri State,SMU,,,,,,,
+Memphis,South Florida,,,,,,,
+Duke,NC State,,,,,,,
+Michigan State,Maryland,,,,,,,
+UNLV,Air Force,,,,,,,
+Charlotte,Monmouth,,,,,,,
+New Mexico,Colorado State,,,,,,,
+UCLA,Penn State,,,,,,,
+Sam Houston,Jacksonville State,,,,,,,
+Boston College,California,,,,,,,
+Baylor,Houston,,,,,,,
+Illinois,Northwestern,,,,,,,
+Missouri State,UT Martin,,,,,,,
+James Madison,Georgia Southern,,,,,,,
+LSU,SE Louisiana,,,,,,,
+Akron,Central Michigan,,,,,,,
+Boise State,App State,,,,,,,
+Kansas,Utah,,,,,,,
+Colorado State,Fresno State,,,,,,,
+Texas State,South Alabama,,,,,,,
+Baylor,Utah,,,,,,,
+Boston College,SMU,,,,,,,
+San Diego State,San José State,,,,,,,
+Washington State,Oregon State,,,,,,,
+Illinois,Western Michigan,,,,,,,
+Marshall,Texas State,,,,,,,
+App State,Georgia Southern,,,,,,,
+UConn,Florida International,,,,,,,
+Purdue,USC,,,,,,,
+Southern Miss,Jacksonville State,,,,,,,
+Oregon State,Sam Houston,,,,,,,
+Stanford,Pittsburgh,,,,,,,
+Army,Charlotte,,,,,,,
+Ohio State,Ohio,,,,,,,
+USC,Iowa,,,,,,,
+Buffalo,Troy,,,,,,,
+Bowling Green,Central Michigan,,,,,,,
+Iowa State,Arizona,,,,,,,
+Utah,Cincinnati,,,,,,,
+Utah State,Boise State,,,,,,,
+UCLA,New Mexico,,,,,,,
+Kennesaw State,Louisiana Tech,,,,,,,
+Nevada,UNLV,,,,,,,
+Central Michigan,Massachusetts,,,,,,,
+Auburn,South Alabama,,,,,,,
+UCF,North Carolina,,,,,,,
+Oregon State,Wake Forest,,,,,,,
+North Carolina,Richmond,,,,,,,
+Nebraska,USC,,,,,,,
+Florida State,Wake Forest,,,,,,,
+Georgia,Charlotte,,,,,,,
+Duke,Georgia Tech,,,,,,,
+Oregon State,Washington State,,,,,,,
+Baylor,Kansas State,,,,,,,
+App State,Oregon State,,,,,,,
+Eastern Michigan,Ohio,,,,,,,
+Wisconsin,Washington,,,,,,,
+South Carolina,Coastal Carolina,,,,,,,
+Oklahoma State,Kansas State,,,,,,,
+Colorado,Wyoming,,,,,,,
+Colorado,BYU,,,,,,,
+Louisiana Tech,New Mexico State,,,,,,,
+Buffalo,Ohio,,,,,,,
+Virginia Tech,California,,,,,,,
+Tulane,East Carolina,,,,,,,
+Georgia State,Marshall,,,,,,,
+Rutgers,Penn State,,,,,,,
+UAB,North Texas,,,,,,,
+Florida State,Virginia Tech,,,,,,,
+South Florida,Charlotte,,,,,,,
+Indiana,Wisconsin,,,,,,,
+Colorado State,Washington State,,,,,,,
+Texas Tech,Kansas,,,,,,,
+UTSA,Incarnate Word,,,,,,,
+Eastern Michigan,Louisiana,,,,,,,
+Middle Tennessee,Missouri State,,,,,,,
+TCU,Baylor,,,,,,,
+Cincinnati,Arizona,,,,,,,
+UCF,Oklahoma State,,,,,,,
+Louisville,Virginia,,,,,,,
+TCU,Abilene Christian,,,,,,,
+Florida Atlantic,Tulsa,,,,,,,
+NC State,Campbell,,,,,,,
+Arizona,BYU,,,,,,,
+UL Monroe,Old Dominion,,,,,,,
+Ohio,Gardner-Webb,,,,,,,
+Ohio State,Minnesota,,,,,,,
+Texas,Vanderbilt,,,,,,,
+USC,Northwestern,,,,,,,
+Western Kentucky,Florida International,,,,,,,
+Oklahoma State,Cincinnati,,,,,,,
+Missouri State,UTEP,,,,,,,
+Virginia Tech,Wake Forest,,,,,,,
+UTEP,Louisiana Tech,,,,,,,
+Iowa,Indiana,,,,,,,
+UAB,South Florida,,,,,,,
+NC State,Georgia Tech,,,,,,,
+Syracuse,Pittsburgh,,,,,,,
+Northern Illinois,Western Michigan,,,,,,,
+Northwestern,UCLA,,,,,,,
+BYU,West Virginia,,,,,,,
+Houston,Arizona,,,,,,,
+Troy,Georgia State,,,,,,,
+Stanford,San José State,,,,,,,
+Western Michigan,Central Michigan,,,,,,,
+North Texas,South Florida,,,,,,,
+Iowa State,BYU,,,,,,,
+Liberty,Delaware,,,,,,,
+Sam Houston,Florida International,,,,,,,
+BYU,UCF,,,,,,,
+Ohio,Massachusetts,,,,,,,
+Louisville,Bowling Green,,,,,,,
+East Carolina,Tulsa,,,,,,,
+Toledo,Morgan State,,,,,,,
+Michigan,Purdue,,,,,,,
+Missouri,Alabama,,,,,,,
+Syracuse,Colgate,,,,,,,
+North Texas,Navy,,,,,,,
+San José State,Idaho,,,,,,,
+UCLA,Maryland,,,,,,,
+Oregon,Minnesota,,,,,,,
+California,Minnesota,,,,,,,
+Central Michigan,Wagner,,,,,,,
+TCU,Colorado,,,,,,,
+Kent State,Massachusetts,,,,,,,
+Missouri State,Western Kentucky,,,,,,,
+Minnesota,Michigan State,,,,,,,
+Middle Tennessee,Florida International,,,,,,,
+Georgia Southern,Coastal Carolina,,,,,,,
+Arkansas,Missouri,,,,,,,
+South Florida,Florida Atlantic,,,,,,,
+NC State,Florida State,,,,,,,
+Nebraska,Northwestern,,,,,,,
+Kentucky,Texas,,,,,,,
+Northwestern,Purdue,,,,,,,
+Arkansas,Auburn,,,,,,,
+Clemson,Furman,,,,,,,
+Cincinnati,Northwestern State,,,,,,,
+Miami (OH),Lindenwood,,,,,,,
+Texas Tech,BYU,,,,,,,
+Texas A&M,Samford,,,,,,,
+Buffalo,Eastern Michigan,,,,,,,
+Washington,Purdue,,,,,,,
+James Madison,Louisiana,,,,,,,
+Auburn,Kentucky,,,,,,,
+New Mexico State,Missouri State,,,,,,,
+Georgia Southern,Old Dominion,,,,,,,
+Indiana,UCLA,,,,,,,
+Eastern Michigan,Western Michigan,,,,,,,
+Western Michigan,Ball State,,,,,,,
+South Alabama,Southern Miss,,,,,,,
+Boston College,UConn,,,,,,,
+Louisiana Tech,Western Kentucky,,,,,,,
+Nevada,Middle Tennessee,,,,,,,
+Toledo,Northern Illinois,,,,,,,
+Indiana,Michigan State,,,,,,,
+Ball State,Eastern Michigan,,,,,,,
+Northwestern,Oregon,,,,,,,
+Utah State,Air Force,,,,,,,
+Penn State,Nebraska,,,,,,,
+Navy,Air Force,,,,,,,
+Virginia Tech,Old Dominion,,,,,,,
+UCLA,Washington,,,,,,,
+Temple,Tulane,,,,,,,
+UTEP,New Mexico State,,,,,,,
+Alabama,Eastern Illinois,,,,,,,
+Maryland,Towson,,,,,,,
+Navy,Florida Atlantic,,,,,,,
+Air Force,Boise State,,,,,,,
+Ohio,Northern Illinois,,,,,,,
+BYU,Utah,,,,,,,
+UNLV,New Mexico,,,,,,,
+Florida State,Pittsburgh,,,,,,,
+Purdue,Ohio State,,,,,,,
+Georgia State,James Madison,,,,,,,
+Louisiana,Texas State,,,,,,,
+South Carolina,Oklahoma,,,,,,,
+Liberty,James Madison,,,,,,,
+LSU,Western Kentucky,,,,,,,
+Texas Tech,UCF,,,,,,,
+San José State,Fresno State,,,,,,,
+TCU,Cincinnati,,,,,,,
+UAB,Army,,,,,,,
+Florida International,Jacksonville State,,,,,,,
+Memphis,Tulane,,,,,,,
+James Madison,Washington State,,,,,,,
+Minnesota,Nebraska,,,,,,,
+Fresno State,Southern,,,,,,,
+New Mexico,Nevada,,,,,,,
+Western Michigan,Toledo,,,,,,,
+Ball State,Akron,,,,,,,
+Minnesota,Wisconsin,,,,,,,
+Hawai'i,Utah State,,,,,,,
+Virginia Tech,Louisville,,,,,,,
+Wyoming,Utah,,,,,,,
+Middle Tennessee,Jacksonville State,,,,,,,
+Arkansas State,Georgia Southern,,,,,,,
+North Texas,UTSA,,,,,,,
+Northwestern,UL Monroe,,,,,,,
+Northern Illinois,Miami (OH),,,,,,,
+Akron,Kent State,,,,,,,
+UTEP,Jacksonville State,,,,,,,
+Ohio,Miami (OH),,,,,,,
+Rutgers,Iowa,,,,,,,
+Ole Miss,Arkansas,,,,,,,
+Minnesota,Rutgers,,,,,,,
+SMU,Stanford,,,,,,,
+Penn State,Northwestern,,,,,,,
+Kansas,West Virginia,,,,,,,
+Maryland,Indiana,,,,,,,
+Minnesota,Purdue,,,,,,,
+Purdue,Rutgers,,,,,,,
+Miami (OH),Ball State,,,,,,,
+Old Dominion,App State,,,,,,,
+LSU,Arkansas,,,,,,,
+Pittsburgh,Boston College,,,,,,,
+Mississippi State,Northern Illinois,,,,,,,
+Virginia,Washington State,,,,,,,
+Arizona State,Houston,,,,,,,
+Washington,Rutgers,,,,,,,
+Alabama,Wisconsin,,,,,,,
+Kennesaw State,Arkansas State,,,,,,,
+San José State,Air Force,,,,,,,
+UTSA,Rice,,,,,,,
+Georgia Southern,Georgia State,,,,,,,
+Michigan,Central Michigan,,,,,,,
+Florida State,Kent State,,,,,,,
+South Alabama,Louisiana,,,,,,,
+Florida International,Liberty,,,,,,,
+Vanderbilt,Georgia State,,,,,,,
+Arizona State,West Virginia,,,,,,,
+California,SMU,,,,,,,
+Arkansas State,Southern Miss,,,,,,,
+Kentucky,Eastern Michigan,,,,,,,
+BYU,TCU,,,,,,,
+Southern Miss,Troy,,,,,,,
+South Florida,UTSA,,,,,,,
+Kansas State,TCU,,,,,,,
+Northern Illinois,Kent State,,,,,,,
+UTEP,UL Monroe,,,,,,,
+Washington State,Toledo,,,,,,,
+Delaware,Western Kentucky,,,,,,,
+Nevada,San José State,,,,,,,
+UAB,Akron,,,,,,,
+Rice,UAB,,,,,,,
+Troy,South Alabama,,,,,,,
+Northwestern,Michigan,,,,,,,
+Nebraska,Houston Christian,,,,,,,
+Kentucky,Tennessee,,,,,,,
+Oklahoma,Kent State,,,,,,,
+New Mexico State,Sam Houston,,,,,,,
+Purdue,Indiana,,,,,,,
+Middle Tennessee,Marshall,,,,,,,
+Arkansas State,Iowa State,,,,,,,
+Temple,Oklahoma,,,,,,,
+Louisiana Tech,Liberty,,,,,,,
+UL Monroe,South Alabama,,,,,,,
+Temple,UTSA,,,,,,,
+Boise State,New Mexico,,,,,,,
+East Carolina,Army,,,,,,,
+Coastal Carolina,Marshall,,,,,,,
+California,Duke,,,,,,,
+Oregon State,Houston,,,,,,,
+Rice,Prairie View A&M,,,,,,,
+Bowling Green,Akron,,,,,,,
+Texas State,UL Monroe,,,,,,,
+Arizona,Oklahoma State,,,,,,,
+Houston,West Virginia,,,,,,,
+East Carolina,BYU,,,,,,,
+Clemson,Syracuse,,,,,,,
+California,North Carolina,,,,,,,
+Miami (OH),Toledo,,,,,,,
+Air Force,New Mexico,,,,,,,
+Illinois,Rutgers,,,,,,,
+Indiana,Indiana State,,,,,,,
+Duke,Virginia,,,,,,,
+Texas State,Nicholls,,,,,,,
+Sam Houston,Delaware,,,,,,,
+Cincinnati,BYU,,,,,,,
+San Diego State,Colorado State,,,,,,,
+Wyoming,UNLV,,,,,,,
+Kansas State,Colorado,,,,,,,
+Oklahoma,Auburn,,,,,,,
+Wake Forest,NC State,,,,,,,
+Baylor,Samford,,,,,,,
+Miami (OH),Western Michigan,,,,,,,
+Stanford,California,,,,,,,
+Illinois,USC,,,,,,,
+Nebraska,Michigan State,,,,,,,
+Auburn,Missouri,,,,,,,
+Texas,Sam Houston,,,,,,,
+SMU,Syracuse,,,,,,,
+UCLA,Nebraska,,,,,,,
+UAB,Memphis,,,,,,,
+Pittsburgh,Louisville,,,,,,,
+Mississippi State,Georgia,,,,,,,
+Jacksonville State,Kennesaw State,,,,,,,
+Delaware,UConn,,,,,,,
+Jacksonville State,Western Kentucky,,,,,,,
+Iowa,Minnesota,,,,,,,
+UCF,Kansas,,,,,,,
+Georgia Tech,Virginia Tech,,,,,,,
+Marshall,Georgia Southern,,,,,,,
+Hawai'i,San Diego State,,,,,,,
+Maryland,Washington,,,,,,,
+Maryland,Michigan,,,,,,,
+Wake Forest,SMU,,,,,,,
+Boise State,Fresno State,,,,,,,
+Kent State,Central Michigan,,,,,,,
+Jacksonville State,Delaware,,,,,,,
+Wake Forest,Delaware,,,,,,,
+Houston,TCU,,,,,,,
+Miami (OH),Eastern Michigan,,,,,,,
+Louisiana Tech,Southern Miss,,,,,,,
+Fresno State,Utah State,,,,,,,
+Kentucky,Tennessee Tech,,,,,,,
+Houston,Colorado,,,,,,,
+Coastal Carolina,UL Monroe,,,,,,,
+Wyoming,San José State,,,,,,,
+Florida International,Delaware,,,,,,,
+Colorado,Iowa State,,,,,,,
+Kansas State,UCF,,,,,,,
+App State,Arkansas State,,,,,,,
+Virginia,Florida State,,,,,,,
+Clemson,Duke,,,,,,,
+Syracuse,North Carolina,,,,,,,
+Old Dominion,Georgia State,,,,,,,
+Iowa,Michigan State,,,,,,,
+Texas State,James Madison,,,,,,,
+San Diego State,California,,,,,,,
+West Virginia,Texas Tech,,,,,,,
+Tulsa,Temple,,,,,,,
+Illinois,Maryland,,,,,,,
+East Carolina,Charlotte,,,,,,,
+Fresno State,Nevada,,,,,,,
+Tennessee,Vanderbilt,,,,,,,
+UConn,Ball State,,,,,,,
+Boise State,UNLV,,,,,,,
+Buffalo,Akron,,,,,,,
+Colorado,Arizona,,,,,,,
+Jacksonville State,Murray State,,,,,,,
+Kent State,Buffalo,,,,,,,
+Louisiana,Marshall,,,,,,,
+Fresno State,Wyoming,,,,,,,
+Tulane,Army,,,,,,,
+Boise State,Colorado State,,,,,,,
+Texas Tech,Oklahoma State,,,,,,,
+Ohio,Bowling Green,,,,,,,
+Temple,Navy,,,,,,,
+Army,Tulsa,,,,,,,
+Liberty,Kennesaw State,,,,,,,
+Iowa State,Arizona State,,,,,,,
+Notre Dame,Navy,,,,,,,
+Georgia,Kentucky,,,,,,,
+Stanford,Florida State,,,,,,,
+Texas A&M,Mississippi State,,,,,,,
+Louisiana,UL Monroe,,,,,,,
+Coastal Carolina,Georgia State,,,,,,,
+Oklahoma,Ole Miss,,,,,,,
+Akron,Massachusetts,,,,,,,
+Western Kentucky,Nevada,,,,,,,
+Iowa,Oregon,,,,,,,
+Army,Temple,,,,,,,
+West Virginia,Colorado,,,,,,,
+Eastern Michigan,Bowling Green,,,,,,,
+Pittsburgh,NC State,,,,,,,
+Georgia Tech,Syracuse,,,,,,,
+Missouri State,Louisiana Tech,,,,,,,
+Akron,Duquesne,,,,,,,
+Colorado State,Air Force,,,,,,,
+UConn,UAB,,,,,,,
+Vanderbilt,Utah State,,,,,,,
+Missouri,Texas A&M,,,,,,,
+Tulane,Florida Atlantic,,,,,,,
+Charlotte,Rice,,,,,,,
+Liberty,New Mexico State,,,,,,,
+Michigan,Wisconsin,,,,,,,
+Missouri,Massachusetts,,,,,,,
+App State,Coastal Carolina,,,,,,,
+Kennesaw State,UTEP,,,,,,,
+Utah State,Nevada,,,,,,,
+Boston College,Georgia Tech,,,,,,,
+Florida Atlantic,Memphis,,,,,,,
+Stanford,Boston College,,,,,,,
+Arkansas,Texas A&M,,,,,,,
+Arizona,Kansas State,,,,,,,
+Georgia Tech,Pittsburgh,,,,,,,
+South Florida,South Carolina State,,,,,,,
+Wisconsin,Maryland,,,,,,,
+UTSA,East Carolina,,,,,,,
+Mississippi State,Texas,,,,,,,
+Houston,Texas Tech,,,,,,,
+Bowling Green,Toledo,,,,,,,
+Virginia,Virginia Tech,,,,,,,
+Central Michigan,Toledo,,,,,,,
+Virginia,Wake Forest,,,,,,,
+UConn,Air Force,,,,,,,
+North Texas,Washington State,,,,,,,
+Utah State,San José State,,,,,,,
+Tulane,Charlotte,,,,,,,
+Rutgers,Maryland,,,,,,,
+Tulsa,Tulane,,,,,,,
+Miami (OH),UNLV,,,,,,,
+USC,Michigan State,,,,,,,
+Michigan State,UCLA,,,,,,,
+Central Michigan,Eastern Michigan,,,,,,,
+Memphis,Navy,,,,,,,
+UConn,Duke,,,,,,,
+Michigan State,Youngstown State,,,,,,,
+Mississippi State,Tennessee,,,,,,,
+Arizona State,Texas State,,,,,,,
+Georgia Southern,Jacksonville State,,,,,,,
+Delaware,Louisiana Tech,,,,,,,
+Buffalo,Miami (OH),,,,,,,
+Oklahoma State,Houston,,,,,,,
+Stanford,Notre Dame,,,,,,,
+Pittsburgh,Notre Dame,,,,,,,
+Air Force,Army,,,,,,,
+Virginia Tech,Wofford,,,,,,,
+UL Monroe,Arkansas State,,,,,,,
+Florida,Florida State,,,,,,,
+Vanderbilt,Kentucky,,,,,,,
+Massachusetts,Buffalo,,,,,,,
+Wisconsin,Ohio State,,,,,,,
+Middle Tennessee,Sam Houston,,,,,,,
+TCU,SMU,,,,,,,
+Troy,Memphis,,,,,,,
+Old Dominion,Troy,,,,,,,
+Colorado State,UTSA,,,,,,,
+Washington State,Louisiana Tech,,,,,,,
+SMU,Louisville,,,,,,,
+Texas State,Troy,,,,,,,
+San José State,Hawai'i,,,,,,,
+Temple,East Carolina,,,,,,,
+San José State,New Mexico,,,,,,,
+Virginia Tech,Miami,,,,,,,
+Louisiana Tech,Sam Houston,,,,,,,
+Coastal Carolina,James Madison,,,,,,,
+Ole Miss,Washington State,,,,,,,
+Tennessee,UAB,,,,,,,
+Navy,South Florida,,,,,,,
+Notre Dame,NC State,,,,,,,
+Hawai'i,Portland State,,,,,,,
+LSU,South Carolina,,,,,,,
+Iowa,Massachusetts,,,,,,,
+Arizona State,Arizona,,,,,,,
+Ball State,New Hampshire,,,,,,,
+Louisville,Boston College,,,,,,,
+Ohio State,UCLA,,,,,,,
+Georgia Southern,Southern Miss,,,,,,,
+Liberty,Missouri State,,,,,,,
+New Mexico State,Middle Tennessee,,,,,,,
+North Texas,South Alabama,,,,,,,
+Old Dominion,Liberty,,,,,,,
+Baylor,UCF,,,,,,,
+Duke,Wake Forest,,,,,,,
+Cincinnati,Baylor,,,,,,,
+Ball State,Ohio,,,,,,,
+Mississippi State,Alcorn State,,,,,,,
+Baylor,Arizona State,,,,,,,
+Michigan State,Penn State,,,,,,,
+Ole Miss,The Citadel,,,,,,,
+Western Michigan,Rhode Island,,,,,,,
+Georgia Tech,Temple,,,,,,,
+James Madison,App State,,,,,,,
+New Mexico State,Kennesaw State,,,,,,,
+Troy,Louisiana,,,,,,,
+Army,North Texas,,,,,,,
+Louisville,Kentucky,,,,,,,
+Wake Forest,Georgia Tech,,,,,,,
+South Carolina,Kentucky,,,,,,,
+Navy,Rice,,,,,,,
+Tennessee,Oklahoma,,,,,,,
+Northern Illinois,San Diego State,,,,,,,
+Charlotte,North Texas,,,,,,,
+Miami,Stanford,,,,,,,
+Kennesaw State,Missouri State,,,,,,,
+California,Virginia,,,,,,,
+Wyoming,Nevada,,,,,,,
+Massachusetts,Western Michigan,,,,,,,
+Arizona State,TCU,,,,,,,
+UTEP,Liberty,,,,,,,
+Penn State,Villanova,,,,,,,
+Northwestern,Minnesota,,,,,,,
+Ole Miss,South Carolina,,,,,,,
+Charlotte,UTSA,,,,,,,
+Toledo,Ball State,,,,,,,
+Ball State,Kent State,,,,,,,
+Missouri,South Carolina,,,,,,,
+Missouri,Mississippi State,,,,,,,
+North Texas,Temple,,,,,,,
+Western Michigan,Ohio,,,,,,,
+Fresno State,San Diego State,,,,,,,
+Rutgers,Oregon,,,,,,,
+Arkansas,Mississippi State,,,,,,,
+Akron,Miami (OH),,,,,,,
+Rice,UConn,,,,,,,
+Tennessee,Arkansas,,,,,,,
+TCU,Iowa State,,,,,,,
+Auburn,Mercer,,,,,,,
+UNLV,Utah State,,,,,,,
+Georgia State,Murray State,,,,,,,
+Ole Miss,Tulane,,,,,,,
+Sam Houston,UTEP,,,,,,,
+Bowling Green,Liberty,,,,,,,
+Oklahoma State,Baylor,,,,,,,
+South Carolina,Vanderbilt,,,,,,,
+Oregon State,Lafayette,,,,,,,
+Miami,South Florida,,,,,,,
+San Diego State,Boise State,,,,,,,
+Delaware,Middle Tennessee,,,,,,,
+Kennesaw State,Merrimack,,,,,,,
+UTSA,Army,,,,,,,
+Florida Atlantic,East Carolina,,,,,,,
+Arkansas State,Texas State,,,,,,,
+Washington,Illinois,,,,,,,
+Southern Miss,Texas State,,,,,,,
+Ole Miss,Florida,,,,,,,
+Missouri,Louisiana,,,,,,,
+East Carolina,Memphis,,,,,,,
+Syracuse,Boston College,,,,,,,
+USC,UCLA,,,,,,,
+Florida Atlantic,UConn,,,,,,,
+Marshall,Eastern Kentucky,,,,,,,
+Boston College,Notre Dame,,,,,,,
+Cincinnati,UCF,,,,,,,
+Texas A&M,Auburn,,,,,,,
+Colorado State,UNLV,,,,,,,
+Miami,Syracuse,,,,,,,
+Notre Dame,Syracuse,,,,,,,
+Ohio State,Rutgers,,,,,,,
+Toledo,Kent State,,,,,,,
+Iowa State,Kansas,,,,,,,
+Cincinnati,Iowa State,,,,,,,
+Tulsa,Navy,,,,,,,
+Georgia State,South Alabama,,,,,,,
+Charlotte,Temple,,,,,,,
+UCF,Houston,,,,,,,
+Kennesaw State,Middle Tennessee,,,,,,,
+Buffalo,UConn,,,,,,,
+South Alabama,Coastal Carolina,,,,,,,
+Kansas,Oklahoma State,,,,,,,
+Texas Tech,Oregon State,,,,,,,
+Oklahoma,LSU,,,,,,,
+Maryland,Nebraska,,,,,,,
+Tulsa,UAB,,,,,,,
+UTSA,Tulane,,,,,,,
+Vanderbilt,Missouri,,,,,,,
+Texas A&M,South Carolina,,,,,,,
+Tulane,Duke,,,,,,,
+Florida International,Florida Atlantic,,,,,,,
+Southern Miss,App State,,,,,,,
+Louisville,California,,,,,,,
+Memphis,Arkansas,,,,,,,
+West Virginia,TCU,,,,,,,
+Tulsa,Oregon State,,,,,,,
+Air Force,Wyoming,,,,,,,
+Coastal Carolina,East Carolina,,,,,,,
+Texas A&M,Florida,,,,,,,
+Kentucky,Florida,,,,,,,
+Bowling Green,Buffalo,,,,,,,
+Massachusetts,Northern Illinois,,,,,,,
+Marshall,Old Dominion,,,,,,,
+Oklahoma State,Tulsa,,,,,,,
+Florida Atlantic,UAB,,,,,,,
+Oregon,Wisconsin,,,,,,,
+Vanderbilt,LSU,,,,,,,
+Syracuse,Duke,,,,,,,
+Arizona,Kansas,,,,,,,
+UL Monroe,Troy,,,,,,,
+South Florida,Rice,,,,,,,
+Rice,Memphis,,,,,,,
+Arkansas State,Louisiana,,,,,,,
+Central Michigan,Buffalo,,,,,,,
+Notre Dame,Purdue,,,,,,,
+Colorado State,Hawai'i,,,,,,,
+San Diego State,Wyoming,,,,,,,
+Texas,Arkansas,,,,,,,
+UNLV,Hawai'i,,,,,,,
+App State,Marshall,,,,,,,
+Eastern Michigan,Northern Illinois,,,,,,,
+Northern Illinois,Ball State,,,,,,,
+Miami,NC State,,,,,,,
+Texas,UTEP,,,,,,,
+Rice,North Texas,,,,,,,
+Louisiana,Southern Miss,,,,,,,
+New Mexico,Utah State,,,,,,,
+Troy,Arkansas State,,,,,,,
+Arizona,Baylor,,,,,,,
+Virginia,Stanford,,,,,,,
+Pittsburgh,Miami,,,,,,,
+New Mexico,San Diego State,,,,,,,
+Georgia State,App State,,,,,,,
+Delaware,UTEP,,,,,,,
+Wisconsin,Illinois,,,,,,,
+Wake Forest,North Carolina,,,,,,,
+Old Dominion,Coastal Carolina,,,,,,,
+Massachusetts,Bowling Green,,,,,,,
+Kent State,Bowling Green,,,,,,,
+New Mexico,New Mexico State,,,,,,,
+Florida International,Kennesaw State,,,,,,,
+Florida,Mississippi State,,,,,,,
+Southern Miss,UL Monroe,,,,,,,
+Vanderbilt,Auburn,,,,,,,
+Rice,Florida Atlantic,,,,,,,
+North Carolina,Stanford,,,,,,,
+James Madison,Old Dominion,,,,,,,
+Virginia,William & Mary,,,,,,,
+Hawai'i,Fresno State,,,,,,,
+UCF,West Virginia,,,,,,,

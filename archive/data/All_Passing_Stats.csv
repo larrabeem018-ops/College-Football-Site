@@ -1,0 +1,970 @@
+,season,playerId,player,position,team,conference,category,ATT,COMPLETIONS,INT,PCT,TD,YDS,YPA,week
+0,2025,4426688,Kaiden Bennett,QB,Delaware State,MEAC,passing,50,28,1,0.560,1,306,6.1,1
+1,2025,4426847,Zach Calzada,QB,Kentucky,SEC,passing,53,25,1,0.472,0,234,4.4,1
+2,2025,4427191,Dequan Finn,QB,Miami (OH),Mid-American,passing,40,23,3,0.575,0,334,8.4,1
+3,2025,4427313,Ta'Quan Roberson,QB,Buffalo,Mid-American,passing,40,22,1,0.550,2,240,6.0,1
+4,2025,4427455,Cade McNamara,QB,East Tennessee State,Southern,passing,35,23,1,0.657,2,231,6.6,1
+5,2025,4427966,Maverick McIvor,QB,Western Kentucky,Conference USA,passing,120,80,1,0.667,10,941,7.8,1
+6,2025,4428993,Haynes King,QB,Georgia Tech,ACC,passing,20,13,1,0.650,0,143,7.2,1
+7,2025,4429079,Luke Doty,WR,South Carolina,SEC,passing,1,0,0,0.000,0,0,0.0,1
+8,2025,4429088,Drew Pyne,QB,Bowling Green,Mid-American,passing,54,41,0,0.759,1,383,7.1,1
+9,2025,4429149,Brendon Lewis,QB,Memphis,American Athletic,passing,48,38,1,0.792,1,395,8.2,1
+10,2025,4429179,Aidan Bouman,QB,South Dakota,MVFC,passing,29,15,2,0.517,1,126,4.3,1
+11,2025,4429191,Deuce Hogan,QB,Nicholls,Southland,passing,88,53,2,0.602,3,519,5.9,1
+12,2025,4429463,Jacolby Criswell,QB,East Tennessee State,Southern,passing,20,12,0,0.600,0,110,5.5,1
+13,2025,4429582,Joe Fagnano,QB,UConn,FBS Independents,passing,68,42,0,0.618,3,519,7.6,1
+14,2025,4429801,Tucker Gleason,QB,Toledo,Mid-American,passing,52,30,1,0.577,3,425,8.2,1
+15,2025,4430836,Chubba Purdy,QB,Nevada,Mountain West,passing,36,19,3,0.528,0,241,6.7,1
+16,2025,4430841,Carson Beck,QB,Miami,ACC,passing,55,42,0,0.764,4,472,8.6,1
+17,2025,4431018,Michael Chandler II,QB,Campbell,CAA,passing,6,2,0,0.333,0,6,1.0,1
+18,2025,4431046,EJ Core,TE,Delaware State,MEAC,passing,1,1,0,1.000,0,-3,-3.0,1
+19,2025,4431091,Ben Finley,QB,Akron,Mid-American,passing,59,23,1,0.390,0,193,3.3,1
+20,2025,4431114,Ben Gulbranson,QB,Stanford,ACC,passing,62,32,3,0.516,0,251,4.0,1
+21,2025,4431325,Taylen Green,QB,Arkansas,SEC,passing,57,41,2,0.719,10,561,9.8,1
+22,2025,4431375,Ken Seals,QB,TCU,Big 12,passing,1,0,0,0.000,0,0,0.0,1
+23,2025,4431387,Evan Simon,QB,Temple,American Athletic,passing,35,27,0,0.771,9,422,12.1,1
+24,2025,4431416,Kiael Kelly,QB,Ball State,Mid-American,passing,32,20,0,0.625,0,158,4.9,1
+25,2025,4431465,Behren Morton,QB,Texas Tech,Big 12,passing,46,34,0,0.739,7,459,10.0,1
+26,2025,4431580,Miller Moss,QB,Louisville,ACC,passing,48,30,2,0.625,2,374,7.8,1
+27,2025,4431633,Will Crowder,QB,Troy,Sun Belt,passing,55,33,3,0.600,4,367,6.7,1
+28,2025,4431948,TJ Finley,QB,Georgia State,Sun Belt,passing,29,21,1,0.724,0,201,6.9,1
+29,2025,4432612,Christian Veilleux,QB,Georgia State,Sun Belt,passing,11,4,1,0.364,1,52,4.7,1
+30,2025,4432691,Carlos Del Rio-Wilson,QB,Marshall,Sun Belt,passing,3,2,0,0.667,0,10,3.3,1
+31,2025,4432722,Athan Kaliakmanis,QB,Rutgers,Big Ten,passing,59,44,0,0.746,6,511,8.7,1
+32,2025,4432759,Sawyer Robertson,QB,Baylor,Big 12,passing,98,61,0,0.622,7,859,8.8,1
+33,2025,4432767,Preston Stone,QB,Northwestern,Big Ten,passing,65,40,4,0.615,3,406,6.2,1
+34,2025,4432803,Kaidon Salter,QB,Colorado,Big 12,passing,44,30,0,0.682,1,261,5.9,1
+35,2025,4433824,Hank Gibbs,TE,Northern Colorado,Big Sky,passing,1,1,0,1.000,0,30,30.0,1
+36,2025,4433829,Mitch Griffis,QB,Texas Tech,Big 12,passing,5,4,0,0.800,1,40,8.0,1
+37,2025,4433932,Mike Wright,QB,East Carolina,American Athletic,passing,5,3,0,0.600,0,13,2.6,1
+38,2025,4433969,Timmy McClain,QB,Bethune-Cookman,SWAC,passing,44,31,0,0.705,0,250,5.7,1
+39,2025,4565180,Peter Costelli,QB,Northern Colorado,Big Sky,passing,12,6,0,0.500,1,92,7.7,1
+40,2025,4565187,Jalen Kitna,QB,UAB,American Athletic,passing,55,40,2,0.727,4,551,10.0,1
+41,2025,4565189,Cam Ransom,QB,Bethune-Cookman,SWAC,passing,12,6,1,0.500,0,90,7.5,1
+42,2025,4565315,Blake Shapen,QB,Mississippi State,SEC,passing,67,45,1,0.672,4,549,8.2,1
+43,2025,4565355,Dexter Williams II,QB,Kennesaw State,Conference USA,passing,35,13,0,0.371,0,148,4.2,1
+44,2025,4566381,Casey Case,QB,Stony Brook,CAA,passing,10,4,0,0.400,0,25,2.5,1
+45,2025,4567707,Grayson James,QB,Boston College,ACC,passing,5,5,0,1.000,1,190,38.0,1
+46,2025,4567747,Garrett Nussmeier,QB,LSU,SEC,passing,79,54,1,0.684,2,469,5.9,1
+47,2025,4568336,Zach Gibson,QB,Florida Atlantic,American Athletic,passing,15,7,2,0.467,0,82,5.5,1
+48,2025,4568411,Cornelious Brown,QB,Alabama A&M,SWAC,passing,53,34,0,0.642,3,390,7.4,1
+49,2025,4569535,Jacob Clark,QB,Missouri State,Conference USA,passing,55,37,3,0.673,4,506,9.2,1
+50,2025,4570048,Michael Johnson Jr.,QB,Akron,Mid-American,passing,2,2,0,1.000,0,8,4.0,1
+51,2025,4576189,Aveon Smith,QB,Merrimack,FCS Independents,passing,2,1,1,0.500,0,16,8.0,1
+52,2025,4577962,Camden Orth,QB,Chattanooga,Southern,passing,64,34,3,0.531,2,363,5.7,1
+53,2025,4587721,Daniel Greek,QB,Tarleton State,UAC,passing,2,1,0,0.500,1,12,6.0,1
+54,2025,4592531,Ari Patu,QB,North Alabama,UAC,passing,38,16,1,0.421,0,143,3.8,1
+55,2025,4592532,Billy Edwards,QB,Wisconsin,Big Ten,passing,13,6,0,0.462,0,68,5.2,1
+56,2025,4596472,Jalon Daniels,QB,Kansas,Big 12,passing,75,54,2,0.720,9,679,9.1,1
+57,2025,4597247,Austin Smith,QB,Austin Peay,UAC,passing,7,3,0,0.429,0,51,7.3,1
+58,2025,4597679,Luke Altmyer,QB,Illinois,Big Ten,passing,52,39,0,0.750,6,513,9.9,1
+59,2025,4600403,Braylon Braxton,QB,Southern Miss,Sun Belt,passing,69,46,1,0.667,5,413,6.0,1
+60,2025,4602923,Jaylen Henderson,QB,West Virginia,Big 12,passing,4,0,0,0.000,0,0,0.0,1
+61,2025,4602968,Nate Hampton,QB,Gardner-Webb,Big South-OVC,passing,39,18,0,0.462,3,308,7.9,1
+62,2025,4605998,Logan Fife,QB,New Mexico State,Conference USA,passing,75,41,1,0.547,3,475,6.3,1
+63,2025,4607891,Ryan Stubblefield,QB,South Carolina State,MEAC,passing,31,18,0,0.581,2,214,6.9,1
+64,2025,4610131,Parker Navarro,QB,Ohio,Mid-American,passing,62,43,3,0.694,4,486,7.8,1
+65,2025,4612078,JaCobian Morgan,QB,Jackson State,SWAC,passing,57,29,1,0.509,0,274,4.8,1
+66,2025,4618083,Ethan Hampton,QB,Illinois,Big Ten,passing,1,1,0,1.000,0,14,14.0,1
+67,2025,4678010,Kyron Drones,QB,Virginia Tech,ACC,passing,64,32,2,0.500,1,355,5.5,1
+68,2025,4682518,Nick Vattiato,QB,Middle Tennessee,Conference USA,passing,67,35,1,0.522,3,301,4.5,1
+69,2025,4682642,D.C. Tabscott,QB,North Alabama,UAC,passing,1,0,0,0.000,0,0,0.0,1
+70,2025,4683012,Eddie Lee Marburger,QB,UT Rio Grande Valley,Southland,passing,50,37,0,0.740,6,628,12.6,1
+71,2025,4683058,Brendan Sullivan,QB,Tulane,American Athletic,passing,3,3,0,1.000,0,40,13.3,1
+72,2025,4683291,Joey Labas,QB,Central Michigan,Mid-American,passing,24,16,0,0.667,1,145,6.0,1
+73,2025,4683311,Sam Vidlak,QB,Stephen F. Austin,Southland,passing,64,37,2,0.578,0,297,4.6,1
+74,2025,4683425,Glynn Johnson Jr,WR,New Mexico State,Conference USA,passing,1,1,0,1.000,0,4,4.0,1
+75,2025,4683471,Brady Olson,QB,Central Connecticut,NEC,passing,40,23,0,0.575,2,365,9.1,1
+76,2025,4684003,Tahj Bullock,QB,Colorado State,Mountain West,passing,1,0,0,0.000,0,0,0.0,1
+77,2025,4684502,Justin Lamson,QB,Montana State,Big Sky,passing,59,41,0,0.695,0,321,5.4,1
+78,2025,4685252,Henry Belin IV,QB,Duke,ACC,passing,5,2,0,0.400,0,22,4.4,1
+79,2025,4685291,Jacurri Brown,QB,UCF,Big 12,passing,3,2,0,0.667,0,15,5.0,1
+80,2025,4685309,Braden Davis,QB,Hampton,CAA,passing,16,13,0,0.813,0,92,5.8,1
+81,2025,4685311,Jayden Denegal,QB,San Diego State,Mountain West,passing,55,28,0,0.509,2,340,6.2,1
+82,2025,4685334,A.J. Duffy,QB,New Haven,NEC,passing,90,49,2,0.544,3,560,6.2,1
+83,2025,4685345,JC French,QB,Georgia Southern,Sun Belt,passing,63,36,2,0.571,4,337,5.3,1
+84,2025,4685391,Walker Howard,QB,Louisiana,Sun Belt,passing,22,10,1,0.455,0,88,4.0,1
+85,2025,4685401,Josh Hoover,QB,TCU,Big 12,passing,36,27,1,0.750,2,284,7.9,1
+86,2025,4685413,Cade Klubnik,QB,Clemson,ACC,passing,62,37,2,0.597,2,426,6.9,1
+87,2025,4685440,Kyle Lowe,QB,SE Louisiana,Southland,passing,17,10,1,0.588,0,68,4.0,1
+88,2025,4685454,Jayden Maiava,QB,USC,Big Ten,passing,42,31,0,0.738,6,707,16.8,1
+89,2025,4685459,Nicco Marchiol,QB,West Virginia,Big 12,passing,46,32,1,0.696,1,402,8.7,1
+90,2025,4685488,MJ Morris,QB,Coastal Carolina,Sun Belt,passing,58,33,4,0.569,0,265,4.6,1
+91,2025,4685495,Alex Orji,QB,UNLV,Mountain West,passing,3,3,0,1.000,0,37,12.3,1
+92,2025,4685497,Maalik Murphy,QB,Oregon State,Pac-12,passing,81,52,3,0.642,4,615,7.6,1
+93,2025,4685522,Ty Simpson,QB,Alabama,SEC,passing,60,40,0,0.667,5,480,8.0,1
+94,2025,4685542,Jayden Sauray,QB,Delaware State,MEAC,passing,5,3,1,0.600,0,23,4.6,1
+95,2025,4685574,Conner Weigman,QB,Houston,Big 12,passing,46,30,0,0.652,4,347,7.5,1
+96,2025,4685578,Gunner Stockton,QB,Georgia,SEC,passing,58,40,0,0.690,2,417,7.2,1
+97,2025,4685691,Brady Allen,QB,Louisville,ACC,passing,9,6,1,0.667,1,69,7.7,1
+98,2025,4685694,Steven Angeli,QB,Syracuse,ACC,passing,93,56,2,0.602,3,691,7.4,1
+99,2025,4685696,Beau Pribula,QB,Missouri,SEC,passing,67,53,0,0.791,5,617,9.2,1
+100,2025,4685697,Zion Turner,QB,Marshall,Sun Belt,passing,31,19,1,0.613,0,183,5.9,1
+101,2025,4685698,Destin Wade,QB,North Alabama,UAC,passing,31,13,0,0.419,2,122,3.9,1
+102,2025,4685740,Max Johnson,QB,North Carolina,ACC,passing,11,9,0,0.818,1,103,9.4,1
+103,2025,4686514,Bryce Bailey,WR,UT Martin,Big South-OVC,passing,1,1,0,1.000,1,39,39.0,1
+104,2025,4686848,Andy Peters,QB,St. Thomas (MN),Pioneer,passing,47,32,0,0.681,5,436,9.3,1
+105,2025,4688418,Michael Briscoe,WR,Cal Poly,Big Sky,passing,1,0,0,0.000,0,0,0.0,1
+106,2025,4688540,Treyson Bourguet,QB,BYU,Big 12,passing,2,1,0,0.500,0,8,4.0,1
+107,2025,4689855,Isaiah Alston,WR,James Madison,Sun Belt,passing,1,0,0,0.000,0,0,0.0,1
+108,2025,4690158,Noah Kim,QB,Eastern Michigan,Mid-American,passing,63,41,0,0.651,3,437,6.9,1
+109,2025,4690811,Savion Red,RB,Sacramento State,Big Sky,passing,1,1,0,1.000,0,28,28.0,1
+110,2025,4691272,Stone Earle,QB,Abilene Christian,UAC,passing,53,36,1,0.679,0,379,7.2,1
+111,2025,4691966,Maddox Kopp,QB,Houston Christian,Southland,passing,5,4,0,0.800,1,45,9.0,1
+112,2025,4692052,Carter Peevy,QB,Maine,CAA,passing,58,26,2,0.448,2,229,3.9,1
+113,2025,4692530,Chandler Morris,QB,Virginia,ACC,passing,70,49,1,0.700,3,521,7.4,1
+114,2025,4694149,Walker Eget,QB,San José State,Mountain West,passing,85,45,3,0.529,2,496,5.8,1
+115,2025,4695113,Otto Kuhns,QB,Norfolk State,MEAC,passing,47,32,0,0.681,2,392,8.3,1
+116,2025,4695125,Cooper Willman,WR,Eastern Illinois,Big South-OVC,passing,1,0,0,0.000,0,0,0.0,1
+117,2025,4695272,Ryan Leavy,P,East Carolina,American Athletic,passing,1,1,0,1.000,0,17,17.0,1
+118,2025,4695400,Mark Gronowski,QB,Iowa,Big Ten,passing,39,21,1,0.538,1,127,3.3,1
+119,2025,4695600,Bryson Barnes,QB,Utah State,Mountain West,passing,58,34,0,0.586,3,402,6.9,1
+120,2025,4695709,Devin Brown,QB,California,ACC,passing,2,2,0,1.000,1,27,13.5,1
+121,2025,4695784,Carson Camp,QB,SE Louisiana,Southland,passing,47,29,2,0.617,1,295,6.3,1
+122,2025,4695904,Matthew Sluka,QB,James Madison,Sun Belt,passing,9,6,2,0.667,1,50,5.6,1
+123,2025,4696065,Derek Robertson,QB,Monmouth,CAA,passing,88,63,5,0.716,10,833,9.5,1
+124,2025,4696880,Walker Harris,QB,North Carolina Central,MEAC,passing,86,48,3,0.558,2,460,5.3,1
+125,2025,4697094,DJ Williams,QB,Southern Illinois,MVFC,passing,57,37,0,0.649,4,429,7.5,1
+126,2025,4697131,Bronson Barron,QB,Southern Utah,UAC,passing,63,41,0,0.651,6,532,8.4,1
+127,2025,4697512,Robby Ashford,QB,Wake Forest,ACC,passing,50,33,1,0.660,1,445,8.9,1
+128,2025,4697625,Victor Gabalis,QB,Tarleton State,UAC,passing,81,50,0,0.617,8,599,7.4,1
+129,2025,4698250,Grant Harper,QB,UC Davis,Big Sky,passing,8,3,0,0.375,0,39,4.9,1
+130,2025,4698302,CJ Jordan,QB,Portland State,Big Sky,passing,14,8,0,0.571,0,58,4.1,1
+131,2025,4700135,Cam Fancher,QB,UCF,Big 12,passing,9,5,0,0.556,0,32,3.6,1
+132,2025,4700149,Rashad Rochelle,WR,Indiana State,MVFC,passing,1,1,0,1.000,0,23,23.0,1
+133,2025,4701075,Caleb Burke,WR,New Hampshire,CAA,passing,1,1,0,1.000,1,53,53.0,1
+134,2025,4702829,Braedyn Locke,QB,Arizona,Big 12,passing,4,2,0,0.500,0,11,2.8,1
+135,2025,4708067,Kai Horton,QB,Washington,Big Ten,passing,5,3,0,0.600,0,50,10.0,1
+136,2025,4709012,Jase Bauer,QB,UT Martin,Big South-OVC,passing,49,32,1,0.653,1,343,7.0,1
+137,2025,4710001,CJ Montes,QB,Kent State,Mid-American,passing,19,10,1,0.526,1,140,7.4,1
+138,2025,4711410,Brett Griffis,QB,Central Connecticut,NEC,passing,4,1,0,0.250,0,11,2.8,1
+139,2025,4714009,Myles Burkett,QB,Eastern Kentucky,UAC,passing,33,18,1,0.545,0,155,4.7,1
+140,2025,4714771,Drew Allar,QB,Penn State,Big Ten,passing,59,41,0,0.695,3,417,7.1,1
+141,2025,4715345,Devin Farrell,QB,Rhode Island,CAA,passing,62,35,0,0.565,4,591,9.5,1
+142,2025,4725514,Reggie Branch,RB,Missouri State,Conference USA,passing,1,1,0,1.000,0,29,29.0,1
+143,2025,4755664,Nick Evers,QB,UConn,FBS Independents,passing,11,8,0,0.727,1,83,7.5,1
+144,2025,4773919,Thomas Castellanos,QB,Florida State,ACC,passing,25,17,0,0.680,3,389,15.6,1
+145,2025,4775136,Owen McCown,QB,UTSA,American Athletic,passing,75,42,0,0.560,2,340,4.5,1
+146,2025,4777154,Tyler Riddell,QB,Duquesne,NEC,passing,43,29,0,0.674,6,393,9.1,1
+147,2025,4795295,Katin Houser,QB,East Carolina,American Athletic,passing,79,55,0,0.696,3,680,8.6,1
+148,2025,4801299,Rocco Becht,QB,Iowa State,Big 12,passing,75,51,0,0.680,6,595,7.9,1
+149,2025,4801301,Tevin Carter,QB,Prairie View A&M,SWAC,passing,10,6,0,0.600,0,48,4.8,1
+150,2025,4801302,Julian Calvez,QB,UT Martin,Big South-OVC,passing,3,1,0,0.333,0,22,7.3,1
+151,2025,4801306,Conner Harrell,QB,Charlotte,American Athletic,passing,53,30,1,0.566,1,282,5.3,1
+152,2025,4801307,Tayven Jackson,QB,UCF,Big 12,passing,45,29,0,0.644,2,471,10.5,1
+153,2025,4801717,Noah Fifita,QB,Arizona,Big 12,passing,45,30,0,0.667,6,534,11.9,1
+154,2025,4804885,Brandon Rose,QB,Massachusetts,Mid-American,passing,44,27,1,0.614,0,217,4.9,1
+155,2025,4812381,Gunnar Smith,QB,Fordham,Patriot,passing,88,47,2,0.534,3,534,6.1,1
+156,2025,4819250,AJ Bianco,QB,Nevada,Mountain West,passing,6,4,0,0.667,1,28,4.7,1
+157,2025,4826635,Jaxon Dailey,QB,Northern Iowa,MVFC,passing,1,1,0,1.000,0,4,4.0,1
+158,2025,4832830,Joshua Wood,QB,Idaho,Big Sky,passing,45,32,1,0.711,3,314,7.0,1
+159,2025,4832918,Ethan Vasko,QB,Liberty,Conference USA,passing,62,38,1,0.613,5,532,8.6,1
+160,2025,4833597,Brayden Fowler-Nicolosi,QB,Colorado State,Mountain West,passing,57,30,2,0.526,1,312,5.5,1
+161,2025,4833635,Landy Lyddy,QB,Southern Miss,Sun Belt,passing,1,1,0,1.000,0,11,11.0,1
+162,2025,4836476,Davin Wydner,QB,West Georgia,UAC,passing,55,25,4,0.455,2,272,4.9,1
+163,2025,4837195,Luca Stanzani,QB,Long Island University,NEC,passing,21,13,0,0.619,0,171,8.1,1
+164,2025,4837248,Fernando Mendoza,QB,Indiana,Big Ten,passing,56,36,0,0.643,4,438,7.8,1
+165,2025,4838536,Tyler Hughes,QB,William & Mary,CAA,passing,50,32,1,0.640,3,337,6.7,1
+166,2025,4869553,Bishop Davenport,QB,South Alabama,Sun Belt,passing,38,29,0,0.763,4,397,10.4,1
+167,2025,4869748,Zavion Thomas,WR,LSU,SEC,passing,1,1,0,1.000,0,16,16.0,1
+168,2025,4869817,Cole Pennington,QB,Gardner-Webb,Big South-OVC,passing,24,15,1,0.625,1,193,8.0,1
+169,2025,4869991,Caden Veltkamp,QB,Florida Atlantic,American Athletic,passing,88,57,4,0.648,6,537,6.1,1
+170,2025,4870513,Maddux Madsen,QB,Boise State,Mountain West,passing,72,41,0,0.569,3,532,7.4,1
+171,2025,4870518,Zeon Chriss,QB,Houston,Big 12,passing,3,1,0,0.333,0,-7,-2.3,1
+172,2025,4870607,Jackson Arnold,QB,Auburn,SEC,passing,45,35,0,0.778,3,359,8.0,1
+173,2025,4870786,Marco Lainez,QB,Elon,CAA,passing,7,2,0,0.286,0,22,3.1,1
+174,2025,4870793,Tad Hudson,QB,Coastal Carolina,Sun Belt,passing,6,3,0,0.500,0,37,6.2,1
+175,2025,4870799,Nico Iamaleava,QB,UCLA,Big Ten,passing,63,40,2,0.635,2,391,6.2,1
+176,2025,4870819,Eli Holstein,QB,Pittsburgh,ACC,passing,51,36,2,0.706,8,519,10.2,1
+177,2025,4870857,Avery Johnson,QB,Kansas State,Big 12,passing,98,64,1,0.653,6,763,7.8,1
+178,2025,4870864,Gabarri Johnson,QB,Oregon State,Pac-12,passing,1,1,0,1.000,0,4,4.0,1
+179,2025,4870883,J.J. Kohl,QB,App State,Sun Belt,passing,4,2,0,0.500,0,36,9.0,1
+180,2025,4870889,Chris Parson,QB,Austin Peay,UAC,passing,43,27,1,0.628,2,293,6.8,1
+181,2025,4870900,Dylan Lonergan,QB,Boston College,ACC,passing,79,60,0,0.759,8,658,8.3,1
+182,2025,4870906,Arch Manning,QB,Texas,SEC,passing,60,36,2,0.600,5,465,7.8,1
+183,2025,4870909,Jaden Rashada,QB,Sacramento State,Big Sky,passing,32,13,1,0.406,0,146,4.6,1
+184,2025,4870921,Dante Moore,QB,Oregon,Big Ten,passing,44,34,0,0.773,6,479,10.9,1
+185,2025,4870928,Malachi Nelson,QB,UTEP,Conference USA,passing,60,36,1,0.600,5,456,7.6,1
+186,2025,4870971,Marcel Reed,QB,Texas A&M,SEC,passing,62,41,0,0.661,7,509,8.2,1
+187,2025,4870999,Malachi Singleton,QB,Purdue,Big Ten,passing,3,2,0,0.667,0,29,9.7,1
+188,2025,4871092,Dylan Wittke,QB,Minnesota,Big Ten,passing,3,1,1,0.333,0,7,2.3,1
+189,2025,4872721,Cardell Williams,QB,Sacramento State,Big Sky,passing,13,11,1,0.846,1,158,12.2,1
+190,2025,4875127,Lanorris Sellers,QB,South Carolina,SEC,passing,38,23,0,0.605,2,337,8.9,1
+191,2025,4875428,Jake Jensen,QB,Montana,Big Sky,passing,1,1,0,1.000,0,7,7.0,1
+192,2025,4875733,Pat McQuaide,QB,Villanova,CAA,passing,28,18,0,0.643,1,299,10.7,1
+193,2025,4875855,Ralph Rucker,QB,Bucknell,Patriot,passing,41,28,2,0.683,1,362,8.8,1
+194,2025,4875866,Reese Poffenbarger,QB,North Texas,American Athletic,passing,2,0,0,0.000,0,0,0.0,1
+195,2025,4876140,Kekoa Visperas,QB,Tennessee Tech,Big South-OVC,passing,53,35,1,0.660,5,490,9.2,1
+196,2025,4876865,Carter Cravens,QB,Morehead State,Pioneer,passing,49,30,1,0.612,2,353,7.2,1
+197,2025,4877211,Jace Wilson,QB,Tennessee Tech,Big South-OVC,passing,3,3,0,1.000,1,86,28.7,1
+198,2025,4877380,Quincy Crittendon,QB,Samford,Southern,passing,85,62,3,0.729,0,478,5.6,1
+199,2025,4877717,Matthew Caldwell,QB,Texas,SEC,passing,3,2,0,0.667,0,22,7.3,1
+200,2025,4877811,Billy Atkins,QB,South Carolina State,MEAC,passing,47,27,0,0.574,0,293,6.2,1
+201,2025,4877890,Kyle Wickersham,QB,Richmond,Patriot,passing,49,34,2,0.694,1,266,5.4,1
+202,2025,4878223,Jackson Proctor,QB,Northern Illinois,Mid-American,passing,6,2,0,0.333,0,8,1.3,1
+203,2025,4878229,Ameer Dudley,QB,Robert Morris,NEC,passing,1,0,0,0.000,0,0,0.0,1
+204,2025,4878284,Tommy Rittenhouse,QB,Illinois State,MVFC,passing,26,14,1,0.538,2,103,4.0,1
+205,2025,4878293,Daniel Sobkowicz,WR,Illinois State,MVFC,passing,1,1,0,1.000,0,28,28.0,1
+206,2025,4878822,Jaylon Tolbert,QB,Alcorn State,SWAC,passing,77,42,2,0.545,1,350,4.5,1
+207,2025,4878833,Aiden Dunne,QB,Northern Iowa,MVFC,passing,5,2,0,0.400,0,21,4.2,1
+208,2025,4879058,Joe Pesansky,QB,Florida International,Conference USA,passing,10,7,0,0.700,0,68,6.8,1
+209,2025,4879250,Cole Payton,QB,North Dakota State,MVFC,passing,33,24,0,0.727,2,358,10.8,1
+210,2025,4879567,Trent Walker,WR,Oregon State,Pac-12,passing,1,1,0,1.000,0,17,17.0,1
+211,2025,4880272,Byrum Brown,QB,South Florida,American Athletic,passing,60,39,0,0.650,1,473,7.9,1
+212,2025,4880458,Gavin Rupp,QB,Stetson,Pioneer,passing,8,6,0,0.750,0,98,12.3,1
+213,2025,4880516,Jake Weir,QB,Houston Christian,Southland,passing,61,32,1,0.525,2,295,4.8,1
+214,2025,4880758,Chris Irvin,QB,Western Illinois,Big South-OVC,passing,47,19,1,0.404,0,161,3.4,1
+215,2025,4881352,Jack Shields,QB,UAlbany,CAA,passing,63,33,0,0.524,4,397,6.3,1
+216,2025,4883110,Grant Jordan,QB,Massachusetts,Mid-American,passing,24,15,1,0.625,0,211,8.8,1
+217,2025,4884392,Christopher Zellous,QB,Stony Brook,CAA,passing,35,17,1,0.486,0,158,4.5,1
+218,2025,4887151,Andrew Body,QB,Alabama State,SWAC,passing,49,34,0,0.694,6,510,10.4,1
+219,2025,4887446,Gevani McCoy,QB,Temple,American Athletic,passing,10,9,0,0.900,1,85,8.5,1
+220,2025,4891191,Christian Anaya,WR,Western Illinois,Big South-OVC,passing,1,1,0,1.000,0,31,31.0,1
+221,2025,4893657,Gavin Wimsatt,QB,Jacksonville State,Conference USA,passing,41,21,1,0.512,0,191,4.7,1
+222,2025,4899046,Brendan Sorsby,QB,Cincinnati,Big 12,passing,49,30,1,0.612,3,402,8.2,1
+223,2025,4899468,Kaden Anderson,QB,Wyoming,Mountain West,passing,59,36,1,0.610,3,427,7.2,1
+224,2025,4900934,Stephen Kittleman,QB,Tulsa,American Athletic,passing,3,2,0,0.667,0,18,6.0,1
+225,2025,4902963,Luther Richesson,QB,Central Arkansas,UAC,passing,48,31,2,0.646,4,356,7.4,1
+226,2025,4911529,Trinidad Chambliss,QB,Ole Miss,SEC,passing,6,4,0,0.667,1,59,9.8,1
+227,2025,4911929,Alonza Barnett,QB,James Madison,Sun Belt,passing,47,29,0,0.617,2,232,4.9,1
+228,2025,4912238,Turner Helton,QB,Georgia Southern,Sun Belt,passing,9,4,0,0.444,0,24,2.7,1
+229,2025,4912286,Iverson Hooks,WR,UAB,American Athletic,passing,1,1,0,1.000,0,17,17.0,1
+230,2025,4912647,Austin Novosad,QB,Oregon,Big Ten,passing,2,1,0,0.500,0,40,20.0,1
+231,2025,4915622,Jake Strong,QB,McNeese,Southland,passing,58,41,1,0.707,3,520,9.0,1
+232,2025,4915837,Grayson Loftis,QB,Charlotte,American Athletic,passing,13,8,2,0.615,0,110,8.5,1
+233,2025,4915980,John Mateer,QB,Oklahoma,SEC,passing,71,51,2,0.718,4,662,9.3,1
+234,2025,4916436,E.J. Warner,QB,Fresno State,Mountain West,passing,74,51,5,0.689,0,476,6.4,1
+235,2025,4916888,Bert Emanuel Jr.,QB,San Diego State,Mountain West,passing,4,3,0,0.750,0,29,7.3,1
+236,2025,4917093,Ryan Staub,QB,Colorado,Big 12,passing,10,7,0,0.700,2,157,15.7,1
+237,2025,4917305,Cam'Ron McCoy,QB,Southern,SWAC,passing,60,31,2,0.517,2,312,5.2,1
+238,2025,4920158,Brock Glenn,QB,Florida State,ACC,passing,3,3,0,1.000,1,56,18.7,1
+239,2025,4920196,Javance Tupou'ata-Johnson,QB,North Dakota,MVFC,passing,3,2,0,0.667,0,28,9.3,1
+240,2025,4920227,Giovanni Lopez,QB,North Carolina,ACC,passing,35,21,1,0.600,1,224,6.4,1
+241,2025,4923050,Israel Carter,QB,Norfolk State,MEAC,passing,20,12,0,0.600,0,101,5.1,1
+242,2025,4923267,Zane Flores,QB,Oklahoma State,Big 12,passing,39,20,2,0.513,0,203,5.2,1
+243,2025,4923285,McCae Hillstead,QB,BYU,Big 12,passing,5,4,0,0.800,0,33,6.6,1
+244,2025,4986096,Chase Jenkins,QB,Rice,American Athletic,passing,21,17,1,0.810,0,95,4.5,1
+245,2025,5027925,Jax Leatherwood,QB,Southeast Missouri State,Big South-OVC,passing,69,47,0,0.681,4,497,7.2,1
+246,2025,5044387,Anthony Colandrea,QB,UNLV,Mountain West,passing,65,49,1,0.754,6,647,10.0,1
+247,2025,5074245,Broc Lowry,QB,Western Michigan,Mid-American,passing,20,10,0,0.500,1,166,8.3,1
+248,2025,5075392,Keldric Luster,QB,Texas State,Sun Belt,passing,1,0,0,0.000,0,0,0.0,1
+249,2025,5075571,John-Keawe Sagapolutele,QB,Portland State,Big Sky,passing,31,17,3,0.548,1,203,6.5,1
+250,2025,5075592,Cal Swanson,QB,Holy Cross,Patriot,passing,44,25,2,0.568,1,250,5.7,1
+251,2025,5075800,Emory Williams,QB,Miami,ACC,passing,12,8,0,0.667,0,77,6.4,1
+252,2025,5075805,Aidan Chiles,QB,Michigan State,Big Ten,passing,52,36,0,0.692,5,386,7.4,1
+253,2025,5077806,Tucker McDonald,QB,UConn,FBS Independents,passing,2,1,0,0.500,0,45,22.5,1
+254,2025,5078278,Lincoln Kienholz,QB,Ohio State,Big Ten,passing,7,6,0,0.857,1,71,10.1,1
+255,2025,5078810,Sam Leavitt,QB,Arizona State,Big 12,passing,61,35,3,0.574,3,339,5.6,1
+256,2025,5079301,CJ Bailey,QB,NC State,ACC,passing,57,40,1,0.702,2,518,9.1,1
+257,2025,5079369,C.J. Carr,QB,Notre Dame,FBS Independents,passing,30,19,1,0.633,2,221,7.4,1
+258,2025,5079443,Hauss Hejny,QB,Oklahoma State,Big 12,passing,10,5,0,0.500,1,96,9.6,1
+259,2025,5079455,Josh Flowers,QB,Arkansas State,Sun Belt,passing,3,1,0,0.333,0,7,2.3,1
+260,2025,5079508,Austin Mack,QB,Alabama,SEC,passing,10,8,0,0.800,2,80,8.0,1
+261,2025,5079516,KJ Jackson,QB,Arkansas,SEC,passing,7,5,0,0.714,1,106,15.1,1
+262,2025,5079531,Jake Merklinger,QB,Tennessee,SEC,passing,14,9,0,0.643,2,118,8.4,1
+263,2025,5079533,Mabrey Mettauer,QB,Sam Houston,Conference USA,passing,31,20,2,0.645,1,177,5.7,1
+264,2025,5079542,Luke Kromenhoek,QB,Mississippi State,SEC,passing,3,1,0,0.333,0,7,2.3,1
+265,2025,5079555,D.J. Lagway,QB,Florida,SEC,passing,51,38,1,0.745,4,342,6.7,1
+266,2025,5079572,Dylan Raiola,QB,Nebraska,Big Ten,passing,73,57,0,0.781,6,607,8.3,1
+267,2025,5079604,Isaiah Marshall,QB,Kansas,Big 12,passing,3,3,0,1.000,0,28,9.3,1
+268,2025,5079628,John White,QB,Southern Miss,Sun Belt,passing,1,1,0,1.000,0,-1,-1.0,1
+269,2025,5079653,Demond Williams Jr.,QB,Washington,Big Ten,passing,49,34,0,0.694,2,480,9.8,1
+270,2025,5079679,Ryan Puglisi,QB,Georgia,SEC,passing,10,6,0,0.600,1,63,6.3,1
+271,2025,5079712,Julian Sayin,QB,Ohio State,Big Ten,passing,39,31,1,0.795,5,432,11.1,1
+272,2025,5080403,Jaylen Raynor,QB,Arkansas State,Sun Belt,passing,65,47,2,0.723,4,470,7.2,1
+273,2025,5081199,Devin Sherwood,QB,Youngstown State,MVFC,passing,8,8,0,1.000,0,47,5.9,1
+274,2025,5081350,John Griffith,QB,Morgan State,MEAC,passing,3,1,0,0.333,0,3,1.0,1
+275,2025,5081405,AJ Swann,QB,App State,Sun Belt,passing,80,50,1,0.625,5,661,8.3,1
+276,2025,5081504,Blake Horvath,QB,Navy,American Athletic,passing,15,12,0,0.800,2,234,15.6,1
+277,2025,5081856,Nate Glantz,QB,Lindenwood,Big South-OVC,passing,65,38,2,0.585,2,535,8.2,1
+278,2025,5082005,Tyriq Starks,QB,Howard,MEAC,passing,42,24,1,0.571,2,179,4.3,1
+279,2025,5082125,Dewayne Coleman,QB,Army,American Athletic,passing,12,7,2,0.583,0,129,10.8,1
+280,2025,5082142,Noah Short,WR,Army,American Athletic,passing,1,1,0,1.000,0,52,52.0,1
+281,2025,5082330,John Alan Richter,QB,Toledo,Mid-American,passing,9,5,1,0.556,1,46,5.1,1
+282,2025,5082965,Tommy Ulatowski,QB,Kennesaw State,Conference USA,passing,3,2,0,0.667,0,7,2.3,1
+283,2025,5083042,Skyler Locklear,QB,UTEP,Conference USA,passing,3,1,0,0.333,0,0,0.0,1
+284,2025,5083171,Jack Layne,QB,New Mexico,Mountain West,passing,68,44,3,0.647,1,363,5.3,1
+285,2025,5083268,Carson Jenkins,WR,William & Mary,CAA,passing,1,0,0,0.000,0,0,0.0,1
+286,2025,5083490,Ayden Pereira,QB,Merrimack,FCS Independents,passing,58,35,0,0.603,2,415,7.2,1
+287,2025,5083847,Dean DeNobile,QB,Lafayette,Patriot,passing,44,24,1,0.545,1,245,5.6,1
+288,2025,5083941,Collin Shannon,QB,VMI,Southern,passing,52,31,1,0.596,4,420,8.1,1
+289,2025,5084084,Kevin Jennings,QB,SMU,ACC,passing,52,38,2,0.731,5,555,10.7,1
+290,2025,5084180,Diego Pavia,QB,Vanderbilt,SEC,passing,43,32,1,0.744,5,468,10.9,1
+291,2025,5084545,Bryson Dickerson,TE,West Georgia,UAC,passing,1,1,0,1.000,0,22,22.0,1
+292,2025,5084769,Angel H Flores,QB,Central Michigan,Mid-American,passing,6,5,0,0.833,0,69,11.5,1
+293,2025,5085026,Keegan Patterson,QB,Indiana State,MVFC,passing,17,11,0,0.647,2,111,6.5,1
+294,2025,5085259,Ashton Frye,QB,Grambling,SWAC,passing,15,8,0,0.533,1,61,4.1,1
+295,2025,5085337,Keyone Jenkins,QB,Florida International,Conference USA,passing,58,33,1,0.569,0,314,5.4,1
+296,2025,5085644,Coulter Cleland,QB,Davidson,Pioneer,passing,42,22,1,0.524,2,209,5.0,1
+297,2025,5085676,Xavier Washington,QB,Drake,Pioneer,passing,4,2,0,0.500,1,45,11.3,1
+298,2025,5085754,Matthew Schecklman,QB,Northern Iowa,MVFC,passing,51,30,2,0.588,4,321,6.3,1
+299,2025,5085784,Chase Mason,QB,South Dakota State,MVFC,passing,48,34,0,0.708,4,380,7.9,1
+300,2025,5085941,Zach Osborne,QB,Colgate,Patriot,passing,44,26,0,0.591,4,466,10.6,1
+301,2025,5086156,Danny Lauter,QB,Georgetown,Patriot,passing,40,25,0,0.625,3,299,7.5,1
+302,2025,5086597,DJ Ralph,QB,Chadron St,Rocky Mountain,passing,33,20,1,0.606,0,228,6.9,1
+303,2025,5087031,Reagan Andrew,QB,Butler,Pioneer,passing,53,36,2,0.679,3,345,6.5,1
+304,2025,5087034,Griffin Caldwell,RB,Butler,Pioneer,passing,1,1,0,1.000,1,24,24.0,1
+305,2025,5087156,Nathan Hayes,QB,North Dakota State,MVFC,passing,11,7,1,0.636,2,143,13.0,1
+306,2025,5087297,Ja'Shawn Scroggins,QB,Howard,MEAC,passing,5,1,1,0.200,0,5,1.0,1
+307,2025,5088334,Nick Whitfield Jr.,QB,St. Francis (PA),NEC,passing,43,26,1,0.605,0,147,3.4,1
+308,2025,5088960,Reggie Graff,QB,Utah Tech,UAC,passing,29,16,1,0.552,2,125,4.3,1
+309,2025,5088964,Sonny Mannino,QB,Marist,Pioneer,passing,62,33,1,0.532,2,304,4.9,1
+310,2025,5089309,Jake Stearney,QB,Colgate,Patriot,passing,23,10,0,0.435,1,138,6.0,1
+311,2025,5089314,Hank Brown,QB,Iowa,Big Ten,passing,1,1,0,1.000,0,4,4.0,1
+312,2025,5089335,Rowan Keefe,QB,Valparaiso,Pioneer,passing,28,20,4,0.714,1,209,7.5,1
+313,2025,5089540,Cole Gonzales,QB,Pittsburgh,ACC,passing,15,8,0,0.533,1,87,5.8,1
+314,2025,5091836,Jaxon Potter,QB,Washington State,Pac-12,passing,72,51,0,0.708,4,465,6.5,1
+315,2025,5092275,Ty Dieffenbach,QB,Cal Poly,Big Sky,passing,36,24,1,0.667,2,345,9.6,1
+316,2025,5092348,Jaden Gibson,WR,Samford,Southern,passing,1,0,0,0.000,0,0,0.0,1
+317,2025,5093929,Eric Rodriguez,QB,East Texas A&M,Southland,passing,35,17,2,0.486,0,223,6.4,1
+318,2025,5095112,Zach Tanner,QB,Robert Morris,NEC,passing,50,23,0,0.460,2,262,5.2,1
+319,2025,5095771,Ethan Greenwood,QB,Long Island University,NEC,passing,11,6,0,0.545,0,126,11.5,1
+320,2025,5098448,Isaiah Freeman,QB,Hampton,CAA,passing,33,19,1,0.576,1,168,5.1,1
+321,2025,5101124,Micah Alejado,QB,Hawai'i,Mountain West,passing,70,45,1,0.643,2,367,5.2,1
+322,2025,5104738,Ryan Browne,QB,Purdue,Big Ten,passing,49,32,1,0.653,4,481,9.8,1
+323,2025,5105334,Jackson Gilkey,QB,Weber State,Big Sky,passing,48,20,5,0.417,1,152,3.2,1
+324,2025,5105849,Devon Dampier,QB,Utah,Big 12,passing,48,38,0,0.792,5,398,8.3,1
+325,2025,5106897,Jack O'Connell,QB,Stonehill,NEC,passing,74,55,2,0.743,4,481,6.5,1
+326,2025,5109518,Beau Brungard,QB,Youngstown State,MVFC,passing,37,26,0,0.703,1,236,6.4,1
+327,2025,5113896,Cole Lacrue,QB,Eastern Illinois,Big South-OVC,passing,29,16,2,0.552,0,167,5.8,1
+328,2025,5119841,Dru Deshields,QB,Kent State,Mid-American,passing,25,13,0,0.520,2,234,9.4,1
+329,2025,5120906,Caleb Mccreary,QB,Tennessee State,Big South-OVC,passing,1,1,0,1.000,0,11,11.0,1
+330,2025,5121169,Darian Mensah,QB,Duke,ACC,passing,68,50,1,0.735,5,723,10.6,1
+331,2025,5121691,Blaze Berlowitz,QB,Vanderbilt,SEC,passing,5,3,0,0.600,1,40,8.0,1
+332,2025,5122054,Aidan Armenta,QB,UL Monroe,Sun Belt,passing,37,20,2,0.541,1,123,3.3,1
+333,2025,5122157,Caden Creel,QB,Jacksonville State,Conference USA,passing,1,1,0,1.000,0,18,18.0,1
+334,2025,5122887,Luke Moga,QB,Oregon,Big Ten,passing,3,2,0,0.667,0,53,17.7,1
+335,2025,5125301,Carson Cruver,QB,Florida Atlantic,American Athletic,passing,2,0,0,0.000,0,0,0.0,1
+336,2025,5125715,Colton Joseph,QB,Old Dominion,Sun Belt,passing,46,30,3,0.652,3,353,7.7,1
+337,2025,5125823,DJ McKinney,RB,New Mexico,Mountain West,passing,1,1,0,1.000,1,9,9.0,1
+338,2025,5126464,Deuce Adams,QB,Louisville,ACC,passing,3,2,0,0.667,0,21,7.0,1
+339,2025,5126468,Will Hammond,QB,Texas Tech,Big 12,passing,19,14,0,0.737,2,186,9.8,1
+340,2025,5126470,Trever Jackson,QB,Arkansas,SEC,passing,1,0,0,0.000,0,0,0.0,1
+341,2025,5126471,Daniel Kaelin,QB,Virginia,ACC,passing,9,3,0,0.333,0,26,2.9,1
+342,2025,5126472,JacQai Long,QB,Marshall,Sun Belt,passing,11,3,0,0.273,0,19,1.7,1
+343,2025,5126474,Danny O'Neil,QB,Wisconsin,Big Ten,passing,46,35,2,0.761,4,403,8.8,1
+344,2025,5127900,Shay Smith,QB,UTEP,Conference USA,passing,2,1,0,0.500,0,3,1.5,1
+345,2025,5132812,Aaron Philo,QB,Georgia Tech,ACC,passing,28,21,1,0.750,1,373,13.3,1
+346,2025,5138131,Deshawn Purdie,QB,Wake Forest,ACC,passing,4,3,0,0.750,1,42,10.5,1
+347,2025,5141367,Bear Bachmeier,QB,BYU,Big 12,passing,38,24,0,0.632,3,272,7.2,1
+348,2025,5141378,Cutter Boley,QB,Kentucky,SEC,passing,3,1,0,0.333,0,38,12.7,1
+349,2025,5141395,EJ Colson,QB,Incarnate Word,Southland,passing,1,1,0,1.000,0,13,13.0,1
+350,2025,5141506,Deuce Knight,QB,Auburn,SEC,passing,5,2,0,0.400,0,20,4.0,1
+351,2025,5141556,TJ Lateef,QB,Nebraska,Big Ten,passing,7,6,0,0.857,0,128,18.3,1
+352,2025,5141563,Husan Longstreet,QB,USC,Big Ten,passing,15,13,0,0.867,1,103,6.9,1
+353,2025,5141571,George MacIntyre,QB,Tennessee,SEC,passing,7,6,0,0.857,0,52,7.4,1
+354,2025,5141629,Keelon Russell,QB,Alabama,SEC,passing,6,4,0,0.667,2,65,10.8,1
+355,2025,5141661,Kevin Sperry,QB,Florida State,ACC,passing,5,4,0,0.800,2,61,12.2,1
+356,2025,5141684,Austin Simmons,QB,Ole Miss,SEC,passing,55,33,4,0.600,3,576,10.5,1
+357,2025,5141695,Malik Washington,QB,Maryland,Big Ten,passing,78,46,0,0.590,5,512,6.6,1
+358,2025,5141741,Bryce Underwood,QB,Michigan,Big Ten,passing,55,30,0,0.545,1,393,7.1,1
+359,2025,5144078,Ethan Grunkemeyer,QB,Penn State,Big Ten,passing,9,7,0,0.778,0,86,9.6,1
+360,2025,5144959,Drake Lindsey,QB,Minnesota,Big Ten,passing,44,27,1,0.614,3,429,9.8,1
+361,2025,5145396,Miles O'Neill,QB,Texas A&M,SEC,passing,7,4,1,0.571,1,101,14.4,1
+362,2025,5146355,AJ Hairston,QB,Massachusetts,Mid-American,passing,4,3,0,0.750,0,28,7.0,1
+363,2025,5146575,Graham Knowles,QB,Georgia Tech,ACC,passing,1,1,0,1.000,1,84,84.0,1
+364,2025,5146661,Daniel Beale,QB,Louisiana,Sun Belt,passing,28,14,0,0.500,1,86,3.1,1
+365,2025,5146667,Khristian Martin,QB,Maryland,Big Ten,passing,5,1,0,0.200,0,10,2.0,1
+366,2025,5146670,Alessio Milivojevic,QB,Michigan State,Big Ten,passing,1,0,1,0.000,0,0,0.0,1
+367,2025,5146713,Locklan Hewlett,QB,South Florida,American Athletic,passing,1,1,0,1.000,1,45,45.0,1
+368,2025,5146824,Tavien St. Clair,QB,Ohio State,Big Ten,passing,2,0,0,0.000,0,0,0.0,1
+369,2025,5147067,Chris Dietrich,QB,Bucknell,Patriot,passing,6,6,0,1.000,0,43,7.2,1
+370,2025,5148427,Landyn Locke,QB,Sam Houston,Conference USA,passing,10,6,0,0.600,1,68,6.8,1
+371,2025,5148803,Brad Jackson,QB,Texas State,Sun Belt,passing,46,30,1,0.652,5,500,10.9,1
+372,2025,5148858,Jared Hollins,QB,South Alabama,Sun Belt,passing,1,1,0,1.000,0,8,8.0,1
+373,2025,5149056,Jadyn Glasser,QB,Central Michigan,Mid-American,passing,9,7,0,0.778,0,78,8.7,1
+374,2025,5150297,Cale Hellums,QB,Army,American Athletic,passing,15,8,0,0.533,1,45,3.0,1
+375,2025,5150460,John Neider,WR,UConn,FBS Independents,passing,1,1,0,1.000,1,15,15.0,1
+376,2025,5150611,Jake Retzlaff,QB,Tulane,American Athletic,passing,55,31,0,0.564,2,277,5.0,1
+377,2025,5150663,Champ Long,QB,North Carolina A&T,CAA,passing,16,8,1,0.500,0,67,4.2,1
+378,2025,5150680,Max Shikenjanski,QB,Minnesota,Big Ten,passing,5,4,0,0.800,1,80,16.0,1
+379,2025,5150835,Michael Grant,QB,Florida State,ACC,passing,1,1,0,1.000,0,14,14.0,1
+380,2025,5150998,Blake Baker,QB,Louisiana Tech,Conference USA,passing,8,3,0,0.375,1,46,5.8,1
+381,2025,5151060,Cole Ballard,QB,Kansas,Big 12,passing,6,2,0,0.333,0,38,6.3,1
+382,2025,5151171,Will Burns,QB,Southern Utah,UAC,passing,2,2,0,1.000,0,36,18.0,1
+383,2025,5151291,Cash Mccollum,QB,Weber State,Big Sky,passing,2,0,0,0.000,0,0,0.0,1
+384,2025,5151316,Brandon Tennison,QB,UTSA,American Athletic,passing,2,2,0,1.000,1,49,24.5,1
+385,2025,5151339,Anthony Garcia,QB,Utah State,Mountain West,passing,1,1,0,1.000,1,3,3.0,1
+386,2025,5151366,Gunnar Gray,QB,Buffalo,Mid-American,passing,2,1,1,0.500,0,0,0.0,1
+387,2025,5151407,Jack Jacobs,QB,East Texas A&M,Southland,passing,3,2,0,0.667,0,43,14.3,1
+388,2025,5151506,Josh Holst,QB,Northern Illinois,Mid-American,passing,40,26,1,0.650,0,192,4.8,1
+389,2025,5151618,Kirk Francis,QB,Tulsa,American Athletic,passing,54,33,1,0.611,2,318,5.9,1
+390,2025,5151696,RJ Johnson III,QB,Florida A&M,SWAC,passing,28,18,0,0.643,2,222,7.9,1
+391,2025,5151948,Joey Aguilar,QB,Tennessee,SEC,passing,59,39,0,0.661,5,535,9.1,1
+392,2025,5152064,Caleb Koger,QB,Central Arkansas,UAC,passing,3,3,0,1.000,0,13,4.3,1
+393,2025,5152110,Nate Bell,QB,Eastern Washington,Big Sky,passing,10,5,2,0.500,0,74,7.4,1
+394,2025,5152118,Jared Taylor,QB,Eastern Washington,Big Sky,passing,66,35,0,0.530,0,285,4.3,1
+395,2025,5153708,Keali'i Ah Yat,QB,Montana,Big Sky,passing,24,14,2,0.583,2,250,10.4,1
+396,2025,5153782,Amari Odom,QB,Kennesaw State,Conference USA,passing,16,10,1,0.625,0,176,11.0,1
+397,2025,5153845,Zach Marker,QB,Delaware,Conference USA,passing,8,3,0,0.375,0,21,2.6,1
+398,2025,5153846,Nick Minicucci,QB,Delaware,Conference USA,passing,72,46,1,0.639,4,563,7.8,1
+399,2025,5154277,Cole Feuerbacher,QB,Missouri State,Conference USA,passing,4,4,0,1.000,0,12,3.0,1
+400,2025,5154881,Bryce Schondelmyer,QB,Dayton,Pioneer,passing,53,32,0,0.604,4,371,7.0,1
+401,2025,5154910,Robert Coleman,QB,Lamar,Southland,passing,24,13,1,0.542,0,88,3.7,1
+402,2025,5154911,Aiden McCown,QB,Lamar,Southland,passing,3,0,0,0.000,0,0,0.0,1
+403,2025,5154962,Kamden Sixkiller,QB,Campbell,CAA,passing,58,35,0,0.603,1,265,4.6,1
+404,2025,5155100,Jeff Hoenstine,QB,St. Francis (PA),NEC,passing,8,4,0,0.500,0,18,2.3,1
+405,2025,5155321,Elijah Owens,QB,Indiana State,MVFC,passing,37,28,1,0.757,3,317,8.6,1
+406,2025,5155528,Jerry Kaminski,QB,North Dakota,MVFC,passing,59,37,0,0.627,5,395,6.7,1
+407,2025,5155579,Cameron Flowers,WR,Western Kentucky,Conference USA,passing,1,1,0,1.000,0,39,39.0,1
+408,2025,5155864,Julian Dugger,QB,Washington State,Pac-12,passing,1,0,0,0.000,0,0,0.0,1
+409,2025,5156292,Czavian Teasett,QB,Grambling,SWAC,passing,40,29,1,0.725,3,258,6.5,1
+410,2025,5156751,Drew VanVleet,QB,Dayton,Pioneer,passing,5,3,0,0.600,1,43,8.6,1
+411,2025,5156755,Gavin Lochow,WR,Dayton,Pioneer,passing,1,1,0,1.000,0,18,18.0,1
+412,2025,5156994,Trey Drake,QB,North Dakota State,MVFC,passing,1,1,0,1.000,0,4,4.0,1
+413,2025,5157481,Collin Hurst,QB,Presbyterian,Pioneer,passing,79,51,4,0.646,6,578,7.3,1
+414,2025,5157537,Caron Tyler,QB,Valparaiso,Pioneer,passing,7,5,0,0.714,1,57,8.1,1
+415,2025,5158127,Landon Graves,QB,UL Monroe,Sun Belt,passing,7,4,0,0.571,1,55,7.9,1
+416,2025,5158343,Braxton Woodson,QB,Navy,American Athletic,passing,7,3,0,0.429,0,26,3.7,1
+417,2025,5158446,Brock Thomas,QB,Oregon,Big Ten,passing,1,0,0,0.000,0,0,0.0,1
+418,2025,5159016,Julian Lewis,QB,Colorado,Big 12,passing,4,2,0,0.500,0,8,2.0,1
+419,2025,5159275,Xavier Rice,QB,Duquesne,NEC,passing,2,1,0,0.500,0,2,1.0,1
+420,2025,5159350,Dylan Mauro,P,UC Davis,Big Sky,passing,1,1,0,1.000,0,27,27.0,1
+421,2025,5159360,James Tyre,WR,Western Carolina,Southern,passing,1,0,0,0.000,0,0,0.0,1
+422,2025,5159361,Bennett Judy,QB,Western Carolina,Southern,passing,59,33,2,0.559,2,306,5.2,1
+423,2025,5160730,Max Cutforth,QB,Boise State,Mountain West,passing,5,3,0,0.600,0,33,6.6,1
+424,2025,5162103,Brian Trobel,RB,Mercyhurst,NEC,passing,1,1,0,1.000,0,11,11.0,1
+425,2025,5163745,Jalyn Gramstad,QB,Nebraska,Big Ten,passing,2,2,0,1.000,0,2,1.0,1
+426,2025,5164313,Jaron-Keawe Sagapolutele,QB,California,ACC,passing,67,46,1,0.687,3,493,7.4,1
+427,2025,5164314,Scotty Fox Jr.,QB,West Virginia,Big 12,passing,1,1,0,1.000,0,8,8.0,1
+428,2025,5164316,Alex Manske,QB,Iowa State,Big 12,passing,5,4,0,0.800,0,28,5.6,1
+429,2025,5164721,Zolten Osbourne,QB,Charleston Southern,Big South-OVC,passing,38,18,2,0.474,0,109,2.9,1
+430,2025,5165884,Dom Nankil,QB,San Diego,Pioneer,passing,46,25,0,0.543,2,266,5.8,1
+431,2025,5165911,John Michalski,QB,Sacred Heart,FCS Independents,passing,27,13,1,0.481,0,132,4.9,1
+432,2025,5166308,Adam Jones,RB,Montana State,Big Sky,passing,1,1,0,1.000,0,16,16.0,1
+433,2025,5168665,Chandler Wilson,QB,VMI,Southern,passing,5,1,0,0.200,0,1,0.2,1
+434,2025,5168808,Jordan Davis,QB,Texas Southern,SWAC,passing,1,1,0,1.000,0,3,3.0,1
+435,2025,5169036,Gavin Rutherford,QB,Stephen F. Austin,Southland,passing,8,5,1,0.625,1,56,7.0,1
+436,2025,5171031,Matt Vezza,QB,New Hampshire,CAA,passing,38,21,2,0.553,2,315,8.3,1
+437,2025,5172036,JC Evans,QB,James Madison,Sun Belt,passing,1,0,0,0.000,0,0,0.0,1
+438,2025,5172415,Dez Thomas II,QB,Georgetown,Patriot,passing,11,7,0,0.636,1,132,12.0,1
+439,2025,5189530,Joseph Williams,WR,Colorado,Big 12,passing,1,0,0,0.000,0,0,0.0,1
+440,2025,5191162,Alberto Mendoza,QB,Indiana,Big Ten,passing,3,3,0,1.000,1,35,11.7,1
+441,2025,5193343,Jim Ogle,QB,Murray State,MVFC,passing,74,47,4,0.635,2,480,6.5,1
+442,2025,5193346,Quinn Henicle,QB,Old Dominion,Sun Belt,passing,5,3,0,0.600,0,20,4.0,1
+443,2025,5193926,Cameran Brown,QB,Georgia State,Sun Belt,passing,26,16,0,0.615,1,156,6.0,1
+444,2025,5194626,Roman Gagliano,QB,Middle Tennessee,Conference USA,passing,1,1,0,1.000,0,5,5.0,1
+445,2025,5195300,Matt Zollers,QB,Missouri,SEC,passing,3,3,0,1.000,1,58,19.3,1
+446,2025,5196864,Rodney Tisdale Jr.,QB,Western Kentucky,Conference USA,passing,8,6,0,0.750,1,94,11.8,1
+447,2025,5203716,Ethan Drumm,QB,Wofford,Southern,passing,25,12,0,0.480,0,111,4.4,1
+448,2025,5208095,Mason Heintschel,QB,Pittsburgh,ACC,passing,4,3,0,0.750,0,36,9.0,1
+449,2025,5212641,Weston Bryan,QB,Georgia Southern,Sun Belt,passing,1,1,0,1.000,1,32,32.0,1
+450,2025,5212705,Brady Stober,QB,Samford,Southern,passing,20,13,0,0.650,0,131,6.6,1
+451,2025,5215248,Jordan Magwood,QB,Florida Atlantic,American Athletic,passing,1,1,0,1.000,0,18,18.0,1
+452,2025,5215310,Chaston Ditta,QB,East Carolina,American Athletic,passing,4,3,0,0.750,1,36,9.0,1
+453,2025,5219586,Anthony Grigsby Jr.,QB,Cal Poly,Big Sky,passing,22,11,1,0.500,1,144,6.5,1
+454,2025,5219668,Michael Valentino,QB,Florida Atlantic,American Athletic,passing,1,0,0,0.000,0,0,0.0,1
+455,2025,5219834,Drew Mestemaker,QB,North Texas,American Athletic,passing,65,42,0,0.646,5,553,8.5,1
+456,2025,5219898,Drew Devillier,QB,Rice,American Athletic,passing,1,1,0,1.000,0,1,1.0,1
+457,2025,5220424,Hunter Watson,QB,Sam Houston,Conference USA,passing,52,30,1,0.577,0,310,6.0,1
+458,2025,5220782,Brandon Nunez,QB,Mississippi Valley State,SWAC,passing,18,6,2,0.333,0,153,8.5,1
+459,2025,5223107,Quentin Hayes,QB,The Citadel,Southern,passing,5,2,0,0.400,1,27,5.4,1
+460,2025,5223108,Josh Johnson,QB,Air Force,Mountain West,passing,7,4,0,0.571,2,112,16.0,1
+461,2025,5223904,Jackson Akins,QB,Cal Poly,Big Sky,passing,4,2,0,0.500,0,4,1.0,1
+462,2025,5224011,Baylor Hayes,QB,Tulsa,American Athletic,passing,17,14,1,0.824,1,135,7.9,1
+463,2025,5224084,Trey Hedden,QB,Furman,Southern,passing,69,50,2,0.725,2,442,6.4,1
+464,2025,5224094,Gavin Hall,RB,Furman,Southern,passing,1,0,0,0.000,0,0,0.0,1
+465,2025,5224320,Jared Echols,QB,Charleston Southern,Big South-OVC,passing,1,1,0,1.000,0,19,19.0,1
+466,2025,5224464,Jarrin Alley,QB,Butler,Pioneer,passing,10,8,0,0.800,0,62,6.2,1
+467,2025,5224535,Casey Bullock,QB,Davidson,Pioneer,passing,19,9,0,0.474,0,74,3.9,1
+468,2025,5224562,Bronson Barben,QB,Utah Tech,UAC,passing,46,27,4,0.587,1,283,6.2,1
+469,2025,5224789,Landen Clark,QB,Elon,CAA,passing,40,25,0,0.625,3,348,8.7,1
+470,2025,5225271,Connor Wolf,QB,Eastern Illinois,Big South-OVC,passing,13,9,0,0.692,0,112,8.6,1
+471,2025,5225341,JoJo Crump,QB,VMI,Southern,passing,3,0,0,0.000,0,0,0.0,1
+472,2025,5225414,Ty Pennington,QB,Northern Arizona,Big Sky,passing,63,43,1,0.683,2,433,6.9,1
+473,2025,5225416,Tay Lanier,WR,Colorado State,Mountain West,passing,1,1,0,1.000,0,9,9.0,1
+474,2025,5225418,Lathan Boone,QB,Northern Arizona,Big Sky,passing,7,4,1,0.571,0,38,5.4,1
+475,2025,5225612,Eric Handley,QB,Alabama A&M,SWAC,passing,10,6,0,0.600,0,36,3.6,1
+476,2025,5225648,Pops Battle,QB,Lindenwood,Big South-OVC,passing,1,0,0,0.000,0,0,0.0,1
+477,2025,5225700,Jack Snyder,QB,Sacred Heart,FCS Independents,passing,20,14,0,0.700,0,94,4.7,1
+478,2025,5225799,Jason Penza,QB,Lafayette,Patriot,passing,4,4,0,1.000,0,23,5.8,1
+479,2025,5225837,Jordan Barton,QB,Wagner,NEC,passing,4,3,0,0.750,0,35,8.8,1
+480,2025,5225902,Hayden Johnson,QB,Lehigh,Patriot,passing,41,23,3,0.561,2,264,6.4,1
+481,2025,5225903,Matt Machalik,QB,Lehigh,Patriot,passing,1,1,0,1.000,0,8,8.0,1
+482,2025,5225940,Chase Spellman,QB,Drake,Pioneer,passing,16,14,1,0.875,2,233,14.6,1
+483,2025,5226019,Caden Pinnick,QB,UC Davis,Big Sky,passing,47,29,2,0.617,4,303,6.4,1
+484,2025,5226265,Brennan Myer,QB,Bryant,CAA,passing,77,42,3,0.545,3,505,6.6,1
+485,2025,5226365,Alex Flores,QB,McNeese,Southland,passing,6,3,0,0.500,0,30,5.0,1
+486,2025,5226397,Kael Alexander,QB,Stetson,Pioneer,passing,40,27,1,0.675,4,500,12.5,1
+487,2025,5226398,Gunner Chenier,QB,Stetson,Pioneer,passing,4,2,0,0.500,0,21,5.3,1
+488,2025,5226585,Abram Johnston,QB,Northwestern State,Southland,passing,29,15,3,0.517,1,95,3.3,1
+489,2025,5226768,Braxton Thomas,QB,North Carolina A&T,CAA,passing,13,11,0,0.846,1,169,13.0,1
+490,2025,5227106,Logan Kushner,QB,Duquesne,NEC,passing,11,9,0,0.818,0,83,7.5,1
+491,2025,5227302,Jack Stevens,QB,Wagner,NEC,passing,41,26,2,0.634,1,192,4.7,1
+492,2025,5227425,Parker Stofa,QB,Jackson State,SWAC,passing,1,0,1,0.000,0,0,0.0,1
+493,2025,5227430,Kobe Muasau,QB,Morgan State,MEAC,passing,50,31,2,0.620,1,370,7.4,1
+494,2025,5227557,Alex Gevaudan,QB,Mercyhurst,NEC,passing,5,4,1,0.800,0,23,4.6,1
+495,2025,5227561,Braydon Black,WR,Mercyhurst,NEC,passing,1,0,0,0.000,0,0,0.0,1
+496,2025,5227565,Adam Urena,QB,Mercyhurst,NEC,passing,76,54,2,0.711,4,655,8.6,1
+497,2025,5227681,Cameron Peters,QB,Prairie View A&M,SWAC,passing,54,30,1,0.556,1,359,6.6,1
+498,2025,5227685,Rodny Ojo,WR,Prairie View A&M,SWAC,passing,1,1,0,1.000,0,25,25.0,1
+499,2025,5227699,Beckham Pellant,QB,Illinois State,MVFC,passing,16,8,0,0.500,1,73,4.6,1
+500,2025,5227786,Jake Curry,QB,Southern Illinois,MVFC,passing,5,2,0,0.400,0,11,2.2,1
+501,2025,5230073,Cobey Thompkins,QB,The Citadel,Southern,passing,14,10,0,0.714,1,163,11.6,1
+502,2025,5230099,Will Madonna,QB,East Texas A&M,Southland,passing,18,8,2,0.444,0,70,3.9,1
+503,2025,5230240,Mason Bray,QB,Arizona,Big 12,passing,2,1,0,0.500,0,22,11.0,1
+504,2025,5231037,Isaac Lee,QB,Western Carolina,Southern,passing,19,11,0,0.579,1,131,6.9,1
+505,2025,5231101,Jonathan Palmer,QB,Tennessee State,Big South-OVC,passing,34,16,1,0.471,1,161,4.7,1
+506,2025,5232131,KJ Cooper,QB,Texas Southern,SWAC,passing,51,30,1,0.588,1,269,5.3,1
+507,2025,5233879,Josh Brown,QB,Mississippi Valley State,SWAC,passing,44,22,1,0.500,2,259,5.9,1
+508,2025,5238868,Liam Szarka,QB,Air Force,Mountain West,passing,2,2,0,1.000,0,47,23.5,1
+509,2025,5294263,Byrd Ficklin,QB,Utah,Big 12,passing,4,4,0,1.000,0,53,13.3,1
+510,2025,5295238,Luke Weaver,QB,Hawai'i,Mountain West,passing,60,35,3,0.583,3,360,6.0,1
+511,2025,5295814,Tramell Jones Jr.,QB,Florida,SEC,passing,18,12,0,0.667,2,131,7.3,1
+512,2025,5295969,Brady Hart,QB,Texas A&M,SEC,passing,1,0,0,0.000,0,0,0.0,1
+513,2025,5296163,Brady Jones,QB,Western Michigan,Mid-American,passing,27,13,1,0.481,0,109,4.0,1
+514,2025,5296376,Trey Kukuk,QB,Louisiana Tech,Conference USA,passing,37,26,0,0.703,1,180,4.9,1
+515,2025,5296411,Stanley Anderson-Lofton,QB,Middle Tennessee,Conference USA,passing,1,1,0,1.000,0,11,11.0,1
+516,2025,5296610,Tama Amisone,QB,San José State,Mountain West,passing,1,0,0,0.000,0,0,0.0,1
+517,2025,5296625,Landon Sims,QB,Wyoming,Mountain West,passing,3,3,0,1.000,0,23,7.7,1
+518,2025,5298248,Lek Powell,QB,Charleston Southern,Big South-OVC,passing,2,1,0,0.500,0,15,7.5,1
+519,2025,5298787,Byron McNair,QB,Tennessee State,Big South-OVC,passing,4,2,1,0.500,0,12,3.0,1
+520,2025,5298853,Treynor Cleeland,QB,UC Davis,Big Sky,passing,3,2,0,0.667,0,26,8.7,1
+521,2025,5298896,Will O'Dell,QB,Marist,Pioneer,passing,4,4,0,1.000,0,33,8.3,1
+522,2025,5299305,Jalen Ferguson,QB,Campbell,CAA,passing,8,3,0,0.375,0,24,3.0,1
+523,2025,5299364,Cason Carswell,QB,Western Illinois,Big South-OVC,passing,8,6,0,0.750,1,52,6.5,1
+524,2025,5300202,JaShawn Todd,RB,St. Thomas (MN),Pioneer,passing,1,0,0,0.000,0,0,0.0,1
+525,2025,5300315,DJ Smith,QB,Mercer,Southern,passing,36,22,1,0.611,1,154,4.3,1
+526,2025,5300801,Eric Gibson Jr.,QB,Northern Colorado,Big Sky,passing,31,19,1,0.613,0,169,5.5,1
+527,2025,5301056,Jy Walls,QB,North Carolina A&T,CAA,passing,4,2,0,0.500,0,14,3.5,1
+528,2025,5301193,Terrell Russell,QB,Howard,MEAC,passing,1,0,0,0.000,0,0,0.0,1
+529,2025,5301318,Garrett Sanford,DL,Murray State,MVFC,passing,1,1,0,1.000,0,5,5.0,1
+530,2025,5301655,John Austin,QB,North Alabama,UAC,passing,1,0,0,0.000,0,0,0.0,1
+531,2025,5301657,Andrew Indorf,QB,Towson,CAA,passing,49,32,0,0.653,4,373,7.6,1
+532,2025,5301816,Jett Peddy,QB,Florida A&M,SWAC,passing,7,1,0,0.143,0,5,0.7,1
+533,2025,5301817,RJ Johnson,QB,Florida A&M,SWAC,passing,32,17,0,0.531,0,183,5.7,1
+534,2025,5301875,Jackson Byrd,QB,East Tennessee State,Southern,passing,1,1,0,1.000,0,6,6.0,1
+535,2025,5301990,Jayden Whitaker,QB,Wofford,Southern,passing,21,6,0,0.286,0,56,2.7,1
+536,2025,5302454,Eli Anderson,QB,Northwestern State,Southland,passing,4,3,0,0.750,0,13,3.3,1
+537,2025,5303362,Christian Peters,QB,Arkansas-Pine Bluff,SWAC,passing,69,35,1,0.507,2,350,5.1,1
+538,2025,4426688,Kaiden Bennett,QB,Delaware State,MEAC,passing,27,17,0,0.630,0,171,6.3,2
+539,2025,4426847,Zach Calzada,QB,Kentucky,SEC,passing,30,15,0,0.500,0,149,5.0,2
+540,2025,4427191,Dequan Finn,QB,Miami (OH),Mid-American,passing,22,14,1,0.636,0,251,11.4,2
+541,2025,4427313,Ta'Quan Roberson,QB,Buffalo,Mid-American,passing,20,10,1,0.500,1,133,6.7,2
+542,2025,4427455,Cade McNamara,QB,East Tennessee State,Southern,passing,18,11,0,0.611,1,85,4.7,2
+543,2025,4427966,Maverick McIvor,QB,Western Kentucky,Conference USA,passing,38,23,1,0.605,2,235,6.2,2
+544,2025,4429079,Luke Doty,WR,South Carolina,SEC,passing,1,0,0,0.000,0,0,0.0,2
+545,2025,4429088,Drew Pyne,QB,Bowling Green,Mid-American,passing,36,29,0,0.806,1,274,7.6,2
+546,2025,4429149,Brendon Lewis,QB,Memphis,American Athletic,passing,20,16,0,0.800,0,196,9.8,2
+547,2025,4429191,Deuce Hogan,QB,Nicholls,Southland,passing,25,11,1,0.440,1,114,4.6,2
+548,2025,4429463,Jacolby Criswell,QB,East Tennessee State,Southern,passing,12,7,0,0.583,0,76,6.3,2
+549,2025,4429582,Joe Fagnano,QB,UConn,FBS Independents,passing,43,24,0,0.558,0,259,6.0,2
+550,2025,4429801,Tucker Gleason,QB,Toledo,Mid-American,passing,12,7,0,0.583,2,155,12.9,2
+551,2025,4430836,Chubba Purdy,QB,Nevada,Mountain West,passing,21,12,2,0.571,0,144,6.9,2
+552,2025,4430841,Carson Beck,QB,Miami,ACC,passing,24,22,0,0.917,2,267,11.1,2
+553,2025,4431018,Michael Chandler II,QB,Campbell,CAA,passing,3,1,0,0.333,0,2,0.7,2
+554,2025,4431046,EJ Core,TE,Delaware State,MEAC,passing,1,1,0,1.000,0,-3,-3.0,2
+555,2025,4431091,Ben Finley,QB,Akron,Mid-American,passing,21,7,0,0.333,0,54,2.6,2
+556,2025,4431114,Ben Gulbranson,QB,Stanford,ACC,passing,32,17,2,0.531,0,142,4.4,2
+557,2025,4431325,Taylen Green,QB,Arkansas,SEC,passing,26,17,2,0.654,4,239,9.2,2
+558,2025,4431387,Evan Simon,QB,Temple,American Athletic,passing,10,8,0,0.800,3,174,17.4,2
+559,2025,4431416,Kiael Kelly,QB,Ball State,Mid-American,passing,16,10,0,0.625,0,71,4.4,2
+560,2025,4431465,Behren Morton,QB,Texas Tech,Big 12,passing,26,18,0,0.692,3,258,9.9,2
+561,2025,4431580,Miller Moss,QB,Louisville,ACC,passing,23,13,0,0.565,1,151,6.6,2
+562,2025,4431633,Will Crowder,QB,Troy,Sun Belt,passing,31,19,3,0.613,1,223,7.2,2
+563,2025,4431948,TJ Finley,QB,Georgia State,Sun Belt,passing,29,21,1,0.724,0,201,6.9,2
+564,2025,4432722,Athan Kaliakmanis,QB,Rutgers,Big Ten,passing,36,26,0,0.722,4,259,7.2,2
+565,2025,4432759,Sawyer Robertson,QB,Baylor,Big 12,passing,50,34,0,0.680,4,440,8.8,2
+566,2025,4432767,Preston Stone,QB,Northwestern,Big Ten,passing,29,21,0,0.724,3,245,8.4,2
+567,2025,4432803,Kaidon Salter,QB,Colorado,Big 12,passing,16,13,0,0.813,0,102,6.4,2
+568,2025,4433829,Mitch Griffis,QB,Texas Tech,Big 12,passing,2,2,0,1.000,0,19,9.5,2
+569,2025,4433932,Mike Wright,QB,East Carolina,American Athletic,passing,5,3,0,0.600,0,13,2.6,2
+570,2025,4433969,Timmy McClain,QB,Bethune-Cookman,SWAC,passing,16,13,0,0.813,0,86,5.4,2
+571,2025,4565187,Jalen Kitna,QB,UAB,American Athletic,passing,32,22,2,0.688,2,304,9.5,2
+572,2025,4565189,Cam Ransom,QB,Bethune-Cookman,SWAC,passing,2,1,1,0.500,0,13,6.5,2
+573,2025,4565315,Blake Shapen,QB,Mississippi State,SEC,passing,33,19,0,0.576,3,279,8.5,2
+574,2025,4565355,Dexter Williams II,QB,Kennesaw State,Conference USA,passing,2,1,0,0.500,0,-1,-0.5,2
+575,2025,4567747,Garrett Nussmeier,QB,LSU,SEC,passing,41,26,1,0.634,1,237,5.8,2
+576,2025,4568336,Zach Gibson,QB,Florida Atlantic,American Athletic,passing,2,1,0,0.500,0,33,16.5,2
+577,2025,4568411,Cornelious Brown,QB,Alabama A&M,SWAC,passing,34,25,0,0.735,3,260,7.6,2
+578,2025,4569535,Jacob Clark,QB,Missouri State,Conference USA,passing,31,21,1,0.677,3,359,11.6,2
+579,2025,4570048,Michael Johnson Jr.,QB,Akron,Mid-American,passing,2,2,0,1.000,0,8,4.0,2
+580,2025,4576189,Aveon Smith,QB,Merrimack,FCS Independents,passing,2,1,1,0.500,0,16,8.0,2
+581,2025,4577962,Camden Orth,QB,Chattanooga,Southern,passing,45,22,1,0.489,1,249,5.5,2
+582,2025,4587721,Daniel Greek,QB,Tarleton State,UAC,passing,1,1,0,1.000,1,12,12.0,2
+583,2025,4592531,Ari Patu,QB,North Alabama,UAC,passing,18,5,1,0.278,0,57,3.2,2
+584,2025,4596472,Jalon Daniels,QB,Kansas,Big 12,passing,30,18,1,0.600,2,223,7.4,2
+585,2025,4597679,Luke Altmyer,QB,Illinois,Big Ten,passing,31,22,0,0.710,3,296,9.5,2
+586,2025,4600403,Braylon Braxton,QB,Southern Miss,Sun Belt,passing,30,20,0,0.667,3,214,7.1,2
+587,2025,4602923,Jaylen Henderson,QB,West Virginia,Big 12,passing,2,0,0,0.000,0,0,0.0,2
+588,2025,4602968,Nate Hampton,QB,Gardner-Webb,Big South-OVC,passing,9,6,0,0.667,1,45,5.0,2
+589,2025,4605998,Logan Fife,QB,New Mexico State,Conference USA,passing,44,27,0,0.614,2,248,5.6,2
+590,2025,4607891,Ryan Stubblefield,QB,South Carolina State,MEAC,passing,14,8,0,0.571,1,90,6.4,2
+591,2025,4610131,Parker Navarro,QB,Ohio,Mid-American,passing,31,22,3,0.710,1,247,8.0,2
+592,2025,4612078,JaCobian Morgan,QB,Jackson State,SWAC,passing,27,14,1,0.519,0,131,4.9,2
+593,2025,4678010,Kyron Drones,QB,Virginia Tech,ACC,passing,29,17,0,0.586,1,134,4.6,2
+594,2025,4682518,Nick Vattiato,QB,Middle Tennessee,Conference USA,passing,31,20,1,0.645,1,197,6.4,2
+595,2025,4683012,Eddie Lee Marburger,QB,UT Rio Grande Valley,Southland,passing,31,19,0,0.613,1,263,8.5,2
+596,2025,4683058,Brendan Sullivan,QB,Tulane,American Athletic,passing,3,3,0,1.000,0,40,13.3,2
+597,2025,4683291,Joey Labas,QB,Central Michigan,Mid-American,passing,14,11,0,0.786,1,89,6.4,2
+598,2025,4683311,Sam Vidlak,QB,Stephen F. Austin,Southland,passing,38,24,1,0.632,0,245,6.4,2
+599,2025,4683425,Glynn Johnson Jr,WR,New Mexico State,Conference USA,passing,1,1,0,1.000,0,4,4.0,2
+600,2025,4683471,Brady Olson,QB,Central Connecticut,NEC,passing,21,15,0,0.714,2,247,11.8,2
+601,2025,4684502,Justin Lamson,QB,Montana State,Big Sky,passing,28,18,0,0.643,0,123,4.4,2
+602,2025,4685252,Henry Belin IV,QB,Duke,ACC,passing,5,2,0,0.400,0,22,4.4,2
+603,2025,4685291,Jacurri Brown,QB,UCF,Big 12,passing,3,2,0,0.667,0,15,5.0,2
+604,2025,4685309,Braden Davis,QB,Hampton,CAA,passing,4,2,0,0.500,0,8,2.0,2
+605,2025,4685311,Jayden Denegal,QB,San Diego State,Mountain West,passing,30,15,0,0.500,1,133,4.4,2
+606,2025,4685334,A.J. Duffy,QB,New Haven,NEC,passing,35,18,1,0.514,1,183,5.2,2
+607,2025,4685345,JC French,QB,Georgia Southern,Sun Belt,passing,35,19,1,0.543,2,179,5.1,2
+608,2025,4685413,Cade Klubnik,QB,Clemson,ACC,passing,24,18,1,0.750,2,196,8.2,2
+609,2025,4685440,Kyle Lowe,QB,SE Louisiana,Southland,passing,8,6,0,0.750,0,45,5.6,2
+610,2025,4685454,Jayden Maiava,QB,USC,Big Ten,passing,24,16,0,0.667,4,412,17.2,2
+611,2025,4685459,Nicco Marchiol,QB,West Virginia,Big 12,passing,26,15,1,0.577,0,178,6.8,2
+612,2025,4685488,MJ Morris,QB,Coastal Carolina,Sun Belt,passing,22,13,3,0.591,0,102,4.6,2
+613,2025,4685497,Maalik Murphy,QB,Oregon State,Pac-12,passing,48,31,2,0.646,4,371,7.7,2
+614,2025,4685522,Ty Simpson,QB,Alabama,SEC,passing,17,17,0,1.000,3,226,13.3,2
+615,2025,4685542,Jayden Sauray,QB,Delaware State,MEAC,passing,2,1,0,0.500,0,9,4.5,2
+616,2025,4685574,Conner Weigman,QB,Houston,Big 12,passing,22,15,0,0.682,1,188,8.5,2
+617,2025,4685578,Gunner Stockton,QB,Georgia,SEC,passing,34,26,0,0.765,0,227,6.7,2
+618,2025,4685694,Steven Angeli,QB,Syracuse,ACC,passing,53,33,1,0.623,2,417,7.9,2
+619,2025,4685696,Beau Pribula,QB,Missouri,SEC,passing,39,30,0,0.769,3,334,8.6,2
+620,2025,4685697,Zion Turner,QB,Marshall,Sun Belt,passing,24,13,1,0.542,0,83,3.5,2
+621,2025,4685698,Destin Wade,QB,North Alabama,UAC,passing,18,8,0,0.444,2,103,5.7,2
+622,2025,4686848,Andy Peters,QB,St. Thomas (MN),Pioneer,passing,29,21,0,0.724,3,264,9.1,2
+623,2025,4688418,Michael Briscoe,WR,Cal Poly,Big Sky,passing,1,0,0,0.000,0,0,0.0,2
+624,2025,4689855,Isaiah Alston,WR,James Madison,Sun Belt,passing,1,0,0,0.000,0,0,0.0,2
+625,2025,4690158,Noah Kim,QB,Eastern Michigan,Mid-American,passing,29,18,0,0.621,2,189,6.5,2
+626,2025,4690811,Savion Red,RB,Sacramento State,Big Sky,passing,1,1,0,1.000,0,28,28.0,2
+627,2025,4691272,Stone Earle,QB,Abilene Christian,UAC,passing,34,23,0,0.676,0,239,7.0,2
+628,2025,4692052,Carter Peevy,QB,Maine,CAA,passing,27,13,1,0.481,2,97,3.6,2
+629,2025,4692530,Chandler Morris,QB,Virginia,ACC,passing,43,30,1,0.698,1,257,6.0,2
+630,2025,4694149,Walker Eget,QB,San José State,Mountain West,passing,42,21,1,0.500,0,188,4.5,2
+631,2025,4695113,Otto Kuhns,QB,Norfolk State,MEAC,passing,20,13,0,0.650,2,173,8.7,2
+632,2025,4695400,Mark Gronowski,QB,Iowa,Big Ten,passing,24,13,1,0.542,0,83,3.5,2
+633,2025,4695600,Bryson Barnes,QB,Utah State,Mountain West,passing,30,15,0,0.500,2,169,5.6,2
+634,2025,4695709,Devin Brown,QB,California,ACC,passing,2,2,0,1.000,1,27,13.5,2
+635,2025,4695784,Carson Camp,QB,SE Louisiana,Southland,passing,25,18,1,0.720,1,173,6.9,2
+636,2025,4695904,Matthew Sluka,QB,James Madison,Sun Belt,passing,5,3,1,0.600,0,35,7.0,2
+637,2025,4696065,Derek Robertson,QB,Monmouth,CAA,passing,43,29,1,0.674,6,342,8.0,2
+638,2025,4696880,Walker Harris,QB,North Carolina Central,MEAC,passing,26,13,2,0.500,0,102,3.9,2
+639,2025,4697094,DJ Williams,QB,Southern Illinois,MVFC,passing,33,20,0,0.606,1,202,6.1,2
+640,2025,4697131,Bronson Barron,QB,Southern Utah,UAC,passing,38,22,0,0.579,3,292,7.7,2
+641,2025,4697512,Robby Ashford,QB,Wake Forest,ACC,passing,22,13,1,0.591,1,227,10.3,2
+642,2025,4697625,Victor Gabalis,QB,Tarleton State,UAC,passing,27,20,0,0.741,5,295,10.9,2
+643,2025,4698250,Grant Harper,QB,UC Davis,Big Sky,passing,8,3,0,0.375,0,39,4.9,2
+644,2025,4700149,Rashad Rochelle,WR,Indiana State,MVFC,passing,1,1,0,1.000,0,23,23.0,2
+645,2025,4701075,Caleb Burke,WR,New Hampshire,CAA,passing,1,1,0,1.000,1,53,53.0,2
+646,2025,4702829,Braedyn Locke,QB,Arizona,Big 12,passing,4,2,0,0.500,0,11,2.8,2
+647,2025,4708067,Kai Horton,QB,Washington,Big Ten,passing,5,3,0,0.600,0,50,10.0,2
+648,2025,4709012,Jase Bauer,QB,UT Martin,Big South-OVC,passing,33,23,0,0.697,1,273,8.3,2
+649,2025,4710001,CJ Montes,QB,Kent State,Mid-American,passing,10,4,1,0.400,0,49,4.9,2
+650,2025,4714009,Myles Burkett,QB,Eastern Kentucky,UAC,passing,19,13,1,0.684,0,79,4.2,2
+651,2025,4714771,Drew Allar,QB,Penn State,Big Ten,passing,33,19,0,0.576,2,200,6.1,2
+652,2025,4715345,Devin Farrell,QB,Rhode Island,CAA,passing,34,20,0,0.588,2,316,9.3,2
+653,2025,4725514,Reggie Branch,RB,Missouri State,Conference USA,passing,1,1,0,1.000,0,29,29.0,2
+654,2025,4773919,Thomas Castellanos,QB,Florida State,ACC,passing,11,8,0,0.727,3,237,21.5,2
+655,2025,4775136,Owen McCown,QB,UTSA,American Athletic,passing,43,23,0,0.535,2,219,5.1,2
+656,2025,4777154,Tyler Riddell,QB,Duquesne,NEC,passing,20,15,0,0.750,5,239,12.0,2
+657,2025,4795295,Katin Houser,QB,East Carolina,American Athletic,passing,35,25,0,0.714,2,314,9.0,2
+658,2025,4801299,Rocco Becht,QB,Iowa State,Big 12,passing,27,18,0,0.667,1,134,5.0,2
+659,2025,4801301,Tevin Carter,QB,Prairie View A&M,SWAC,passing,10,6,0,0.600,0,48,4.8,2
+660,2025,4801302,Julian Calvez,QB,UT Martin,Big South-OVC,passing,3,1,0,0.333,0,22,7.3,2
+661,2025,4801306,Conner Harrell,QB,Charlotte,American Athletic,passing,29,17,0,0.586,0,140,4.8,2
+662,2025,4801307,Tayven Jackson,QB,UCF,Big 12,passing,21,12,0,0.571,0,189,9.0,2
+663,2025,4801717,Noah Fifita,QB,Arizona,Big 12,passing,22,17,0,0.773,5,373,17.0,2
+664,2025,4804885,Brandon Rose,QB,Massachusetts,Mid-American,passing,6,4,0,0.667,0,24,4.0,2
+665,2025,4812381,Gunnar Smith,QB,Fordham,Patriot,passing,49,27,1,0.551,3,382,7.8,2
+666,2025,4826635,Jaxon Dailey,QB,Northern Iowa,MVFC,passing,1,1,0,1.000,0,4,4.0,2
+667,2025,4832830,Joshua Wood,QB,Idaho,Big Sky,passing,25,20,1,0.800,3,281,11.2,2
+668,2025,4832918,Ethan Vasko,QB,Liberty,Conference USA,passing,29,19,1,0.655,2,335,11.6,2
+669,2025,4833597,Brayden Fowler-Nicolosi,QB,Colorado State,Mountain West,passing,25,13,1,0.520,0,132,5.3,2
+670,2025,4833635,Landy Lyddy,QB,Southern Miss,Sun Belt,passing,1,1,0,1.000,0,11,11.0,2
+671,2025,4836476,Davin Wydner,QB,West Georgia,UAC,passing,21,7,2,0.333,2,63,3.0,2
+672,2025,4837195,Luca Stanzani,QB,Long Island University,NEC,passing,18,12,0,0.667,0,143,7.9,2
+673,2025,4837248,Fernando Mendoza,QB,Indiana,Big Ten,passing,25,18,0,0.720,4,245,9.8,2
+674,2025,4838536,Tyler Hughes,QB,William & Mary,CAA,passing,19,13,0,0.684,2,129,6.8,2
+675,2025,4869553,Bishop Davenport,QB,South Alabama,Sun Belt,passing,24,17,0,0.708,2,231,9.6,2
+676,2025,4869817,Cole Pennington,QB,Gardner-Webb,Big South-OVC,passing,21,14,0,0.667,1,164,7.8,2
+677,2025,4869991,Caden Veltkamp,QB,Florida Atlantic,American Athletic,passing,39,27,0,0.692,5,309,7.9,2
+678,2025,4870513,Maddux Madsen,QB,Boise State,Mountain West,passing,26,16,0,0.615,2,307,11.8,2
+679,2025,4870607,Jackson Arnold,QB,Auburn,SEC,passing,28,24,0,0.857,3,251,9.0,2
+680,2025,4870786,Marco Lainez,QB,Elon,CAA,passing,5,1,0,0.200,0,11,2.2,2
+681,2025,4870793,Tad Hudson,QB,Coastal Carolina,Sun Belt,passing,5,3,0,0.600,0,37,7.4,2
+682,2025,4870799,Nico Iamaleava,QB,UCLA,Big Ten,passing,41,29,1,0.707,1,255,6.2,2
+683,2025,4870819,Eli Holstein,QB,Pittsburgh,ACC,passing,28,21,1,0.750,4,304,10.9,2
+684,2025,4870857,Avery Johnson,QB,Kansas State,Big 12,passing,25,15,1,0.600,1,172,6.9,2
+685,2025,4870889,Chris Parson,QB,Austin Peay,UAC,passing,23,16,1,0.696,0,151,6.6,2
+686,2025,4870900,Dylan Lonergan,QB,Boston College,ACC,passing,45,34,0,0.756,4,390,8.7,2
+687,2025,4870906,Arch Manning,QB,Texas,SEC,passing,30,19,1,0.633,4,295,9.8,2
+688,2025,4870909,Jaden Rashada,QB,Sacramento State,Big Sky,passing,5,2,0,0.400,0,39,7.8,2
+689,2025,4870921,Dante Moore,QB,Oregon,Big Ten,passing,21,16,0,0.762,3,266,12.7,2
+690,2025,4870928,Malachi Nelson,QB,UTEP,Conference USA,passing,26,14,0,0.538,4,278,10.7,2
+691,2025,4870971,Marcel Reed,QB,Texas A&M,SEC,passing,28,19,0,0.679,3,220,7.9,2
+692,2025,4871092,Dylan Wittke,QB,Minnesota,Big Ten,passing,3,1,1,0.333,0,7,2.3,2
+693,2025,4872721,Cardell Williams,QB,Sacramento State,Big Sky,passing,13,11,1,0.846,1,158,12.2,2
+694,2025,4875127,Lanorris Sellers,QB,South Carolina,SEC,passing,19,11,0,0.579,1,128,6.7,2
+695,2025,4875428,Jake Jensen,QB,Montana,Big Sky,passing,1,1,0,1.000,0,7,7.0,2
+696,2025,4875733,Pat McQuaide,QB,Villanova,CAA,passing,28,18,0,0.643,1,299,10.7,2
+697,2025,4875855,Ralph Rucker,QB,Bucknell,Patriot,passing,23,18,1,0.783,0,236,10.3,2
+698,2025,4876140,Kekoa Visperas,QB,Tennessee Tech,Big South-OVC,passing,27,18,1,0.667,2,240,8.9,2
+699,2025,4876865,Carter Cravens,QB,Morehead State,Pioneer,passing,28,14,1,0.500,1,134,4.8,2
+700,2025,4877211,Jace Wilson,QB,Tennessee Tech,Big South-OVC,passing,1,1,0,1.000,1,52,52.0,2
+701,2025,4877380,Quincy Crittendon,QB,Samford,Southern,passing,56,40,3,0.714,0,324,5.8,2
+702,2025,4877717,Matthew Caldwell,QB,Texas,SEC,passing,3,2,0,0.667,0,22,7.3,2
+703,2025,4877811,Billy Atkins,QB,South Carolina State,MEAC,passing,14,10,0,0.714,0,118,8.4,2
+704,2025,4877890,Kyle Wickersham,QB,Richmond,Patriot,passing,29,20,1,0.690,1,153,5.3,2
+705,2025,4878284,Tommy Rittenhouse,QB,Illinois State,MVFC,passing,13,8,1,0.615,2,81,6.2,2
+706,2025,4878293,Daniel Sobkowicz,WR,Illinois State,MVFC,passing,1,1,0,1.000,0,28,28.0,2
+707,2025,4878822,Jaylon Tolbert,QB,Alcorn State,SWAC,passing,33,23,0,0.697,1,168,5.1,2
+708,2025,4878833,Aiden Dunne,QB,Northern Iowa,MVFC,passing,2,0,0,0.000,0,0,0.0,2
+709,2025,4879058,Joe Pesansky,QB,Florida International,Conference USA,passing,5,3,0,0.600,0,22,4.4,2
+710,2025,4879250,Cole Payton,QB,North Dakota State,MVFC,passing,16,13,0,0.813,1,166,10.4,2
+711,2025,4879567,Trent Walker,WR,Oregon State,Pac-12,passing,1,1,0,1.000,0,17,17.0,2
+712,2025,4880272,Byrum Brown,QB,South Florida,American Athletic,passing,36,23,0,0.639,1,263,7.3,2
+713,2025,4880516,Jake Weir,QB,Houston Christian,Southland,passing,45,22,0,0.489,1,211,4.7,2
+714,2025,4880758,Chris Irvin,QB,Western Illinois,Big South-OVC,passing,18,5,1,0.278,0,27,1.5,2
+715,2025,4881352,Jack Shields,QB,UAlbany,CAA,passing,37,20,0,0.541,3,263,7.1,2
+716,2025,4883110,Grant Jordan,QB,Massachusetts,Mid-American,passing,22,13,1,0.591,0,205,9.3,2
+717,2025,4884392,Christopher Zellous,QB,Stony Brook,CAA,passing,20,12,1,0.600,0,137,6.9,2
+718,2025,4887151,Andrew Body,QB,Alabama State,SWAC,passing,25,16,0,0.640,2,198,7.9,2
+719,2025,4887446,Gevani McCoy,QB,Temple,American Athletic,passing,6,6,0,1.000,1,57,9.5,2
+720,2025,4891191,Christian Anaya,WR,Western Illinois,Big South-OVC,passing,1,1,0,1.000,0,31,31.0,2
+721,2025,4893657,Gavin Wimsatt,QB,Jacksonville State,Conference USA,passing,12,6,0,0.500,0,52,4.3,2
+722,2025,4899046,Brendan Sorsby,QB,Cincinnati,Big 12,passing,24,17,0,0.708,3,333,13.9,2
+723,2025,4899468,Kaden Anderson,QB,Wyoming,Mountain West,passing,23,17,0,0.739,2,167,7.3,2
+724,2025,4902963,Luther Richesson,QB,Central Arkansas,UAC,passing,25,18,1,0.720,3,283,11.3,2
+725,2025,4911929,Alonza Barnett,QB,James Madison,Sun Belt,passing,25,15,0,0.600,1,102,4.1,2
+726,2025,4912238,Turner Helton,QB,Georgia Southern,Sun Belt,passing,9,4,0,0.444,0,24,2.7,2
+727,2025,4912286,Iverson Hooks,WR,UAB,American Athletic,passing,1,1,0,1.000,0,17,17.0,2
+728,2025,4915622,Jake Strong,QB,McNeese,Southland,passing,30,19,1,0.633,0,191,6.4,2
+729,2025,4915837,Grayson Loftis,QB,Charlotte,American Athletic,passing,12,8,2,0.667,0,110,9.2,2
+730,2025,4915980,John Mateer,QB,Oklahoma,SEC,passing,34,21,1,0.618,1,270,7.9,2
+731,2025,4916436,E.J. Warner,QB,Fresno State,Mountain West,passing,18,13,1,0.722,0,121,6.7,2
+732,2025,4917093,Ryan Staub,QB,Colorado,Big 12,passing,10,7,0,0.700,2,157,15.7,2
+733,2025,4917305,Cam'Ron McCoy,QB,Southern,SWAC,passing,29,14,2,0.483,1,160,5.5,2
+734,2025,4920158,Brock Glenn,QB,Florida State,ACC,passing,3,3,0,1.000,1,56,18.7,2
+735,2025,4920196,Javance Tupou'ata-Johnson,QB,North Dakota,MVFC,passing,2,1,0,0.500,0,7,3.5,2
+736,2025,4920227,Giovanni Lopez,QB,North Carolina,ACC,passing,25,17,0,0.680,1,155,6.2,2
+737,2025,4923050,Israel Carter,QB,Norfolk State,MEAC,passing,16,10,0,0.625,0,80,5.0,2
+738,2025,4923267,Zane Flores,QB,Oklahoma State,Big 12,passing,19,7,2,0.368,0,67,3.5,2
+739,2025,4986096,Chase Jenkins,QB,Rice,American Athletic,passing,12,10,1,0.833,0,50,4.2,2
+740,2025,5027925,Jax Leatherwood,QB,Southeast Missouri State,Big South-OVC,passing,33,21,0,0.636,2,225,6.8,2
+741,2025,5044387,Anthony Colandrea,QB,UNLV,Mountain West,passing,21,15,0,0.714,3,203,9.7,2
+742,2025,5074245,Broc Lowry,QB,Western Michigan,Mid-American,passing,10,5,0,0.500,1,75,7.5,2
+743,2025,5075571,John-Keawe Sagapolutele,QB,Portland State,Big Sky,passing,17,11,2,0.647,1,146,8.6,2
+744,2025,5075592,Cal Swanson,QB,Holy Cross,Patriot,passing,15,8,1,0.533,0,95,6.3,2
+745,2025,5075800,Emory Williams,QB,Miami,ACC,passing,12,8,0,0.667,0,77,6.4,2
+746,2025,5075805,Aidan Chiles,QB,Michigan State,Big Ten,passing,29,19,0,0.655,4,231,8.0,2
+747,2025,5078278,Lincoln Kienholz,QB,Ohio State,Big Ten,passing,7,6,0,0.857,1,71,10.1,2
+748,2025,5078810,Sam Leavitt,QB,Arizona State,Big 12,passing,22,10,2,0.455,1,82,3.7,2
+749,2025,5079301,CJ Bailey,QB,NC State,ACC,passing,23,16,0,0.696,1,200,8.7,2
+750,2025,5079455,Josh Flowers,QB,Arkansas State,Sun Belt,passing,3,1,0,0.333,0,7,2.3,2
+751,2025,5079508,Austin Mack,QB,Alabama,SEC,passing,10,8,0,0.800,2,80,8.0,2
+752,2025,5079516,KJ Jackson,QB,Arkansas,SEC,passing,3,3,0,1.000,0,70,23.3,2
+753,2025,5079531,Jake Merklinger,QB,Tennessee,SEC,passing,14,9,0,0.643,2,118,8.4,2
+754,2025,5079533,Mabrey Mettauer,QB,Sam Houston,Conference USA,passing,18,12,1,0.667,0,91,5.1,2
+755,2025,5079555,D.J. Lagway,QB,Florida,SEC,passing,33,23,1,0.697,1,222,6.7,2
+756,2025,5079572,Dylan Raiola,QB,Nebraska,Big Ten,passing,31,24,0,0.774,4,364,11.7,2
+757,2025,5079628,John White,QB,Southern Miss,Sun Belt,passing,1,1,0,1.000,0,-1,-1.0,2
+758,2025,5079653,Demond Williams Jr.,QB,Washington,Big Ten,passing,25,16,0,0.640,1,254,10.2,2
+759,2025,5079679,Ryan Puglisi,QB,Georgia,SEC,passing,2,1,0,0.500,0,4,2.0,2
+760,2025,5079712,Julian Sayin,QB,Ohio State,Big Ten,passing,19,18,1,0.947,4,306,16.1,2
+761,2025,5080403,Jaylen Raynor,QB,Arkansas State,Sun Belt,passing,33,21,2,0.636,1,125,3.8,2
+762,2025,5081199,Devin Sherwood,QB,Youngstown State,MVFC,passing,8,8,0,1.000,0,47,5.9,2
+763,2025,5081405,AJ Swann,QB,App State,Sun Belt,passing,34,19,1,0.559,2,293,8.6,2
+764,2025,5081504,Blake Horvath,QB,Navy,American Athletic,passing,8,6,0,0.750,1,168,21.0,2
+765,2025,5081856,Nate Glantz,QB,Lindenwood,Big South-OVC,passing,36,20,2,0.556,1,217,6.0,2
+766,2025,5082005,Tyriq Starks,QB,Howard,MEAC,passing,14,7,0,0.500,1,34,2.4,2
+767,2025,5082142,Noah Short,WR,Army,American Athletic,passing,1,1,0,1.000,0,52,52.0,2
+768,2025,5082330,John Alan Richter,QB,Toledo,Mid-American,passing,9,5,1,0.556,1,46,5.1,2
+769,2025,5082965,Tommy Ulatowski,QB,Kennesaw State,Conference USA,passing,3,2,0,0.667,0,7,2.3,2
+770,2025,5083042,Skyler Locklear,QB,UTEP,Conference USA,passing,3,1,0,0.333,0,0,0.0,2
+771,2025,5083171,Jack Layne,QB,New Mexico,Mountain West,passing,21,13,0,0.619,0,155,7.4,2
+772,2025,5083268,Carson Jenkins,WR,William & Mary,CAA,passing,1,0,0,0.000,0,0,0.0,2
+773,2025,5083490,Ayden Pereira,QB,Merrimack,FCS Independents,passing,27,20,0,0.741,1,239,8.9,2
+774,2025,5083847,Dean DeNobile,QB,Lafayette,Patriot,passing,18,11,1,0.611,0,132,7.3,2
+775,2025,5083941,Collin Shannon,QB,VMI,Southern,passing,27,15,1,0.556,3,223,8.3,2
+776,2025,5084084,Kevin Jennings,QB,SMU,ACC,passing,22,16,1,0.727,3,295,13.4,2
+777,2025,5084180,Diego Pavia,QB,Vanderbilt,SEC,passing,18,12,1,0.667,2,193,10.7,2
+778,2025,5084769,Angel H Flores,QB,Central Michigan,Mid-American,passing,3,2,0,0.667,0,10,3.3,2
+779,2025,5085026,Keegan Patterson,QB,Indiana State,MVFC,passing,17,11,0,0.647,2,111,6.5,2
+780,2025,5085259,Ashton Frye,QB,Grambling,SWAC,passing,7,2,0,0.286,0,17,2.4,2
+781,2025,5085337,Keyone Jenkins,QB,Florida International,Conference USA,passing,28,15,1,0.536,0,127,4.5,2
+782,2025,5085644,Coulter Cleland,QB,Davidson,Pioneer,passing,25,10,0,0.400,1,81,3.2,2
+783,2025,5085754,Matthew Schecklman,QB,Northern Iowa,MVFC,passing,26,15,2,0.577,0,107,4.1,2
+784,2025,5085784,Chase Mason,QB,South Dakota State,MVFC,passing,25,17,0,0.680,3,190,7.6,2
+785,2025,5085941,Zach Osborne,QB,Colgate,Patriot,passing,30,15,0,0.500,2,239,8.0,2
+786,2025,5086156,Danny Lauter,QB,Georgetown,Patriot,passing,24,14,0,0.583,1,164,6.8,2
+787,2025,5087031,Reagan Andrew,QB,Butler,Pioneer,passing,17,14,0,0.824,2,156,9.2,2
+788,2025,5087034,Griffin Caldwell,RB,Butler,Pioneer,passing,1,1,0,1.000,1,24,24.0,2
+789,2025,5087156,Nathan Hayes,QB,North Dakota State,MVFC,passing,6,2,1,0.333,1,72,12.0,2
+790,2025,5087297,Ja'Shawn Scroggins,QB,Howard,MEAC,passing,5,1,1,0.200,0,5,1.0,2
+791,2025,5088334,Nick Whitfield Jr.,QB,St. Francis (PA),NEC,passing,27,17,0,0.630,0,111,4.1,2
+792,2025,5088960,Reggie Graff,QB,Utah Tech,UAC,passing,24,12,1,0.500,0,75,3.1,2
+793,2025,5088964,Sonny Mannino,QB,Marist,Pioneer,passing,42,22,1,0.524,1,229,5.5,2
+794,2025,5089335,Rowan Keefe,QB,Valparaiso,Pioneer,passing,19,15,3,0.789,0,153,8.1,2
+795,2025,5091836,Jaxon Potter,QB,Washington State,Pac-12,passing,42,28,0,0.667,3,257,6.1,2
+796,2025,5092275,Ty Dieffenbach,QB,Cal Poly,Big Sky,passing,9,6,1,0.667,0,82,9.1,2
+797,2025,5092348,Jaden Gibson,WR,Samford,Southern,passing,1,0,0,0.000,0,0,0.0,2
+798,2025,5093929,Eric Rodriguez,QB,East Texas A&M,Southland,passing,5,3,1,0.600,0,32,6.4,2
+799,2025,5095112,Zach Tanner,QB,Robert Morris,NEC,passing,29,16,0,0.552,2,192,6.6,2
+800,2025,5095771,Ethan Greenwood,QB,Long Island University,NEC,passing,5,3,0,0.600,0,105,21.0,2
+801,2025,5098448,Isaiah Freeman,QB,Hampton,CAA,passing,16,9,0,0.563,0,51,3.2,2
+802,2025,5104738,Ryan Browne,QB,Purdue,Big Ten,passing,23,14,1,0.609,2,170,7.4,2
+803,2025,5105334,Jackson Gilkey,QB,Weber State,Big Sky,passing,24,10,2,0.417,0,68,2.8,2
+804,2025,5105849,Devon Dampier,QB,Utah,Big 12,passing,23,17,0,0.739,3,192,8.3,2
+805,2025,5106897,Jack O'Connell,QB,Stonehill,NEC,passing,35,25,1,0.714,3,269,7.7,2
+806,2025,5109518,Beau Brungard,QB,Youngstown State,MVFC,passing,16,12,0,0.750,1,122,7.6,2
+807,2025,5113896,Cole Lacrue,QB,Eastern Illinois,Big South-OVC,passing,12,7,1,0.583,0,38,3.2,2
+808,2025,5119841,Dru Deshields,QB,Kent State,Mid-American,passing,15,7,0,0.467,1,116,7.7,2
+809,2025,5120906,Caleb Mccreary,QB,Tennessee State,Big South-OVC,passing,1,1,0,1.000,0,11,11.0,2
+810,2025,5121169,Darian Mensah,QB,Duke,ACC,passing,34,23,1,0.676,2,334,9.8,2
+811,2025,5121691,Blaze Berlowitz,QB,Vanderbilt,SEC,passing,2,2,0,1.000,1,35,17.5,2
+812,2025,5122054,Aidan Armenta,QB,UL Monroe,Sun Belt,passing,14,8,1,0.571,0,28,2.0,2
+813,2025,5122887,Luke Moga,QB,Oregon,Big Ten,passing,3,2,0,0.667,0,53,17.7,2
+814,2025,5125301,Carson Cruver,QB,Florida Atlantic,American Athletic,passing,2,0,0,0.000,0,0,0.0,2
+815,2025,5125715,Colton Joseph,QB,Old Dominion,Sun Belt,passing,24,19,0,0.792,3,257,10.7,2
+816,2025,5126468,Will Hammond,QB,Texas Tech,Big 12,passing,10,7,0,0.700,1,94,9.4,2
+817,2025,5126474,Danny O'Neil,QB,Wisconsin,Big Ten,passing,27,23,1,0.852,3,283,10.5,2
+818,2025,5132812,Aaron Philo,QB,Georgia Tech,ACC,passing,28,21,1,0.750,1,373,13.3,2
+819,2025,5138131,Deshawn Purdie,QB,Wake Forest,ACC,passing,4,3,0,0.750,1,42,10.5,2
+820,2025,5141367,Bear Bachmeier,QB,BYU,Big 12,passing,27,17,0,0.630,0,175,6.5,2
+821,2025,5141378,Cutter Boley,QB,Kentucky,SEC,passing,3,1,0,0.333,0,38,12.7,2
+822,2025,5141506,Deuce Knight,QB,Auburn,SEC,passing,5,2,0,0.400,0,20,4.0,2
+823,2025,5141556,TJ Lateef,QB,Nebraska,Big Ten,passing,7,6,0,0.857,0,128,18.3,2
+824,2025,5141563,Husan Longstreet,QB,USC,Big Ten,passing,6,4,0,0.667,0,34,5.7,2
+825,2025,5141571,George MacIntyre,QB,Tennessee,SEC,passing,7,6,0,0.857,0,52,7.4,2
+826,2025,5141629,Keelon Russell,QB,Alabama,SEC,passing,6,4,0,0.667,2,65,10.8,2
+827,2025,5141661,Kevin Sperry,QB,Florida State,ACC,passing,5,4,0,0.800,2,61,12.2,2
+828,2025,5141684,Austin Simmons,QB,Ole Miss,SEC,passing,24,13,2,0.542,0,235,9.8,2
+829,2025,5141695,Malik Washington,QB,Maryland,Big Ten,passing,35,19,0,0.543,2,254,7.3,2
+830,2025,5141741,Bryce Underwood,QB,Michigan,Big Ten,passing,24,9,0,0.375,0,142,5.9,2
+831,2025,5144959,Drake Lindsey,QB,Minnesota,Big Ten,passing,9,8,0,0.889,1,139,15.4,2
+832,2025,5145396,Miles O'Neill,QB,Texas A&M,SEC,passing,5,3,1,0.600,1,99,19.8,2
+833,2025,5146355,AJ Hairston,QB,Massachusetts,Mid-American,passing,4,3,0,0.750,0,28,7.0,2
+834,2025,5146575,Graham Knowles,QB,Georgia Tech,ACC,passing,1,1,0,1.000,1,84,84.0,2
+835,2025,5146661,Daniel Beale,QB,Louisiana,Sun Belt,passing,22,14,0,0.636,1,86,3.9,2
+836,2025,5146667,Khristian Martin,QB,Maryland,Big Ten,passing,1,0,0,0.000,0,0,0.0,2
+837,2025,5146824,Tavien St. Clair,QB,Ohio State,Big Ten,passing,2,0,0,0.000,0,0,0.0,2
+838,2025,5148427,Landyn Locke,QB,Sam Houston,Conference USA,passing,10,6,0,0.600,1,68,6.8,2
+839,2025,5148803,Brad Jackson,QB,Texas State,Sun Belt,passing,20,12,1,0.600,1,286,14.3,2
+840,2025,5149056,Jadyn Glasser,QB,Central Michigan,Mid-American,passing,9,7,0,0.778,0,78,8.7,2
+841,2025,5150297,Cale Hellums,QB,Army,American Athletic,passing,11,7,0,0.636,1,43,3.9,2
+842,2025,5150460,John Neider,WR,UConn,FBS Independents,passing,1,1,0,1.000,1,15,15.0,2
+843,2025,5150611,Jake Retzlaff,QB,Tulane,American Athletic,passing,24,13,0,0.542,1,125,5.2,2
+844,2025,5150663,Champ Long,QB,North Carolina A&T,CAA,passing,7,3,1,0.429,0,26,3.7,2
+845,2025,5150680,Max Shikenjanski,QB,Minnesota,Big Ten,passing,5,4,0,0.800,1,80,16.0,2
+846,2025,5150835,Michael Grant,QB,Florida State,ACC,passing,1,1,0,1.000,0,14,14.0,2
+847,2025,5150998,Blake Baker,QB,Louisiana Tech,Conference USA,passing,8,3,0,0.375,1,46,5.8,2
+848,2025,5151171,Will Burns,QB,Southern Utah,UAC,passing,2,2,0,1.000,0,36,18.0,2
+849,2025,5151339,Anthony Garcia,QB,Utah State,Mountain West,passing,1,1,0,1.000,1,3,3.0,2
+850,2025,5151366,Gunnar Gray,QB,Buffalo,Mid-American,passing,2,1,1,0.500,0,0,0.0,2
+851,2025,5151407,Jack Jacobs,QB,East Texas A&M,Southland,passing,3,2,0,0.667,0,43,14.3,2
+852,2025,5151506,Josh Holst,QB,Northern Illinois,Mid-American,passing,22,14,0,0.636,0,91,4.1,2
+853,2025,5151618,Kirk Francis,QB,Tulsa,American Athletic,passing,23,13,1,0.565,0,100,4.3,2
+854,2025,5151696,RJ Johnson III,QB,Florida A&M,SWAC,passing,28,18,0,0.643,2,222,7.9,2
+855,2025,5151948,Joey Aguilar,QB,Tennessee,SEC,passing,31,23,0,0.742,2,288,9.3,2
+856,2025,5152064,Caleb Koger,QB,Central Arkansas,UAC,passing,3,3,0,1.000,0,13,4.3,2
+857,2025,5152110,Nate Bell,QB,Eastern Washington,Big Sky,passing,9,5,1,0.556,0,74,8.2,2
+858,2025,5152118,Jared Taylor,QB,Eastern Washington,Big Sky,passing,28,14,0,0.500,0,102,3.6,2
+859,2025,5153708,Keali'i Ah Yat,QB,Montana,Big Sky,passing,24,14,2,0.583,2,250,10.4,2
+860,2025,5153782,Amari Odom,QB,Kennesaw State,Conference USA,passing,16,10,1,0.625,0,176,11.0,2
+861,2025,5153846,Nick Minicucci,QB,Delaware,Conference USA,passing,36,18,1,0.500,1,312,8.7,2
+862,2025,5154881,Bryce Schondelmyer,QB,Dayton,Pioneer,passing,22,15,0,0.682,2,110,5.0,2
+863,2025,5154962,Kamden Sixkiller,QB,Campbell,CAA,passing,25,18,0,0.720,0,121,4.8,2
+864,2025,5155100,Jeff Hoenstine,QB,St. Francis (PA),NEC,passing,4,1,0,0.250,0,4,1.0,2
+865,2025,5155321,Elijah Owens,QB,Indiana State,MVFC,passing,10,9,0,0.900,1,67,6.7,2
+866,2025,5155528,Jerry Kaminski,QB,North Dakota,MVFC,passing,21,14,0,0.667,4,164,7.8,2
+867,2025,5155579,Cameron Flowers,WR,Western Kentucky,Conference USA,passing,1,1,0,1.000,0,39,39.0,2
+868,2025,5156292,Czavian Teasett,QB,Grambling,SWAC,passing,15,9,1,0.600,0,55,3.7,2
+869,2025,5156751,Drew VanVleet,QB,Dayton,Pioneer,passing,5,3,0,0.600,1,43,8.6,2
+870,2025,5156755,Gavin Lochow,WR,Dayton,Pioneer,passing,1,1,0,1.000,0,18,18.0,2
+871,2025,5156994,Trey Drake,QB,North Dakota State,MVFC,passing,1,1,0,1.000,0,4,4.0,2
+872,2025,5157481,Collin Hurst,QB,Presbyterian,Pioneer,passing,41,26,3,0.634,5,275,6.7,2
+873,2025,5158127,Landon Graves,QB,UL Monroe,Sun Belt,passing,4,2,0,0.500,0,27,6.8,2
+874,2025,5158446,Brock Thomas,QB,Oregon,Big Ten,passing,1,0,0,0.000,0,0,0.0,2
+875,2025,5159016,Julian Lewis,QB,Colorado,Big 12,passing,4,2,0,0.500,0,8,2.0,2
+876,2025,5159275,Xavier Rice,QB,Duquesne,NEC,passing,2,1,0,0.500,0,2,1.0,2
+877,2025,5159350,Dylan Mauro,P,UC Davis,Big Sky,passing,1,1,0,1.000,0,27,27.0,2
+878,2025,5159360,James Tyre,WR,Western Carolina,Southern,passing,1,0,0,0.000,0,0,0.0,2
+879,2025,5159361,Bennett Judy,QB,Western Carolina,Southern,passing,32,18,1,0.563,0,155,4.8,2
+880,2025,5160730,Max Cutforth,QB,Boise State,Mountain West,passing,3,1,0,0.333,0,2,0.7,2
+881,2025,5162103,Brian Trobel,RB,Mercyhurst,NEC,passing,1,1,0,1.000,0,11,11.0,2
+882,2025,5163745,Jalyn Gramstad,QB,Nebraska,Big Ten,passing,2,2,0,1.000,0,2,1.0,2
+883,2025,5164313,Jaron-Keawe Sagapolutele,QB,California,ACC,passing,37,26,1,0.703,0,259,7.0,2
+884,2025,5164721,Zolten Osbourne,QB,Charleston Southern,Big South-OVC,passing,22,10,1,0.455,0,55,2.5,2
+885,2025,5165884,Dom Nankil,QB,San Diego,Pioneer,passing,16,6,0,0.375,1,64,4.0,2
+886,2025,5165911,John Michalski,QB,Sacred Heart,FCS Independents,passing,6,2,0,0.333,0,13,2.2,2
+887,2025,5166308,Adam Jones,RB,Montana State,Big Sky,passing,1,1,0,1.000,0,16,16.0,2
+888,2025,5168665,Chandler Wilson,QB,VMI,Southern,passing,5,1,0,0.200,0,1,0.2,2
+889,2025,5168808,Jordan Davis,QB,Texas Southern,SWAC,passing,1,1,0,1.000,0,3,3.0,2
+890,2025,5169036,Gavin Rutherford,QB,Stephen F. Austin,Southland,passing,1,1,0,1.000,1,3,3.0,2
+891,2025,5171031,Matt Vezza,QB,New Hampshire,CAA,passing,21,11,2,0.524,0,129,6.1,2
+892,2025,5172415,Dez Thomas II,QB,Georgetown,Patriot,passing,4,1,0,0.250,0,6,1.5,2
+893,2025,5191162,Alberto Mendoza,QB,Indiana,Big Ten,passing,3,3,0,1.000,1,35,11.7,2
+894,2025,5193343,Jim Ogle,QB,Murray State,MVFC,passing,39,25,2,0.641,1,254,6.5,2
+895,2025,5193346,Quinn Henicle,QB,Old Dominion,Sun Belt,passing,5,3,0,0.600,0,20,4.0,2
+896,2025,5193926,Cameran Brown,QB,Georgia State,Sun Belt,passing,12,8,0,0.667,1,139,11.6,2
+897,2025,5203716,Ethan Drumm,QB,Wofford,Southern,passing,25,12,0,0.480,0,111,4.4,2
+898,2025,5208095,Mason Heintschel,QB,Pittsburgh,ACC,passing,4,3,0,0.750,0,36,9.0,2
+899,2025,5212641,Weston Bryan,QB,Georgia Southern,Sun Belt,passing,1,1,0,1.000,1,32,32.0,2
+900,2025,5212705,Brady Stober,QB,Samford,Southern,passing,5,3,0,0.600,0,38,7.6,2
+901,2025,5215248,Jordan Magwood,QB,Florida Atlantic,American Athletic,passing,1,1,0,1.000,0,18,18.0,2
+902,2025,5215310,Chaston Ditta,QB,East Carolina,American Athletic,passing,4,3,0,0.750,1,36,9.0,2
+903,2025,5219586,Anthony Grigsby Jr.,QB,Cal Poly,Big Sky,passing,16,7,1,0.438,0,72,4.5,2
+904,2025,5219668,Michael Valentino,QB,Florida Atlantic,American Athletic,passing,1,0,0,0.000,0,0,0.0,2
+905,2025,5219834,Drew Mestemaker,QB,North Texas,American Athletic,passing,33,18,0,0.545,2,224,6.8,2
+906,2025,5219898,Drew Devillier,QB,Rice,American Athletic,passing,1,1,0,1.000,0,1,1.0,2
+907,2025,5220782,Brandon Nunez,QB,Mississippi Valley State,SWAC,passing,10,4,2,0.400,0,81,8.1,2
+908,2025,5223107,Quentin Hayes,QB,The Citadel,Southern,passing,2,1,0,0.500,1,13,6.5,2
+909,2025,5223904,Jackson Akins,QB,Cal Poly,Big Sky,passing,4,2,0,0.500,0,4,1.0,2
+910,2025,5224011,Baylor Hayes,QB,Tulsa,American Athletic,passing,17,14,1,0.824,1,135,7.9,2
+911,2025,5224084,Trey Hedden,QB,Furman,Southern,passing,40,29,2,0.725,1,263,6.6,2
+912,2025,5224464,Jarrin Alley,QB,Butler,Pioneer,passing,10,8,0,0.800,0,62,6.2,2
+913,2025,5224535,Casey Bullock,QB,Davidson,Pioneer,passing,5,2,0,0.400,0,12,2.4,2
+914,2025,5224562,Bronson Barben,QB,Utah Tech,UAC,passing,7,3,2,0.429,1,61,8.7,2
+915,2025,5224789,Landen Clark,QB,Elon,CAA,passing,24,15,0,0.625,3,247,10.3,2
+916,2025,5225271,Connor Wolf,QB,Eastern Illinois,Big South-OVC,passing,13,9,0,0.692,0,112,8.6,2
+917,2025,5225414,Ty Pennington,QB,Northern Arizona,Big Sky,passing,28,21,1,0.750,1,229,8.2,2
+918,2025,5225416,Tay Lanier,WR,Colorado State,Mountain West,passing,1,1,0,1.000,0,9,9.0,2
+919,2025,5225700,Jack Snyder,QB,Sacred Heart,FCS Independents,passing,20,14,0,0.700,0,94,4.7,2
+920,2025,5225799,Jason Penza,QB,Lafayette,Patriot,passing,1,1,0,1.000,0,18,18.0,2
+921,2025,5225837,Jordan Barton,QB,Wagner,NEC,passing,4,3,0,0.750,0,35,8.8,2
+922,2025,5225902,Hayden Johnson,QB,Lehigh,Patriot,passing,17,10,1,0.588,0,129,7.6,2
+923,2025,5225903,Matt Machalik,QB,Lehigh,Patriot,passing,1,1,0,1.000,0,8,8.0,2
+924,2025,5226019,Caden Pinnick,QB,UC Davis,Big Sky,passing,16,8,1,0.500,1,50,3.1,2
+925,2025,5226265,Brennan Myer,QB,Bryant,CAA,passing,44,22,2,0.500,3,318,7.2,2
+926,2025,5226397,Kael Alexander,QB,Stetson,Pioneer,passing,15,11,0,0.733,3,336,22.4,2
+927,2025,5226398,Gunner Chenier,QB,Stetson,Pioneer,passing,4,2,0,0.500,0,21,5.3,2
+928,2025,5226585,Abram Johnston,QB,Northwestern State,Southland,passing,11,6,2,0.545,0,10,0.9,2
+929,2025,5227106,Logan Kushner,QB,Duquesne,NEC,passing,7,6,0,0.857,0,66,9.4,2
+930,2025,5227302,Jack Stevens,QB,Wagner,NEC,passing,21,13,2,0.619,0,102,4.9,2
+931,2025,5227425,Parker Stofa,QB,Jackson State,SWAC,passing,1,0,1,0.000,0,0,0.0,2
+932,2025,5227430,Kobe Muasau,QB,Morgan State,MEAC,passing,28,17,1,0.607,1,214,7.6,2
+933,2025,5227557,Alex Gevaudan,QB,Mercyhurst,NEC,passing,5,4,1,0.800,0,23,4.6,2
+934,2025,5227561,Braydon Black,WR,Mercyhurst,NEC,passing,1,0,0,0.000,0,0,0.0,2
+935,2025,5227565,Adam Urena,QB,Mercyhurst,NEC,passing,28,22,0,0.786,2,344,12.3,2
+936,2025,5227681,Cameron Peters,QB,Prairie View A&M,SWAC,passing,16,8,0,0.500,0,64,4.0,2
+937,2025,5227685,Rodny Ojo,WR,Prairie View A&M,SWAC,passing,1,1,0,1.000,0,25,25.0,2
+938,2025,5227699,Beckham Pellant,QB,Illinois State,MVFC,passing,9,4,0,0.444,1,61,6.8,2
+939,2025,5230073,Cobey Thompkins,QB,The Citadel,Southern,passing,11,9,0,0.818,1,155,14.1,2
+940,2025,5230099,Will Madonna,QB,East Texas A&M,Southland,passing,5,2,1,0.400,0,17,3.4,2
+941,2025,5230240,Mason Bray,QB,Arizona,Big 12,passing,2,1,0,0.500,0,22,11.0,2
+942,2025,5231037,Isaac Lee,QB,Western Carolina,Southern,passing,10,8,0,0.800,0,49,4.9,2
+943,2025,5231101,Jonathan Palmer,QB,Tennessee State,Big South-OVC,passing,13,5,0,0.385,0,38,2.9,2
+944,2025,5232131,KJ Cooper,QB,Texas Southern,SWAC,passing,35,19,1,0.543,0,137,3.9,2
+945,2025,5233879,Josh Brown,QB,Mississippi Valley State,SWAC,passing,19,10,1,0.526,0,113,5.9,2
+946,2025,5294263,Byrd Ficklin,QB,Utah,Big 12,passing,4,4,0,1.000,0,53,13.3,2
+947,2025,5295238,Luke Weaver,QB,Hawai'i,Mountain West,passing,43,27,1,0.628,3,294,6.8,2
+948,2025,5295969,Brady Hart,QB,Texas A&M,SEC,passing,1,0,0,0.000,0,0,0.0,2
+949,2025,5296163,Brady Jones,QB,Western Michigan,Mid-American,passing,4,2,0,0.500,0,12,3.0,2
+950,2025,5296376,Trey Kukuk,QB,Louisiana Tech,Conference USA,passing,18,12,0,0.667,0,50,2.8,2
+951,2025,5296411,Stanley Anderson-Lofton,QB,Middle Tennessee,Conference USA,passing,1,1,0,1.000,0,11,11.0,2
+952,2025,5296610,Tama Amisone,QB,San José State,Mountain West,passing,1,0,0,0.000,0,0,0.0,2
+953,2025,5296625,Landon Sims,QB,Wyoming,Mountain West,passing,3,3,0,1.000,0,23,7.7,2
+954,2025,5298787,Byron McNair,QB,Tennessee State,Big South-OVC,passing,4,2,1,0.500,0,12,3.0,2
+955,2025,5298853,Treynor Cleeland,QB,UC Davis,Big Sky,passing,3,2,0,0.667,0,26,8.7,2
+956,2025,5298896,Will O'Dell,QB,Marist,Pioneer,passing,4,4,0,1.000,0,33,8.3,2
+957,2025,5299305,Jalen Ferguson,QB,Campbell,CAA,passing,8,3,0,0.375,0,24,3.0,2
+958,2025,5299364,Cason Carswell,QB,Western Illinois,Big South-OVC,passing,8,6,0,0.750,1,52,6.5,2
+959,2025,5300202,JaShawn Todd,RB,St. Thomas (MN),Pioneer,passing,1,0,0,0.000,0,0,0.0,2
+960,2025,5300801,Eric Gibson Jr.,QB,Northern Colorado,Big Sky,passing,28,17,1,0.607,0,160,5.7,2
+961,2025,5301056,Jy Walls,QB,North Carolina A&T,CAA,passing,4,2,0,0.500,0,14,3.5,2
+962,2025,5301193,Terrell Russell,QB,Howard,MEAC,passing,1,0,0,0.000,0,0,0.0,2
+963,2025,5301318,Garrett Sanford,DL,Murray State,MVFC,passing,1,1,0,1.000,0,5,5.0,2
+964,2025,5301657,Andrew Indorf,QB,Towson,CAA,passing,23,18,0,0.783,1,186,8.1,2
+965,2025,5301816,Jett Peddy,QB,Florida A&M,SWAC,passing,7,1,0,0.143,0,5,0.7,2
+966,2025,5301875,Jackson Byrd,QB,East Tennessee State,Southern,passing,1,1,0,1.000,0,6,6.0,2
+967,2025,5302454,Eli Anderson,QB,Northwestern State,Southland,passing,4,3,0,0.750,0,13,3.3,2
+968,2025,5303362,Christian Peters,QB,Arkansas-Pine Bluff,SWAC,passing,36,18,0,0.500,1,228,6.3,2

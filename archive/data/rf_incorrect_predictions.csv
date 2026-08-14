@@ -1,0 +1,32 @@
+homeAway,talent,actual_win,team,log_reg_pred,rf_pred,log_reg_correct,rf_correct
+0.0,599.12,1,Liberty,1,0,True,False
+0.0,0.0,1,Youngstown State,0,0,False,False
+0.0,481.16,1,Central Michigan,1,0,True,False
+0.0,242.85,1,Delaware,0,0,False,False
+0.0,766.62,0,UCLA,1,1,False,False
+0.0,526.3,0,Charlotte,1,1,False,False
+0.0,0.0,1,Nicholls,0,0,False,False
+0.0,0.0,1,Drake,0,0,False,False
+0.0,707.27,0,Stanford,1,1,False,False
+0.0,681.21,1,Pittsburgh,1,0,True,False
+0.0,0.0,1,Marist,0,0,False,False
+0.0,0.0,1,Northern Iowa,0,0,False,False
+0.0,592.1,0,Miami (OH),1,1,False,False
+0.0,1002.98,1,Georgia,1,0,True,False
+0.0,0.0,1,Prairie View A&M,0,0,False,False
+0.0,0.0,1,Tennessee State,0,0,False,False
+0.0,0.0,1,St. Thomas (MN),0,0,False,False
+0.0,0.0,1,Stetson,0,0,False,False
+0.0,667.99,0,Oregon State,1,1,False,False
+0.0,0.0,1,UT Rio Grande Valley,0,0,False,False
+0.0,402.9,1,New Mexico State,1,0,True,False
+0.0,973.69,1,Ohio State,1,0,True,False
+0.0,726.3,0,Baylor,1,1,False,False
+0.0,0.0,1,Houston Christian,0,0,False,False
+0.0,627.16,1,Wake Forest,1,0,True,False
+0.0,426.1,0,Missouri State,1,1,False,False
+0.0,0.0,1,Presbyterian,0,0,False,False
+0.0,0.0,1,Tarleton State,0,0,False,False
+0.0,0.0,1,West Georgia,0,0,False,False
+0.0,0.0,1,Rhode Island,0,0,False,False
+0.0,0.0,1,Navy,0,0,False,False
