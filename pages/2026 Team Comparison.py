@@ -1,6 +1,10 @@
 # app.py
 import streamlit as st
 import pandas as pd
+from style import apply_style, ACCENT
+
+st.set_page_config(page_title="Team Comparison Tool", page_icon="🏈", layout="wide")
+apply_style()
 
 Roster_2024=pd.read_csv("Roster_2024.csv")
 Roster_2025=pd.read_csv("Roster_2025.csv")

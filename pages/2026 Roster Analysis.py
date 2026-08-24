@@ -5,6 +5,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 import warnings
+from style import apply_style, ACCENT, CHART_SEQUENCE
 warnings.filterwarnings('ignore')
 
 # Page configuration
@@ -14,6 +15,7 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="expanded"
 )
+apply_style()
 
 st.title("🏈 College Football Roster Turnover Analyzer")
 st.markdown("*Analyze roster changes, production loss/gain, and team comparisons*")
@@ -254,16 +256,16 @@ def main():
         st.error("Could not load data files. Please ensure all CSV files are in the correct location.")
         return
     
-    # Sidebar controls
-    st.sidebar.header("Team Selection")
-    
+    # Team selection (main page)
     # Get unique teams and their logos
     all_teams = sorted(roster_2025['team'].unique())
-    
+
     # Create a logo dictionary for easy lookup
     logo_dict = dict(zip(teams['school'], teams['logos']))
-    
-    selected_team = st.sidebar.selectbox("Select Team", all_teams, index=0)
+
+    select_col, _ = st.columns([1, 3])
+    with select_col:
+        selected_team = st.selectbox("Select Team", all_teams, index=0)
     
     # Display team logo at the top
     if selected_team in logo_dict:

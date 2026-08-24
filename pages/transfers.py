@@ -2,8 +2,10 @@ import streamlit as st
 import pandas as pd
 import plotly.graph_objects as go
 import plotly.express as px
+from style import apply_style, ACCENT
 
-st.set_page_config(page_title="Transfer Portal Sankey", layout="wide")
+st.set_page_config(page_title="Transfer Portal Sankey", page_icon="🏈", layout="wide")
+apply_style()
 
 st.title("🏈 Transfer Portal Movement (2026)")
 

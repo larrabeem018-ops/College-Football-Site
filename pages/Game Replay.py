@@ -2,6 +2,10 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
+from style import apply_style, ACCENT
+
+st.set_page_config(page_title="Game Drive Visualizer", page_icon="🏈", layout="wide")
+apply_style()
 
 # --- Load Data ---
 @st.cache_data

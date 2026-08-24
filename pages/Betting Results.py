@@ -3,6 +3,10 @@ import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 import streamlit as st
+from style import apply_style, ACCENT, CHART_SEQUENCE
+
+st.set_page_config(page_title="Betting Results & ATS", page_icon="🏈", layout="wide")
+apply_style()
 
 # -----------------------------
 # Load Data

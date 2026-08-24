@@ -1,16 +1,29 @@
-import streamlit as st 
+import streamlit as st
 import pandas as pd
 import plotly.graph_objects as go
 import os
+from style import apply_style, ACCENT, CHART_SEQUENCE
 # Configure Streamlit page
-st.set_page_config(page_title="QB Comparison Tool", layout="wide")
+st.set_page_config(page_title="QB Comparison Tool", page_icon="🏈", layout="wide")
+apply_style()
 
 # Load data
 df = pd.read_csv("data/QB_Stats/2025_QBstats.csv")
 team_info = pd.read_csv("data/team_info.csv")
+roster = pd.read_csv("data/Roster_2025.csv")
 
 # Merge team info into QB data (match on team name, not player id vs team id)
 df = df.merge(team_info[['school', 'logos']], left_on='team', right_on='school', how='left')
+
+# 2026 roster QBs that have stats available to compare (matched by player id,
+# since a QB's current/2026 team can differ from the team on their stat row
+# if they transferred).
+roster_qbs = roster[roster['position'] == 'QB'][['id', 'firstName', 'lastName', 'team']].copy()
+roster_qbs['full_name'] = roster_qbs['firstName'] + ' ' + roster_qbs['lastName']
+roster_qbs = roster_qbs.merge(
+    df[['player_id', 'player_name']].drop_duplicates(),
+    left_on='id', right_on='player_id', how='inner',
+)
 
 # Define metrics
 metrics = ['att', 'qbr', 'yds', 'td', 'int']
@@ -22,10 +35,26 @@ for col in metrics:
         df_norm[col] = df_norm[col].max() - df_norm[col]
     df_norm[col] = (df_norm[col] - df_norm[col].min()) / (df_norm[col].max() - df_norm[col].min())
 
-# Sidebar selections
-st.sidebar.title("🏈 Compare Quarterbacks")
-qb1 = st.sidebar.selectbox("Select QB 1", df['player_name'], index=0)
-qb2 = st.sidebar.selectbox("Select QB 2", df['player_name'], index=1)
+# QB selections (main page) — look up by team from the 2026 roster, then
+# pick the quarterback on that team.
+st.title("🏈 Compare Quarterbacks")
+st.caption("Pick a team to see the quarterbacks on its 2026 roster with stats available to compare.")
+
+team_options = sorted(roster_qbs['team'].unique())
+
+qb_col1, qb_col2 = st.columns(2)
+with qb_col1:
+    team1 = st.selectbox("Team", team_options, index=0, key="qb_team1")
+    team1_qbs = roster_qbs[roster_qbs['team'] == team1]
+    qb1_full_name = st.selectbox("Quarterback", team1_qbs['full_name'], key="qb1_name")
+    qb1 = team1_qbs.loc[team1_qbs['full_name'] == qb1_full_name, 'player_name'].iloc[0]
+with qb_col2:
+    default_team2_index = 1 if len(team_options) > 1 else 0
+    team2 = st.selectbox("Team", team_options, index=default_team2_index, key="qb_team2")
+    team2_qbs = roster_qbs[roster_qbs['team'] == team2]
+    default_qb2_index = 1 if (team2 == team1 and len(team2_qbs) > 1) else 0
+    qb2_full_name = st.selectbox("Quarterback", team2_qbs['full_name'], index=default_qb2_index, key="qb2_name")
+    qb2 = team2_qbs.loc[team2_qbs['full_name'] == qb2_full_name, 'player_name'].iloc[0]
 
 # Avoid same QB selection
 if qb1 == qb2:
@@ -69,12 +98,21 @@ with col3:
 
 # Radar chart
 fig = go.Figure()
-fig.add_trace(go.Scatterpolar(r=radar1, theta=metrics, fill='toself', name=qb1))
-fig.add_trace(go.Scatterpolar(r=radar2, theta=metrics, fill='toself', name=qb2))
+fig.add_trace(go.Scatterpolar(
+    r=radar1, theta=metrics, fill='toself', name=qb1,
+    line_color=CHART_SEQUENCE[0], fillcolor="rgba(0,116,36,0.25)",
+))
+fig.add_trace(go.Scatterpolar(
+    r=radar2, theta=metrics, fill='toself', name=qb2,
+    line_color=CHART_SEQUENCE[1], fillcolor="rgba(95,93,89,0.20)",
+))
 fig.update_layout(
-    title="🎯 QB Radar Comparison",
+    title="QB Radar Comparison",
     polar=dict(radialaxis=dict(visible=True, range=[0, 1])),
-    showlegend=True
+    showlegend=True,
+    font=dict(family="Manrope, sans-serif"),
+    paper_bgcolor="#FBFAF8",
+    plot_bgcolor="#FBFAF8",
 )
 
 st.plotly_chart(fig, use_container_width=True)
