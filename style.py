@@ -161,6 +161,30 @@ def apply_style():
             padding-top: 18px; margin-top: 32px;
             display: flex; justify-content: space-between; flex-wrap: wrap; gap: 8px;
         }}
+
+        /* Weekly Preview: matchup stat-comparison table */
+        .cfb-stat-table {{
+            width: 100%; border-collapse: collapse; margin-top: 10px; font-size: 13.5px;
+        }}
+        .cfb-stat-table th {{
+            font-family: 'Spectral', serif; font-weight: 600; color: {TEXT_PRIMARY};
+            text-align: center; padding: 4px 8px 8px; border-bottom: 1px solid {BORDER};
+        }}
+        .cfb-stat-table td {{
+            text-align: center; padding: 7px 8px; border-bottom: 1px solid {BORDER};
+            color: {TEXT_BODY}; width: 30%;
+        }}
+        .cfb-stat-table td.cfb-stat-label-cell {{
+            width: 40%; color: {TEXT_SECONDARY}; font-size: 12.5px;
+        }}
+        .cfb-stat-table td.cfb-stat-better {{
+            color: {ACCENT}; font-weight: 700;
+        }}
+        .cfb-pill {{
+            display: inline-block; background: {ACCENT_TINT}; color: {ACCENT};
+            font-size: 12px; font-weight: 600; padding: 3px 10px; border-radius: 999px;
+            margin: 4px 0;
+        }}
         </style>
         """
     )

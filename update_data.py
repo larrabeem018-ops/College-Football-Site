@@ -20,16 +20,30 @@ rolls everything forward for the 2026 season:
         -> finalized for the complete 2025 season (2026 games haven't happened yet,
            so there's nothing to pull there until the season kicks off)
 
+    Team season stats (offense + defense) and weekly schedule/spreads
+        -> power the "Weekly Preview" page. Team stats default to the completed
+           2025 season (last year's numbers, since 2026 hasn't kicked off);
+           re-run with --season-stats-year 2026 once games start this season to
+           switch the preview over to in-season numbers. The weekly schedule +
+           opening spreads are pulled on demand with --week N.
+
 File names are left exactly as the app already expects them (Roster_2024.csv,
 Roster_2025.csv, etc.) so none of the Streamlit pages need to change -- only
 the *contents* move forward a year. Comments below call out each mapping.
 
 USAGE (run this locally -- it needs real internet access):
     pip install requests pandas
-    python update_data.py                 # pulls everything
-    python update_data.py --skip-qb       # skip the (slower) per-week QB pull
-    python update_data.py --skip-plays    # skip the week-1 play-by-play pull
-    python update_data.py --skip-lines    # skip betting lines
+    python update_data.py                       # pulls everything except this week's schedule
+    python update_data.py --week 1               # also pulls Week 1's schedule + opening spreads
+                                                    # (FBS games only by default -- add
+                                                    # --all-classifications for every NCAA game)
+    python update_data.py --skip-qb               # skip the (slower) per-week QB pull
+    python update_data.py --skip-plays             # skip the week-1 play-by-play pull
+    python update_data.py --skip-lines              # skip full-season betting lines
+    python update_data.py --skip-team-stats           # skip team season offense/defense stats
+    python update_data.py --season-stats-year 2026      # once 2026 games exist, refresh
+                                                           # team season stats from this season
+                                                           # instead of the 2025 default
 
 A CFBD API key is required, set via an environment variable (never hardcoded
 in source, so it's safe to put this project on GitHub):
@@ -352,6 +366,236 @@ def fetch_week1_plays():
 
 
 # ---------------------------------------------------------------------------
+# 10) Team game & season stats (offense + defense splits) -- powers the
+#     "Weekly Preview" page's stat comparison (yards/gm, points/gm, 3rd down
+#     %, yards & points allowed, turnovers forced, turnover margin).
+#
+#     /games/teams returns two rows per game (one per team), each holding
+#     that TEAM'S OWN offensive output for the game. There's no separate
+#     "defense" endpoint -- a team's defensive numbers for a game are just
+#     the opponent's offensive row for that same game, so
+#     build_team_season_stats looks the opponent row up rather than fetching
+#     anything extra.
+# ---------------------------------------------------------------------------
+
+def extract_team_game_row(game, team_obj, opponent_obj):
+    stats = {s.get("category"): s.get("stat") for s in team_obj.get("stats", [])}
+
+    def num(key, default=0.0):
+        v = stats.get(key)
+        if v in (None, "", "--"):
+            return default
+        try:
+            return float(v)
+        except (TypeError, ValueError):
+            return default
+
+    def frac(key):
+        """Parse a 'made-attempted' stat like thirdDownEff: '6-13' -> (6.0, 13.0)."""
+        v = stats.get(key)
+        if not v or "-" not in str(v):
+            return 0.0, 0.0
+        made, att = str(v).split("-", 1)
+        try:
+            return float(made), float(att)
+        except ValueError:
+            return 0.0, 0.0
+
+    third_made, third_att = frac("thirdDownEff")
+
+    return {
+        "gameId": game.get("id"),
+        "week": game.get("week"),
+        "team": team_obj.get("team"),
+        "conference": team_obj.get("conference"),
+        "opponent": opponent_obj.get("team") if opponent_obj else None,
+        "homeAway": team_obj.get("homeAway"),
+        "points": team_obj.get("points") if team_obj.get("points") is not None else 0,
+        "totalYards": num("totalYards"),
+        "thirdDownMade": third_made,
+        "thirdDownAtt": third_att,
+        "turnovers": num("turnovers"),
+    }
+
+
+def fetch_team_game_stats(year, max_week=15):
+    section(f"Team game stats ({year} full season, offense + allowed)")
+    rows = []
+    for week in range(1, max_week + 1):
+        try:
+            games_json = get("/games/teams", year=year, week=week, seasonType="regular")
+        except RuntimeError as e:
+            print(f"  week {week}: {e}")
+            continue
+        if not games_json:
+            print(f"  week {week}: no data (season likely ended before this week)")
+            continue
+        week_rows = 0
+        for game in games_json:
+            teams = game.get("teams", [])
+            if len(teams) != 2:
+                continue
+            a, b = teams
+            rows.append(extract_team_game_row(game, a, b))
+            rows.append(extract_team_game_row(game, b, a))
+            week_rows += 2
+        print(f"  week {week}: {week_rows} team-game rows")
+
+    long_df = pd.DataFrame(rows)
+    save(long_df, f"data/team_game_stats_{year}.csv")
+    return long_df
+
+
+def build_team_season_stats(long_df, year):
+    """Aggregate the per-game long table into one row per team: offensive
+    per-game averages plus 'allowed'/'forced' defensive numbers pulled from
+    the opponent's row in the same game."""
+    section(f"Team season stats ({year}, offense + defense splits)")
+    if long_df.empty:
+        print("  No team game stats available -- skipping.")
+        return pd.DataFrame()
+
+    df = long_df.copy()
+    opp_index = df.set_index(["gameId", "team"])
+
+    def opponent_row(row):
+        try:
+            return opp_index.loc[(row["gameId"], row["opponent"])]
+        except KeyError:
+            return None
+
+    points_allowed, yards_allowed, turnovers_forced = [], [], []
+    def_third_made, def_third_att = [], []
+    for _, row in df.iterrows():
+        orow = opponent_row(row)
+        if orow is None:
+            points_allowed.append(None)
+            yards_allowed.append(None)
+            turnovers_forced.append(None)
+            def_third_made.append(None)
+            def_third_att.append(None)
+        else:
+            points_allowed.append(orow["points"])
+            yards_allowed.append(orow["totalYards"])
+            turnovers_forced.append(orow["turnovers"])  # opponent's own turnovers = ones this team forced
+            def_third_made.append(orow["thirdDownMade"])
+            def_third_att.append(orow["thirdDownAtt"])
+
+    df["points_allowed"] = points_allowed
+    df["yards_allowed"] = yards_allowed
+    df["turnovers_forced"] = turnovers_forced
+    df["def_third_made"] = def_third_made
+    df["def_third_att"] = def_third_att
+
+    agg = df.groupby("team").agg(
+        games=("gameId", "nunique"),
+        off_points_total=("points", "sum"),
+        off_yards_total=("totalYards", "sum"),
+        off_third_made=("thirdDownMade", "sum"),
+        off_third_att=("thirdDownAtt", "sum"),
+        turnovers_committed_total=("turnovers", "sum"),
+        def_points_total=("points_allowed", "sum"),
+        def_yards_total=("yards_allowed", "sum"),
+        turnovers_forced_total=("turnovers_forced", "sum"),
+        def_third_made_total=("def_third_made", "sum"),
+        def_third_att_total=("def_third_att", "sum"),
+    ).reset_index()
+
+    g = agg["games"].replace(0, pd.NA)
+    season = pd.DataFrame({
+        "team": agg["team"],
+        "games": agg["games"],
+        "off_points_pg": agg["off_points_total"] / g,
+        "off_yards_pg": agg["off_yards_total"] / g,
+        "off_third_down_pct": (agg["off_third_made"] / agg["off_third_att"].replace(0, pd.NA) * 100).fillna(0),
+        "def_points_pg": agg["def_points_total"] / g,
+        "def_yards_pg": agg["def_yards_total"] / g,
+        "def_third_down_pct": (agg["def_third_made_total"] / agg["def_third_att_total"].replace(0, pd.NA) * 100).fillna(0),
+        "turnovers_committed_pg": agg["turnovers_committed_total"] / g,
+        "turnovers_forced_pg": agg["turnovers_forced_total"] / g,
+    })
+    season["turnover_margin_pg"] = season["turnovers_forced_pg"] - season["turnovers_committed_pg"]
+    season = season.round(2)
+
+    save(season, f"data/team_season_stats_{year}.csv")
+    return season
+
+
+# ---------------------------------------------------------------------------
+# 11) Weekly schedule + opening spreads -- one week at a time, on demand
+#     (pass --week N). Powers the matchup list on the "Weekly Preview" page.
+# ---------------------------------------------------------------------------
+
+def load_fbs_teams():
+    """FBS team names, for filtering the weekly schedule down to FBS games.
+    Reads data/teams.csv, which fetch_teams() always refreshes earlier in
+    main() -- so this is normally guaranteed fresh. Returns None (meaning
+    "don't filter") if that file isn't available for some reason, rather
+    than failing the whole schedule pull."""
+    try:
+        teams = pd.read_csv("data/teams.csv")
+        return set(teams.loc[teams["classification"].str.lower() == "fbs", "school"])
+    except Exception as e:
+        print(f"  Could not load FBS team list from data/teams.csv ({e}) -- schedule will include all classifications.")
+        return None
+
+
+def fetch_week_games(week, year=None, fbs_only=True):
+    """fbs_only=True (default) keeps games where at least one team is FBS --
+    i.e. the normal "FBS schedule" for the week, including week-1 buy games
+    against an FCS/DII opponent. Set False to pull every NCAA game (FBS
+    through DIII), or filter further yourself afterward for FBS-vs-FBS only."""
+    year = year or UPCOMING_SEASON
+    section(f"Week {week} schedule & opening lines ({year})")
+    try:
+        games = get("/games", year=year, week=week, seasonType="regular")
+    except RuntimeError as e:
+        print(f"  games fetch failed: {e}")
+        return pd.DataFrame()
+
+    sched = pd.json_normalize(games)
+    keep = [c for c in [
+        "id", "week", "startDate", "startTimeTBD", "homeTeam", "homeConference",
+        "awayTeam", "awayConference", "venue", "neutralSite",
+    ] if c in sched.columns]
+    sched = sched[keep].rename(columns={"id": "gameId"})
+
+    if fbs_only:
+        fbs_teams = load_fbs_teams()
+        if fbs_teams:
+            before = len(sched)
+            sched = sched[sched["homeTeam"].isin(fbs_teams) | sched["awayTeam"].isin(fbs_teams)].copy()
+            print(f"  filtered to FBS games: {len(sched)} of {before} (at least one team is FBS)")
+
+    try:
+        lines = get("/lines", year=year, week=week, seasonType="regular")
+    except RuntimeError as e:
+        print(f"  lines fetch failed: {e}")
+        lines = []
+
+    line_rows = []
+    for g in lines:
+        game_lines = g.get("lines", [])
+        chosen = next((l for l in game_lines if l.get("provider") == "ESPN Bet"), None)
+        chosen = chosen or (game_lines[0] if game_lines else None)
+        if not chosen:
+            continue
+        line_rows.append({
+            "gameId": g.get("id"),
+            "spread": chosen.get("spread"),
+            "formattedSpread": chosen.get("formattedSpread"),
+            "overUnder": chosen.get("overUnder"),
+            "homeMoneyline": chosen.get("homeMoneyline"),
+            "awayMoneyline": chosen.get("awayMoneyline"),
+        })
+    line_df = pd.DataFrame(line_rows)
+
+    merged = sched.merge(line_df, on="gameId", how="left") if not line_df.empty else sched
+    save(merged, f"data/schedule/week_{week}_games_{year}.csv")
+    return merged
+
+
+# ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
 
@@ -359,7 +603,23 @@ def main():
     parser = argparse.ArgumentParser(description="Refresh CFB Analytics Hub data")
     parser.add_argument("--skip-qb", action="store_true", help="skip per-week QB stats pull")
     parser.add_argument("--skip-plays", action="store_true", help="skip week-1 play-by-play pull")
-    parser.add_argument("--skip-lines", action="store_true", help="skip betting lines pull")
+    parser.add_argument("--skip-lines", action="store_true", help="skip full-season betting lines pull")
+    parser.add_argument("--skip-team-stats", action="store_true", help="skip team season offense/defense stats pull")
+    parser.add_argument(
+        "--season-stats-year", type=int, default=None,
+        help="pull team season stats for this year instead of the default prior season "
+             "(e.g. --season-stats-year 2026 once games have been played this season)",
+    )
+    parser.add_argument(
+        "--week", type=int, default=None,
+        help="also pull the schedule + opening spreads for this week of the upcoming season "
+             "(e.g. --week 1), used by the Weekly Preview page",
+    )
+    parser.add_argument(
+        "--all-classifications", action="store_true",
+        help="with --week, include every NCAA game (FCS/DII/DIII too) instead of the default "
+             "FBS-only schedule (a game is kept if at least one team is FBS)",
+    )
     args = parser.parse_args()
 
     roster_prior, roster_upcoming = fetch_rosters()
@@ -389,6 +649,27 @@ def main():
             print(f"  Play-by-play fetch failed: {e}")
     else:
         print("\nSkipping play-by-play (--skip-plays)")
+
+    if not args.skip_team_stats:
+        try:
+            stats_year = args.season_stats_year or PRIOR_SEASON
+            team_game_stats = fetch_team_game_stats(stats_year)
+            build_team_season_stats(team_game_stats, stats_year)
+        except Exception as e:
+            print(f"  Team season stats fetch failed: {e}")
+    else:
+        print("\nSkipping team season stats (--skip-team-stats)")
+
+    if args.week:
+        try:
+            fetch_week_games(args.week, fbs_only=not args.all_classifications)
+        except Exception as e:
+            print(f"  Week {args.week} schedule/lines fetch failed: {e}")
+    else:
+        print(
+            "\nNo --week given -- skipping this-week schedule/lines pull. "
+            "Run again with e.g. --week 1 once you know which week to preview."
+        )
 
     print("\nAll done. Restart the Streamlit app to see the refreshed data:")
     print("    streamlit run Main.py")
