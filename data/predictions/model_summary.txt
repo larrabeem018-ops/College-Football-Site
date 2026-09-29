@@ -1,0 +1,31 @@
+Score model -- trained on 2025 wk4+ and 2026 wk1-4 (3632 team-games)
+Intercept: -5.27
+Coefficients:
+exp_pts      0.150
+exp_rec      0.474
+exp_yds      0.041
+home         1.988
+conf_home   -2.912
+Home field on the spread: 7.3 pts (non-conference), 1.5 pts (conference)
+
+Out-of-sample backtest (fit on one season, predict the other):
+{
+  "Model": {
+    "margin_MAE": 13.0,
+    "winner_pct": 76.9,
+    "games": 1928
+  },
+  "Vegas": {
+    "margin_MAE": 11.85,
+    "winner_pct": 78.9,
+    "games": 1928
+  }
+}
+
+Pick tiers (against the spread, -110 odds):
+                   label  wins  losses  win_pct  units                                by_season
+Model backs the favorite    89      77     53.6    3.9     {"2025": [67, 61], "2026": [22, 16]}
+        Big disagreement   152     120     55.9   18.2    {"2025": [115, 77], "2026": [37, 43]}
+                    Lean   360     352     50.6  -24.7 {"2025": [240, 243], "2026": [120, 109]}
+                 No edge   374     396     48.6  -56.0   {"2025": [293, 301], "2026": [81, 95]}
+   All picks (3+ pt gap)   601     549     52.3   -2.6 {"2025": [422, 381], "2026": [179, 168]}

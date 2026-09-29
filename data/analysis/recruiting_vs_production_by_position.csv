@@ -1,0 +1,251 @@
+position_group,rank,name,team,position_tag,rank_stat,rank_stat_value,hs_stars,hs_rating,hs_class_year,hs_match_method,is_transfer,portal_stars,portal_rating,portal_year,portal_origin_team
+QB,1,Drew Mestemaker,North Texas,QB,passing_YDS,4369.0,,,,,False,,,,
+QB,2,Keali'i Ah Yat,Montana,QB,passing_YDS,4070.0,,,,,False,,,,
+QB,3,Darian Mensah,Duke,QB,passing_YDS,3973.0,2.0,0.7933,2023.0,id,True,4.0,0.9,2025.0,Tulane
+QB,4,Trinidad Chambliss,Ole Miss,QB,passing_YDS,3937.0,,,,,True,3.0,0.86,2025.0,Ferris State
+QB,5,Carson Beck,Miami,QB,passing_YDS,3813.0,4.0,0.9095,2020.0,id,True,4.0,0.96,2025.0,Georgia
+QB,6,Devin Farrell,Rhode Island,QB,passing_YDS,3746.0,3.0,0.8674,2022.0,id,True,3.0,,2023.0,Virginia Tech
+QB,7,Jayden Maiava,USC,QB,passing_YDS,3711.0,3.0,0.8663,2022.0,id,True,4.0,0.9,2024.0,UNLV
+QB,8,Sawyer Robertson,Baylor,QB,passing_YDS,3681.0,4.0,0.9392,2021.0,id,True,3.0,0.89,2023.0,Mississippi State
+QB,9,Nick Minicucci,Delaware,QB,passing_YDS,3671.0,,,2023.0,id,False,,,,
+QB,10,Caden Veltkamp,Florida Atlantic,QB,passing_YDS,3652.0,3.0,0.867,2022.0,id,True,3.0,0.83,2025.0,Western Kentucky
+QB,11,Kevin Jennings,SMU,QB,passing_YDS,3641.0,3.0,0.8378,2022.0,id,False,,,,
+QB,12,Braden Atkinson,Mercer,QB,passing_YDS,3611.0,,,2025.0,id,False,,,,
+QB,13,Julian Sayin,Ohio State,QB,passing_YDS,3610.0,5.0,0.9966,2024.0,id,True,5.0,0.98,2024.0,Alabama
+QB,14,Tommy Rittenhouse,Illinois State,QB,passing_YDS,3568.0,,,,,False,,,,
+QB,15,Ty Simpson,Alabama,QB,passing_YDS,3567.0,5.0,0.9883,2022.0,id,False,,,,
+QB,16,Joey Aguilar,Tennessee,QB,passing_YDS,3565.0,,,,,True,3.0,0.85,2025.0,UCLA
+QB,17,Dante Moore,Oregon,QB,passing_YDS,3565.0,3.0,0.875,2023.0,id,True,4.0,0.95,2024.0,UCLA
+QB,18,Diego Pavia,Vanderbilt,QB,passing_YDS,3539.0,,,,,True,3.0,0.88,2024.0,New Mexico State
+QB,19,Fernando Mendoza,Indiana,QB,passing_YDS,3535.0,2.0,0.7933,2022.0,id,True,4.0,0.93,2025.0,California
+QB,20,Taron Dickens,Western Carolina,QB,passing_YDS,3508.0,3.0,0.8156,2023.0,id,False,,,,
+QB,21,Josh Hoover,TCU,QB,passing_YDS,3472.0,3.0,0.873,2022.0,id,False,,,,
+QB,22,Anthony Colandrea,UNLV,QB,passing_YDS,3459.0,3.0,0.8483,2023.0,id,True,3.0,0.86,2025.0,Virginia
+QB,23,Jaron-Keawe Sagapolutele,California,QB,passing_YDS,3446.0,4.0,0.9662,2025.0,name_state,True,4.0,0.93,2025.0,Oregon
+QB,24,Joe Fagnano,UConn,QB,passing_YDS,3441.0,,,2019.0,id,True,2.0,,2023.0,Maine
+QB,25,Jaylen Raynor,Arkansas State,QB,passing_YDS,3364.0,,,2023.0,id,False,,,,
+RB,1,L.J. Phillips Jr.,South Dakota,RB,rushing_YDS,1860.0,,,,,False,,,,
+RB,2,Rodney Nelson,Monmouth,RB,rushing_YDS,1805.0,,,2022.0,name_school,False,,,,
+RB,3,Cam Cook,Jacksonville State,RB,rushing_YDS,1666.0,4.0,0.8985,2023.0,id,True,3.0,0.86,2025.0,TCU
+RB,4,Joshua Dye,Southern Utah,RB,rushing_YDS,1660.0,,,2023.0,id,True,,,2025.0,UTEP
+RB,5,Ahmad Hardy,Missouri,RB,rushing_YDS,1649.0,3.0,0.84,2024.0,id,True,4.0,0.9,2025.0,UL Monroe
+RB,6,Josh Pitsenberger,Yale,RB,rushing_YDS,1571.0,,,,,False,,,,
+RB,7,Kewan Lacy,Ole Miss,RB,rushing_YDS,1567.0,4.0,0.9268,2024.0,id,True,3.0,0.88,2025.0,Missouri
+RB,8,Eli Gillman,Montana,RB,rushing_YDS,1540.0,2.0,0.75,2022.0,id,False,,,,
+RB,9,Kente Edwards,Lafayette,RB,rushing_YDS,1454.0,,,,,False,,,,
+RB,10,Emmett Johnson,Nebraska,RB,rushing_YDS,1451.0,3.0,0.8641,2022.0,id,False,,,,
+RB,11,Caleb Hawkins,North Texas,RB,rushing_YDS,1424.0,3.0,0.843,2025.0,id,False,,,,
+RB,12,Luke Yoder,Lehigh,RB,rushing_YDS,1409.0,,,,,False,,,,
+RB,13,Sieh Bangura,Ohio,RB,rushing_YDS,1392.0,3.0,0.8474,2021.0,id,True,3.0,0.83,2025.0,Minnesota
+RB,14,Victor Dawson,Illinois State,RB,rushing_YDS,1377.0,,,,,False,,,,
+RB,15,Wayne Knight,James Madison,RB,rushing_YDS,1373.0,,,2022.0,id,False,,,,
+RB,16,Jeremiyah Love,Notre Dame,RB,rushing_YDS,1372.0,4.0,0.9634,2023.0,id,False,,,,
+RB,17,Kejon Owens,Florida International,RB,rushing_YDS,1334.0,3.0,0.8556,2020.0,id,False,,,,
+RB,18,Evan Dickens,Liberty,RB,rushing_YDS,1325.0,3.0,0.8539,2023.0,id,True,3.0,0.83,2025.0,Georgia Tech
+RB,19,LJ Martin,BYU,RB,rushing_YDS,1305.0,3.0,0.8873,2023.0,id,False,,,,
+RB,20,Kaytron Allen,Penn State,RB,rushing_YDS,1303.0,4.0,0.9385,2022.0,id,False,,,,
+RB,21,Lucky Sutton,San Diego State,RB,rushing_YDS,1292.0,3.0,0.8785,2022.0,id,False,,,,
+RB,22,Landen Chambers,Central Arkansas,RB,rushing_YDS,1273.0,3.0,0.8361,2023.0,id,False,,,,
+RB,23,Antwain Littleton Jr.,Rhode Island,RB,rushing_YDS,1248.0,,,,,False,,,,
+RB,24,Antwan Raymond,Rutgers,RB,rushing_YDS,1241.0,3.0,0.8739,2024.0,id,False,,,,
+RB,25,Cam Edwards,UConn,RB,rushing_YDS,1240.0,,,,,False,,,,
+WR,1,Marquis Buchanan,Rhode Island,WR,receiving_YDS,1337.0,,,,,False,,,,
+WR,2,Danny Scudero,San José State,WR,receiving_YDS,1297.0,3.0,0.82,2023.0,id,True,3.0,0.83,2025.0,Sacramento State
+WR,3,Skyler Bell,UConn,WR,receiving_YDS,1276.0,3.0,0.8578,2021.0,id,True,3.0,0.84,2024.0,Wisconsin
+WR,4,Wyatt Young,North Texas,WR,receiving_YDS,1264.0,3.0,0.8428,2024.0,id,False,,,,
+WR,5,Jeremiah Smith,Ohio State,WR,receiving_YDS,1243.0,5.0,0.9997,2024.0,id,False,,,,
+WR,6,Michael Wortham,Montana,WR,receiving_YDS,1224.0,,,,,False,,,,
+WR,7,Malachi Toney,Miami,WR,receiving_YDS,1211.0,4.0,0.8993,2025.0,id,False,,,,
+WR,8,Beau Sparks,Texas State,WR,receiving_YDS,1200.0,,,2023.0,id,True,3.0,0.82,2024.0,Utah Tech
+WR,9,Eric McAlister,TCU,WR,receiving_YDS,1190.0,3.0,0.86,2021.0,name_state,True,3.0,0.89,2024.0,Boise State
+WR,10,Samuel Gbatu Jr.,UC Davis,WR,receiving_YDS,1169.0,,,,,False,,,,
+WR,11,Makai Lemon,USC,WR,receiving_YDS,1156.0,4.0,0.9799,2023.0,id,False,,,,
+WR,12,Daniel Sobkowicz,Illinois State,WR,receiving_YDS,1141.0,,,,,False,,,,
+WR,13,Jyziah Rockwell,Prairie View A&M,WR,receiving_YDS,1132.0,3.0,0.8217,2022.0,id,False,,,,
+WR,14,Jalen Jones,Alabama State,WR,receiving_YDS,1119.0,,,2023.0,name_school,False,,,,
+WR,15,Cooper Barkate,Duke,WR,receiving_YDS,1106.0,3.0,0.8889,2022.0,id,True,3.0,0.86,2025.0,Harvard
+WR,16,Josh Derry,Monmouth,WR,receiving_YDS,1101.0,,,2023.0,id,False,,,,
+WR,17,Ryan Upp,Morehead State,WR,receiving_YDS,1089.0,,,,,False,,,,
+WR,18,Nico Brown,Yale,WR,receiving_YDS,1085.0,3.0,0.84,2022.0,id,False,,,,
+WR,19,KJ Duff,Rutgers,WR,receiving_YDS,1084.0,4.0,0.9073,2024.0,id,False,,,,
+WR,20,Camden Brown,Georgia Southern,WR,receiving_YDS,1079.0,,,,,True,3.0,0.84,2025.0,Auburn
+WR,21,Bryce Lance,North Dakota State,WR,receiving_YDS,1079.0,,,,,False,,,,
+WR,22,Duce Robinson,Florida State,WR,receiving_YDS,1074.0,5.0,0.9907,2023.0,id,True,4.0,0.95,2025.0,USC
+WR,23,Luke Colella,Villanova,WR,receiving_YDS,1071.0,,,2020.0,name_state,True,,,2025.0,Princeton
+WR,24,Kylon Harris,Stephen F. Austin,WR,receiving_YDS,1068.0,,,2022.0,id,False,,,,
+WR,25,Geoffrey Jamiel,Lehigh,WR,receiving_YDS,1067.0,,,,,False,,,,
+TE,1,Eli Stowers,Vanderbilt,TE,receiving_YDS,765.0,4.0,0.9267,2021.0,id,True,3.0,0.89,2024.0,New Mexico State
+TE,2,Tanner Koziol,Houston,TE,receiving_YDS,727.0,2.0,0.7859,2021.0,id,True,4.0,0.92,2025.0,Wisconsin
+TE,3,Michael Trigg,Baylor,TE,receiving_YDS,694.0,4.0,0.9402,2021.0,id,True,3.0,0.89,2024.0,Ole Miss
+TE,4,Dae'Quan Wright,Ole Miss,TE,receiving_YDS,635.0,3.0,0.8756,2022.0,id,True,4.0,0.9,2024.0,Virginia Tech
+TE,5,Terrance Carter Jr.,Texas Tech,TE,receiving_YDS,624.0,3.0,0.8393,2022.0,id,False,,,,
+TE,6,Carsen Ryan,BYU,TE,receiving_YDS,620.0,4.0,0.901,2022.0,id,True,3.0,0.87,2025.0,Utah
+TE,7,Dallen Bentley,Utah,TE,receiving_YDS,620.0,,,,,False,,,,
+TE,8,Connor Hulstein,Marist,TE,receiving_YDS,599.0,,,2021.0,name_state,False,,,,
+TE,9,Eric Olsen,Utah Tech,TE,receiving_YDS,566.0,,,2023.0,name_school,False,,,,
+TE,10,Kenyon Sadiq,Oregon,TE,receiving_YDS,560.0,4.0,0.9467,2023.0,id,False,,,,
+TE,11,Dorian Thomas,New Mexico,TE,receiving_YDS,560.0,3.0,0.8586,2023.0,id,True,3.0,0.83,2025.0,Arizona
+TE,12,Sam Roush,Stanford,TE,receiving_YDS,545.0,4.0,0.9018,2022.0,id,False,,,,
+TE,13,Jaren Kanak,Oklahoma,TE,receiving_YDS,533.0,4.0,0.9378,2022.0,id,False,,,,
+TE,14,Dylan Wade,UCF,TE,receiving_YDS,523.0,3.0,0.865,2023.0,id,True,3.0,0.87,2025.0,Maryland
+TE,15,Brody Foley,Tulsa,TE,receiving_YDS,521.0,3.0,0.8837,2022.0,id,True,3.0,0.85,2025.0,Indiana
+TE,16,Rohan Jones,Arkansas,TE,receiving_YDS,519.0,,,,,True,3.0,0.85,2025.0,Montana State
+TE,17,Chris Corbo,Dartmouth,TE,receiving_YDS,516.0,,,2022.0,id,False,,,,
+TE,18,Gavin Harris,New Mexico State,TE,receiving_YDS,514.0,,,2023.0,id,True,,,2025.0,Central Michigan
+TE,19,Ryder Kurtz,Cornell,TE,receiving_YDS,514.0,,,,,False,,,,
+TE,20,Jamari Johnson,Oregon,TE,receiving_YDS,510.0,4.0,0.8994,2023.0,name_state,True,4.0,0.9,2025.0,Louisville
+TE,21,Jeremiah Franklin,Boston College,TE,receiving_YDS,489.0,3.0,0.8685,2022.0,id,False,,,,
+TE,22,Justin Joly,NC State,TE,receiving_YDS,489.0,2.0,0.78,2022.0,id,True,4.0,0.92,2024.0,UConn
+TE,23,Peter Clarke,Temple,TE,receiving_YDS,483.0,3.0,0.8589,2023.0,id,False,,,,
+TE,24,Eli Raridon,Notre Dame,TE,receiving_YDS,482.0,4.0,0.931,2022.0,id,False,,,,
+TE,25,Nate Levicki,Presbyterian,TE,receiving_YDS,478.0,,,,,False,,,,
+DL,1,Stephen Daley,Indiana,DL,defensive_TFL,19.0,3.0,0.8117,2022.0,id,True,3.0,0.86,2025.0,Kent State
+DL,2,Anthony Smith,Minnesota,DL,defensive_TFL,17.5,4.0,0.8996,2022.0,id,False,,,,
+DL,3,Akheem Mesidor,Miami,DL,defensive_TFL,17.5,3.0,0.8726,2020.0,id,True,4.0,0.92,2022.0,West Virginia
+DL,4,Michael Heldman,Central Michigan,DL,defensive_TFL,16.5,3.0,0.8119,2021.0,id,False,,,,
+DL,5,Quincy Rhodes Jr.,Arkansas,DL,defensive_TFL,15.5,4.0,0.8969,2023.0,id,False,,,,
+DL,6,Rueben Bain Jr.,Miami,DL,defensive_TFL,15.5,4.0,0.9709,2023.0,id,False,,,,
+DL,7,Keyshawn James-Newby,New Mexico,DT,defensive_TFL,15.0,,,,,True,3.0,0.86,2025.0,Idaho
+DL,8,Taylor Wein,Oklahoma,DL,defensive_TFL,15.0,3.0,0.88,2023.0,id,False,,,,
+DL,9,Langston Hardy,Wake Forest,DL,defensive_TFL,14.5,3.0,0.8278,2021.0,id,True,3.0,0.85,2025.0,UConn
+DL,10,Sahir West,James Madison,DL,defensive_TFL,14.0,,,2024.0,id,False,,,,
+DL,11,Clev Lubin,Louisville,DL,defensive_TFL,13.0,2.0,0.7844,2021.0,id,True,3.0,0.87,2025.0,Coastal Carolina
+DL,12,Ethan Hassler,Arkansas State,DL,defensive_TFL,13.0,3.0,0.8478,2021.0,id,False,,,,
+DL,13,J'Mond Tapp,Southern Miss,DL,defensive_TFL,12.0,4.0,0.9551,2022.0,id,True,3.0,0.84,2025.0,Arizona State
+DL,14,Melkart Abou Jaoude,North Carolina,DL,defensive_TFL,12.0,,,,,False,,,,
+DL,15,Eddie Walls III,Houston,DL,defensive_TFL,11.5,,,2021.0,id,True,3.0,0.88,2025.0,Florida International
+DL,16,Will Echoles,Ole Miss,DT,defensive_TFL,11.5,4.0,0.9397,2024.0,id,False,,,,
+DL,17,Tyrique Tucker,Indiana,DL,defensive_TFL,11.5,,,2022.0,id,True,3.0,0.86,2024.0,James Madison
+DL,18,Jordan van den Berg,Georgia Tech,DL,defensive_TFL,11.0,,,,,True,3.0,0.87,2024.0,Penn State
+DL,19,Deshawn McKnight,Arizona,DL,defensive_TFL,11.0,3.0,0.845,2021.0,id,True,3.0,0.87,2025.0,UT Martin
+DL,20,Damonte Smith,Middle Tennessee,NT,defensive_TFL,11.0,,,2021.0,id,False,,,,
+DL,21,Aaron Hall,Duke,DT,defensive_TFL,11.0,3.0,0.8567,2021.0,id,False,,,,
+DL,22,Ezra Christensen,New Mexico State,DL,defensive_TFL,11.0,,,,,True,3.0,,2025.0,Fresno State
+DL,23,Lee Hunter,Texas Tech,DL,defensive_TFL,11.0,4.0,0.9633,2021.0,id,True,4.0,0.92,2025.0,UCF
+DL,24,TJ Bush Jr.,California,DL,defensive_TFL,10.5,3.0,0.8408,2023.0,id,True,3.0,0.87,2025.0,Liberty
+DL,25,Julien Laventure,Akron,DL,defensive_TFL,10.5,,,,,False,,,,
+EDGE,1,Nadame Tucker,Western Michigan,DE,defensive_SACKS,14.5,,,,,True,3.0,0.88,2025.0,Houston
+EDGE,2,Cashius Howell,Texas A&M,DE,defensive_SACKS,12.5,3.0,0.8141,2021.0,id,True,4.0,0.92,2024.0,Bowling Green
+EDGE,3,Colin Simmons,Texas,EDGE,defensive_SACKS,12.0,5.0,0.9932,2024.0,id,False,,,,
+EDGE,4,John Henry Daley,Utah,DE,defensive_SACKS,11.5,,,,,True,3.0,0.87,2024.0,BYU
+EDGE,5,Caden Curry,Ohio State,DE,defensive_SACKS,11.0,4.0,0.9506,2022.0,id,False,,,,
+EDGE,6,Nathan Voorhis,Ball State,DE,defensive_SACKS,10.0,2.0,0.7944,2022.0,id,False,,,,
+EDGE,7,Derrick Moore,Michigan,EDGE,defensive_SACKS,9.5,4.0,0.9789,2022.0,name_school,False,,,,
+EDGE,8,Elijah Hill,Kennesaw State,DE,defensive_SACKS,9.0,,,2025.0,id,False,,,,
+EDGE,9,Isaiah Smith,SMU,DE,defensive_SACKS,9.0,3.0,0.87,2022.0,id,False,,,,
+EDGE,10,Princewill Umanmielen,Ole Miss,DE,defensive_SACKS,9.0,4.0,0.9087,2023.0,id,True,4.0,0.94,2025.0,Nebraska
+EDGE,11,Demarcus Hendricks,Arkansas State,DE,defensive_SACKS,8.5,3.0,0.85,2020.0,name_state,False,,,,
+EDGE,12,Brett Karhu,New Mexico,DE,defensive_SACKS,7.5,,,,,False,,,,
+EDGE,13,Dani Dennis-Sutton,Penn State,DE,defensive_SACKS,7.5,5.0,0.9869,2022.0,id,False,,,,
+EDGE,14,Isaac Terrell,Washington State,DE,defensive_SACKS,7.0,3.0,0.8519,2023.0,id,False,,,,
+EDGE,15,Kenton Simmons,Florida International,DE,defensive_SACKS,7.0,,,,,False,,,,
+EDGE,16,Malachi Lawrence,UCF,EDGE,defensive_SACKS,7.0,3.0,0.8511,2021.0,name_school,False,,,,
+EDGE,17,Ryan Henderson,San Diego State,DE,defensive_SACKS,7.0,3.0,0.8448,2022.0,id,False,,,,
+EDGE,18,Vincent Anthony Jr.,Duke,DE,defensive_SACKS,7.0,4.0,0.9018,2022.0,id,False,,,,
+EDGE,19,Kenyatta Jackson Jr.,Ohio State,DE,defensive_SACKS,6.5,4.0,0.9748,2022.0,id,False,,,,
+EDGE,20,Dylan LaBarbera,Nevada,EDGE,defensive_SACKS,6.5,2.0,0.76,2023.0,name_state,False,,,,
+EDGE,21,Niles King,San Diego State,EDGE,defensive_SACKS,6.5,,,,,False,,,,
+EDGE,22,Zion Young,Missouri,DE,defensive_SACKS,6.5,3.0,0.8456,2022.0,id,True,3.0,0.89,2024.0,Michigan State
+EDGE,23,Will Heldt,Clemson,DE,defensive_SACKS,6.0,3.0,0.8753,2023.0,id,True,4.0,0.9,2025.0,Purdue
+EDGE,24,Kameryn Crawford,USC,DE,defensive_SACKS,5.5,4.0,0.9687,2024.0,id,False,,,,
+EDGE,25,Nnanna Anyanwu,UTSA,DE,defensive_SACKS,5.0,,,,,False,,,,
+LB,1,Owen Long,Colorado State,LB,defensive_TOT,148.0,3.0,0.8417,2024.0,id,False,,,,
+LB,2,Caden Fordham,NC State,LB,defensive_TOT,143.0,3.0,0.8763,2021.0,id,False,,,,
+LB,3,Red Murdock,Buffalo,LB,defensive_TOT,142.0,3.0,0.8141,2022.0,name_school,False,,,,
+LB,4,Baron Hopson,Kennesaw State,LB,defensive_TOT,139.0,3.0,0.8574,2021.0,name_state,False,,,,
+LB,5,Chris Jones,Southern Miss,LB,defensive_TOT,132.0,3.0,0.8144,2023.0,id,False,,,,
+LB,6,Bryce Boettcher,Oregon,LB,defensive_TOT,132.0,3.0,0.8,2020.0,name_state,False,,,,
+LB,7,Kaleb Elarms-Orr,TCU,LB,defensive_TOT,130.0,3.0,0.8896,2021.0,id,True,4.0,0.9,2024.0,California
+LB,8,Ray Coney,Tulsa,LB,defensive_TOT,128.0,3.0,0.82,2023.0,id,True,2.0,,2025.0,East Tennessee State
+LB,9,Jaxton Eck,New Mexico,LB,defensive_TOT,128.0,,,2023.0,id,True,3.0,0.85,2025.0,Idaho
+LB,10,Quinn Urwiler,Northern Illinois,LB,defensive_TOT,127.0,3.0,0.8081,2021.0,id,False,,,,
+LB,11,Bryun Parham,UConn,LB,defensive_TOT,125.0,3.0,0.8348,2021.0,id,True,3.0,0.86,2025.0,Washington
+LB,12,Jaden Dugger,Louisiana,LB,defensive_TOT,124.0,,,2022.0,id,True,3.0,0.86,2024.0,Georgetown
+LB,13,Jordan Stringer,Troy,LB,defensive_TOT,123.0,3.0,0.8259,2021.0,id,False,,,,
+LB,14,Jacob Rodriguez,Texas Tech,LB,defensive_TOT,122.0,3.0,0.889,2021.0,id,True,3.0,0.85,2022.0,Virginia
+LB,15,Gideon ESPN Lampron,Bowling Green,LB,defensive_TOT,119.0,,,2022.0,id,False,,,,
+LB,16,John Miller,Utah State,LB,defensive_TOT,118.0,3.0,0.8641,2020.0,id,True,3.0,,2024.0,Oregon State
+LB,17,Oumar Diomande,UConn,LB,defensive_TOT,116.0,,,2023.0,id,False,,,,
+LB,18,Micah Davey,UTEP,LB,defensive_TOT,114.0,,,2021.0,name_state,True,3.0,0.84,2025.0,McNeese
+LB,19,Ethan Wesloski,North Texas,LB,defensive_TOT,113.0,2.0,0.7933,2022.0,id,False,,,,
+LB,20,Jordan Kwiatkowski,Central Michigan,LB,defensive_TOT,112.0,3.0,0.8489,2022.0,id,False,,,,
+LB,21,Gavin Moul,Delaware,LB,defensive_TOT,112.0,,,,,False,,,,
+LB,22,Marsel McDuffie,UNLV,LB,defensive_TOT,112.0,3.0,0.8315,2021.0,id,False,,,,
+LB,23,Andon Thomas,Army,LB,defensive_TOT,112.0,,,,,False,,,,
+LB,24,Mani Powell,Purdue,LB,defensive_TOT,110.0,3.0,0.8807,2022.0,id,True,3.0,0.84,2025.0,UNLV
+LB,25,Jordan Pollard,San José State,LB,defensive_TOT,108.0,2.0,0.7933,2022.0,id,False,,,,
+DB,1,Devon Marshall,NC State,CB,coverage_plays,17.0,,,2022.0,id,True,3.0,0.88,2024.0,Villanova
+DB,2,Hezekiah Masses,California,DB,coverage_plays,17.0,2.0,0.7833,2022.0,id,True,3.0,0.88,2025.0,Florida International
+DB,3,Mister Clark,Florida International,DB,coverage_plays,16.0,3.0,0.8306,2023.0,id,False,,,,
+DB,4,Nehemiah Chandler,South Alabama,DB,coverage_plays,15.0,3.0,0.8622,2024.0,id,True,3.0,0.84,2025.0,Georgia Tech
+DB,5,Josh Moten,Southern Miss,CB,coverage_plays,15.0,4.0,0.8951,2020.0,id,True,4.0,0.92,2025.0,Marshall
+DB,6,JoJo Johnson,Bowling Green,CB,coverage_plays,14.0,3.0,0.8685,2021.0,name_state,True,3.0,,2025.0,Indiana
+DB,7,Jaquez White,Troy,CB,coverage_plays,14.0,,,,,False,,,,
+DB,8,Derrick Barksdale,James Madison,DB,coverage_plays,14.0,,,2023.0,id,False,,,,
+DB,9,Preston Hodge,Colorado,CB,coverage_plays,14.0,,,,,True,4.0,0.9,2024.0,Liberty
+DB,10,Lemondre Joe,Colorado State,DB,coverage_plays,14.0,,,,,True,3.0,0.83,2025.0,Missouri State
+DB,11,Ty Redmond,Tennessee,DB,coverage_plays,14.0,3.0,0.8781,2025.0,id,False,,,,
+DB,12,Keith Abney II,Arizona State,DB,coverage_plays,14.0,3.0,0.8556,2023.0,id,False,,,,
+DB,13,Jordan Dunbar,Missouri State,CB,coverage_plays,13.0,3.0,0.8007,2020.0,id,True,3.0,0.83,2025.0,Bowling Green
+DB,14,Justin Eaglin,James Madison,DB,coverage_plays,13.0,,,2022.0,id,False,,,,
+DB,15,Brent Austin,California,DB,coverage_plays,13.0,,,2022.0,id,True,3.0,0.86,2025.0,South Florida
+DB,16,Caleb Offord,Kennesaw State,DB,coverage_plays,13.0,3.0,0.8815,2020.0,id,True,3.0,,2025.0,Alabama State
+DB,17,Noah Avinger,Utah State,CB,coverage_plays,13.0,3.0,0.8741,2021.0,id,True,3.0,,2025.0,New Mexico
+DB,18,Joker Johnson,Tulane,DB,coverage_plays,13.0,3.0,0.8585,2023.0,id,False,,,,
+DB,19,Jeremiah Earby,Boise State,DB,coverage_plays,13.0,3.0,0.8493,2022.0,id,True,3.0,0.87,2024.0,California
+DB,20,Mansoor Delane,LSU,CB,coverage_plays,13.0,3.0,0.8752,2022.0,id,True,4.0,0.91,2025.0,Virginia Tech
+DB,21,Kelley Jones,Mississippi State,CB,coverage_plays,13.0,4.0,0.8967,2023.0,id,False,,,,
+DB,22,D'Angelo Ponds,Indiana,DB,coverage_plays,12.0,3.0,0.8256,2023.0,id,False,,,,
+DB,23,Jalon Kilgore,South Carolina,DB,coverage_plays,12.0,4.0,0.9064,2023.0,name_school,False,,,,
+DB,24,Christian Gray,Notre Dame,CB,coverage_plays,12.0,4.0,0.9509,2023.0,id,False,,,,
+DB,25,Ethan Johnson,App State,DB,coverage_plays,12.0,3.0,0.8096,2022.0,name_school,False,,,,
+K,1,Lucas Carneiro,Ole Miss,PK,kicking_PTS,149.0,,,,,False,,,,
+K,2,Nico Radicic,Indiana,PK,kicking_PTS,138.0,3.0,0.8211,2023.0,id,False,,,,
+K,3,Myles Sansted,Montana State,PK,kicking_PTS,126.0,,,,,False,,,,
+K,4,Will Bettridge,Virginia,PK,kicking_PTS,121.0,3.0,0.83,2022.0,id,False,,,,
+K,5,Kansei Matsuzawa,Hawai'i,PK,kicking_PTS,121.0,,,,,False,,,,
+K,6,Chris Freeman,UConn,PK,kicking_PTS,121.0,2.0,0.795,2020.0,id,True,2.0,,2024.0,Indiana
+K,7,Aidan Birr,Georgia Tech,PK,kicking_PTS,120.0,3.0,0.8222,2022.0,id,False,,,,
+K,8,Will Ferrin,BYU,PK,kicking_PTS,118.0,,,,,True,2.0,,2023.0,Boise State
+K,9,Tyler Robles,Texas State,PK,kicking_PTS,116.0,,,2023.0,id,True,,,2025.0,USC
+K,10,Nico Gramatica,South Florida,PK,kicking_PTS,113.0,3.0,0.8169,2024.0,id,False,,,,
+K,11,Eli Ozick,North Dakota State,PK,kicking_PTS,110.0,,,2023.0,id,False,,,,
+K,12,Patrick Durkin,Tulane,PK,kicking_PTS,108.0,,,2024.0,id,False,,,,
+K,13,Mason Shipley,Texas,PK,kicking_PTS,108.0,,,,,True,,,2025.0,Texas State
+K,14,Atticus Sappington,Oregon,PK,kicking_PTS,108.0,,,,,True,3.0,0.8,2024.0,Oregon State
+K,15,Drew Stevens,Iowa,PK,kicking_PTS,107.0,,,,,False,,,,
+K,16,Tate Sandell,Oklahoma,PK,kicking_PTS,107.0,2.0,0.78,2022.0,id,True,2.0,,2025.0,UTSA
+K,17,Morgan Suarez,James Madison,PK,kicking_PTS,107.0,,,2020.0,id,True,,,2025.0,Florida Atlantic
+K,18,Michael Petro,UTSA,PK,kicking_PTS,107.0,3.0,0.7983,2023.0,name_state,False,,,,
+K,19,Kali Nguma,North Texas,PK,kicking_PTS,106.0,,,,,False,,,,
+K,20,Max Gilbert,Tennessee,PK,kicking_PTS,106.0,,,,,False,,,,
+K,21,Stone Harrington,Texas Tech,PK,kicking_PTS,106.0,,,,,False,,,,
+K,22,Brad Larson,Tarleton State,PK,kicking_PTS,106.0,,,,,False,,,,
+K,23,Ethan Sanchez,Houston,PK,kicking_PTS,106.0,,,2022.0,id,False,,,,
+K,24,Peyton Woodring,Georgia,PK,kicking_PTS,105.0,3.0,0.8333,2023.0,id,False,,,,
+K,25,Nick Reed,New Hampshire,PK,kicking_PTS,105.0,,,2023.0,id,False,,,,
+P,1,Ryan Eckley,Michigan State,P,punting_YPP,48.5,,,,,False,,,,
+P,2,Cole Maynard,Western Kentucky,P,punting_YPP,48.4,,,2021.0,id,False,,,,
+P,3,Jeff Yurk,Elon,P,punting_YPP,48.3,,,2021.0,id,False,,,,
+P,4,Brady Braun,Gardner-Webb,P,punting_YPP,48.1,,,,,False,,,,
+P,5,Marshall Nichols,Georgia Tech,P,punting_YPP,48.0,,,,,True,,,2025.0,UNLV
+P,6,Bryan Hansen,Colorado State,P,punting_YPP,47.9,,,,,False,,,,
+P,7,Ben D'Aquila,Northern Arizona,P,punting_YPP,47.9,,,,,False,,,,
+P,8,Sean West,Wisconsin,P,punting_YPP,47.4,,,,,False,,,,
+P,9,Elliot Huether,St. Thomas (MN),P,punting_YPP,47.4,,,,,False,,,,
+P,10,Mason Miller,Eastern Illinois,P,punting_YPP,47.4,,,,,False,,,,
+P,11,John Hoyet Chance,Louisiana Tech,P,punting_YPP,47.3,,,2024.0,id,False,,,,
+P,12,Daniel Sparks,Virginia,P,punting_YPP,47.2,,,,,False,,,,
+P,13,Max Pelham,South Dakota State,P,punting_YPP,47.0,,,,,False,,,,
+P,14,Nick Haberer,Vanderbilt,P,punting_YPP,46.9,3.0,0.8022,2021.0,id,True,2.0,,2025.0,Washington State
+P,15,Palmer Williams,Baylor,P,punting_YPP,46.9,3.0,0.8203,2023.0,id,False,,,,
+P,16,Hunter Green,San Diego State,P,punting_YPP,46.8,2.0,0.78,2022.0,id,False,,,,
+P,17,Ethan Pulliam,Mississippi State,P,punting_YPP,46.6,,,,,False,,,,
+P,18,Adam Watford,North Alabama,P,punting_YPP,46.6,,,,,False,,,,
+P,19,Keegan Andrews,Massachusetts,P,punting_YPP,46.5,,,,,True,,,2025.0,Texas A&M
+P,20,Alec Clark,Tulane,P,punting_YPP,46.5,,,2023.0,id,True,3.0,0.81,2025.0,Southern Miss
+P,21,Jack Stonehouse,Syracuse,P,punting_YPP,46.5,,,,,False,,,,
+P,22,Wes Pahl,Oklahoma State,P,punting_YPP,46.5,,,,,False,,,,
+P,23,Tyler Ebel,South Dakota,P,punting_YPP,46.4,,,2022.0,id,False,,,,
+P,24,Gabe Russo,Idaho State,P,punting_YPP,46.4,,,,,False,,,,
+P,25,Billy Gowers,Hawai'i,P,punting_YPP,46.4,,,,,False,,,,

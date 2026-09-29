@@ -21,6 +21,7 @@ ICON = {
     "radar": f'<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="{ACCENT}" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><polygon points="12,3 20,9 17,19 7,19 4,9"/></svg>',
     "flow": f'<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="{ACCENT}" stroke-width="1.8" stroke-linecap="round"><path d="M3 6h6l6 12h6"/><path d="M3 18h6l6-12h6"/></svg>',
     "calendar": f'<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="{ACCENT}" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="16" rx="2"/><line x1="3" y1="10" x2="21" y2="10"/><line x1="8" y1="3" x2="8" y2="7"/><line x1="16" y1="3" x2="16" y2="7"/><circle cx="8.5" cy="14.5" r="1.1" fill="{ACCENT}" stroke="none"/><circle cx="15.5" cy="14.5" r="1.1" fill="{ACCENT}" stroke="none"/></svg>',
+    "target": f'<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="{ACCENT}" stroke-width="1.8" stroke-linecap="round"><circle cx="12" cy="12" r="8"/><circle cx="12" cy="12" r="4"/><circle cx="12" cy="12" r="0.8" fill="{ACCENT}"/></svg>',
 }
 
 LOGO_SVG = f"""
@@ -59,7 +60,7 @@ html(
 html(
     f"""
     <p style="font-size:16px; line-height:1.6; max-width:620px; color:{TEXT_SECONDARY}; margin-bottom:24px;">
-      Seven interactive tools for weekly matchups, roster turnover, betting markets, quarterback
+      Seven interactive tools for weekly matchups, model picks, roster turnover, betting markets, quarterback
       play, and the transfer portal — built for fans, analysts, and coaches who want the numbers
       behind the scoreboard.
     </p>
@@ -125,13 +126,6 @@ features = [
         "link_label": "Open Betting Results",
     },
     {
-        "icon": "field",
-        "title": "Game Drive Visualizer",
-        "desc": "Play-by-play field charts for any drive, with scoring plays marked.",
-        "page": "pages/Game Replay.py",
-        "link_label": "Open Game Drive Visualizer",
-    },
-    {
         "icon": "radar",
         "title": "QB Radar Comparison",
         "desc": "Head-to-head QB profiles and weekly QBR progression, side by side.",
@@ -151,6 +145,13 @@ features = [
         "desc": "This week's matchups with the spread, a stat-for-stat team comparison, and returning-production storylines.",
         "page": "pages/Weekly Preview.py",
         "link_label": "Open Weekly Preview",
+    },
+    {
+        "icon": "target",
+        "title": "Sharp Bets",
+        "desc": "Where our score model disagrees with Vegas, why in plain English, and a self-grading track record.",
+        "page": "pages/Sharp Bets.py",
+        "link_label": "Open Sharp Bets",
     },
 ]
 

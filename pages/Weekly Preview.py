@@ -12,7 +12,7 @@ apply_style()
 
 PRIOR_SEASON = 2025      # last completed season -> season stats fall back here early in the year
 UPCOMING_SEASON = 2026   # current season -> schedule/spreads + (eventually) in-season stats
-MIN_GAMES_FOR_CURRENT_SEASON = 3  # below this many games played, prefer last year's numbers
+MIN_GAMES_FOR_CURRENT_SEASON = 1  # below this many games played, prefer last year's numbers
 
 # ---------------------------------------------------------------------------
 # Data loading
@@ -38,16 +38,6 @@ def load_rosters_and_stats():
     roster_upcoming["id"] = roster_upcoming["id"].astype(str)
     player_stats["playerId"] = player_stats["playerId"].astype(str)
     return roster_prior, roster_upcoming, player_stats
-
-
-@st.cache_data
-def load_transfers():
-    try:
-        df = pd.read_csv("data/transfers_2025.csv")
-        df["rating"] = pd.to_numeric(df["rating"], errors="coerce").fillna(0)
-        return df
-    except Exception:
-        return pd.DataFrame()
 
 
 @st.cache_data
@@ -185,14 +175,6 @@ def _valid_logo(url):
     return isinstance(url, str) and url.strip() != ""
 
 
-def top_transfers(team, transfers_df, n=3):
-    if transfers_df.empty:
-        return pd.DataFrame(), pd.DataFrame()
-    incoming = transfers_df[transfers_df["destination"] == team].sort_values("rating", ascending=False).head(n)
-    outgoing = transfers_df[transfers_df["origin"] == team].sort_values("rating", ascending=False).head(n)
-    return incoming, outgoing
-
-
 # ---------------------------------------------------------------------------
 # Team season stats lookup, preferring in-season (UPCOMING_SEASON) numbers
 # once a team has played enough games, otherwise falling back to last year.
@@ -263,7 +245,7 @@ def render_stat_table(home, home_stats, away, away_stats):
     )
 
 
-def render_watch_column(team, roster_prior, roster_upcoming, player_stats, transfers_df):
+def render_watch_column(team, roster_prior, roster_upcoming, player_stats):
     rp = returning_production(team, roster_prior, roster_upcoming, player_stats)
     if rp and rp["pct"] is not None:
         html(
@@ -276,27 +258,6 @@ def render_watch_column(team, roster_prior, roster_upcoming, player_stats, trans
         )
     else:
         html(f'<div style="font-size:12px; color:{TEXT_SECONDARY}; margin-bottom:12px;">Returning production data unavailable.</div>')
-
-    incoming, outgoing = top_transfers(team, transfers_df)
-
-    def transfer_lines(df, arrow_from_col):
-        if df.empty:
-            return f'<div style="font-size:12.5px; color:{TEXT_SECONDARY};">None of note.</div>'
-        items = []
-        for _, r in df.iterrows():
-            stars = "★" * int(r["stars"]) if pd.notna(r.get("stars")) else ""
-            items.append(
-                f'<div style="font-size:12.5px; padding:3px 0;">'
-                f'<b>{r.get("firstName_y","")} {r.get("lastName_y","")}</b> '
-                f'({r.get("position_y","?")}) {stars} — {r.get(arrow_from_col, "")}'
-                f'</div>'
-            )
-        return "".join(items)
-
-    html(f'<div style="font-weight:700; font-size:13px; margin-top:10px;">🔀 Key Transfers In</div>')
-    html(transfer_lines(incoming, "origin"))
-    html(f'<div style="font-weight:700; font-size:13px; margin-top:10px;">📤 Notable Departures</div>')
-    html(transfer_lines(outgoing, "destination"))
 
 
 # ---------------------------------------------------------------------------
@@ -317,7 +278,6 @@ html(
 
 logo_map, conf_map = load_team_info()
 roster_prior, roster_upcoming, player_stats = load_rosters_and_stats()
-transfers_df = load_transfers()
 season_frames = load_team_season_stats()
 week_files = discover_week_files()
 
@@ -462,10 +422,10 @@ if not games_df.empty:
             wcols = st.columns(2)
             with wcols[0]:
                 html(f'<div style="font-weight:700;">{away}</div>')
-                render_watch_column(away, roster_prior, roster_upcoming, player_stats, transfers_df)
+                render_watch_column(away, roster_prior, roster_upcoming, player_stats)
             with wcols[1]:
                 html(f'<div style="font-weight:700;">{home}</div>')
-                render_watch_column(home, roster_prior, roster_upcoming, player_stats, transfers_df)
+                render_watch_column(home, roster_prior, roster_upcoming, player_stats)
 
         html("</div>")
 

@@ -1,0 +1,20 @@
+variable,margin_MAE,vs_baseline,winner_pct,vegas_resid_MAE_change,ATS_pct,ATS_vs_model_only,n_nonmissing
+Conference game,12.93,-0.13,75.1,-0.01,50.9,-0.1,1864
+Recent form (last 3 wks x3),12.95,-0.11,75.9,0.0,51.1,0.1,1864
+Points-vs-yards 'luck',13.01,-0.05,75.0,0.02,50.4,-0.7,1864
+Opponent-adj yards margin,13.01,-0.05,75.0,-0.01,51.6,0.5,1864
+Incumbent QB experience (starts),13.04,-0.02,75.0,0.01,51.0,-0.1,1864
+Turnover margin,13.04,-0.02,74.8,0.04,52.0,0.9,1864
+Incumbent QB yards/att,13.05,-0.01,75.3,0.02,49.9,-1.1,1864
+3rd down % (off & def),13.06,-0.0,75.3,0.02,51.1,0.0,1864
+Altitude,13.06,-0.0,75.0,0.01,51.7,0.6,1864
+QB change (incumbent sat out),13.06,-0.0,75.3,0.0,50.8,-0.2,1864
+West-to-east trip (2+ zones),13.07,0.01,75.3,0.04,50.8,-0.2,1864
+Travel distance,13.08,0.02,75.1,0.01,50.7,-0.4,1864
+Current season only ratings,13.08,0.02,74.6,-0.01,50.5,-0.5,1864
+FBS/FCS flags,13.09,0.03,75.1,-0.0,50.0,-1.0,1864
+Line movement (open->close),13.13,0.07,75.1,0.06,50.5,-0.6,1137
+Coming off bye,13.14,0.08,74.8,0.07,49.9,-1.2,1864
+Rest days,13.14,0.08,74.8,0.06,49.9,-1.2,1727
+Time zones crossed,13.2,0.14,74.6,0.2,48.9,-2.2,1864
+Blowout-capped ratings (cap 21),13.31,0.25,74.0,0.02,51.3,0.3,1864

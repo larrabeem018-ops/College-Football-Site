@@ -4,46 +4,52 @@ update_data.py
 Refreshes every CSV that the College Football Analytics Hub (Main.py + pages/)
 actually reads, pulling fresh data from the CollegeFootballData.com (CFBD) API.
 
-WHY: the site's data was frozen around the 2024/2025 seasons. This script
-rolls everything forward for the 2026 season:
+WHY: the site tracks two different kinds of "current":
 
-    "prior season" slot   (files with 2024 in the name, e.g. Roster_2024.csv,
-                            player_stats_2024.csv)
-        -> filled with the FINAL 2025 season (now complete)
+    "preseason" slots (rosters, recruiting class, transfer portal, incoming
+    NFL draft departures) roll forward a year at a time and keep the legacy
+    file names the app already expects:
 
-    "current/upcoming" slot (files with 2025 in the name, e.g. Roster_2025.csv,
-                              Recruits_2025.csv, Draft_Position.csv, transfers_2025*.csv)
-        -> filled with 2026 preseason data (roster, recruiting class, transfer
-           portal, incoming NFL draft departures)
+        "prior season" slot   (files with 2024 in the name, e.g. Roster_2024.csv,
+                                player_stats_2024.csv)
+            -> filled with the FINAL 2025 season (now complete)
 
-    QB game-by-game / season stats
-        -> finalized for the complete 2025 season (2026 games haven't happened yet,
-           so there's nothing to pull there until the season kicks off)
+        "current/upcoming" slot (files with 2025 in the name, e.g. Roster_2025.csv,
+                                  Recruits_2025.csv, Draft_Position.csv, transfers_2025*.csv)
+            -> filled with 2026 preseason data (roster, recruiting class, transfer
+               portal, incoming NFL draft departures)
 
-    Team season stats (offense + defense) and weekly schedule/spreads
-        -> power the "Weekly Preview" page. Team stats default to the completed
-           2025 season (last year's numbers, since 2026 hasn't kicked off);
-           re-run with --season-stats-year 2026 once games start this season to
-           switch the preview over to in-season numbers. The weekly schedule +
-           opening spreads are pulled on demand with --week N.
+    "in-season" slots (QB stats, betting lines, team offense/defense splits)
+    are pulled for BOTH seasons and saved to explicitly year-named files, so
+    last year's finished season and this year's in-progress season never
+    overwrite each other:
 
-File names are left exactly as the app already expects them (Roster_2024.csv,
-Roster_2025.csv, etc.) so none of the Streamlit pages need to change -- only
-the *contents* move forward a year. Comments below call out each mapping.
+        data/QB_Stats/2025_QBstats.csv         data/QB_Stats/2026_QBstats.csv
+        data/all_qb_game_stats_2025.csv        data/all_qb_game_stats_2026.csv
+        data/espnBetLines_2025.csv             data/espnBetLines_2026.csv
+        data/team_game_stats_2025.csv          data/team_game_stats_2026.csv
+        data/team_season_stats_2025.csv        data/team_season_stats_2026.csv
+
+    The pages that use these (QB Comparison, Betting Results, Weekly Preview)
+    have a season picker and read whichever year's file the person selects.
+    Every "in-season" pull walks week 1 upward and simply stops when a week
+    comes back empty, so re-running this script partway through the 2026
+    season automatically picks up whatever new games have been played since
+    the last run -- no flags needed to say "we're on week N now".
 
 USAGE (run this locally -- it needs real internet access):
     pip install requests pandas
-    python update_data.py                       # pulls everything except this week's schedule
-    python update_data.py --week 1               # also pulls Week 1's schedule + opening spreads
-                                                    # (FBS games only by default -- add
+    python update_data.py                       # pulls everything (both seasons' in-season
+                                                    # stats, current preseason rosters, etc.)
+    python update_data.py --week 1               # also pulls Week 1's 2026 schedule + opening
+                                                    # spreads (FBS games only by default -- add
                                                     # --all-classifications for every NCAA game)
+    python update_data.py --seasons 2026          # only refresh in-season stats (QB, betting
+                                                    # lines, team stats) for 2026 -- skips
+                                                    # re-pulling last year's already-final numbers
     python update_data.py --skip-qb               # skip the (slower) per-week QB pull
-    python update_data.py --skip-plays             # skip the week-1 play-by-play pull
-    python update_data.py --skip-lines              # skip full-season betting lines
-    python update_data.py --skip-team-stats           # skip team season offense/defense stats
-    python update_data.py --season-stats-year 2026      # once 2026 games exist, refresh
-                                                           # team season stats from this season
-                                                           # instead of the 2025 default
+    python update_data.py --skip-lines            # skip betting lines
+    python update_data.py --skip-team-stats       # skip team season offense/defense stats
 
 A CFBD API key is required, set via an environment variable (never hardcoded
 in source, so it's safe to put this project on GitHub):
@@ -75,8 +81,13 @@ if not API_KEY:
 BASE = "https://api.collegefootballdata.com"
 HEADERS = {"Authorization": f"Bearer {API_KEY}"}
 
-PRIOR_SEASON = 2025     # last fully-completed season -> fills "*_2024"-named slots
-UPCOMING_SEASON = 2026  # season about to start -> fills "*_2025"-named slots
+PRIOR_SEASON = 2025      # last fully-completed season -> fills "*_2024"-named preseason slots
+UPCOMING_SEASON = 2026   # season currently being played -> fills "*_2025"-named preseason slots
+
+# In-season data (QB stats, betting lines, team stats) is pulled for each
+# year in SEASONS, each saved to its own year-named file. Defaults to both
+# years; overridden at the bottom of main() by --seasons if that's passed.
+SEASONS = [PRIOR_SEASON, UPCOMING_SEASON]
 
 REQUEST_DELAY = 0.35    # be polite to the API between calls
 
@@ -230,11 +241,15 @@ def fetch_transfers(roster_prior, player_stats_wide):
 
 
 # ---------------------------------------------------------------------------
-# 7) QB stats -- since 2026 games haven't been played, this finalizes the
-#    complete PRIOR_SEASON (2025): a per-week/per-game log across every week,
-#    plus a season-total snapshot used for the QB comparison radar chart.
-#    (The original notebook only ever pulled SEC, weeks 1-3; this pulls every
-#    FBS conference across the whole season.)
+# 7) QB stats -- a per-week/per-game log across every week, plus a season-
+#    total snapshot used for the QB comparison radar chart. Pulled once per
+#    season in SEASONS (2025 final + 2026 in-progress) and saved to files
+#    named for that season, so the QB Comparison page can offer a season
+#    picker without one year's numbers ever clobbering the other's.
+#
+#    For a season still in progress, weeks that haven't been played yet come
+#    back empty and are skipped -- so this naturally pulls "every game played
+#    so far" without needing to know which week the season is currently on.
 # ---------------------------------------------------------------------------
 
 def extract_qb_week(games_json, week):
@@ -286,17 +301,17 @@ def extract_qb_week(games_json, week):
     return rows
 
 
-def fetch_qb_stats(max_week=15):
-    section(f"QB game-by-game stats ({PRIOR_SEASON} full season, all conferences)")
+def fetch_qb_stats_for_season(year, max_week=15):
+    section(f"QB game-by-game stats ({year}, all conferences)")
     all_rows = []
     for week in range(1, max_week + 1):
         try:
-            games_json = get("/games/players", year=PRIOR_SEASON, week=week, category="passing")
+            games_json = get("/games/players", year=year, week=week, category="passing")
         except RuntimeError as e:
             print(f"  week {week}: {e}")
             continue
         if not games_json:
-            print(f"  week {week}: no data (season likely ended before this week)")
+            print(f"  week {week}: no data (not played yet, or season ended before this week)")
             continue
         week_rows = extract_qb_week(games_json, week)
         print(f"  week {week}: {len(week_rows)} QB performances")
@@ -304,13 +319,13 @@ def fetch_qb_stats(max_week=15):
 
     weekly_df = pd.DataFrame(all_rows)
     if weekly_df.empty:
-        print("  No QB data collected -- skipping QB file writes.")
+        print(f"  No QB data available yet for {year} -- skipping file writes for this season.")
         return
 
     weekly_df["completion_pct"] = weekly_df["comp"] / weekly_df["att"]
-    save(weekly_df, "data/all_qb_game_stats_2024.csv")
+    save(weekly_df, f"data/all_qb_game_stats_{year}.csv")
 
-    # Season snapshot: one row per QB, aggregated across all weeks played.
+    # Season snapshot: one row per QB, aggregated across all weeks played so far.
     def agg_group(g):
         comp, att = g["comp"].sum(), g["att"].sum()
         return pd.Series({
@@ -331,44 +346,72 @@ def fetch_qb_stats(max_week=15):
 
     season_df = weekly_df.groupby("player_name").apply(agg_group).reset_index()
     season_df = season_df[season_df["att"] >= 20]
-    save(season_df, "data/QB_Stats/2025_QBstats.csv")
+    save(season_df, f"data/QB_Stats/{year}_QBstats.csv")
+
+
+def fetch_qb_stats():
+    for year in SEASONS:
+        fetch_qb_stats_for_season(year)
 
 
 # ---------------------------------------------------------------------------
-# 8) Betting lines -- ESPN Bet lines for the full (now-complete) PRIOR_SEASON
+# 8) Betting lines -- ESPN Bet lines, pulled for each season in SEASONS and
+#    saved to a year-named file so 2025's finished lines and 2026's
+#    in-progress lines stay separate.
 # ---------------------------------------------------------------------------
 
-def fetch_lines():
-    section(f"Betting lines ({PRIOR_SEASON} full season, ESPN Bet)")
-    games = get("/lines", year=PRIOR_SEASON, seasonType="regular")
+def fetch_lines_for_season(year):
+    section(f"Betting lines ({year}, ESPN Bet preferred)")
+    games = get("/lines", year=year, seasonType="regular")
 
     rows = []
+    provider_counts = {}
+    skipped_no_lines = 0
     for g in games:
-        for line in g.get("lines", []):
-            if line.get("provider") != "ESPN Bet":
-                continue
-            row = {k: v for k, v in g.items() if k != "lines"}
-            row.update(line)
-            rows.append(row)
+        game_lines = g.get("lines", [])
+        if not game_lines:
+            skipped_no_lines += 1
+            continue
+        for line in game_lines:
+            provider_counts[line.get("provider")] = provider_counts.get(line.get("provider"), 0) + 1
+        # Prefer ESPN Bet when it's posted for this game, same as the weekly
+        # schedule pull does -- but don't drop the game entirely just because
+        # ESPN Bet specifically isn't listed for it (a provider going quiet
+        # for a stretch of games, or CFBD renaming/rotating its primary book,
+        # shouldn't zero out a whole season of betting data).
+        chosen = next((l for l in game_lines if l.get("provider") == "ESPN Bet"), None)
+        chosen = chosen or game_lines[0]
+        row = {k: v for k, v in g.items() if k != "lines"}
+        row.update(chosen)
+        rows.append(row)
 
     df = pd.DataFrame(rows)
-    save(df, "data/espnBetLines.csv")
+    if df.empty:
+        print(f"  No lines available yet for {year} -- skipping file write for this season.")
+        if skipped_no_lines:
+            print(f"  ({skipped_no_lines} games had no lines posted at all for {year})")
+        return
+    save(df, f"data/espnBetLines_{year}.csv")
+    espn_bet_rows = (df["provider"] == "ESPN Bet").sum()
+    if espn_bet_rows < len(df):
+        other = sorted(provider_counts.items(), key=lambda kv: -kv[1])
+        print(
+            f"  Note: only {espn_bet_rows}/{len(df)} games had an ESPN Bet line for {year} -- "
+            f"the rest fell back to another provider. Providers seen: {other}"
+        )
+
+
+def fetch_lines():
+    for year in SEASONS:
+        fetch_lines_for_season(year)
 
 
 # ---------------------------------------------------------------------------
-# 9) Week 1 play-by-play (finalized, since the season is over)
-# ---------------------------------------------------------------------------
-
-def fetch_week1_plays():
-    section(f"Week 1 play-by-play ({PRIOR_SEASON})")
-    plays = pd.json_normalize(get("/plays", year=PRIOR_SEASON, week=1, seasonType="regular"))
-    save(plays, "data/Drives/week_1_plays_2025.csv")
-
-
-# ---------------------------------------------------------------------------
-# 10) Team game & season stats (offense + defense splits) -- powers the
+# 9) Team game & season stats (offense + defense splits) -- powers the
 #     "Weekly Preview" page's stat comparison (yards/gm, points/gm, 3rd down
-#     %, yards & points allowed, turnovers forced, turnover margin).
+#     %, yards & points allowed, turnovers forced, turnover margin). Pulled
+#     for each season in SEASONS so the page can prefer in-season 2026
+#     numbers once a team has played enough games, falling back to 2025.
 #
 #     /games/teams returns two rows per game (one per team), each holding
 #     that TEAM'S OWN offensive output for the game. There's no separate
@@ -428,7 +471,7 @@ def fetch_team_game_stats(year, max_week=15):
             print(f"  week {week}: {e}")
             continue
         if not games_json:
-            print(f"  week {week}: no data (season likely ended before this week)")
+            print(f"  week {week}: no data (not played yet, or season ended before this week)")
             continue
         week_rows = 0
         for game in games_json:
@@ -521,8 +564,17 @@ def build_team_season_stats(long_df, year):
     return season
 
 
+def fetch_team_stats_all_seasons():
+    for year in SEASONS:
+        try:
+            long_df = fetch_team_game_stats(year)
+            build_team_season_stats(long_df, year)
+        except Exception as e:
+            print(f"  Team season stats fetch failed for {year}: {e}")
+
+
 # ---------------------------------------------------------------------------
-# 11) Weekly schedule + opening spreads -- one week at a time, on demand
+# 10) Weekly schedule + opening spreads -- one week at a time, on demand
 #     (pass --week N). Powers the matchup list on the "Weekly Preview" page.
 # ---------------------------------------------------------------------------
 
@@ -601,26 +653,31 @@ def fetch_week_games(week, year=None, fbs_only=True):
 
 def main():
     parser = argparse.ArgumentParser(description="Refresh CFB Analytics Hub data")
-    parser.add_argument("--skip-qb", action="store_true", help="skip per-week QB stats pull")
-    parser.add_argument("--skip-plays", action="store_true", help="skip week-1 play-by-play pull")
-    parser.add_argument("--skip-lines", action="store_true", help="skip full-season betting lines pull")
-    parser.add_argument("--skip-team-stats", action="store_true", help="skip team season offense/defense stats pull")
-    parser.add_argument(
-        "--season-stats-year", type=int, default=None,
-        help="pull team season stats for this year instead of the default prior season "
-             "(e.g. --season-stats-year 2026 once games have been played this season)",
-    )
+    parser.add_argument("--skip-qb", action="store_true", help="skip per-week QB stats pull (both seasons)")
+    parser.add_argument("--skip-lines", action="store_true", help="skip betting lines pull (both seasons)")
+    parser.add_argument("--skip-team-stats", action="store_true", help="skip team season offense/defense stats pull (both seasons)")
     parser.add_argument(
         "--week", type=int, default=None,
         help="also pull the schedule + opening spreads for this week of the upcoming season "
-             "(e.g. --week 1), used by the Weekly Preview page",
+             "(e.g. --week 5), used by the Weekly Preview page",
     )
     parser.add_argument(
         "--all-classifications", action="store_true",
         help="with --week, include every NCAA game (FCS/DII/DIII too) instead of the default "
              "FBS-only schedule (a game is kept if at least one team is FBS)",
     )
+    parser.add_argument(
+        "--seasons", type=int, nargs="+", default=None, metavar="YEAR",
+        help="which season(s) to pull in-season stats (QB stats, betting lines, team season "
+             f"stats) for. Defaults to both {PRIOR_SEASON} and {UPCOMING_SEASON}. Pass just the "
+             f"current season to skip re-pulling last year's already-final numbers, "
+             f"e.g. --seasons {UPCOMING_SEASON}",
+    )
     args = parser.parse_args()
+
+    global SEASONS
+    if args.seasons:
+        SEASONS = args.seasons
 
     roster_prior, roster_upcoming = fetch_rosters()
     fetch_draft()
@@ -642,21 +699,8 @@ def main():
     else:
         print("\nSkipping betting lines (--skip-lines)")
 
-    if not args.skip_plays:
-        try:
-            fetch_week1_plays()
-        except Exception as e:
-            print(f"  Play-by-play fetch failed: {e}")
-    else:
-        print("\nSkipping play-by-play (--skip-plays)")
-
     if not args.skip_team_stats:
-        try:
-            stats_year = args.season_stats_year or PRIOR_SEASON
-            team_game_stats = fetch_team_game_stats(stats_year)
-            build_team_season_stats(team_game_stats, stats_year)
-        except Exception as e:
-            print(f"  Team season stats fetch failed: {e}")
+        fetch_team_stats_all_seasons()
     else:
         print("\nSkipping team season stats (--skip-team-stats)")
 
@@ -668,7 +712,7 @@ def main():
     else:
         print(
             "\nNo --week given -- skipping this-week schedule/lines pull. "
-            "Run again with e.g. --week 1 once you know which week to preview."
+            "Run again with e.g. --week N once you know which week to preview."
         )
 
     print("\nAll done. Restart the Streamlit app to see the refreshed data:")

@@ -126,8 +126,8 @@ else:
     # Create Sankey diagram
     fig_sankey = go.Figure(data=[go.Sankey(
         node = dict(
-            pad = 15,
-            thickness = 20,
+            pad = 20,
+            thickness = 22,
             line = dict(color = "black", width = 0.5),
             label = schools,
             color = node_colors
@@ -139,14 +139,27 @@ else:
         )
     )])
     
-    # Update layout
+    # Update layout. A system font (Arial) renders crisper as SVG text than a
+    # webfont like Manrope, which can look fuzzy at these small label sizes,
+    # especially on high-DPI/scaled displays. A fixed, non-fractional width
+    # also avoids the sub-pixel blur that use_container_width's dynamic
+    # container-resize can introduce on Sankey diagrams.
+    SANKEY_WIDTH = 1100
     fig_sankey.update_layout(
         title=f"Transfer Portal Movement - {selected_team}",
-        font_size=16,
-        height=700
+        font=dict(family="Arial, Helvetica, sans-serif", size=13, color="#0A0906"),
+        title_font=dict(family="Arial, Helvetica, sans-serif", size=18),
+        width=SANKEY_WIDTH,
+        height=700,
+        paper_bgcolor="rgba(0,0,0,0)",
+        plot_bgcolor="rgba(0,0,0,0)",
     )
     
-    st.plotly_chart(fig_sankey, use_container_width=True)
+    st.plotly_chart(
+        fig_sankey,
+        use_container_width=False,
+        config={"displaylogo": False, "toImageButtonOptions": {"scale": 3}},
+    )
 
     with st.expander("ℹ️ How to Read This Chart"):
         st.markdown("""

@@ -1,3 +1,5 @@
+import os
+
 import numpy as np
 import pandas as pd
 import plotly.express as px
@@ -11,9 +13,18 @@ apply_style()
 # -----------------------------
 # Load Data
 # -----------------------------
+# Betting lines are pulled per-season by update_data.py into
+# data/espnBetLines_{season}.csv, so 2025's finished season and 2026's
+# in-progress season stay in separate files instead of one overwriting
+# the other.
+AVAILABLE_SEASONS = [
+    yr for yr in (2026, 2025) if os.path.exists(f"data/espnBetLines_{yr}.csv")
+]
+
+
 @st.cache_data
-def load_data():
-    file_path = "data/espnBetLines.csv"  # path to your CSV
+def load_data(season):
+    file_path = f"data/espnBetLines_{season}.csv"
     df = pd.read_csv(file_path)
 
     # Convert numeric columns
@@ -32,7 +43,19 @@ def load_team_logos():
         return {}
 
 
-df = load_data()
+st.title("College Football Spread & Payouts Dashboard 🏈")
+
+if not AVAILABLE_SEASONS:
+    st.warning(
+        "No betting lines found yet. Run `python update_data.py` (with a CFBD_API_KEY set) "
+        "to pull lines for the 2025 and 2026 seasons."
+    )
+    st.stop()
+
+season = st.radio("Season", AVAILABLE_SEASONS, horizontal=True, key="betting_season")
+st.caption(f"Showing {season} season lines" + (" (in progress)." if season == 2026 else " (final)."))
+
+df = load_data(season)
 logo_map = load_team_logos()
 
 
@@ -147,7 +170,6 @@ long_df = build_team_game_log(df)
 # -----------------------------
 # Streamlit UI
 # -----------------------------
-st.title("College Football Spread & Payouts Dashboard 🏈")
 
 # -----------------------------
 # Team Filter
