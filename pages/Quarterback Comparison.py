@@ -5,7 +5,7 @@ import pandas as pd
 import plotly.graph_objects as go
 from style import apply_style, ACCENT, CHART_SEQUENCE, BG, BORDER, TEXT_PRIMARY, TEXT_SECONDARY
 # Configure Streamlit page
-st.set_page_config(page_title="QB Comparison Tool", page_icon="🏈", layout="wide")
+st.set_page_config(page_title="Quarterback Comparison", page_icon="🏈", layout="wide")
 apply_style()
 
 # ---------------------------------------------------------------------------
@@ -22,7 +22,7 @@ AVAILABLE_SEASONS = [
     if os.path.exists(f"data/QB_Stats/{yr}_QBstats.csv") and os.path.exists(SEASON_ROSTER[yr])
 ]
 
-st.title("🏈 Compare Quarterbacks")
+st.title("🏈 Quarterback Comparison")
 
 if not AVAILABLE_SEASONS:
     st.warning(
@@ -32,10 +32,6 @@ if not AVAILABLE_SEASONS:
     st.stop()
 
 season = st.radio("Season", AVAILABLE_SEASONS, horizontal=True, key="qb_season")
-st.caption(
-    f"Comparing quarterbacks using {season} season stats"
-    + (" (in progress)." if season == 2026 else " (final).")
-)
 
 # Load data
 df = pd.read_csv(f"data/QB_Stats/{season}_QBstats.csv")
@@ -59,6 +55,175 @@ if roster_qbs.empty:
     st.info(f"No {season} quarterbacks with enough stats to compare yet.")
     st.stop()
 
+# ---------------------------------------------------------------------------
+# Two views on this page: "leaders" (the landing view -- a chart of the best
+# QBs by a chosen stat) and "compare" (the head-to-head tool). The leaders
+# view hands the chosen QBs to the compare view via session_state.
+# ---------------------------------------------------------------------------
+if "qb_view" not in st.session_state:
+    st.session_state["qb_view"] = "leaders"
+
+FBS_CONFERENCES = {
+    "SEC", "Big Ten", "Big 12", "ACC", "Pac-12", "American Athletic", "Sun Belt",
+    "Mid-American", "Mountain West", "Conference USA", "FBS Independents",
+}
+
+# label -> (column, value format, blurb)
+LEADER_METRICS = {
+    "Passer Rating": ("rating", "{:.1f}", "NCAA passer efficiency rating: (8.4×Yds + 330×TD + 100×Comp − 200×INT) ÷ Att."),
+    "Passing Yards": ("yds", "{:,.0f}", "Total passing yards."),
+    "Passing TDs": ("td", "{:.0f}", "Total passing touchdowns."),
+    "Yards per Attempt": ("ypa", "{:.2f}", "Passing yards per attempt."),
+    "Completion %": ("comp_pct", "{:.1f}%", "Completions ÷ attempts."),
+    "ESPN QBR": ("qbr", "{:.1f}", "ESPN's Total QBR. ESPN doesn't publish one for every QB, so only QBs with a QBR are ranked."),
+}
+
+if st.session_state["qb_view"] == "leaders":
+    st.caption(
+        f"Who's playing the best football at quarterback — {season} season"
+        + (" (in progress)." if season == 2026 else " (final).")
+        + " Rank the field by any stat, then dive into a head-to-head."
+    )
+
+    pool = df.merge(
+        roster_qbs[['id', 'full_name', 'team']].drop_duplicates('id')
+        .rename(columns={'id': 'player_id', 'team': 'roster_team'}),
+        on='player_id', how='inner',
+    )
+    pool['comp_pct'] = pool['comp'] / pool['att'] * 100
+    pool['ypa'] = pool['yds'] / pool['att']
+    pool['rating'] = (8.4 * pool['yds'] + 330 * pool['td'] + 100 * pool['comp'] - 200 * pool['int']) / pool['att']
+    pool['is_fbs'] = pool['conference'].isin(FBS_CONFERENCES)
+
+    # Default qualifier: ~15 attempts per game played so far (the NCAA
+    # rule of thumb), capped so the default never hides everyone.
+    games_played = int(df['week'].max())
+    max_att = int(pool['att'].max())
+    default_min_att = int(min(15 * games_played, pool['att'].quantile(0.9), max_att))
+
+    c1, c2, c3, c4 = st.columns([1.6, 1.2, 1.6, 1.2])
+    with c1:
+        metric_label = st.selectbox("Rank quarterbacks by", list(LEADER_METRICS), key="qb_leader_metric")
+    with c2:
+        level = st.radio("Level", ["FBS", "All levels"], horizontal=True, key="qb_leader_level")
+    with c3:
+        min_att = st.slider("Minimum pass attempts", 0, max_att, default_min_att, step=5, key=f"qb_leader_minatt_{season}")
+    with c4:
+        top_n = st.slider("QBs shown", 5, 25, 15, key="qb_leader_topn")
+
+    col, fmt, blurb = LEADER_METRICS[metric_label]
+    ranked = pool[pool['att'] >= min_att]
+    if level == "FBS":
+        ranked = ranked[ranked['is_fbs']]
+    ranked = ranked.dropna(subset=[col]).sort_values(col, ascending=False).reset_index(drop=True)
+
+    if ranked.empty:
+        st.info("No quarterbacks match these filters — try lowering the minimum attempts.")
+        st.stop()
+
+    top = ranked.head(top_n)
+    st.caption(f"{blurb} Showing the top {len(top)} of {len(ranked)} qualifying QBs. **Click a bar** to pick a quarterback to compare.")
+
+    fig = go.Figure(go.Bar(
+        x=top[col],
+        y=[f"{n} · {t}" for n, t in zip(top['player_name'], top['roster_team'])],
+        orientation='h',
+        marker=dict(color=ACCENT),
+        text=[fmt.format(v) for v in top[col]],
+        textposition='outside',
+        cliponaxis=False,
+        hovertemplate="%{y}<br>" + metric_label + ": %{text}<extra></extra>",
+    ))
+    fig.update_layout(
+        title=dict(
+            text=f"{metric_label} Leaders — {season} Season",
+            font=dict(family="Spectral, serif", size=20, color=TEXT_PRIMARY),
+        ),
+        height=max(340, 32 * len(top) + 110),
+        yaxis=dict(autorange="reversed", tickfont=dict(size=13, color=TEXT_PRIMARY)),
+        xaxis=dict(gridcolor=BORDER, zeroline=False, tickfont=dict(color=TEXT_SECONDARY)),
+        font=dict(family="Manrope, sans-serif"),
+        paper_bgcolor=BG,
+        plot_bgcolor=BG,
+        margin=dict(t=60, b=30, l=10, r=60),
+        clickmode="event+select",
+    )
+    event = st.plotly_chart(
+        fig, use_container_width=True, on_select="rerun", selection_mode="points",
+        key=f"qb_leaders_chart_{season}_{metric_label}_{level}_{min_att}_{top_n}",
+    )
+    clicked_idx = None
+    pts = event.selection.points if event and event.selection else []
+    if pts and pts[0].get("point_index") is not None and pts[0]["point_index"] < len(top):
+        clicked_idx = int(pts[0]["point_index"])
+
+    # ---- Head-to-head launcher ------------------------------------------
+    st.markdown("### 🆚 Dive into a head-to-head")
+    if len(ranked) < 2:
+        st.info("Need at least two qualifying quarterbacks to compare — try lowering the minimum attempts.")
+    else:
+        labels = [f"{r.player_name} — {r.roster_team} ({fmt.format(getattr(r, col))} {metric_label})" for r in ranked.itertuples()]
+        default_a = clicked_idx if clicked_idx is not None else 0
+        default_b = 1 if default_a == 0 else 0
+        if clicked_idx is not None:
+            st.caption(f"Selected from the chart: **{ranked.loc[clicked_idx, 'player_name']}**. Pick an opponent below.")
+        l1, l2 = st.columns(2)
+        with l1:
+            a = st.selectbox("Quarterback 1", range(len(ranked)), index=default_a,
+                             format_func=lambda i: labels[i], key=f"qb_lead_a_{default_a}")
+        with l2:
+            b = st.selectbox("Quarterback 2", range(len(ranked)), index=default_b,
+                             format_func=lambda i: labels[i], key=f"qb_lead_b_{default_a}")
+        b1, b2, _ = st.columns([1.3, 1.3, 3])
+        with b1:
+            go_compare = st.button("Compare these QBs →", type="primary", disabled=(a == b), key="qb_go_compare")
+        with b2:
+            go_tool = st.button("Open full comparison tool", key="qb_go_tool")
+        if go_compare:
+            ra, rb = ranked.iloc[a], ranked.iloc[b]
+            st.session_state["qb_team1"], st.session_state["qb1_name"] = ra['roster_team'], ra['full_name']
+            st.session_state["qb_team2"], st.session_state["qb2_name"] = rb['roster_team'], rb['full_name']
+            st.session_state["qb_view"] = "compare"
+            st.rerun()
+        if go_tool:
+            st.session_state["qb_view"] = "compare"
+            st.rerun()
+
+    # ---- Leaderboard table ----------------------------------------------
+    st.markdown("### 📋 Leaderboard")
+    board = pd.DataFrame({
+        "Rank": range(1, len(top) + 1),
+        "": top['logos'],
+        "Quarterback": top['player_name'],
+        "Team": top['roster_team'],
+        "Conf": top['conference'],
+        "Att": top['att'],
+        "Comp %": top['comp_pct'].round(1),
+        "Yds": top['yds'],
+        "TD": top['td'],
+        "INT": top['int'],
+        "Y/A": top['ypa'].round(2),
+        "Rating": top['rating'].round(1),
+        "QBR": top['qbr'].round(1),
+    })
+    st.dataframe(
+        board, use_container_width=True, hide_index=True,
+        column_config={"": st.column_config.ImageColumn("", width="small")},
+    )
+    st.stop()
+
+# ---------------------------------------------------------------------------
+# Head-to-head comparison view
+# ---------------------------------------------------------------------------
+if st.button("← Back to QB leaders", key="qb_back"):
+    st.session_state["qb_view"] = "leaders"
+    st.rerun()
+
+st.caption(
+    f"Comparing quarterbacks using {season} season stats"
+    + (" (in progress)." if season == 2026 else " (final).")
+)
+
 # Define metrics
 metrics = ['att', 'qbr', 'yds', 'td', 'int']
 METRIC_LABELS = {'att': 'Attempts', 'qbr': 'QBR', 'yds': 'Pass Yards', 'td': 'TD', 'int': 'INT'}
@@ -77,10 +242,18 @@ st.caption(f"Pick a team to see the quarterbacks on its {season} roster with sta
 
 team_options = sorted(roster_qbs['team'].unique())
 
+# Drop stale widget state (e.g. after switching seasons) so selectboxes never
+# hold a value that isn't in their option list.
+for _k in ("qb_team1", "qb_team2"):
+    if st.session_state.get(_k) not in team_options:
+        st.session_state.pop(_k, None)
+
 qb_col1, qb_col2 = st.columns(2)
 with qb_col1:
     team1 = st.selectbox("Team", team_options, index=0, key="qb_team1")
     team1_qbs = roster_qbs[roster_qbs['team'] == team1]
+    if st.session_state.get('qb1_name') not in set(team1_qbs['full_name']):
+        st.session_state.pop('qb1_name', None)
     qb1_full_name = st.selectbox("Quarterback", team1_qbs['full_name'], key="qb1_name")
     qb1 = team1_qbs.loc[team1_qbs['full_name'] == qb1_full_name, 'player_name'].iloc[0]
 with qb_col2:
@@ -88,6 +261,8 @@ with qb_col2:
     team2 = st.selectbox("Team", team_options, index=default_team2_index, key="qb_team2")
     team2_qbs = roster_qbs[roster_qbs['team'] == team2]
     default_qb2_index = 1 if (team2 == team1 and len(team2_qbs) > 1) else 0
+    if st.session_state.get('qb2_name') not in set(team2_qbs['full_name']):
+        st.session_state.pop('qb2_name', None)
     qb2_full_name = st.selectbox("Quarterback", team2_qbs['full_name'], index=default_qb2_index, key="qb2_name")
     qb2 = team2_qbs.loc[team2_qbs['full_name'] == qb2_full_name, 'player_name'].iloc[0]
 

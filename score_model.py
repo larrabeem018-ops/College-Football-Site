@@ -10,13 +10,16 @@ How it works
 
    That gives an opponent-adjusted "expected points" for any matchup. Two more
    versions are fit the same way: one on total yards, and one that counts the
-   last 3 weeks three times as heavily (recent form).
+   last 3 weeks three times as heavily (recent form). Two more rate per-play
+   efficiency from CFBD advanced stats (garbage time removed): EPA per play and
+   success rate.
 
 2. Score regression. A linear regression maps those pre-game numbers to the
    points each team actually scored:
 
-       team_points ~ expected points + recent-form expected points
-                     + expected yards + home/away + home/away in a conference game
+       team_points ~ expected points + recent-form expected points + expected yards
+                     + expected EPA/play + expected success rate
+                     + home/away + home/away in a conference game
 
    (Home field is worth ~3 pts less on the spread in conference games.)
 
@@ -131,6 +134,16 @@ def load_games(year, lines):
         "thirdDownMade": "opp_3dm", "thirdDownAtt": "opp_3da"})
     g = g.merge(opp, on=["gameId", "opponent"], how="left")
     g["conf_game"] = (g["conference"] == g["opp_conference"]).astype(float)
+
+    # per-play efficiency from CFBD advanced stats (garbage time removed)
+    adv_path = os.path.join(DATA, f"advanced_game_stats_nogt_{year}.csv")
+    if os.path.exists(adv_path):
+        adv = pd.read_csv(adv_path)[["gameId", "team", "offense_ppa", "offense_successRate"]]
+        g = g.merge(adv.rename(columns={"offense_ppa": "ppa", "offense_successRate": "sr"}),
+                    on=["gameId", "team"], how="left")
+    else:
+        print(f"  note: {adv_path} not found -- run `python update_data.py --only-model-inputs`")
+        g["ppa"], g["sr"] = np.nan, np.nan
     return g
 
 
@@ -184,21 +197,33 @@ def ratings_before(all_games, season, week, cls):
     yds, ymu, yhfa = fit_ratings(hist, "totalYards", cls)
     rcn, rmu, rhfa = fit_ratings(rec, "points", cls)
     feats = pts.add_prefix("pts_").join(yds.add_prefix("yds_")).join(rcn.add_prefix("rec_"))
+    # per-play efficiency ratings: EPA per play and success rate, opponent-adjusted
+    eff_attrs = {}
+    for k in ("ppa", "sr"):
+        h = hist.dropna(subset=[k])
+        if len(h) < 50:
+            feats[f"{k}_off"], feats[f"{k}_def"] = 0.0, 0.0
+            eff_attrs[k] = (float(all_games[k].mean()) if all_games[k].notna().any() else 0.0, 0.0)
+            continue
+        r, emu, ehfa = fit_ratings(h, k, cls)
+        feats = feats.join(r.add_prefix(f"{k}_"), how="left")
+        feats[[f"{k}_off", f"{k}_def"]] = feats[[f"{k}_off", f"{k}_def"]].fillna(0.0)
+        eff_attrs[k] = (emu, ehfa)
     feats["games_played"] = cur.groupby("team").size().reindex(feats.index).fillna(0)
     # Off/def levels aren't separately identified (only their sum is), so the
     # model uses each rating model's full expected value for the matchup.
-    feats.attrs = {"pts": (mu, hfa), "yds": (ymu, yhfa), "rec": (rmu, rhfa)}
+    feats.attrs = {"pts": (mu, hfa), "yds": (ymu, yhfa), "rec": (rmu, rhfa), **eff_attrs}
     return feats
 
 
 # ------------------------------------------------------------- design matrix
-FEATURES = ["exp_pts", "exp_rec", "exp_yds", "home", "conf_home"]
+FEATURES = ["exp_pts", "exp_rec", "exp_yds", "exp_ppa", "exp_sr", "home", "conf_home"]
 
 
 def team_rows(pairs, feats):
     """pairs: DataFrame with team, opponent, home, conf_game -> feature rows."""
     d = pairs.copy()
-    for k in ("pts", "yds", "rec"):
+    for k in ("pts", "yds", "rec", "ppa", "sr"):
         mu, hfa = feats.attrs[k]
         off = d["team"].map(feats[f"{k}_off"]).fillna(0)
         de = d["opponent"].map(feats[f"{k}_def"]).fillna(0)
@@ -331,6 +356,27 @@ def describe_game(row, feats, cls, hfa_pts):
         else:
             why.append(f"The model rates {pick} {rk(net_rank, pick)} overall and {other} "
                        f"{rk(net_rank, other)}, adjusted for schedule strength.")
+
+    # 2b. per-play efficiency: success rate (garbage time removed, schedule-adjusted)
+    if "sr_off" in feats.columns and feats["sr_off"].abs().sum() > 0:
+        e_off = feats["sr_off"] - fbs["sr_off"].mean()
+        e_def = feats["sr_def"] - fbs["sr_def"].mean()          # + = allows more (bad)
+        e_off_rank = e_off[is_fbs].rank(ascending=False, method="min")
+        e_def_rank = e_def[is_fbs].rank(ascending=True, method="min")
+        note = ("(Success rate = share of plays that keep the offense on schedule; garbage time "
+                "removed and adjusted for schedule.)")
+        opts = []
+        if pick in e_off.index and other in e_def.index:
+            opts.append((e_off[pick] + e_def[other],
+                         f"Play for play, {pick}'s offense ranks {rk(e_off_rank, pick)} in success rate and "
+                         f"{other}'s defense ranks {rk(e_def_rank, other)} at stopping it. {note}"))
+        if pick in e_def.index and other in e_off.index:
+            opts.append((-e_def[pick] - e_off[other],
+                         f"Play for play, {pick}'s defense ranks {rk(e_def_rank, pick)} in success rate allowed, "
+                         f"against a {other} offense ranked {rk(e_off_rank, other)}. {note}"))
+        best_e = max(opts, key=lambda o: o[0]) if opts else None
+        if best_e is not None and best_e[0] > 0:
+            why.append(best_e[1])
 
     # 3. recent form
     for t, is_pick in ((pick, True), (other, False)):

@@ -391,10 +391,14 @@ with tab_how:
    season goes on.
 2. **Weight recent form.** A second version counts the last 3 weeks three times as heavily, which catches
    teams that are improving or slipping.
-3. **Predict each team's score.** A regression turns those ratings, plus yards and home field, into a
-   predicted score for each team. Home field is worth much less in conference games (about 1.5 pts)
+3. **Rate play-by-play efficiency.** Final scores are noisy: a fluky touchdown or a pick-six can swing
+   them. So the model also rates every offense and defense on **success rate** (the share of plays that
+   keep an offense on schedule) and **EPA per play** (expected points added), with garbage time removed
+   and adjusted for schedule. Adding these improved both accuracy and the pick record in both seasons tested.
+4. **Predict each team's score.** A regression turns those ratings, plus yards and home field, into a
+   predicted score for each team. Home field is worth much less in conference games (about 1 pt)
    than in non-conference games, where home teams usually host opponents they match up well against.
-4. **Compare with Vegas.** The gap between the model's spread and the Vegas spread puts each game in a category.
+5. **Compare with Vegas.** The gap between the model's spread and the Vegas spread puts each game in a category.
     """)
 
     st.subheader("How each category has done")
@@ -420,6 +424,9 @@ with tab_how:
 - **A neural network**: no better than the simple model at picking winners, and worse at win probabilities.
 - **Betting against a team with a new starting QB**: looked like a 60% edge at first, but it turned out
   to be a data leak. Measured cleanly it's a coin flip, because Vegas already prices in QB changes.
+- **Returning production and roster talent**: made early-season scores more accurate, but made the picks
+  worse. Vegas already prices this in, so it's left out.
+- **Pace (plays per game)**: didn't help the over/under.
 - **Over/unders**: the model's totals haven't beaten the posted total, so totals are for reference only.
     """)
     st.subheader("What the model can't see")
@@ -432,6 +439,6 @@ these is often the reason.
 html("""
 <div class="cfb-footer">
   <span>For entertainment and analysis, not betting advice. If you bet, only bet what you can afford to lose.</span>
-  <span>Model: opponent-adjusted ratings + linear regression · updated weekly by score_model.py</span>
+  <span>Model: opponent-adjusted scoring + efficiency ratings, linear regression · updated weekly by score_model.py</span>
 </div>
 """)

@@ -29,6 +29,9 @@ WHY: the site tracks two different kinds of "current":
         data/espnBetLines_2025.csv             data/espnBetLines_2026.csv
         data/team_game_stats_2025.csv          data/team_game_stats_2026.csv
         data/team_season_stats_2025.csv        data/team_season_stats_2026.csv
+        data/advanced_game_stats_2025.csv      data/advanced_game_stats_2026.csv   (+ _nogt_ versions)
+        data/returning_production_2025.csv     data/returning_production_2026.csv
+        data/talent_2025.csv                   data/talent_2026.csv
 
     The pages that use these (QB Comparison, Betting Results, Weekly Preview)
     have a season picker and read whichever year's file the person selects.
@@ -50,6 +53,9 @@ USAGE (run this locally -- it needs real internet access):
     python update_data.py --skip-qb               # skip the (slower) per-week QB pull
     python update_data.py --skip-lines            # skip betting lines
     python update_data.py --skip-team-stats       # skip team season offense/defense stats
+    python update_data.py --only-model-inputs     # only pull advanced game stats, returning
+                                                    # production and talent (for score_model.py)
+    python update_data.py --skip-model-inputs     # skip those
 
 A CFBD API key is required, set via an environment variable (never hardcoded
 in source, so it's safe to put this project on GitHub):
@@ -574,6 +580,67 @@ def fetch_team_stats_all_seasons():
 
 
 # ---------------------------------------------------------------------------
+# 9b) Model inputs for score_model.py -- per-game advanced stats (EPA/PPA,
+#     success rate, explosiveness, havoc...), returning production and team
+#     talent. Pulled for each season in SEASONS.
+#
+#     advanced_game_stats_{year}.csv        every play counted
+#     advanced_game_stats_nogt_{year}.csv   garbage time removed (usually the
+#                                           better signal for predicting)
+#     returning_production_{year}.csv       % of last year's production back
+#     talent_{year}.csv                     247 roster talent composite
+# ---------------------------------------------------------------------------
+
+def fetch_advanced_game_stats(year, max_week=16):
+    for exclude_gt, suffix in ((False, ""), (True, "_nogt")):
+        label = "garbage time removed" if exclude_gt else "all plays"
+        section(f"Advanced game stats ({year}, {label})")
+        frames = []
+        for week in range(1, max_week + 1):
+            try:
+                rows = get("/stats/game/advanced", year=year, week=week, seasonType="regular",
+                           excludeGarbageTime=str(exclude_gt).lower())
+            except RuntimeError as e:
+                print(f"  week {week}: {e}")
+                continue
+            if not rows:
+                print(f"  week {week}: no data (not played yet, or no games that week)")
+                continue
+            df = pd.json_normalize(rows, sep="_")
+            if "week" not in df.columns:
+                df["week"] = week
+            frames.append(df)
+            print(f"  week {week}: {len(df)} team-game rows")
+        if frames:
+            save(pd.concat(frames, ignore_index=True), f"data/advanced_game_stats{suffix}_{year}.csv")
+        else:
+            print("  nothing returned -- skipping save")
+
+
+def fetch_returning_and_talent(year):
+    section(f"Returning production + team talent ({year})")
+    try:
+        ret = pd.json_normalize(get("/player/returning", year=year), sep="_")
+        save(ret, f"data/returning_production_{year}.csv")
+    except Exception as e:
+        print(f"  returning production fetch failed: {e}")
+    try:
+        tal = pd.json_normalize(get("/talent", year=year), sep="_")
+        save(tal, f"data/talent_{year}.csv")
+    except Exception as e:
+        print(f"  talent fetch failed: {e}")
+
+
+def fetch_model_inputs():
+    for year in SEASONS:
+        try:
+            fetch_advanced_game_stats(year)
+        except Exception as e:
+            print(f"  Advanced game stats fetch failed for {year}: {e}")
+        fetch_returning_and_talent(year)
+
+
+# ---------------------------------------------------------------------------
 # 10) Weekly schedule + opening spreads -- one week at a time, on demand
 #     (pass --week N). Powers the matchup list on the "Weekly Preview" page.
 # ---------------------------------------------------------------------------
@@ -656,6 +723,10 @@ def main():
     parser.add_argument("--skip-qb", action="store_true", help="skip per-week QB stats pull (both seasons)")
     parser.add_argument("--skip-lines", action="store_true", help="skip betting lines pull (both seasons)")
     parser.add_argument("--skip-team-stats", action="store_true", help="skip team season offense/defense stats pull (both seasons)")
+    parser.add_argument("--skip-model-inputs", action="store_true",
+                        help="skip advanced game stats / returning production / talent (used by score_model.py)")
+    parser.add_argument("--only-model-inputs", action="store_true",
+                        help="ONLY pull advanced game stats / returning production / talent, then stop")
     parser.add_argument(
         "--week", type=int, default=None,
         help="also pull the schedule + opening spreads for this week of the upcoming season "
@@ -678,6 +749,11 @@ def main():
     global SEASONS
     if args.seasons:
         SEASONS = args.seasons
+
+    if args.only_model_inputs:
+        fetch_model_inputs()
+        print("\nDone (model inputs only).")
+        return
 
     roster_prior, roster_upcoming = fetch_rosters()
     fetch_draft()
@@ -703,6 +779,11 @@ def main():
         fetch_team_stats_all_seasons()
     else:
         print("\nSkipping team season stats (--skip-team-stats)")
+
+    if not args.skip_model_inputs:
+        fetch_model_inputs()
+    else:
+        print("\nSkipping model inputs (--skip-model-inputs)")
 
     if args.week:
         try:

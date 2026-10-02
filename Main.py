@@ -127,10 +127,10 @@ features = [
     },
     {
         "icon": "radar",
-        "title": "QB Radar Comparison",
-        "desc": "Head-to-head QB profiles and weekly QBR progression, side by side.",
-        "page": "pages/qb_visuals.py",
-        "link_label": "Open QB Radar Comparison",
+        "title": "Quarterback Comparison",
+        "desc": "See who's playing best at QB right now, then dive into head-to-head profiles and weekly QBR.",
+        "page": "pages/Quarterback Comparison.py",
+        "link_label": "Open Quarterback Comparison",
     },
     {
         "icon": "flow",
