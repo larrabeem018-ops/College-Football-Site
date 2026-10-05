@@ -1,0 +1,59 @@
+gameId,week,startDate,startTimeTBD,homeTeam,homeConference,awayTeam,awayConference,venue,neutralSite,spread,formattedSpread,overUnder,homeMoneyline,awayMoneyline
+401871090,6,2026-10-07T00:00:00.000Z,False,Troy,Sun Belt,Southern Miss,Sun Belt,Veterans Memorial Stadium (AL),False,-9.5,Troy -9.5,48.5,-355.0,280.0
+401871051,6,2026-10-07T23:00:00.000Z,False,Kennesaw State,Conference USA,Jacksonville State,Conference USA,Fifth Third Stadium,False,2.5,Jacksonville State -2.5,48.5,120.0,-142.0
+401871066,6,2026-10-07T23:30:00.000Z,False,Florida International,Conference USA,New Mexico State,Conference USA,Pitbull Stadium,False,-3.5,Florida International -3.5,47.5,-162.0,136.0
+401871052,6,2026-10-08T23:00:00.000Z,False,Western Kentucky,Conference USA,Missouri State,Conference USA,Houchens Industries-L.T. Smith Stadium,False,-2.5,Western Kentucky -2.5,55.5,-130.0,110.0
+401870766,6,2026-10-08T23:00:00.000Z,False,Liberty,Conference USA,Sam Houston,Conference USA,Williams Stadium (VA),False,-14.0,Liberty -14.0,52.5,-600.0,425.0
+401869933,6,2026-10-08T23:30:00.000Z,False,Arkansas State,Sun Belt,South Alabama,Sun Belt,Centennial Bank Stadium,False,1.0,South Alabama -1.0,57.5,-115.0,-105.0
+401862794,6,2026-10-08T23:30:00.000Z,False,UTSA,American Athletic,South Florida,American Athletic,Alamodome,False,-7.0,UTSA -7.0,52.5,-260.0,215.0
+401858254,6,2026-10-09T23:00:00.000Z,False,Louisville,ACC,Florida State,ACC,L&N Federal Credit Union Stadium,False,-5.5,Louisville -5.5,59.5,-230.0,190.0
+401864519,6,2026-10-10T01:00:00.000Z,False,San José State,Mountain West,Wyoming,Mountain West,CEFCU Stadium,False,-6.5,San José State -6.5,43.5,-245.0,205.0
+401860922,6,2026-10-10T01:00:00.000Z,False,Utah State,Pac-12,Washington State,Pac-12,Maverik Stadium,False,-3.5,Utah State -3.5,43.5,-180.0,155.0
+401858487,6,2026-10-10T01:00:00.000Z,False,Washington,Big Ten,Iowa,Big Ten,Husky Stadium,False,-1.5,Washington -1.5,41.5,-112.0,-108.0
+401856826,6,2026-10-10T02:15:00.000Z,False,BYU,Big 12,Iowa State,Big 12,LaVell Edwards Stadium,False,-14.5,BYU -14.5,50.5,-625.0,455.0
+401856716,6,2026-10-10T16:00:00.000Z,False,Missouri,SEC,Texas A&M,SEC,Memorial Stadium,False,-1.5,Missouri -1.5,50.5,-118.0,-102.0
+401856824,6,2026-10-10T16:00:00.000Z,False,Oklahoma State,Big 12,UCF,Big 12,Boone Pickens Stadium,False,-10.0,Oklahoma State -10.0,54.0,-430.0,320.0
+401858481,6,2026-10-10T16:00:00.000Z,False,Nebraska,Big Ten,Indiana,Big Ten,"Memorial Stadium (Lincoln, NE)",False,8.5,Indiana -8.5,50.5,285.0,-360.0
+401856823,6,2026-10-10T16:00:00.000Z,False,West Virginia,Big 12,Arizona,Big 12,Milan Puskar Stadium,False,3.0,Arizona -3.0,60.0,125.0,-145.0
+401858256,6,2026-10-10T16:00:00.000Z,False,Pittsburgh,ACC,North Carolina,ACC,Acrisure Stadium,False,-4.0,Pittsburgh -4.0,47.0,-185.0,160.0
+401866436,6,2026-10-10T16:00:00.000Z,False,Bowling Green,Mid-American,Sacramento State,Mid-American,Doyt L. Perry Stadium,False,-7.0,Bowling Green -7.0,43.0,-275.0,225.0
+401858260,6,2026-10-10T16:00:00.000Z,False,NC State,ACC,Wake Forest,ACC,Carter-Finley Stadium,False,3.5,Wake Forest -3.5,60.0,150.0,-175.0
+401862795,6,2026-10-10T16:00:00.000Z,False,Army,American Athletic,Tulane,American Athletic,Michie Stadium,False,-3.0,Army -3.0,47.0,-160.0,135.0
+401858482,6,2026-10-10T16:30:00.000Z,False,Northwestern,Big Ten,Ball State,Mid-American,Ryan Field,False,-36.0,Northwestern -36.0,53.0,,
+401856714,6,2026-10-10T16:45:00.000Z,False,Florida,SEC,South Carolina,SEC,Ben Hill Griffin Stadium,False,-14.5,Florida -14.5,57.5,-675.0,490.0
+401869843,6,2026-10-10T17:00:00.000Z,False,App State,Sun Belt,Old Dominion,Sun Belt,Kidd Brewer Stadium,False,-10.0,App State -10.0,51.0,-390.0,295.0
+401866440,6,2026-10-10T18:00:00.000Z,False,Massachusetts,Mid-American,Miami (OH),Mid-American,Warren McGuirk Alumni Stadium,False,2.5,Miami (OH) -2.5,48.0,115.0,-135.0
+401866435,6,2026-10-10T19:30:00.000Z,False,Akron,Mid-American,Eastern Michigan,Mid-American,InfoCision Stadium,False,7.0,Eastern Michigan -7.0,51.0,190.0,-230.0
+401856718,6,2026-10-10T19:30:00.000Z,False,Vanderbilt,SEC,Ole Miss,SEC,FirstBank Stadium,False,10.0,Ole Miss -10.0,59.0,305.0,-410.0
+401862796,6,2026-10-10T19:30:00.000Z,False,North Texas,American Athletic,Charlotte,American Athletic,DATCU Stadium,False,-27.0,North Texas -27.0,59.5,-5000.0,1300.0
+401856825,6,2026-10-10T19:30:00.000Z,False,Kansas State,Big 12,Houston,Big 12,Bill Snyder Family Stadium,False,-2.5,Kansas State -2.5,56.0,-140.0,120.0
+401858259,6,2026-10-10T19:30:00.000Z,False,California,ACC,Virginia Tech,ACC,California Memorial Stadium,False,9.5,Virginia Tech -9.5,53.0,285.0,-370.0
+401858255,6,2026-10-10T19:30:00.000Z,False,Georgia Tech,ACC,Duke,ACC,Bobby Dodd Stadium,False,7.0,Duke -7.0,50.0,225.0,-275.0
+401858257,6,2026-10-10T19:30:00.000Z,False,Notre Dame,FBS Independents,Stanford,ACC,Notre Dame Stadium,False,-38.0,Notre Dame -38.0,54.5,,
+401858484,6,2026-10-10T19:30:00.000Z,False,Oregon,Big Ten,UCLA,Big Ten,Autzen Stadium,False,-12.5,Oregon -12.5,60.5,-485.0,370.0
+401862799,6,2026-10-10T19:30:00.000Z,False,Navy,American Athletic,Tulsa,American Athletic,Navy-Marine Corps Memorial Stadium,False,-2.5,Navy -2.5,49.0,-130.0,110.0
+401858480,6,2026-10-10T19:30:00.000Z,False,Michigan State,Big Ten,Illinois,Big Ten,Spartan Stadium,False,3.5,Illinois -3.5,50.0,150.0,-175.0
+401856717,6,2026-10-10T19:30:00.000Z,False,Oklahoma,SEC,Texas,SEC,Cotton Bowl,True,9.5,Texas -9.5,41.5,300.0,-380.0
+401866437,6,2026-10-10T19:30:00.000Z,False,Toledo,Mid-American,Buffalo,Mid-American,Glass Bowl,False,-19.5,Toledo -19.5,55.0,-1200.0,700.0
+401866438,6,2026-10-10T19:30:00.000Z,False,Ohio,Mid-American,Central Michigan,Mid-American,Peden Stadium,False,-3.5,Ohio -3.5,47.0,-175.0,150.0
+401866439,6,2026-10-10T19:30:00.000Z,False,Western Michigan,Mid-American,Kent State,Mid-American,Waldo Stadium,False,-14.0,Western Michigan -14.0,43.5,-650.0,450.0
+401861964,6,2026-10-10T19:45:00.000Z,False,Temple,American Athletic,UConn,FBS Independents,Lincoln Financial Field,False,-4.0,Temple -4.0,54.5,-185.0,160.0
+401862797,6,2026-10-10T20:00:00.000Z,False,East Carolina,American Athletic,Rice,American Athletic,Dowdy-Ficklen Stadium,False,-10.0,East Carolina -10.0,50.0,-410.0,305.0
+401856713,6,2026-10-10T20:15:00.000Z,False,Arkansas,SEC,Tennessee,SEC,Razorback Stadium,False,13.5,Tennessee -13.5,50.0,410.0,-585.0
+401858483,6,2026-10-10T20:15:00.000Z,False,Ohio State,Big Ten,Maryland,Big Ten,Ohio Stadium,False,-35.0,Ohio State -35.0,56.0,,
+401860902,6,2026-10-10T22:00:00.000Z,False,Oregon State,Pac-12,San Diego State,Pac-12,Reser Stadium,False,-14.0,Oregon State -14.0,56.0,-625.0,430.0
+401869943,6,2026-10-10T23:00:00.000Z,False,Marshall,Sun Belt,Coastal Carolina,Sun Belt,Joan C. Edwards Stadium,False,,,,,
+401864517,6,2026-10-10T23:00:00.000Z,False,UTEP,Mountain West,Nevada,Mountain West,Sun Bowl,False,9.0,Nevada -9.0,49.5,280.0,-360.0
+401864518,6,2026-10-10T23:00:00.000Z,False,UNLV,Mountain West,North Dakota State,Mountain West,Allegiant Stadium,False,3.0,North Dakota State -3.0,49.5,135.0,-160.0
+401862798,6,2026-10-10T23:00:00.000Z,False,Memphis,American Athletic,UAB,American Athletic,Simmons Bank Liberty Stadium,False,-15.5,Memphis -15.5,58.5,-675.0,460.0
+401856715,6,2026-10-10T23:00:00.000Z,False,Kentucky,SEC,LSU,SEC,Kroger Field,False,10.5,LSU -10.5,54.5,295.0,-390.0
+401856712,6,2026-10-10T23:30:00.000Z,False,Alabama,SEC,Georgia,SEC,Bryant-Denny Stadium,False,2.5,Georgia -2.5,56.5,105.0,-125.0
+401864516,6,2026-10-10T23:30:00.000Z,False,Northern Illinois,Mountain West,Air Force,Mountain West,Huskie Stadium,False,10.0,Air Force -10.0,47.5,350.0,-480.0
+401869965,6,2026-10-10T23:30:00.000Z,False,Louisiana Tech,Sun Belt,Louisiana,Sun Belt,Joe Aillet Stadium,False,-3.0,Louisiana Tech -3.0,48.5,-140.0,120.0
+401858485,6,2026-10-10T23:30:00.000Z,False,Penn State,Big Ten,USC,Big Ten,Beaver Stadium,False,-1.5,Penn State -1.5,58.5,-115.0,-105.0
+401858258,6,2026-10-10T23:30:00.000Z,False,Virginia,ACC,Syracuse,ACC,Scott Stadium,False,-9.5,Virginia -9.5,49.5,-370.0,285.0
+401869949,6,2026-10-10T23:30:00.000Z,False,Georgia Southern,Sun Belt,James Madison,Sun Belt,Allen E. Paulson Stadium,False,9.5,James Madison -9.5,53.5,285.0,-370.0
+401858486,6,2026-10-11T00:00:00.000Z,False,Purdue,Big Ten,Minnesota,Big Ten,Ross-Ade Stadium,False,2.0,Minnesota -2.0,51.5,110.0,-130.0
+401856827,6,2026-10-11T02:15:00.000Z,False,Utah,Big 12,Kansas,Big 12,Rice-Eccles Stadium,False,-15.5,Utah -15.5,52.0,-750.0,500.0
+401860901,6,2026-10-11T02:30:00.000Z,False,Fresno State,Pac-12,Boise State,Pac-12,Valley Children's Stadium,False,6.0,Boise State -6.0,48.5,205.0,-245.0
+401856808,6,2026-10-11T02:30:00.000Z,False,Arizona State,Big 12,Hawai'i,Mountain West,Mountain America Stadium,False,-21.0,Arizona State -21.0,51.0,-1900.0,900.0
