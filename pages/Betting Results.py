@@ -23,7 +23,8 @@ AVAILABLE_SEASONS = [
 
 
 @st.cache_data
-def load_data(season):
+def load_data(season, file_mtime):
+    # file_mtime is part of the cache key, so a fresh update_data.py run is picked up
     file_path = f"data/espnBetLines_{season}.csv"
     df = pd.read_csv(file_path)
 
@@ -55,7 +56,7 @@ if not AVAILABLE_SEASONS:
 season = st.radio("Season", AVAILABLE_SEASONS, horizontal=True, key="betting_season")
 st.caption(f"Showing {season} season lines" + (" (in progress)." if season == 2026 else " (final)."))
 
-df = load_data(season)
+df = load_data(season, os.path.getmtime(f"data/espnBetLines_{season}.csv"))
 logo_map = load_team_logos()
 
 

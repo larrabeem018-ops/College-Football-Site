@@ -72,7 +72,7 @@ def mtime(p):
 
 
 @st.cache_data
-def load_picks(path, _mtime):
+def load_picks(path, file_mtime):
     df = pd.read_csv(path)
     for c in ("why", "watch"):
         df[c] = df[c].apply(lambda s: json.loads(s) if isinstance(s, str) else [])
@@ -90,14 +90,14 @@ def load_logos():
 
 
 @st.cache_data
-def load_tier_history(_mtime):
+def load_tier_history(file_mtime):
     th = pd.read_csv(os.path.join(PRED, "tier_history.csv"))
     th["by_season"] = th["by_season"].apply(json.loads)
     return th.set_index("tier")
 
 
 @st.cache_data
-def load_graded_log(_m1, _m2):
+def load_graded_log(log_mtime, lines_mtime):
     log = pd.read_csv(os.path.join(PRED, f"picks_log_{SEASON}.csv"))
     lines = pd.read_csv(f"data/espnBetLines_{SEASON}.csv")[["id", "homeScore", "awayScore"]]
     log = log.merge(lines.rename(columns={"id": "gameId"}), on="gameId", how="left")

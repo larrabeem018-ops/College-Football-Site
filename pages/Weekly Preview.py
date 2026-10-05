@@ -55,7 +55,8 @@ def load_fbs_teams():
 
 
 @st.cache_data
-def load_team_season_stats():
+def load_team_season_stats(file_mtimes):
+    # file_mtimes is part of the cache key, so updated stats are picked up
     frames = {}
     for yr in (UPCOMING_SEASON, PRIOR_SEASON):
         path = f"data/team_season_stats_{yr}.csv"
@@ -64,8 +65,7 @@ def load_team_season_stats():
     return frames
 
 
-@st.cache_data
-def discover_week_files():
+def discover_week_files():  # not cached: a cheap folder scan, so new weeks show up right away
     files = sorted(glob.glob(f"data/schedule/week_*_games_{UPCOMING_SEASON}.csv"))
     weeks = []
     for f in files:
@@ -278,7 +278,10 @@ html(
 
 logo_map, conf_map = load_team_info()
 roster_prior, roster_upcoming, player_stats = load_rosters_and_stats()
-season_frames = load_team_season_stats()
+season_frames = load_team_season_stats(tuple(
+    os.path.getmtime(p) if os.path.exists(p) else 0
+    for p in (f"data/team_season_stats_{UPCOMING_SEASON}.csv", f"data/team_season_stats_{PRIOR_SEASON}.csv")
+))
 week_files = discover_week_files()
 
 use_sample = False
