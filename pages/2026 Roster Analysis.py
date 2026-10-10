@@ -258,7 +258,7 @@ def main():
     
     # Team selection (main page)
     # Get unique teams and their logos
-    all_teams = sorted(roster_2025['team'].unique())
+    all_teams = sorted(roster_2025['team'].dropna().astype(str).unique())
 
     # Create a logo dictionary for easy lookup
     logo_dict = dict(zip(teams['school'], teams['logos']))
@@ -560,7 +560,7 @@ def main():
         # Allow users to dive deeper into specific positions
         position_filter = st.selectbox(
             "Select Position for Analysis",
-            sorted(roster_2025['position'].unique().tolist())
+            sorted(roster_2025['position'].dropna().astype(str).unique().tolist())
         )
         
         st.subheader(f"{position_filter} Analysis for {selected_team}")
