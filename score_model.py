@@ -37,6 +37,7 @@ Outputs (data/predictions/)
   tier_history.csv                   how each pick tier has done historically (backtest)
   model_accuracy.json                model vs Vegas accuracy (backtest)
   model_summary.txt                  coefficients + accuracy
+  qb_check.json                      backtest record of picks when a team's previous starting QB sat vs. didn't
 
 Run from the project root after update_data.py:  python score_model.py  [--week 5]
 """
@@ -428,6 +429,74 @@ def describe_game(row, feats, cls, hfa_pts):
     return pick, why, watch
 
 
+# ------------------------------------------------------------------- QB check
+def load_qb_index():
+    """Per team, every game's starter (most pass attempts) and the set of QBs who threw.
+    Returns (index, starts) or (None, None) if the QB files aren't there."""
+    frames = []
+    for y in (PRIOR, SEASON):
+        path = os.path.join(DATA, f"all_qb_game_stats_{y}.csv")
+        if os.path.exists(path):
+            q = pd.read_csv(path)
+            q["season"] = y
+            frames.append(q)
+    if not frames:
+        return None, None
+    q = pd.concat(frames, ignore_index=True)
+    q["k"] = q["season"] * 100 + q["week"]
+    idx = {}
+    for (team, k), g in q.groupby(["team", "k"]):
+        top = g.sort_values("att").iloc[-1]
+        idx.setdefault(team, []).append((k, top["player_id"], top["player_name"], set(g["player_id"])))
+    for t in idx:
+        idx[t].sort(key=lambda e: e[0])
+    starts = q[q["att"] >= 10].groupby("player_id")["k"].apply(sorted).to_dict()
+    return idx, starts
+
+
+def last_starter(idx, starts, team, season, week):
+    """(name, career starts in our data, season, week) of `team`'s starter in its last game before this week."""
+    k = season * 100 + week
+    prior = [e for e in idx.get(team, []) if e[0] < k] if idx else []
+    if not prior:
+        return None, np.nan, np.nan, np.nan
+    lk, pid, name, _ = prior[-1]
+    n = sum(1 for x in starts.get(pid, []) if x <= lk)
+    return name, n, lk // 100, lk % 100
+
+
+def qb_changed(idx, team, season, week):
+    """1 if last game's starter didn't throw a pass in this game, 0 if he did, nan if unknown.
+    (Uses who actually played, so it's for backtesting only -- before kickoff you need the news.)"""
+    k = season * 100 + week
+    games = idx.get(team, []) if idx else []
+    now = [e for e in games if e[0] == k]
+    prior = [e for e in games if e[0] < k]
+    if not now or not prior:
+        return np.nan
+    return float(prior[-1][1] not in now[0][3])
+
+
+def qb_check(oos, idx):
+    """Backtest record by tier, split by whether either team's previous starter sat."""
+    if idx is None:
+        return None
+    ch = []
+    for _, r in oos.iterrows():
+        a = qb_changed(idx, r["homeTeam"], r["season"], r["week"])
+        b = qb_changed(idx, r["awayTeam"], r["season"], r["week"])
+        ch.append(np.nan if pd.isna(a) or pd.isna(b) else float(a or b))
+    g = oos.assign(qb_change=ch).dropna(subset=["qb_change"])
+    out = {}
+    for key, m in (("changed", g["qb_change"] == 1), ("same", g["qb_change"] == 0)):
+        s = g[m]
+        out[key] = {"games": int(len(s))}
+        for t in list(TIERS) + ["all_3plus"]:
+            st = s[s["tier"] == t] if t != "all_3plus" else s[s["tier"] != "pass"]
+            out[key][t] = [int((st["result"] == "Win").sum()), int((st["result"] == "Loss").sum())]
+    return out
+
+
 # ------------------------------------------------------------------------ main
 def fit_model(rows):
     return LinearRegression().fit(rows[FEATURES], rows["points"])
@@ -493,6 +562,12 @@ def main():
     tier_hist = pd.DataFrame(hist)
     tier_hist.to_csv(os.path.join(OUT, "tier_history.csv"), index=False)
 
+    qb_idx, qb_starts = load_qb_index()
+    qbc = qb_check(oos, qb_idx)
+    if qbc is not None:
+        with open(os.path.join(OUT, "qb_check.json"), "w") as f:
+            json.dump(qbc, f, indent=2)
+
     g = oos.dropna(subset=["overUnder"])
     am = g["home_pts"] - g["away_pts"]
     acc = {}
@@ -532,6 +607,12 @@ def main():
     p["pred_away"] = final.predict(away_rows[FEATURES]).clip(min=0)
     p["model_total"] = p["pred_home"] + p["pred_away"]
     p["total_edge"] = p["model_total"] - p["overUnder"]
+    for side in ("home", "away"):
+        qb = [last_starter(qb_idx, qb_starts, t, SEASON, week) for t in p[f"{side}Team"]]
+        p[f"{side}_qb"] = [x[0] for x in qb]
+        p[f"{side}_qb_starts"] = [x[1] for x in qb]
+        p[f"{side}_qb_season"] = [x[2] for x in qb]
+        p[f"{side}_qb_week"] = [x[3] for x in qb]
     p["home_games_played"] = home_rows["games_played"].values
     p["away_games_played"] = away_rows["games_played"].values
     p = add_pick_cols(p)
@@ -552,7 +633,8 @@ def main():
     pick_cols = ["gameId", "week", "startDate", "homeTeam", "awayTeam", "homeConference", "awayConference",
                  "spread", "spreadOpen", "overUnder", "pred_home", "pred_away", "model_spread", "model_total",
                  "edge", "total_edge", "tier", "pick_side", "pick", "pick_line", "conf_game", "neutral",
-                 "home_games_played", "away_games_played", "why", "watch"]
+                 "home_games_played", "away_games_played", "home_qb", "home_qb_starts", "home_qb_season",
+                 "home_qb_week", "away_qb", "away_qb_starts", "away_qb_season", "away_qb_week", "why", "watch"]
     p[pick_cols].round(1).to_csv(os.path.join(OUT, f"week_{week}_picks_{SEASON}.csv"), index=False)
 
     # ---- 5) picks log: backtest rows for played weeks + live rows (locked at kickoff)
@@ -587,6 +669,12 @@ def main():
         "Pick tiers (against the spread, -110 odds):",
         tier_hist[["label", "wins", "losses", "win_pct", "units", "by_season"]].to_string(index=False),
     ]
+    if qbc is not None:
+        pc = lambda wl: f"{wl[0]}-{wl[1]} ({100 * wl[0] / max(sum(wl), 1):.1f}%)"
+        summary += ["", "Picks when either team's previous starting QB sat vs. didn't (backtest):"]
+        for t in list(TIERS) + ["all_3plus"]:
+            summary.append(f"  {TIERS.get(t, 'All picks (3+ pt gap)'):<26} QB change {pc(qbc['changed'][t]):<18}"
+                           f" same QBs {pc(qbc['same'][t])}")
     txt = "\n".join(summary)
     with open(os.path.join(OUT, "model_summary.txt"), "w") as f:
         f.write(txt + "\n")

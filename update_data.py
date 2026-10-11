@@ -461,6 +461,10 @@ def extract_team_game_row(game, team_obj, opponent_obj):
         "homeAway": team_obj.get("homeAway"),
         "points": team_obj.get("points") if team_obj.get("points") is not None else 0,
         "totalYards": num("totalYards"),
+        "rushingYards": num("rushingYards"),
+        "netPassingYards": num("netPassingYards"),
+        "rushingAttempts": num("rushingAttempts"),
+        "passAttempts": frac("completionAttempts")[1],
         "thirdDownMade": third_made,
         "thirdDownAtt": third_att,
         "turnovers": num("turnovers"),
@@ -631,6 +635,121 @@ def fetch_returning_and_talent(year):
         print(f"  talent fetch failed: {e}")
 
 
+def fetch_drives(year, max_week=16):
+    """Every drive's starting spot (for the field-position test in field_position_test.py).
+    Writes data/drives_{year}.csv -- one row per drive."""
+    section(f"Drives / starting field position ({year})")
+    keep = ["gameId", "week", "offense", "defense", "isHomeOffense", "driveNumber", "startPeriod",
+            "startYardsToGoal", "endYardsToGoal", "driveResult", "plays", "yards", "scoring"]
+    frames = []
+    for week in range(1, max_week + 1):
+        try:
+            rows = get("/drives", year=year, week=week, seasonType="regular")
+        except RuntimeError as e:
+            print(f"  week {week}: {e}")
+            continue
+        if not rows:
+            print(f"  week {week}: no data (not played yet, or no games that week)")
+            continue
+        df = pd.json_normalize(rows, sep="_")
+        df["week"] = week
+        frames.append(df[[c for c in keep if c in df.columns]])
+        print(f"  week {week}: {len(df)} drives")
+    if frames:
+        save(pd.concat(frames, ignore_index=True), f"data/drives_{year}.csv")
+    else:
+        print("  nothing returned -- skipping save")
+
+
+RUSH_PLAY_TYPES = {"Rush", "Rushing Touchdown"}
+PASS_PLAY_TYPES = {"Pass Reception", "Pass Completion", "Passing Touchdown"}
+
+
+def fetch_explosive_plays(year, max_week=16, min_yards=20):
+    """Count of 20+ yard scrimmage plays per team per game (rush and pass),
+    built from play-by-play. Writes data/explosive_plays_{year}.csv."""
+    section(f"Explosive plays ({min_yards}+ yards, {year})")
+    rows = []
+    for week in range(1, max_week + 1):
+        try:
+            plays = get("/plays", year=year, week=week, seasonType="regular")
+        except RuntimeError as e:
+            print(f"  week {week}: {e}")
+            continue
+        if not plays:
+            print(f"  week {week}: no data (not played yet, or no games that week)")
+            continue
+        df = pd.DataFrame(plays)
+        df = df[df["playType"].isin(RUSH_PLAY_TYPES | PASS_PLAY_TYPES)].copy()
+        df["is_rush"] = df["playType"].isin(RUSH_PLAY_TYPES)
+        df["big"] = pd.to_numeric(df["yardsGained"], errors="coerce").fillna(0) >= min_yards
+        g = df.groupby(["gameId", "offense"]).agg(
+            scrimmage_plays=("big", "size"),
+            explosive_rush=("big", lambda b: int((b & df.loc[b.index, "is_rush"]).sum())),
+            explosive_pass=("big", lambda b: int((b & ~df.loc[b.index, "is_rush"]).sum())),
+        ).reset_index().rename(columns={"offense": "team"})
+        g["week"] = week
+        rows.append(g)
+        print(f"  week {week}: {len(df):,} scrimmage plays, {int(df['big'].sum())} of {min_yards}+ yards")
+    if rows:
+        save(pd.concat(rows, ignore_index=True), f"data/explosive_plays_{year}.csv")
+    else:
+        print("  nothing returned -- skipping save")
+
+
+def fetch_havoc(year, max_week=16):
+    """Per-game havoc rates (TFLs, sacks, forced fumbles, passes defended / plays).
+    Weekly endpoint, so no per-game calls. Writes data/havoc_game_stats_{year}.csv."""
+    section(f"Havoc game stats ({year})")
+    frames = []
+    for week in range(1, max_week + 1):
+        try:
+            rows = get("/stats/game/havoc", year=year, week=week, seasonType="regular")
+        except RuntimeError as e:
+            print(f"  week {week}: {e}")
+            continue
+        if not rows:
+            print(f"  week {week}: no data (not played yet, or no games that week)")
+            continue
+        df = pd.json_normalize(rows, sep="_")
+        df["week"] = week
+        frames.append(df)
+        print(f"  week {week}: {len(df)} team-game rows")
+    if frames:
+        save(pd.concat(frames, ignore_index=True), f"data/havoc_game_stats_{year}.csv")
+    else:
+        print("  nothing returned -- skipping save")
+
+
+def fetch_postgame_win_prob(year, max_week=16):
+    """Postgame win probability for every game (from the weekly /games endpoint --
+    one call per week, not one per game). Writes data/postgame_wp_{year}.csv."""
+    section(f"Postgame win probability ({year})")
+    keep = ["id", "week", "homeTeam", "awayTeam", "homePoints", "awayPoints", "neutralSite",
+            "homePostgameWinProbability", "awayPostgameWinProbability", "excitementIndex"]
+    frames = []
+    for week in range(1, max_week + 1):
+        try:
+            rows = get("/games", year=year, week=week, seasonType="regular")
+        except RuntimeError as e:
+            print(f"  week {week}: {e}")
+            continue
+        df = pd.json_normalize(rows) if rows else pd.DataFrame()
+        if df.empty or "homePostgameWinProbability" not in df.columns:
+            print(f"  week {week}: no data")
+            continue
+        df = df[[c for c in keep if c in df.columns]].dropna(subset=["homePostgameWinProbability"])
+        if df.empty:
+            print(f"  week {week}: no completed games")
+            continue
+        frames.append(df.rename(columns={"id": "gameId"}))
+        print(f"  week {week}: {len(df)} games")
+    if frames:
+        save(pd.concat(frames, ignore_index=True), f"data/postgame_wp_{year}.csv")
+    else:
+        print("  nothing returned -- skipping save")
+
+
 def fetch_model_inputs():
     for year in SEASONS:
         try:
@@ -638,6 +757,10 @@ def fetch_model_inputs():
         except Exception as e:
             print(f"  Advanced game stats fetch failed for {year}: {e}")
         fetch_returning_and_talent(year)
+        try:
+            fetch_drives(year)
+        except Exception as e:
+            print(f"  Drives fetch failed for {year}: {e}")
 
 
 # ---------------------------------------------------------------------------
@@ -726,7 +849,14 @@ def main():
     parser.add_argument("--skip-model-inputs", action="store_true",
                         help="skip advanced game stats / returning production / talent (used by score_model.py)")
     parser.add_argument("--only-model-inputs", action="store_true",
-                        help="ONLY pull advanced game stats / returning production / talent, then stop")
+                        help="ONLY pull advanced game stats / returning production / talent / drives, then stop")
+    parser.add_argument("--only-win-prob", action="store_true",
+                        help="ONLY pull postgame win probability for each season (~16 calls per season), then stop")
+    parser.add_argument("--only-test-inputs", action="store_true",
+                        help="ONLY pull what split_test.py / field_position_test.py need (team game stats with "
+                             "rushing/passing yards, drives, 20+ yard plays, havoc), then stop")
+    parser.add_argument("--only-drives", action="store_true",
+                        help="ONLY pull drive-level data (starting field position) for each season, then stop")
     parser.add_argument(
         "--week", type=int, default=None,
         help="also pull the schedule + opening spreads for this week of the upcoming season "
@@ -749,6 +879,29 @@ def main():
     global SEASONS
     if args.seasons:
         SEASONS = args.seasons
+
+    if args.only_win_prob:
+        for year in SEASONS:
+            fetch_postgame_win_prob(year)
+        print("\nDone (postgame win probability only).")
+        return
+
+    if args.only_test_inputs:
+        fetch_team_stats_all_seasons()
+        for year in SEASONS:
+            for fn in (fetch_drives, fetch_explosive_plays, fetch_havoc):
+                try:
+                    fn(year)
+                except Exception as e:
+                    print(f"  {fn.__name__} failed for {year}: {e}")
+        print("\nDone (test inputs only).")
+        return
+
+    if args.only_drives:
+        for year in SEASONS:
+            fetch_drives(year)
+        print("\nDone (drives only).")
+        return
 
     if args.only_model_inputs:
         fetch_model_inputs()

@@ -7,6 +7,7 @@ Reads files written by score_model.py (run it after update_data.py each week):
   data/predictions/picks_log_{SEASON}.csv
   data/predictions/tier_history.csv
   data/predictions/model_accuracy.json
+  data/predictions/qb_check.json     (picks when a team's previous starting QB sat vs. didn't)
 """
 import glob
 import json
@@ -53,6 +54,9 @@ html(f"""
 .sb-callout {{ background:#FFFFFF; border:1px solid {BORDER}; border-left:4px solid #B8860B;
   border-radius:8px; padding:14px 18px; font-size:14px; line-height:1.55; }}
 .sb-sub {{ font-size:13px; font-weight:600; margin-top:4px; }}
+.sb-qb {{ font-size:13px; line-height:1.5; margin:8px 0 2px; padding:8px 12px; background:#FAF9F6;
+  border:1px solid {BORDER}; border-radius:6px; }}
+.sb-qb .sb-qb-note {{ font-size:12px; color:{TEXT_SECONDARY}; }}
 </style>
 """)
 
@@ -146,6 +150,25 @@ def stat_card(value, label, sub=None, sub_color=None):
     """)
 
 
+@st.cache_data
+def load_qb_check(file_mtime):
+    path = os.path.join(PRED, "qb_check.json")
+    return json.load(open(path)) if os.path.exists(path) else None
+
+
+def wl_pct(wl):
+    return f"{wl[0]}-{wl[1]} ({100 * wl[0] / max(sum(wl), 1):.0f}%)"
+
+
+def qb_name(r, side):
+    """'Jalen Milroe (12 starts)' for last game's starter, or None if unknown."""
+    name = r.get(f"{side}_qb")
+    if not isinstance(name, str):
+        return None
+    n = r.get(f"{side}_qb_starts")
+    return f"{name} ({int(n)} start{'s' if int(n) != 1 else ''})" if pd.notna(n) else name
+
+
 def pct_color(pct):
     return ACCENT if pct is not None and pct >= BREAK_EVEN else LOSS_RED
 
@@ -162,6 +185,7 @@ logos = load_logos()
 tier_hist = load_tier_history(mtime(os.path.join(PRED, "tier_history.csv")))
 acc_path = os.path.join(PRED, "model_accuracy.json")
 acc = json.load(open(acc_path)) if os.path.exists(acc_path) else None
+qbc = load_qb_check(mtime(os.path.join(PRED, "qb_check.json")))
 log = load_graded_log(mtime(os.path.join(PRED, f"picks_log_{SEASON}.csv")),
                       mtime(f"data/espnBetLines_{SEASON}.csv"))
 done = log[log["result"] != "Pending"]
@@ -212,6 +236,10 @@ with tab_week:
     <b>Read this first.</b> Across all games, Vegas is more accurate than this model. The watchlist is
     the one kind of disagreement that has beaten the {BREAK_EVEN}% break-even rate in every test so far,
     and only by a few points. Treat these picks as leads to research (injuries, weather, QB news), not locks.
+    {"<br><br><b>Check the quarterbacks.</b> Each pick lists the QB who started each team's last game. "
+     "The model rates teams on games their usual QB played, so when he sits it overrates them. In testing, "
+     f"big disagreements went <b>{wl_pct(qbc['changed']['big_gap'])}</b> when either team's previous starter "
+     f"sat, against <b>{wl_pct(qbc['same']['big_gap'])}</b> when both started again." if qbc else ""}
     </div>
     """)
     html("<div style='height:18px'></div>")
@@ -245,6 +273,17 @@ with tab_week:
               <div>Model score<b>{r['awayTeam']} {r['pred_away']:.0f}, {r['homeTeam']} {r['pred_home']:.0f}</b></div>
             </div>
             """)
+            qa, qh = qb_name(r, "away"), qb_name(r, "home")
+            if qa or qh:
+                note = ""
+                if qbc:
+                    note = (f"<div class='sb-qb-note'>If either QB is out, be careful: in testing, "
+                            f"{TIER_LABEL[r['tier']].lower()} picks went {wl_pct(qbc['changed'][r['tier']])} when a "
+                            f"team's previous starter sat, vs. {wl_pct(qbc['same'][r['tier']])} otherwise.</div>")
+                html(f"""
+                <div class="sb-qb"><b>Started last game:</b> {r['awayTeam']}: {qa or 'unknown'} ·
+                  {r['homeTeam']}: {qh or 'unknown'}{note}</div>
+                """)
             st.markdown("**Why the model likes it**")
             st.markdown("\n".join(f"- {b}" for b in r["why"]))
             with st.expander("What could go wrong", expanded=muted):
@@ -297,16 +336,24 @@ with tab_week:
                            + ", " + allg["homeTeam"] + " " + allg["pred_home"].round().astype(int).astype(str))
     allg["O/U"] = allg["overUnder"]
     allg["Model total"] = allg["model_total"].round(1)
+    has_qb = "home_qb" in allg.columns
+    if has_qb:
+        allg["QBs last game"] = [f"{a if isinstance(a, str) else '?'} / {h if isinstance(h, str) else '?'}"
+                                 for a, h in zip(allg["away_qb"], allg["home_qb"])]
     allg["Result"] = allg["gameId"].map(graded).fillna("")
     order = {"fav_value": 0, "big_gap": 1, "lean": 2, "pass": 3}
     allg = allg.assign(_o=allg["tier"].map(order).fillna(4), _g=-allg["Gap"].fillna(0)).sort_values(["_o", "_g"])
     show = ["Matchup", "Kickoff", "Vegas", "Model", "Gap", "Model lean", "Category", "Model score", "O/U", "Model total"]
+    if has_qb:
+        show.insert(show.index("Model score"), "QBs last game")
     if allg["Result"].isin(["Win", "Loss", "Push"]).any():
         show.append("Result")
     st.dataframe(allg[show], use_container_width=True, hide_index=True,
                  column_config={
                      "Gap": st.column_config.NumberColumn(format="%.1f", help="Points between the model's line and Vegas"),
                      "O/U": st.column_config.NumberColumn(format="%.1f"),
+                     "QBs last game": st.column_config.TextColumn(
+                         help="Away / home starter in each team's last game. If one is out, the model's line is less reliable."),
                      "Model total": st.column_config.NumberColumn(
                          format="%.1f", help="For reference only: the model's totals haven't beaten the over/under.")})
 
@@ -319,6 +366,9 @@ with tab_week:
                         f"no lean. The model has it {r['Model']}.")
         else:
             st.markdown(f"**Model lean: {r['pick_line']}** ({TIER_LABEL[r['tier']]})")
+            if has_qb and (qb_name(r, "away") or qb_name(r, "home")):
+                st.markdown(f"Started last game: {r['awayTeam']}: {qb_name(r, 'away') or 'unknown'} · "
+                            f"{r['homeTeam']}: {qb_name(r, 'home') or 'unknown'}")
             st.markdown("\n".join(f"- {b}" for b in r["why"]))
             st.markdown("**What could go wrong**")
             st.markdown("\n".join(f"- {b}" for b in r["watch"]))
@@ -417,13 +467,32 @@ with tab_how:
                  column_config={"Win %": st.column_config.ProgressColumn(format="%.1f%%", min_value=40, max_value=60),
                                 "What it means": st.column_config.TextColumn(width="large")})
 
+    if qbc:
+        st.subheader("Check the quarterbacks")
+        st.markdown(
+            "The model rates each team on the games it has played, almost all with its usual starting QB. When "
+            "that QB sits (injury, benching, suspension), the model doesn't know and overrates the team. Vegas "
+            "adjusts as soon as the news is out. Below is how the model's picks did in testing when either team's "
+            "starter from its previous game **didn't throw a pass**, compared with games where both starters played.")
+        qrows = []
+        for t in list(TIER_LABEL) + ["all_3plus"]:
+            qrows.append({"Category": TIER_LABEL.get(t, "All picks (3+ pt gap)"),
+                          "Same QBs": wl_pct(qbc["same"][t]), "A previous starter sat": wl_pct(qbc["changed"][t])})
+        st.dataframe(pd.DataFrame(qrows), use_container_width=True, hide_index=True)
+        st.caption(f"{qbc['same']['games']:,} games with the same starters, {qbc['changed']['games']:,} with a change. "
+                   "Small samples (under ~100 picks) can swing a lot by chance. The site can't see injury reports, "
+                   "so check the news for the QBs listed on each pick before kickoff.")
+
     st.subheader("What we tested that didn't help")
     st.markdown("""
 - **Turnover margin, 3rd-down %, travel distance, time zones, rest days, bye weeks, altitude**: none of
   these improved the model's accuracy or its record against the spread.
 - **A neural network**: no better than the simple model at picking winners, and worse at win probabilities.
 - **Betting against a team with a new starting QB**: looked like a 60% edge at first, but it turned out
-  to be a data leak. Measured cleanly it's a coin flip, because Vegas already prices in QB changes.
+  to be a data leak. Measured cleanly it's close to a coin flip, because Vegas mostly prices in QB changes.
+  (QB changes do make the *model's own* picks less reliable, though. See "Check the quarterbacks" above.)
+- **About 40 more box-score stats** (havoc, field position, explosive plays, line yards, rushing vs. passing
+  splits, postgame win probability and more): none improved the spread picks beyond what random noise does.
 - **Returning production and roster talent**: made early-season scores more accurate, but made the picks
   worse. Vegas already prices this in, so it's left out.
 - **Pace (plays per game)**: didn't help the over/under.

@@ -1,0 +1,3218 @@
+gameId,team,scrimmage_plays,explosive_rush,explosive_pass,week
+401752665,Alabama,49,0,4,1
+401752665,Florida State,57,3,2,1
+401752666,Alabama A&M,39,1,1,1
+401752666,Arkansas,63,2,7,1
+401752667,Auburn,63,3,2,1
+401752667,Baylor,46,0,7,1
+401752668,Florida,62,3,4,1
+401752668,Long Island University,34,0,1,1
+401752669,Georgia,64,1,6,1
+401752669,Marshall,41,0,2,1
+401752670,Kentucky,50,1,0,1
+401752670,Toledo,48,0,5,1
+401752671,Clemson,37,0,3,1
+401752671,LSU,58,1,2,1
+401752672,Georgia State,45,2,1,1
+401752672,Ole Miss,66,3,8,1
+401752673,Mississippi State,65,0,2,1
+401752673,Southern Miss,58,0,3,1
+401752674,Central Arkansas,48,0,0,1
+401752674,Missouri,61,3,4,1
+401752675,Illinois State,34,2,0,1
+401752675,Oklahoma,60,0,6,1
+401752676,Syracuse,62,0,7,1
+401752676,Tennessee,56,3,3,1
+401752677,Ohio State,47,0,1,1
+401752677,Texas,52,0,3,1
+401752678,Texas A&M,46,1,8,1
+401752678,UTSA,49,3,1,1
+401752679,Charleston Southern,34,0,0,1
+401752679,Vanderbilt,50,1,4,1
+401752680,South Carolina,45,2,4,1
+401752680,Virginia Tech,50,0,5,1
+401752793,Buffalo,34,0,1,1
+401752793,Minnesota,62,0,4,1
+401752794,Ohio,66,4,3,1
+401752794,Rutgers,68,2,2,1
+401752795,Illinois,52,2,1,1
+401752795,Western Illinois,33,0,1,1
+401752796,Cincinnati,43,1,0,1
+401752796,Nebraska,64,0,1,1
+401752797,Florida Atlantic,63,1,4,1
+401752797,Maryland,57,1,4,1
+401752798,Missouri State,42,1,2,1
+401752798,USC,53,3,4,1
+401752799,Iowa,59,2,0,1
+401752799,UAlbany,32,0,2,1
+401752800,UCLA,35,1,0,1
+401752800,Utah,77,1,1,1
+401752801,Ball State,42,1,1,1
+401752801,Purdue,48,0,5,1
+401752802,Michigan State,57,2,2,1
+401752802,Western Michigan,35,1,3,1
+401752803,Northwestern,42,1,2,1
+401752803,Tulane,59,2,1,1
+401752804,Montana State,46,0,2,1
+401752804,Oregon,58,3,4,1
+401752805,Colorado State,42,1,3,1
+401752805,Washington,65,5,4,1
+401752806,Indiana,73,3,3,1
+401752806,Old Dominion,33,2,0,1
+401752807,Nevada,36,1,2,1
+401752807,Penn State,63,0,3,1
+401752808,Michigan,50,2,4,1
+401752808,New Mexico,57,0,2,1
+401752936,California,50,2,5,1
+401752936,Oregon State,46,0,4,1
+401752947,Idaho,54,0,0,1
+401752947,Washington State,43,0,1,1
+401754373,East Carolina,59,0,5,1
+401754373,NC State,58,0,4,1
+401754374,Kennesaw State,49,0,3,1
+401754374,Wake Forest,61,0,2,1
+401754375,Colorado,46,1,2,1
+401754375,Georgia Tech,57,3,3,1
+401754516,Hawai'i,48,1,4,1
+401754516,Stanford,57,0,1,1
+401754517,Duke,49,2,7,1
+401754517,Elon,51,2,2,1
+401754518,Boston College,68,0,8,1
+401754518,Fordham,43,0,1,1
+401754519,Eastern Kentucky,39,0,2,1
+401754519,Louisville,55,2,4,1
+401754520,Duquesne,42,0,2,1
+401754520,Pittsburgh,49,1,5,1
+401754521,East Texas A&M,52,1,5,1
+401754521,SMU,52,1,2,1
+401754522,Miami,56,0,2,1
+401754522,Notre Dame,42,1,3,1
+401754523,North Carolina,38,0,2,1
+401754523,TCU,62,3,4,1
+401754616,Coastal Carolina,45,0,2,1
+401754616,Virginia,63,1,5,1
+401756846,Iowa State,55,0,4,1
+401756846,Kansas State,46,1,4,1
+401756847,Fresno State,44,0,2,1
+401756847,Kansas,58,3,1,1
+401756848,Jacksonville State,52,2,2,1
+401756848,UCF,54,3,5,1
+401756849,Arizona,39,2,3,1
+401756849,Hawai'i,49,0,2,1
+401756850,Arizona State,44,2,5,1
+401756850,Northern Arizona,51,1,5,1
+401756851,BYU,60,5,3,1
+401756851,Portland State,30,0,1,1
+401756852,Houston,60,1,3,1
+401756852,Stephen F. Austin,41,0,1,1
+401756853,Iowa State,64,2,2,1
+401756853,South Dakota,35,0,2,1
+401756854,Kansas,65,1,7,1
+401756854,Wagner,37,0,1,1
+401756855,Kansas State,55,1,4,1
+401756855,North Dakota,54,3,6,1
+401756876,Oklahoma State,59,0,3,1
+401756876,UT Martin,44,0,2,1
+401756877,Arkansas-Pine Bluff,40,0,2,1
+401756877,Texas Tech,54,4,3,1
+401756878,Robert Morris,39,0,0,1
+401756878,West Virginia,66,3,3,1
+401757167,Central Connecticut,48,0,3,1
+401757167,UConn,59,4,6,1
+401757218,Sam Houston,48,2,3,1
+401757218,Western Kentucky,64,0,6,1
+401757219,Delaware,54,0,2,1
+401757219,Delaware State,48,4,1,1
+401757220,Liberty,59,1,3,1
+401757220,Maine,41,3,1,1
+401757221,Louisiana Tech,44,1,3,1
+401757221,SE Louisiana,53,0,2,1
+401757222,Austin Peay,56,1,4,1
+401757222,Middle Tennessee,33,0,0,1
+401757223,Bryant,52,0,3,1
+401757223,New Mexico State,43,1,5,1
+401757224,Sam Houston,51,1,1,1
+401757224,UNLV,49,1,4,1
+401757225,UTEP,58,0,2,1
+401757225,Utah State,48,1,3,1
+401757226,North Alabama,48,4,1,1
+401757226,Western Kentucky,61,2,8,1
+401760357,San Diego State,81,2,4,1
+401760357,Stony Brook,43,0,0,1
+401760358,Central Michigan,58,3,1,1
+401760358,San José State,46,0,5,1
+401760359,Air Force,55,0,3,1
+401760359,Bucknell,45,0,0,1
+401760361,Fresno State,64,7,1,1
+401760361,Georgia Southern,37,0,1,1
+401760371,Idaho State,58,3,6,1
+401760371,UNLV,59,3,2,1
+401761588,Saint Francis,36,0,0,1
+401761588,UL Monroe,51,2,1,1
+401761589,App State,69,0,3,1
+401761589,Charlotte,45,1,2,1
+401761590,James Madison,59,3,2,1
+401761590,Weber State,41,0,0,1
+401761591,Arkansas State,60,1,5,1
+401761591,Southeast Missouri State,56,0,4,1
+401761592,Louisiana,38,2,1,1
+401761592,Rice,58,0,1,1
+401761593,Morgan State,54,1,3,1
+401761593,South Alabama,51,1,3,1
+401761594,Eastern Michigan,54,2,4,1
+401761594,Texas State,56,5,4,1
+401761595,Nicholls,40,2,1,1
+401761595,Troy,57,2,3,1
+401762430,Alabama State,55,2,5,1
+401762430,UAB,53,3,4,1
+401762432,Army,67,2,3,1
+401762432,Tarleton State,45,2,1,1
+401762433,Chattanooga,46,1,1,1
+401762433,Memphis,54,3,2,1
+401762434,Navy,64,5,1,1
+401762434,VMI,33,0,2,1
+401762435,Lamar,36,0,0,1
+401762435,North Texas,62,1,6,1
+401762456,Massachusetts,43,1,1,1
+401762456,Temple,58,1,5,1
+401762457,Abilene Christian,47,1,3,1
+401762457,Tulsa,67,2,4,1
+401762522,Boise State,60,0,3,1
+401762522,South Florida,40,2,4,1
+401762789,Akron,43,0,0,1
+401762789,Wyoming,60,1,5,1
+401762790,Bowling Green,53,0,2,1
+401762790,Lafayette,40,0,1,1
+401762791,Miami (OH),27,0,1,1
+401762791,Wisconsin,58,0,2,1
+401762792,Kent State,46,1,2,1
+401762792,Merrimack,47,3,3,1
+401762793,Holy Cross,40,1,1,1
+401762793,Northern Illinois,60,3,1,1
+401766898,Bethune-Cookman,49,1,2,1
+401766898,Florida International,58,3,3,1
+401767059,Eastern Washington,43,2,3,1
+401767059,Incarnate Word,70,0,3,1
+401767070,Cal Poly,57,1,6,1
+401767070,San Diego,47,1,2,1
+401767080,Idaho State,40,0,6,1
+401767080,Southern Utah,66,3,5,1
+401767119,Chadron State,48,0,2,1
+401767119,Northern Colorado,45,1,2,1
+401767126,Portland State,50,0,2,1
+401767126,Tarleton State,52,3,2,1
+401767130,Sacramento State,29,0,1,1
+401767130,South Dakota State,65,3,1,1
+401767140,Campbell,47,0,2,1
+401767140,Rhode Island,47,0,5,1
+401767156,UC Davis,60,1,3,1
+401767156,Utah Tech,57,0,5,1
+401767171,Dayton,32,0,4,1
+401767171,Eastern Illinois,69,4,2,1
+401767179,Hampton,58,4,3,1
+401767179,Jackson State,47,5,0,1
+401767201,Gardner-Webb,68,3,7,1
+401767201,Western Carolina,56,3,4,1
+401767209,Lindenwood,51,0,5,1
+401767209,St. Thomas (MN),55,1,3,1
+401767223,North Carolina A&T,53,2,2,1
+401767223,Tennessee State,37,2,1,1
+401767230,Cumberland (TN),43,1,0,1
+401767230,Tennessee Tech,49,4,5,1
+401767256,Colgate,61,0,8,1
+401767256,Monmouth,63,1,7,1
+401767265,New Hampshire,51,1,3,1
+401767265,North Carolina Central,39,1,2,1
+401767298,Samford,53,0,2,1
+401767298,West Georgia,51,1,4,1
+401767327,Norfolk State,53,0,3,1
+401767327,Towson,50,0,3,1
+401767339,Furman,52,0,3,1
+401767339,William & Mary,50,3,2,1
+401767350,Florida A&M,45,0,2,1
+401767350,Howard,44,0,1,1
+401767369,Alcorn State,46,0,3,1
+401767369,Northwestern State,48,3,1,1
+401767410,North Carolina Central,56,3,1,1
+401767410,Southern,42,4,0,1
+401767415,South Carolina State,62,0,5,1
+401767415,Wofford,34,1,0,1
+401767425,Mississippi Valley State,43,1,5,1
+401767425,Southern,65,2,1,1
+401767431,Prairie View A&M,53,0,5,1
+401767431,Texas Southern,41,2,2,1
+401767446,Indiana State,64,1,4,1
+401767446,McKendree,52,1,4,1
+401767454,East Tennessee State,74,4,2,1
+401767454,Murray State,46,0,3,1
+401767468,Arkansas Baptist,31,0,1,1
+401767468,Houston Christian,69,4,1,1
+401767476,Incarnate Word,51,0,2,1
+401767476,Nicholls,49,0,3,1
+401767490,Louisiana Christian,36,1,3,1
+401767490,McNeese,69,3,5,1
+401767509,North Dakota State,61,3,6,1
+401767509,The Citadel,39,0,0,1
+401767526,Sul Ross State,36,0,0,1
+401767526,UT Rio Grande Valley,64,3,7,1
+401767536,Butler,58,0,3,1
+401767536,Northern Iowa,48,3,3,1
+401767547,Southern Illinois,53,1,3,1
+401767547,Thomas More,44,1,1,1
+401767549,Mercyhurst,53,0,5,1
+401767549,Youngstown State,53,1,1,1
+401767572,Mercer,44,0,2,1
+401767572,Presbyterian,57,0,7,1
+401767602,Davidson,54,2,3,1
+401767602,Georgetown,57,2,3,1
+401767620,Drake,62,2,6,1
+401767620,Upper Iowa,34,0,2,1
+401767634,Allen,56,0,5,1
+401767634,Morehead State,45,4,3,1
+401767651,Stetson,61,0,4,1
+401767651,Webber International,43,0,0,1
+401767655,Valparaiso,47,5,1,1
+401767655,Virginia Lynchburg,36,2,2,1
+401767657,Sacred Heart,52,0,2,1
+401767657,Stonehill,51,0,2,1
+401767732,Lehigh,53,1,2,1
+401767732,Richmond,43,1,1,1
+401779329,Marist,49,4,1,1
+401779329,New Haven,48,0,5,1
+401788977,Grambling,68,3,3,1
+401788977,Langston,28,0,2,1
+401752681,Alabama,65,2,6,2
+401752681,UL Monroe,41,0,1,2
+401752682,Arkansas,49,4,4,2
+401752682,Arkansas State,58,2,0,2
+401752683,Auburn,53,3,3,2
+401752683,Ball State,37,1,0,2
+401752684,Florida,52,0,4,2
+401752684,South Florida,50,2,2,2
+401752685,Austin Peay,42,0,3,2
+401752685,Georgia,65,1,0,2
+401752686,Kentucky,50,0,3,2
+401752686,Ole Miss,61,3,5,2
+401752687,LSU,56,2,2,2
+401752687,Louisiana Tech,40,0,1,2
+401752688,Arizona State,59,2,2,2
+401752688,Mississippi State,46,0,3,2
+401752689,Kansas,34,0,4,2
+401752689,Missouri,71,3,4,2
+401752690,Michigan,40,1,3,2
+401752690,Oklahoma,59,0,5,2
+401752691,South Carolina,45,0,2,2
+401752691,South Carolina State,46,0,4,2
+401752692,East Tennessee State,41,1,3,2
+401752692,Tennessee,85,1,5,2
+401752693,San José State,45,0,1,2
+401752693,Texas,51,1,5,2
+401752694,Texas A&M,65,4,3,2
+401752694,Utah State,45,1,3,2
+401752695,Vanderbilt,48,3,5,2
+401752695,Virginia Tech,44,2,2,2
+401752810,Akron,41,1,0,2
+401752810,Nebraska,63,3,8,2
+401752811,Florida International,55,1,2,2
+401752811,Penn State,48,2,2,2
+401752812,Indiana,60,5,5,2
+401752812,Kennesaw State,43,3,4,2
+401752813,Minnesota,56,0,4,2
+401752813,Northwestern State,27,0,0,2
+401752814,Georgia Southern,51,1,2,2
+401752814,USC,52,4,7,2
+401752815,Grambling,39,0,0,2
+401752815,Ohio State,60,2,6,2
+401752816,Boston College,71,1,3,2
+401752816,Michigan State,56,0,3,2
+401752817,Northwestern,58,3,3,2
+401752817,Western Illinois,32,2,1,2
+401752818,Miami (OH),34,1,3,2
+401752818,Rutgers,64,1,1,2
+401752819,Purdue,67,1,2,2
+401752819,Southern Illinois,42,0,3,2
+401752820,Middle Tennessee,70,0,6,2
+401752820,Wisconsin,59,2,2,2
+401752821,UC Davis,34,1,3,2
+401752821,Washington,65,1,6,2
+401752822,Iowa,49,0,1,2
+401752822,Iowa State,47,0,1,2
+401752823,UCLA,55,4,1,2
+401752823,UNLV,43,1,3,2
+401752824,Oklahoma State,47,0,1,2
+401752824,Oregon,54,4,6,2
+401752825,Duke,46,0,5,2
+401752825,Illinois,60,3,7,2
+401752826,Maryland,46,0,4,2
+401752826,Northern Illinois,58,1,0,2
+401752937,Fresno State,42,4,3,2
+401752937,Oregon State,82,2,9,2
+401752948,San Diego State,43,0,3,2
+401752948,Washington State,62,2,4,2
+401754524,NC State,51,2,5,2
+401754524,Virginia,62,5,1,2
+401754525,Baylor,72,0,4,2
+401754525,SMU,56,2,5,2
+401754526,BYU,55,1,3,2
+401754526,Stanford,38,0,2,2
+401754527,Charlotte,52,0,3,2
+401754527,North Carolina,49,0,2,2
+401754528,James Madison,59,0,2,2
+401754528,Louisville,40,1,2,2
+401754529,Central Michigan,52,0,2,2
+401754529,Pittsburgh,48,1,8,2
+401754530,California,69,3,3,2
+401754530,Texas Southern,39,0,1,2
+401754618,Syracuse,53,0,6,2
+401754618,UConn,56,2,2,2
+401754620,Wake Forest,45,5,6,2
+401754620,Western Carolina,49,1,1,2
+401754621,East Texas A&M,39,1,2,2
+401754621,Florida State,64,4,5,2
+401754622,Gardner-Webb,54,0,2,2
+401754622,Georgia Tech,49,3,8,2
+401754637,Clemson,47,1,4,2
+401754637,Troy,46,1,2,2
+401754641,Bethune-Cookman,44,1,1,2
+401754641,Miami,57,1,4,2
+401756879,Arizona,53,0,6,2
+401756879,Weber State,32,1,1,2
+401756880,Bowling Green,57,1,6,2
+401756880,Cincinnati,45,0,7,2
+401756881,Colorado,55,3,4,2
+401756881,Delaware,45,1,3,2
+401756882,Army,78,0,1,2
+401756882,Kansas State,33,0,2,2
+401756883,Ohio,66,0,3,2
+401756883,West Virginia,40,1,3,2
+401756884,Houston,68,2,2,2
+401756884,Rice,71,0,0,2
+401756885,Kent State,40,0,3,2
+401756885,Texas Tech,68,3,6,2
+401756886,North Carolina A&T,52,1,2,2
+401756886,UCF,45,4,4,2
+401756887,Cal Poly,40,0,2,2
+401756887,Utah,66,2,4,2
+401757227,Jacksonville State,56,5,1,2
+401757227,Liberty,52,4,4,2
+401757228,Marshall,41,1,3,2
+401757228,Missouri State,67,1,8,2
+401757229,New Mexico State,83,0,7,2
+401757229,Tulsa,85,2,3,2
+401757230,Hawai'i,56,0,3,2
+401757230,Sam Houston,44,1,2,2
+401757231,UT Martin,59,0,5,2
+401757231,UTEP,37,2,4,2
+401757232,Toledo,54,2,3,2
+401757232,Western Kentucky,49,0,4,2
+401760363,Boise State,55,6,5,2
+401760363,Eastern Washington,48,0,2,2
+401760364,Colorado State,57,2,0,2
+401760364,Northern Colorado,49,0,3,2
+401760365,Nevada,60,3,2,2
+401760365,Sacramento State,49,1,4,2
+401760366,Idaho State,82,0,4,2
+401760366,New Mexico,66,1,4,2
+401760367,Northern Iowa,65,0,1,2
+401760367,Wyoming,73,3,6,2
+401761596,App State,47,2,3,2
+401761596,Lindenwood,42,0,4,2
+401761597,Charleston Southern,32,2,0,2
+401761597,Coastal Carolina,63,1,4,2
+401761598,Georgia State,72,2,7,2
+401761598,Memphis,59,2,4,2
+401761599,North Carolina Central,44,1,0,2
+401761599,Old Dominion,56,3,3,2
+401761600,Louisiana,54,6,0,2
+401761600,McNeese,42,0,1,2
+401761601,South Alabama,55,1,4,2
+401761601,Tulane,58,2,2,2
+401761602,Jackson State,53,3,2,2
+401761602,Southern Miss,55,1,2,2
+401761603,Texas State,57,2,4,2
+401761603,UTSA,55,5,4,2
+401762458,Navy,54,2,3,2
+401762458,UAB,48,0,5,2
+401762459,Campbell,44,0,1,2
+401762459,East Carolina,67,0,4,2
+401762460,Florida A&M,46,1,2,2
+401762460,Florida Atlantic,61,1,5,2
+401762461,North Texas,55,4,4,2
+401762461,Western Michigan,80,4,0,2
+401762462,Howard,34,0,1,2
+401762462,Temple,61,3,5,2
+401762794,Buffalo,74,3,3,2
+401762794,Saint Francis,35,0,1,2
+401762795,Eastern Michigan,64,2,4,2
+401762795,Long Island University,93,2,6,2
+401762816,Bryant,58,0,5,2
+401762816,Massachusetts,85,2,4,2
+401767089,Idaho,104,6,9,2
+401767089,St. Thomas (MN),94,9,8,2
+401767097,Montana,2,0,0,2
+401767112,Northern Arizona,59,3,3,2
+401767112,Utah Tech,44,2,1,2
+401767127,North Dakota,62,4,3,2
+401767127,Portland State,40,0,3,2
+401767149,Davidson,30,1,1,2
+401767149,Elon,73,1,5,2
+401767180,Elizabeth City State,51,3,4,2
+401767180,Hampton,55,3,0,2
+401767189,Maine,51,2,0,2
+401767189,William & Mary,50,2,4,2
+401767216,North Alabama,96,8,4,2
+401767216,Southeast Missouri State,102,2,4,2
+401767224,North Dakota State,103,2,5,2
+401767224,Tennessee State,70,4,0,2
+401767238,Abilene Christian,61,1,4,2
+401767238,Stephen F. Austin,55,0,2,2
+401767257,Fordham,85,0,9,2
+401767257,Monmouth,123,4,11,2
+401767266,Holy Cross,86,3,3,2
+401767266,New Hampshire,80,1,5,2
+401767277,Eastern Kentucky,99,2,0,2
+401767277,Houston Christian,95,1,2,2
+401767292,San Diego,53,3,1,2
+401767292,Southern Utah,44,1,5,2
+401767304,Mississippi Valley State,42,0,3,2
+401767304,Tarleton State,53,1,5,2
+401767317,Rhode Island,87,0,11,2
+401767317,Stony Brook,123,4,4,2
+401767328,Morgan State,53,3,3,2
+401767328,Towson,42,0,2,2
+401767332,Delaware State,109,8,5,2
+401767332,UAlbany,83,3,10,2
+401767359,Alabama State,82,3,8,2
+401767359,Southern,94,3,2,2
+401767379,Arkansas-Pine Bluff,65,2,7,2
+401767379,Central Arkansas,133,4,9,2
+401767404,Norfolk State,51,3,3,2
+401767404,Virginia State,47,0,3,2
+401767437,Illinois State,48,1,4,2
+401767437,Morehead State,46,1,0,2
+401767455,Murray State,106,2,8,2
+401767455,SE Louisiana,125,6,3,2
+401767565,Furman,56,0,4,2
+401767565,Presbyterian,52,1,2,2
+401767587,Ferrum,50,1,1,2
+401767587,VMI,48,1,3,2
+401767593,Richmond,118,0,4,2
+401767593,Wofford,60,2,2,2
+401767612,Dayton,61,2,1,2
+401767612,Thomas More,35,0,0,2
+401767626,Bucknell,45,2,4,2
+401767626,Marist,62,2,3,2
+401767652,Stetson,102,2,10,2
+401767652,Warner,60,1,4,2
+401767656,Adrian,106,0,6,2
+401767656,Valparaiso,79,0,2,2
+401767719,Georgetown,80,4,5,2
+401767719,Wagner,128,3,0,2
+401767741,American International,42,0,0,2
+401767741,Central Connecticut,46,0,3,2
+401767750,Duquesne,81,1,7,2
+401767750,Lincoln (PA),57,2,5,2
+401767771,Lafayette,52,4,3,2
+401767771,Stonehill,56,0,3,2
+401769868,Nicholls,59,1,2,2
+401769868,West Georgia,134,4,0,2
+401752696,Alabama,45,0,6,3
+401752696,Wisconsin,41,0,1,3
+401752697,Auburn,51,0,1,3
+401752697,South Alabama,58,0,3,3
+401752698,Eastern Michigan,53,0,4,3
+401752698,Kentucky,57,1,6,3
+401752699,Florida,57,0,3,3
+401752699,LSU,39,1,4,3
+401752700,Arkansas,58,3,5,3
+401752700,Ole Miss,60,0,6,3
+401752701,Alcorn State,35,0,1,3
+401752701,Mississippi State,49,3,4,3
+401752702,Louisiana,21,1,0,3
+401752702,Missouri,75,3,3,3
+401752703,Oklahoma,57,2,6,3
+401752703,Temple,37,1,0,3
+401752704,South Carolina,49,0,4,3
+401752704,Vanderbilt,52,1,2,3
+401752705,Georgia,74,1,4,3
+401752705,Tennessee,56,1,4,3
+401752706,Texas,67,0,2,3
+401752706,UTEP,45,1,3,3
+401752707,Notre Dame,57,1,6,3
+401752707,Texas A&M,49,0,6,3
+401752827,Ohio,38,0,1,3
+401752827,Ohio State,54,1,4,3
+401752828,Houston Christian,41,1,1,3
+401752828,Nebraska,65,1,8,3
+401752829,Illinois,52,1,4,3
+401752829,Western Michigan,44,1,0,3
+401752830,Iowa,59,1,5,3
+401752830,Massachusetts,35,0,1,3
+401752831,Northwestern,45,1,2,3
+401752831,Oregon,49,2,4,3
+401752832,Purdue,46,1,6,3
+401752832,USC,55,2,7,3
+401752833,Norfolk State,31,3,1,3
+401752833,Rutgers,66,0,5,3
+401752834,Michigan State,54,2,5,3
+401752834,Youngstown State,48,1,4,3
+401752835,Penn State,41,0,2,3
+401752835,Villanova,33,0,1,3
+401752836,Indiana,62,4,4,3
+401752836,Indiana State,36,0,0,3
+401752837,New Mexico,57,3,4,3
+401752837,UCLA,42,1,3,3
+401752838,Maryland,62,0,4,3
+401752838,Towson,35,0,2,3
+401752839,Central Michigan,40,0,0,3
+401752839,Michigan,71,3,4,3
+401752840,California,47,0,4,3
+401752840,Minnesota,54,1,3,3
+401752938,Oregon State,45,0,5,3
+401752938,Texas Tech,63,0,9,3
+401752949,North Texas,57,1,3,3
+401752949,Washington State,46,0,3,3
+401754531,NC State,66,1,2,3
+401754531,Wake Forest,42,0,4,3
+401754532,Colgate,54,1,2,3
+401754532,Syracuse,61,1,10,3
+401754533,Boston College,49,0,6,3
+401754533,Stanford,49,2,3,3
+401754534,Duke,53,2,5,3
+401754534,Tulane,52,1,4,3
+401754535,Miami,59,1,7,3
+401754535,South Florida,49,0,6,3
+401754536,Old Dominion,55,2,5,3
+401754536,Virginia Tech,57,2,3,3
+401754615,Missouri State,44,1,7,3
+401754615,SMU,53,2,2,3
+401754619,Virginia,72,3,6,3
+401754619,William & Mary,34,0,3,3
+401754623,Clemson,49,1,2,3
+401754623,Georgia Tech,59,0,3,3
+401754638,Pittsburgh,49,1,3,3
+401754638,West Virginia,69,2,3,3
+401754639,North Carolina,39,2,2,3
+401754639,Richmond,52,0,1,3
+401756888,Arizona,55,2,3,3
+401756888,Kansas State,36,1,1,3
+401756889,Arizona State,53,2,3,3
+401756889,Texas State,59,1,0,3
+401756890,Arkansas State,59,0,3,3
+401756890,Iowa State,49,2,6,3
+401756891,Baylor,69,2,2,3
+401756891,Samford,42,0,1,3
+401756892,Cincinnati,47,5,6,3
+401756892,Northwestern State,40,0,0,3
+401756893,Colorado,38,2,3,3
+401756893,Houston,68,1,4,3
+401756894,Abilene Christian,64,0,4,3
+401756894,TCU,53,1,6,3
+401756895,Utah,67,5,2,3
+401756895,Wyoming,44,1,1,3
+401757168,Delaware,58,2,4,3
+401757168,UConn,56,2,6,3
+401757233,Florida Atlantic,61,1,6,3
+401757233,Florida International,52,5,4,3
+401757234,Georgia Southern,57,2,1,3
+401757234,Jacksonville State,56,0,2,3
+401757235,Kennesaw State,51,1,2,3
+401757235,Merrimack,44,2,3,3
+401757256,Bowling Green,49,1,1,3
+401757256,Liberty,44,0,1,3
+401757257,Louisiana Tech,74,3,5,3
+401757257,New Mexico State,32,0,5,3
+401757258,Middle Tennessee,53,1,3,3
+401757258,Nevada,46,3,3,3
+401760368,Air Force,69,1,4,3
+401760368,Utah State,48,2,3,3
+401760369,Fresno State,61,1,4,3
+401760369,Southern,32,0,2,3
+401760370,Hawai'i,52,0,4,3
+401760370,Portland State,42,0,2,3
+401761604,Coastal Carolina,38,0,1,3
+401761604,East Carolina,77,0,3,3
+401761605,Georgia State,51,1,4,3
+401761605,Murray State,56,1,2,3
+401761606,Eastern Kentucky,31,0,1,3
+401761606,Marshall,60,1,3,3
+401761607,App State,62,0,4,3
+401761607,Southern Miss,45,0,7,3
+401761608,Memphis,59,1,4,3
+401761608,Troy,31,0,1,3
+401762463,Akron,55,0,3,3
+401762463,UAB,57,0,4,3
+401762464,Charlotte,65,0,5,3
+401762464,Monmouth,54,0,6,3
+401762465,Navy,65,3,2,3
+401762465,Tulsa,53,1,0,3
+401762466,Prairie View A&M,41,1,2,3
+401762466,Rice,70,3,2,3
+401762467,Incarnate Word,49,0,5,3
+401762467,UTSA,62,2,2,3
+401762817,Buffalo,55,2,6,3
+401762817,Kent State,59,1,4,3
+401762818,Ball State,43,4,3,3
+401762818,New Hampshire,54,1,2,3
+401762819,Morgan State,35,0,1,3
+401762819,Toledo,70,2,2,3
+401767030,Bentley,42,0,1,3
+401767030,Bryant,49,3,5,3
+401767060,Eastern Washington,42,1,1,3
+401767060,Northern Iowa,61,1,5,3
+401767071,Cal Poly,56,1,8,3
+401767071,Western Oregon,49,0,6,3
+401767090,Idaho,58,2,3,3
+401767090,Utah Tech,43,1,1,3
+401767098,Montana,54,2,6,3
+401767098,North Dakota,56,2,3,3
+401767106,Montana State,67,2,4,3
+401767106,San Diego,37,1,1,3
+401767120,Northern Colorado,55,0,6,3
+401767120,South Dakota,51,3,2,3
+401767131,Mercyhurst,53,1,5,3
+401767131,Sacramento State,49,4,4,3
+401767141,Campbell,66,0,3,3
+401767141,Furman,49,0,6,3
+401767150,Elon,54,1,7,3
+401767150,Western Carolina,64,2,1,3
+401767159,McNeese,51,2,5,3
+401767159,Weber State,59,1,3,3
+401767161,Charleston Southern,53,2,5,3
+401767161,Lindenwood,46,0,3,3
+401767173,Eastern Illinois,52,0,4,3
+401767173,Illinois State,61,1,6,3
+401767181,Hampton,46,2,2,3
+401767181,North Carolina A&T,49,0,2,3
+401767190,Maine,39,2,0,3
+401767190,Stonehill,45,0,2,3
+401767202,Gardner-Webb,43,2,3,3
+401767202,The Citadel,50,4,2,3
+401767217,North Dakota State,51,4,6,3
+401767217,Southeast Missouri State,41,0,2,3
+401767225,Alabama A&M,49,0,7,3
+401767225,Tennessee State,52,5,2,3
+401767232,Davidson,42,1,2,3
+401767232,Tennessee Tech,61,5,2,3
+401767235,Southern Illinois,51,3,4,3
+401767235,UT Martin,50,2,1,3
+401767248,Austin Peay,66,5,5,3
+401767248,Morehead State,35,0,1,3
+401767285,North Alabama,63,2,5,3
+401767285,Northeastern State,34,0,7,3
+401767300,East Tennessee State,49,0,2,3
+401767300,West Georgia,63,2,3,3
+401767305,Central Arkansas,48,2,3,3
+401767305,Tarleton State,59,2,4,3
+401767318,Holy Cross,39,0,2,3
+401767318,Rhode Island,46,2,7,3
+401767322,Fordham,54,1,2,3
+401767322,Stony Brook,55,0,3,3
+401767341,Bowie State,52,2,3,3
+401767341,Delaware State,57,3,3,3
+401767351,Howard,53,0,2,3
+401767351,Morehouse,39,0,3,3
+401767360,Alabama State,41,0,4,3
+401767360,Miles,57,0,0,3
+401767380,Arkansas-Pine Bluff,69,3,2,3
+401767380,Lincoln (CA),32,1,2,3
+401767388,Bethune-Cookman,56,3,3,3
+401767388,South Carolina State,58,1,5,3
+401767395,Grambling,50,1,4,3
+401767395,Kentucky State,53,0,4,3
+401767411,Fayetteville State,41,2,1,3
+401767411,North Carolina Central,53,0,7,3
+401767421,Jackson State,62,2,6,3
+401767421,Tuskegee,29,0,1,3
+401767426,Mississippi Valley State,45,1,0,3
+401767426,SE Louisiana,48,1,4,3
+401767458,Lamar,54,0,0,3
+401767458,Texas Southern,38,4,2,3
+401767524,Stephen F. Austin,49,3,5,3
+401767524,Sul Ross State,24,0,0,3
+401767527,Langston,44,1,1,3
+401767527,UT Rio Grande Valley,53,10,5,3
+401767529,Chattanooga,53,6,2,3
+401767529,Stetson,36,0,1,3
+401767544,Drake,45,2,3,3
+401767544,South Dakota State,60,1,3,3
+401767573,Mercer,68,2,4,3
+401767573,Wofford,29,0,3,3
+401767588,Bucknell,53,0,7,3
+401767588,VMI,47,0,7,3
+401767627,Marist,46,0,2,3
+401767627,Wagner,55,5,0,3
+401767639,Erskine,36,0,2,3
+401767639,Presbyterian,62,1,7,3
+401767648,Northern Michigan,59,0,1,3
+401767648,St. Thomas (MN),37,0,3,3
+401767720,Georgetown,54,0,6,3
+401767720,Lafayette,51,5,5,3
+401767733,Duquesne,45,1,3,3
+401767733,Lehigh,53,1,2,3
+401767742,Central Connecticut,50,0,3,3
+401767742,Saint Francis,36,0,1,3
+401767762,Robert Morris,42,3,1,3
+401767762,West Liberty,46,1,2,3
+401769892,Butler,54,0,2,3
+401769892,Hanover,40,1,1,3
+401783278,New Haven,50,0,2,3
+401783278,UAlbany,48,1,6,3
+401752708,Arkansas,48,1,5,4
+401752708,Memphis,52,3,3,4
+401752709,Florida,37,1,0,4
+401752709,Miami,62,1,1,4
+401752710,LSU,68,1,4,4
+401752710,SE Louisiana,30,1,1,4
+401752711,Ole Miss,57,2,6,4
+401752711,Tulane,48,1,1,4
+401752712,Mississippi State,59,4,2,4
+401752712,Northern Illinois,38,1,3,4
+401752713,Missouri,62,3,1,4
+401752713,South Carolina,34,0,6,4
+401752714,Auburn,47,1,2,4
+401752714,Oklahoma,48,0,4,4
+401752715,Tennessee,56,2,4,4
+401752715,UAB,54,0,5,4
+401752716,Georgia State,45,1,1,4
+401752716,Vanderbilt,59,2,6,4
+401752723,Sam Houston,23,0,0,4
+401752723,Texas,45,1,5,4
+401752841,Oregon,65,3,6,4
+401752841,Oregon State,32,0,1,4
+401752842,Washington,46,4,5,4
+401752842,Washington State,50,0,2,4
+401752843,Illinois,29,0,1,4
+401752843,Indiana,68,3,4,4
+401752844,Iowa,48,1,5,4
+401752844,Rutgers,51,0,6,4
+401752845,Maryland,40,0,3,4
+401752845,Wisconsin,55,0,2,4
+401752846,Michigan,42,3,0,4
+401752846,Nebraska,53,0,6,4
+401752847,Michigan State,42,0,3,4
+401752847,USC,56,3,4,4
+401752848,Notre Dame,58,2,3,4
+401752848,Purdue,49,0,5,4
+401754537,Clemson,57,1,3,4
+401754537,Syracuse,54,1,3,4
+401754538,Duke,51,1,4,4
+401754538,NC State,59,2,4,4
+401754539,Stanford,46,0,4,4
+401754539,Virginia,65,1,8,4
+401754540,California,44,0,6,4
+401754540,San Diego State,47,0,2,4
+401754541,Florida State,69,7,4,4
+401754541,Kent State,39,0,1,4
+401754542,Georgia Tech,38,2,4,4
+401754542,Temple,43,1,2,4
+401754617,Virginia Tech,52,1,5,4
+401754617,Wofford,27,0,1,4
+401754636,SMU,49,0,5,4
+401754636,TCU,55,2,5,4
+401754640,North Carolina,44,0,1,4
+401754640,UCF,57,1,1,4
+401754642,Bowling Green,39,1,3,4
+401754642,Louisville,47,1,5,4
+401756896,Arizona State,66,2,1,4
+401756896,Baylor,45,1,3,4
+401756897,Colorado,48,2,4,4
+401756897,Wyoming,50,1,4,4
+401756898,BYU,51,1,5,4
+401756898,East Carolina,57,1,4,4
+401756899,Kansas,53,2,2,4
+401756899,West Virginia,54,2,1,4
+401756900,Oklahoma State,59,1,3,4
+401756900,Tulsa,65,2,1,4
+401756901,Texas Tech,63,2,4,4
+401756901,Utah,53,0,1,4
+401757169,Ball State,51,2,3,4
+401757169,UConn,56,3,3,4
+401757259,Delaware,52,1,2,4
+401757259,Florida International,53,2,1,4
+401757260,Jacksonville State,64,2,2,4
+401757260,Murray State,51,0,1,4
+401757261,Arkansas State,51,0,3,4
+401757261,Kennesaw State,72,1,3,4
+401757262,James Madison,47,1,3,4
+401757262,Liberty,34,0,1,4
+401757263,Louisiana Tech,51,0,3,4
+401757263,Southern Miss,62,0,10,4
+401757264,Marshall,61,2,4,4
+401757264,Middle Tennessee,30,1,5,4
+401757265,Missouri State,45,2,5,4
+401757265,UT Martin,44,0,0,4
+401757267,UL Monroe,48,2,2,4
+401757267,UTEP,49,0,9,4
+401757268,Nevada,52,4,2,4
+401757268,Western Kentucky,52,0,3,4
+401760372,Air Force,67,2,6,4
+401760372,Boise State,45,4,7,4
+401760373,Colorado State,57,1,2,4
+401760373,UTSA,47,1,2,4
+401760374,Fresno State,48,1,1,4
+401760374,Hawai'i,50,0,3,4
+401760375,Idaho,60,0,2,4
+401760375,San José State,38,2,3,4
+401760376,Miami (OH),36,1,7,4
+401760376,UNLV,62,5,3,4
+401760377,McNeese,47,2,1,4
+401760377,Utah State,66,6,4,4
+401761609,Georgia Southern,61,1,5,4
+401761609,Maine,45,2,2,4
+401761610,Eastern Michigan,56,2,4,4
+401761610,Louisiana,49,3,3,4
+401761611,Coastal Carolina,42,2,2,4
+401761611,South Alabama,62,2,2,4
+401761612,Nicholls,55,1,0,4
+401761612,Texas State,59,0,3,4
+401761613,Buffalo,48,1,2,4
+401761613,Troy,59,1,2,4
+401762468,Charlotte,48,1,3,4
+401762468,Rice,47,3,1,4
+401762469,Army,65,2,1,4
+401762469,North Texas,64,1,2,4
+401762470,South Carolina State,58,1,3,4
+401762470,South Florida,46,5,5,4
+401762820,Toledo,53,3,0,4
+401762820,Western Michigan,47,0,4,4
+401762821,Akron,51,2,5,4
+401762821,Duquesne,46,2,0,4
+401762822,Central Michigan,60,2,4,4
+401762822,Wagner,43,0,0,4
+401762823,Gardner-Webb,49,2,5,4
+401762823,Ohio,63,4,4,4
+401767031,Bryant,46,1,4,4
+401767031,Campbell,57,2,1,4
+401767061,Eastern Washington,53,3,5,4
+401767061,Western Illinois,57,0,3,4
+401767072,Cal Poly,47,0,5,4
+401767072,Stephen F. Austin,51,2,3,4
+401767081,Idaho State,42,5,2,4
+401767081,Lincoln (CA),40,0,4,4
+401767099,Indiana State,41,2,2,4
+401767099,Montana,75,2,5,4
+401767107,Mercyhurst,44,1,2,4
+401767107,Montana State,53,2,0,4
+401767114,Incarnate Word,54,2,5,4
+401767114,Northern Arizona,46,0,6,4
+401767121,Houston Christian,24,0,1,4
+401767121,Northern Colorado,41,0,2,4
+401767132,Central Arkansas,51,0,2,4
+401767132,Sacramento State,54,3,8,4
+401767151,East Tennessee State,69,2,3,4
+401767151,Elon,38,1,4,4
+401767157,Southern Utah,59,4,5,4
+401767157,UC Davis,38,6,1,4
+401767160,Butler,45,2,2,4
+401767160,Weber State,53,3,4,4
+401767162,Charleston Southern,33,2,0,4
+401767162,William & Mary,70,0,4,4
+401767182,Hampton,41,1,2,4
+401767182,Howard,58,2,2,4
+401767210,Lindenwood,59,2,5,4
+401767210,Stony Brook,57,0,3,4
+401767218,Southeast Missouri State,66,1,7,4
+401767218,Southern Illinois,50,3,4,4
+401767239,Abilene Christian,57,1,5,4
+401767239,Austin Peay,54,1,5,4
+401767258,Monmouth,62,1,8,4
+401767258,Villanova,49,1,4,4
+401767267,Dartmouth,55,2,2,4
+401767267,New Hampshire,51,1,5,4
+401767272,North Carolina A&T,39,0,4,4
+401767272,North Carolina Central,63,5,7,4
+401767278,Eastern Kentucky,47,1,2,4
+401767278,West Georgia,48,0,2,4
+401767286,Illinois State,56,2,4,4
+401767286,North Alabama,62,0,6,4
+401767306,Chattanooga,41,6,3,4
+401767306,Tarleton State,55,2,8,4
+401767308,Northern Iowa,40,0,2,4
+401767308,Utah Tech,64,2,1,4
+401767310,Alabama A&M,53,2,3,4
+401767310,Lane College,37,1,2,4
+401767319,Long Island University,42,2,1,4
+401767319,Rhode Island,55,0,4,4
+401767329,Towson,44,1,3,4
+401767329,Youngstown State,54,1,4,4
+401767333,Cornell,48,0,1,4
+401767333,UAlbany,51,1,0,4
+401767342,Delaware State,53,4,0,4
+401767342,Saint Francis,37,0,3,4
+401767389,Bethune-Cookman,52,1,3,4
+401767389,Edward Waters,46,2,2,4
+401767405,Norfolk State,57,2,6,4
+401767405,Sacred Heart,62,4,1,4
+401767416,East Texas A&M,61,0,4,4
+401767416,Grambling,40,3,3,4
+401767433,Northwestern State,43,2,3,4
+401767433,Prairie View A&M,57,5,2,4
+401767502,North Dakota,57,3,4,4
+401767502,Valparaiso,43,0,1,4
+401767528,Texas Wesleyan,51,1,5,4
+401767528,UT Rio Grande Valley,59,3,5,4
+401767541,Drake,51,0,1,4
+401767541,South Dakota,46,4,4,4
+401767551,Brown,45,1,3,4
+401767551,Georgetown,37,0,2,4
+401767574,Mercer,55,1,3,4
+401767574,The Citadel,45,1,1,4
+401767580,Samford,61,2,9,4
+401767580,Western Carolina,67,1,8,4
+401767589,Richmond,57,4,3,4
+401767589,VMI,36,0,2,4
+401767603,Davidson,63,2,3,4
+401767603,Greensboro,49,0,3,4
+401767613,Dayton,42,2,3,4
+401767613,Robert Morris,48,0,1,4
+401767635,Kentucky Christian,34,1,4,4
+401767635,Morehead State,60,2,5,4
+401767640,BLUEFIELD,40,1,1,4
+401767640,Presbyterian,55,4,7,4
+401767644,Princeton,39,2,5,4
+401767644,San Diego,69,1,3,4
+401767653,Harvard,50,2,6,4
+401767653,Stetson,46,0,2,4
+401767664,Bucknell,43,1,4,4
+401767664,Lehigh,56,5,1,4
+401767672,Colgate,65,1,5,4
+401767672,Fordham,48,0,2,4
+401767679,Columbia,44,0,3,4
+401767679,Lafayette,66,1,3,4
+401767726,Holy Cross,42,0,1,4
+401767726,Yale,50,0,3,4
+401767743,Central Connecticut,41,2,3,4
+401767743,Merrimack,54,0,2,4
+401767772,Pennsylvania,45,1,4,4
+401767772,Stonehill,48,0,3,4
+401773491,New Haven,50,2,3,4
+401773491,Saginaw Valley State,53,2,2,4
+401774013,Central State,34,0,1,4
+401774013,Morgan State,50,0,2,4
+401752717,Arkansas,43,2,4,5
+401752717,Notre Dame,63,2,11,5
+401752718,Alabama,62,0,4,5
+401752718,Georgia,44,5,2,5
+401752719,LSU,42,0,3,5
+401752719,Ole Miss,67,0,5,5
+401752720,Mississippi State,68,1,2,5
+401752720,Tennessee,52,1,7,5
+401752721,Massachusetts,28,0,1,5
+401752721,Missouri,74,2,1,5
+401752722,Kentucky,44,1,1,5
+401752722,South Carolina,57,2,1,5
+401752724,Auburn,40,0,1,5
+401752724,Texas A&M,60,3,3,5
+401752725,Utah State,48,1,3,5
+401752725,Vanderbilt,54,2,4,5
+401752849,Minnesota,47,0,3,5
+401752849,Rutgers,54,3,2,5
+401752850,Illinois,51,0,4,5
+401752850,USC,62,0,4,5
+401752851,Northwestern,52,2,3,5
+401752851,UCLA,46,2,1,5
+401752852,Ohio State,54,0,0,5
+401752852,Washington,42,1,3,5
+401752853,Indiana,47,1,5,5
+401752853,Iowa,53,1,1,5
+401752854,Oregon,68,2,4,5
+401752854,Penn State,48,1,1,5
+401752939,Houston,47,0,2,5
+401752939,Oregon State,58,0,3,5
+401752950,Colorado State,50,1,2,5
+401752950,Washington State,48,1,2,5
+401754543,Florida State,64,2,5,5
+401754543,Virginia,72,1,3,5
+401754544,Boston College,43,2,2,5
+401754544,California,63,1,4,5
+401754545,Duke,57,3,4,5
+401754545,Syracuse,47,1,2,5
+401754546,Georgia Tech,68,1,2,5
+401754546,Wake Forest,51,4,4,5
+401754547,Louisville,64,0,3,5
+401754547,Pittsburgh,36,0,4,5
+401754548,NC State,53,0,4,5
+401754548,Virginia Tech,49,2,2,5
+401754549,San José State,49,0,7,5
+401754549,Stanford,51,0,8,5
+401756902,Arizona State,64,3,2,5
+401756902,TCU,40,0,4,5
+401756903,BYU,54,2,1,5
+401756903,Colorado,45,2,1,5
+401756904,Arizona,56,1,2,5
+401756904,Iowa State,60,0,6,5
+401756905,Cincinnati,65,1,7,5
+401756905,Kansas,42,2,7,5
+401756906,Kansas State,62,2,2,5
+401756906,UCF,42,3,3,5
+401756907,Baylor,55,1,4,5
+401756907,Oklahoma State,53,1,3,5
+401756908,Utah,70,1,5,5
+401756908,West Virginia,52,2,1,5
+401757170,Buffalo,58,1,2,5
+401757170,UConn,48,1,1,5
+401757269,Jacksonville State,60,4,1,5
+401757269,Southern Miss,61,1,3,5
+401757270,Kennesaw State,42,1,2,5
+401757270,Middle Tennessee,61,0,5,5
+401757271,Liberty,44,0,1,5
+401757271,Old Dominion,56,3,5,5
+401757272,Louisiana Tech,53,0,1,5
+401757272,UTEP,50,0,2,5
+401757273,Missouri State,48,4,3,5
+401757273,Western Kentucky,53,2,6,5
+401757274,New Mexico,58,0,6,5
+401757274,New Mexico State,41,0,8,5
+401760378,Air Force,41,2,6,5
+401760378,Hawai'i,65,1,5,5
+401760379,App State,34,1,0,5
+401760379,Boise State,65,2,4,5
+401760380,Northern Illinois,45,0,0,5
+401760380,San Diego State,57,1,0,5
+401761614,Georgia Southern,32,0,2,5
+401761614,James Madison,64,3,2,5
+401761615,Louisiana,55,3,2,5
+401761615,Marshall,63,1,3,5
+401761616,Arkansas State,47,0,5,5
+401761616,UL Monroe,49,3,2,5
+401761617,North Texas,50,1,3,5
+401761617,South Alabama,62,1,2,5
+401762471,Army,57,3,0,5
+401762471,East Carolina,62,1,5,5
+401762472,Florida Atlantic,58,0,2,5
+401762472,Memphis,55,3,2,5
+401762473,Navy,55,2,4,5
+401762473,Rice,49,0,2,5
+401762474,Tulane,56,1,4,5
+401762474,Tulsa,50,0,3,5
+401762824,Akron,44,0,0,5
+401762824,Toledo,56,3,6,5
+401762825,Bowling Green,49,2,3,5
+401762825,Ohio,52,4,3,5
+401762826,Central Michigan,66,4,1,5
+401762826,Eastern Michigan,43,0,2,5
+401762827,Lindenwood,34,0,1,5
+401762827,Miami (OH),61,2,3,5
+401762828,Rhode Island,34,0,5,5
+401762828,Western Michigan,68,2,2,5
+401767032,Bryant,50,0,3,5
+401767032,Towson,56,0,3,5
+401767062,Eastern Washington,47,1,1,5
+401767062,Montana State,55,4,5,5
+401767073,Cal Poly,51,2,3,5
+401767073,Sacramento State,54,1,4,5
+401767082,Idaho State,57,2,6,5
+401767082,Northern Colorado,52,0,10,5
+401767091,Idaho,44,0,3,5
+401767091,Montana,59,2,3,5
+401767115,Northern Arizona,55,3,5,5
+401767115,Portland State,44,1,3,5
+401767142,Campbell,54,2,5,5
+401767142,Western Carolina,52,0,7,5
+401767152,Elon,46,4,4,5
+401767152,Hampton,51,2,2,5
+401767158,UC Davis,50,1,3,5
+401767158,Weber State,55,1,3,5
+401767163,Charleston Southern,40,2,3,5
+401767163,South Carolina State,59,0,1,5
+401767174,Eastern Illinois,44,4,3,5
+401767174,Western Illinois,64,0,0,5
+401767191,Maine,44,1,3,5
+401767191,North Carolina A&T,36,0,3,5
+401767219,Southeast Missouri State,42,0,1,5
+401767219,UT Martin,58,2,3,5
+401767226,Tennessee State,53,0,5,5
+401767226,Tennessee Tech,44,5,1,5
+401767240,Abilene Christian,36,1,1,5
+401767240,Incarnate Word,77,1,0,5
+401767249,Austin Peay,54,4,3,5
+401767249,Utah Tech,46,0,1,5
+401767268,New Hampshire,55,1,2,5
+401767268,UAlbany,46,0,1,5
+401767279,Eastern Kentucky,43,3,0,5
+401767279,Nicholls,49,0,4,5
+401767293,Southern Utah,43,1,2,5
+401767293,West Georgia,55,2,3,5
+401767311,Alabama A&M,58,1,7,5
+401767311,Bethune-Cookman,54,5,3,5
+401767323,Merrimack,47,1,0,5
+401767323,Stony Brook,53,1,3,5
+401767337,Villanova,50,1,3,5
+401767337,William & Mary,54,0,5,5
+401767343,Delaware State,38,2,2,5
+401767343,Sacred Heart,62,2,3,5
+401767352,Howard,59,2,1,5
+401767352,Richmond,27,1,0,5
+401767361,Alabama State,51,4,1,5
+401767361,Florida A&M,50,1,0,5
+401767370,Alcorn State,49,1,3,5
+401767370,Arkansas-Pine Bluff,54,2,6,5
+401767398,Miles,42,0,3,5
+401767398,Morgan State,54,2,0,5
+401767406,Norfolk State,54,1,0,5
+401767406,Wagner,64,0,5,5
+401767412,East Texas A&M,43,0,10,5
+401767412,North Carolina Central,69,1,6,5
+401767417,Grambling,52,1,1,5
+401767417,Prairie View A&M,45,1,3,5
+401767422,Jackson State,60,0,5,5
+401767422,Southern,40,3,2,5
+401767427,Mississippi Valley State,63,2,4,5
+401767427,Texas Southern,55,0,2,5
+401767483,Central Arkansas,64,0,8,5
+401767483,Lamar,44,2,4,5
+401767491,McNeese,50,2,2,5
+401767491,Stephen F. Austin,47,2,2,5
+401767510,North Dakota State,64,1,7,5
+401767510,South Dakota,36,0,3,5
+401767523,SE Louisiana,55,3,5,5
+401767523,UT Rio Grande Valley,44,3,3,5
+401767530,Chattanooga,40,2,3,5
+401767530,The Citadel,71,5,0,5
+401767545,Mercyhurst,30,0,1,5
+401767545,South Dakota State,60,0,5,5
+401767552,Brown,36,0,2,5
+401767552,Harvard,68,0,8,5
+401767558,East Tennessee State,54,0,7,5
+401767558,Mercer,61,1,5,5
+401767566,Furman,55,0,4,5
+401767566,Samford,53,1,3,5
+401767594,Butler,54,4,2,5
+401767594,Marist,44,0,2,5
+401767614,Dayton,56,0,7,5
+401767614,Stetson,49,0,4,5
+401767636,Morehead State,46,0,1,5
+401767636,Presbyterian,42,3,3,5
+401767645,San Diego,52,1,5,5
+401767645,St. Thomas (MN),50,1,3,5
+401767665,Bucknell,47,3,2,5
+401767665,Saint Francis,56,0,6,5
+401767673,Fordham,45,2,6,5
+401767673,Holy Cross,61,0,2,5
+401767689,Cornell,65,0,4,5
+401767689,Yale,50,1,2,5
+401767697,Central Connecticut,47,0,1,5
+401767697,Dartmouth,59,0,4,5
+401767721,Columbia,54,1,4,5
+401767721,Georgetown,49,2,1,5
+401767734,Lehigh,62,4,5,5
+401767734,Pennsylvania,43,1,4,5
+401767758,Long Island University,42,1,3,5
+401767758,Stonehill,48,0,2,5
+401769866,Lafayette,56,0,4,5
+401769866,Princeton,62,0,1,5
+401779328,Duquesne,53,5,2,5
+401779328,New Haven,46,1,2,5
+401752726,Alabama,57,2,5,6
+401752726,Vanderbilt,38,2,1,6
+401752727,Florida,56,1,3,6
+401752727,Texas,36,1,6,6
+401752728,Georgia,62,0,5,6
+401752728,Kentucky,44,0,2,6
+401752729,Kent State,38,0,2,6
+401752729,Oklahoma,53,1,3,6
+401752730,Mississippi State,40,1,1,6
+401752730,Texas A&M,67,3,2,6
+401752855,Penn State,46,2,2,6
+401752855,UCLA,54,3,2,6
+401752856,Michigan,50,2,5,6
+401752856,Wisconsin,45,0,2,6
+401752857,Maryland,49,0,3,6
+401752857,Washington,61,1,3,6
+401752858,Northwestern,61,2,3,6
+401752858,UL Monroe,40,0,3,6
+401752859,Minnesota,38,0,1,6
+401752859,Ohio State,52,1,5,6
+401752860,Michigan State,49,0,1,6
+401752860,Nebraska,41,1,2,6
+401752861,Illinois,56,1,6,6
+401752861,Purdue,53,2,2,6
+401752940,App State,46,1,4,6
+401752940,Oregon State,53,2,4,6
+401754550,Boston College,35,0,4,6
+401754550,Pittsburgh,70,0,2,6
+401754551,California,43,1,5,6
+401754551,Duke,57,2,4,6
+401754552,Clemson,57,0,6,6
+401754552,North Carolina,40,0,1,6
+401754553,Florida State,59,0,3,6
+401754553,Miami,51,1,4,6
+401754554,Louisville,54,1,3,6
+401754554,Virginia,48,0,1,6
+401754555,SMU,56,1,7,6
+401754555,Syracuse,53,1,4,6
+401754556,Virginia Tech,45,1,1,6
+401754556,Wake Forest,55,1,2,6
+401754557,Campbell,49,0,1,6
+401754557,NC State,50,4,5,6
+401756909,BYU,59,1,7,6
+401756909,West Virginia,56,1,2,6
+401756910,Arizona,55,0,8,6
+401756910,Oklahoma State,39,1,1,6
+401756911,Baylor,47,0,5,6
+401756911,Kansas State,64,1,5,6
+401756912,Cincinnati,45,3,4,6
+401756912,Iowa State,60,2,3,6
+401756913,Houston,37,1,2,6
+401756913,Texas Tech,69,2,4,6
+401756914,Colorado,49,2,3,6
+401756914,TCU,55,0,4,6
+401756915,Kansas,49,0,4,6
+401756915,UCF,58,3,2,6
+401757165,Boise State,51,1,1,6
+401757165,Notre Dame,45,3,3,6
+401757171,Florida International,51,1,2,6
+401757171,UConn,53,3,4,6
+401757275,New Mexico State,47,1,4,6
+401757275,Sam Houston,51,0,2,6
+401757276,Delaware,61,1,5,6
+401757276,Western Kentucky,47,1,4,6
+401760381,Air Force,54,1,3,6
+401760381,Navy,46,2,5,6
+401760382,Colorado State,49,2,2,6
+401760382,San Diego State,61,3,3,6
+401760383,Fresno State,51,1,3,6
+401760383,Nevada,45,1,1,6
+401760384,New Mexico,51,0,6,6
+401760384,San José State,61,0,4,6
+401760385,UNLV,46,1,2,6
+401760385,Wyoming,50,0,3,6
+401761618,Georgia State,40,0,1,6
+401761618,James Madison,52,2,0,6
+401761619,Coastal Carolina,49,0,1,6
+401761619,Old Dominion,58,2,4,6
+401761620,Arkansas State,58,1,4,6
+401761620,Texas State,57,2,2,6
+401761621,South Alabama,61,1,2,6
+401761621,Troy,63,2,5,6
+401762475,Charlotte,46,2,3,6
+401762475,South Florida,80,2,3,6
+401762476,Army,61,0,1,6
+401762476,UAB,41,2,2,6
+401762477,Florida Atlantic,47,0,4,6
+401762477,Rice,41,2,1,6
+401762478,Memphis,66,1,4,6
+401762478,Tulsa,43,0,3,6
+401762479,Temple,41,0,2,6
+401762479,UTSA,39,0,0,6
+401762829,Akron,56,2,3,6
+401762829,Central Michigan,49,4,3,6
+401762830,Ball State,59,2,2,6
+401762830,Ohio,49,2,3,6
+401762831,Buffalo,47,0,2,6
+401762831,Eastern Michigan,69,0,2,6
+401762832,Massachusetts,43,1,1,6
+401762832,Western Michigan,59,1,1,6
+401762873,Miami (OH),61,1,2,6
+401762873,Northern Illinois,33,1,1,6
+401767033,Bryant,41,1,1,6
+401767033,Maine,53,0,4,6
+401767063,Eastern Washington,48,4,2,6
+401767063,Portland State,67,0,6,6
+401767074,Cal Poly,52,0,6,6
+401767074,UC Davis,55,1,7,6
+401767083,Idaho State,56,1,5,6
+401767083,Montana,57,3,6,6
+401767108,Montana State,44,2,2,6
+401767108,Northern Arizona,55,0,3,6
+401767153,Elon,66,0,2,6
+401767153,Towson,42,1,3,6
+401767164,Charleston Southern,46,2,3,6
+401767164,Gardner-Webb,59,1,4,6
+401767175,Eastern Illinois,68,0,2,6
+401767175,Tennessee State,33,0,3,6
+401767183,Hampton,43,1,2,6
+401767183,Norfolk State,38,2,4,6
+401767211,Lindenwood,49,3,4,6
+401767211,UT Martin,50,0,0,6
+401767233,Tennessee Tech,55,1,9,6
+401767233,Western Illinois,53,0,5,6
+401767241,Abilene Christian,62,2,5,6
+401767241,North Alabama,40,3,5,6
+401767250,Austin Peay,51,0,7,6
+401767250,West Georgia,46,2,4,6
+401767259,Delaware State,52,3,1,6
+401767259,Monmouth,65,3,7,6
+401767269,New Hampshire,33,1,2,6
+401767269,Villanova,58,4,2,6
+401767273,North Carolina A&T,63,2,2,6
+401767273,William & Mary,36,4,3,6
+401767294,Southern Utah,44,3,2,6
+401767294,Tarleton State,65,2,6,6
+401767312,Alabama A&M,53,0,7,6
+401767312,Jackson State,69,5,4,6
+401767320,Brown,65,1,1,6
+401767320,Rhode Island,49,0,3,6
+401767324,Stony Brook,66,2,3,6
+401767324,UAlbany,34,0,2,6
+401767362,Alabama State,50,6,2,6
+401767362,Bethune-Cookman,64,1,5,6
+401767371,Alcorn State,40,1,2,6
+401767371,Prairie View A&M,56,0,1,6
+401767381,Arkansas-Pine Bluff,45,0,0,6
+401767381,Texas Southern,65,3,3,6
+401767399,Georgetown,59,2,2,6
+401767399,Morgan State,44,0,5,6
+401767436,Savannah State,45,0,3,6
+401767436,South Carolina State,44,0,7,6
+401767438,Illinois State,48,1,1,6
+401767438,North Dakota State,45,1,3,6
+401767447,Indiana State,64,3,1,6
+401767447,Southern Illinois,55,5,3,6
+401767460,East Texas A&M,63,2,5,6
+401767460,Northwestern State,35,1,2,6
+401767469,Houston Christian,44,0,3,6
+401767469,UT Rio Grande Valley,48,2,1,6
+401767477,Incarnate Word,59,0,2,6
+401767477,Stephen F. Austin,50,0,5,6
+401767484,Lamar,47,0,2,6
+401767484,Nicholls,54,2,2,6
+401767492,McNeese,37,1,0,6
+401767492,SE Louisiana,51,2,6,6
+401767496,Murray State,48,0,3,6
+401767496,South Dakota,58,2,4,6
+401767503,North Dakota,46,2,3,6
+401767503,Northern Iowa,60,0,1,6
+401767531,Chattanooga,52,1,0,6
+401767531,VMI,40,0,5,6
+401767546,South Dakota State,51,4,2,6
+401767546,Youngstown State,54,2,6,6
+401767559,East Tennessee State,48,1,1,6
+401767559,Furman,68,0,2,6
+401767575,Mercer,59,4,5,6
+401767575,Samford,52,0,4,6
+401767595,Butler,49,0,1,6
+401767595,St. Thomas (MN),50,1,3,6
+401767604,Davidson,51,1,3,6
+401767604,Stetson,53,5,1,6
+401767615,Dayton,57,2,4,6
+401767615,Morehead State,43,0,4,6
+401767621,Drake,50,1,2,6
+401767621,Valparaiso,40,1,0,6
+401767628,Marist,44,1,5,6
+401767628,San Diego,44,1,2,6
+401767660,Central Connecticut,61,2,4,6
+401767660,Sacred Heart,48,3,3,6
+401767666,Bucknell,66,2,6,6
+401767666,Richmond,45,4,8,6
+401767674,Fordham,59,0,5,6
+401767674,Lafayette,55,0,4,6
+401767681,Columbia,57,0,4,6
+401767681,Princeton,49,0,4,6
+401767690,Colgate,53,2,4,6
+401767690,Cornell,64,1,3,6
+401767698,Dartmouth,52,1,2,6
+401767698,Pennsylvania,55,1,1,6
+401767727,Harvard,65,1,6,6
+401767727,Holy Cross,37,1,5,6
+401767735,Lehigh,48,3,4,6
+401767735,Yale,59,0,3,6
+401767751,Duquesne,57,2,3,6
+401767751,Stonehill,41,1,2,6
+401767757,Long Island University,37,1,2,6
+401767757,Mercyhurst,59,1,1,6
+401767763,Merrimack,58,3,2,6
+401767763,Robert Morris,32,1,2,6
+401769869,Central Arkansas,54,0,4,6
+401769869,Utah Tech,61,1,4,6
+401777983,New Haven,56,3,0,6
+401777983,Pace,35,0,3,6
+401752731,Auburn,53,1,0,7
+401752731,Georgia,53,0,3,7
+401752732,LSU,48,3,2,7
+401752732,South Carolina,54,1,1,7
+401752733,Ole Miss,57,2,3,7
+401752733,Washington State,46,2,2,7
+401752734,Alabama,63,1,2,7
+401752734,Missouri,41,2,3,7
+401752735,Arkansas,59,5,4,7
+401752735,Tennessee,56,4,3,7
+401752736,Oklahoma,46,0,3,7
+401752736,Texas,55,2,2,7
+401752737,Florida,39,0,5,7
+401752737,Texas A&M,50,1,3,7
+401752862,Rutgers,54,1,6,7
+401752862,Washington,50,3,8,7
+401752863,Michigan State,40,0,2,7
+401752863,UCLA,58,2,3,7
+401752864,Minnesota,37,0,2,7
+401752864,Purdue,60,1,1,7
+401752865,Illinois,53,1,1,7
+401752865,Ohio State,57,0,2,7
+401752866,Northwestern,60,0,1,7
+401752866,Penn State,44,0,2,7
+401752867,Maryland,56,1,4,7
+401752867,Nebraska,48,1,3,7
+401752868,Michigan,43,0,1,7
+401752868,USC,60,3,4,7
+401752869,Iowa,54,2,0,7
+401752869,Wisconsin,41,0,1,7
+401752870,Indiana,55,0,3,7
+401752870,Oregon,44,1,1,7
+401754558,Boston College,42,0,1,7
+401754558,Clemson,64,1,6,7
+401754559,Florida State,51,2,4,7
+401754559,Pittsburgh,54,1,5,7
+401754560,Georgia Tech,62,3,5,7
+401754560,Virginia Tech,43,2,4,7
+401754561,SMU,43,1,3,7
+401754561,Stanford,47,0,3,7
+401754562,NC State,41,0,3,7
+401754562,Notre Dame,55,2,7,7
+401754563,Oregon State,50,1,1,7
+401754563,Wake Forest,38,3,6,7
+401756916,Arizona,60,1,1,7
+401756916,BYU,63,1,1,7
+401756917,Cincinnati,37,0,2,7
+401756917,UCF,66,1,2,7
+401756918,Colorado,54,1,3,7
+401756918,Iowa State,53,3,2,7
+401756919,Kansas State,57,1,2,7
+401756919,TCU,45,0,5,7
+401756920,Houston,70,0,6,7
+401756920,Oklahoma State,38,0,3,7
+401756921,Kansas,56,1,2,7
+401756921,Texas Tech,52,6,3,7
+401756922,Arizona State,56,1,0,7
+401756922,Utah,50,4,2,7
+401757277,Liberty,66,0,4,7
+401757277,UTEP,28,0,0,7
+401757278,Middle Tennessee,52,0,1,7
+401757278,Missouri State,36,0,5,7
+401757279,Jacksonville State,73,2,1,7
+401757279,Sam Houston,38,3,3,7
+401757280,Kennesaw State,53,1,4,7
+401757280,Louisiana Tech,55,1,2,7
+401760386,Air Force,74,4,3,7
+401760386,UNLV,46,3,6,7
+401760387,Boise State,71,2,2,7
+401760387,New Mexico,34,0,4,7
+401760388,Colorado State,45,2,3,7
+401760388,Fresno State,52,1,7,7
+401760389,Hawai'i,58,2,5,7
+401760389,Utah State,41,2,4,7
+401760390,Nevada,43,0,3,7
+401760390,San Diego State,52,3,5,7
+401760391,San José State,56,0,2,7
+401760391,Wyoming,46,1,5,7
+401761622,Georgia Southern,53,0,7,7
+401761622,Southern Miss,63,1,4,7
+401761623,Coastal Carolina,52,2,0,7
+401761623,UL Monroe,43,2,4,7
+401761624,App State,58,1,6,7
+401761624,Georgia State,51,0,2,7
+401761625,James Madison,63,1,5,7
+401761625,Louisiana,39,0,4,7
+401761626,Marshall,71,2,3,7
+401761626,Old Dominion,50,2,4,7
+401761627,Texas State,68,4,5,7
+401761627,Troy,56,0,5,7
+401762480,East Carolina,59,0,3,7
+401762480,Tulane,51,0,3,7
+401762481,North Texas,56,2,4,7
+401762481,South Florida,74,3,3,7
+401762482,Florida Atlantic,42,0,6,7
+401762482,UAB,39,0,1,7
+401762483,Army,64,1,1,7
+401762483,Charlotte,41,0,1,7
+401762484,Navy,41,1,3,7
+401762484,Temple,64,3,8,7
+401762485,Rice,53,4,1,7
+401762485,UTSA,47,2,4,7
+401762833,Akron,43,0,1,7
+401762833,Miami (OH),54,0,3,7
+401762834,Ball State,33,0,0,7
+401762834,Western Michigan,67,2,3,7
+401762835,Bowling Green,45,0,2,7
+401762835,Toledo,59,0,3,7
+401762836,Eastern Michigan,57,1,0,7
+401762836,Northern Illinois,50,2,2,7
+401762837,Kent State,46,2,4,7
+401762837,Massachusetts,52,0,2,7
+401767034,Brown,65,1,4,7
+401767034,Bryant,48,0,1,7
+401767079,Cal Poly,33,2,4,7
+401767079,Montana,70,1,3,7
+401767084,Idaho State,41,0,5,7
+401767084,Montana State,66,8,2,7
+401767116,Northern Arizona,51,0,6,7
+401767116,UC Davis,49,1,7,7
+401767122,Idaho,62,1,3,7
+401767122,Northern Colorado,52,1,7,7
+401767133,Sacramento State,58,4,1,7
+401767133,Weber State,51,0,3,7
+401767143,Campbell,57,2,3,7
+401767143,Hampton,46,1,1,7
+401767154,Elon,43,1,3,7
+401767154,Villanova,61,1,4,7
+401767165,Charleston Southern,42,0,4,7
+401767165,Tennessee Tech,56,3,2,7
+401767192,Maine,51,4,3,7
+401767192,Merrimack,43,4,1,7
+401767196,Eastern Illinois,47,0,2,7
+401767196,Gardner-Webb,49,2,2,7
+401767220,Southeast Missouri State,58,4,4,7
+401767220,Tennessee State,42,1,4,7
+401767236,UT Martin,56,3,3,7
+401767236,Western Illinois,40,0,4,7
+401767242,Abilene Christian,62,1,1,7
+401767242,West Georgia,44,3,5,7
+401767251,Austin Peay,54,1,4,7
+401767251,Eastern Kentucky,42,2,2,7
+401767260,Monmouth,65,1,1,7
+401767260,Towson,54,0,3,7
+401767270,New Hampshire,49,0,4,7
+401767270,Rhode Island,54,1,2,7
+401767274,North Carolina A&T,49,2,3,7
+401767274,South Carolina State,47,1,3,7
+401767287,Central Arkansas,52,3,2,7
+401767287,North Alabama,51,2,1,7
+401767307,Tarleton State,67,1,3,7
+401767307,Utah Tech,51,0,1,7
+401767313,Alabama A&M,73,1,2,7
+401767313,Mississippi Valley State,44,1,3,7
+401767344,Delaware State,47,9,5,7
+401767344,Southern Connecticut State,63,0,3,7
+401767353,Howard,43,1,1,7
+401767353,Sacred Heart,55,4,3,7
+401767363,Alabama State,51,0,9,7
+401767363,Jackson State,57,2,2,7
+401767372,Alcorn State,47,5,3,7
+401767372,Lincoln (CA),32,0,3,7
+401767400,Morgan State,72,1,4,7
+401767400,Virginia Lynchburg,33,0,2,7
+401767407,Norfolk State,40,1,2,7
+401767407,Wofford,61,1,6,7
+401767413,Florida A&M,35,0,3,7
+401767413,North Carolina Central,61,1,4,7
+401767418,Grambling,46,1,2,7
+401767418,Texas Southern,47,2,0,7
+401767439,Illinois State,60,0,6,7
+401767439,Murray State,55,2,1,7
+401767448,Indiana State,30,1,2,7
+401767448,South Dakota,61,2,1,7
+401767461,East Texas A&M,47,1,4,7
+401767461,Lamar,52,0,6,7
+401767470,Houston Christian,50,2,2,7
+401767470,Northwestern State,54,0,1,7
+401767504,North Dakota,59,2,2,7
+401767504,Youngstown State,44,1,4,7
+401767511,North Dakota State,58,3,4,7
+401767511,Southern Illinois,42,1,3,7
+401767537,Northern Iowa,41,0,1,7
+401767537,South Dakota State,55,2,4,7
+401767560,East Tennessee State,63,5,3,7
+401767560,VMI,35,0,0,7
+401767567,Furman,51,2,2,7
+401767567,Western Carolina,55,2,2,7
+401767576,Mercer,58,1,5,7
+401767576,Princeton,42,0,2,7
+401767596,Butler,65,1,1,7
+401767596,Presbyterian,39,3,1,7
+401767605,Davidson,49,1,4,7
+401767605,St. Thomas (MN),53,1,6,7
+401767616,Dayton,48,2,3,7
+401767616,Valparaiso,51,1,3,7
+401767622,Drake,52,1,3,7
+401767622,San Diego,54,0,1,7
+401767629,Marist,40,1,3,7
+401767629,Pennsylvania,49,2,5,7
+401767637,Morehead State,38,0,4,7
+401767637,Stetson,65,2,1,7
+401767667,Bucknell,40,0,3,7
+401767667,Lafayette,51,3,3,7
+401767691,Cornell,41,0,1,7
+401767691,Harvard,57,2,2,7
+401767699,Dartmouth,57,2,6,7
+401767699,Yale,59,0,3,7
+401767736,Columbia,30,1,2,7
+401767736,Lehigh,61,1,3,7
+401767739,Colgate,45,0,5,7
+401767739,Richmond,44,1,2,7
+401767744,Central Connecticut,47,3,2,7
+401767744,Robert Morris,51,0,6,7
+401767752,Duquesne,37,1,3,7
+401767752,Saint Francis,33,1,1,7
+401767776,Mercyhurst,56,1,2,7
+401767776,Wagner,45,1,4,7
+401779512,New Haven,60,6,8,7
+401779512,Western Connecticut State,27,0,2,7
+401752738,Alabama,50,0,3,8
+401752738,Tennessee,58,2,2,8
+401752739,Arkansas,47,6,4,8
+401752739,Texas A&M,58,1,4,8
+401752740,Auburn,53,3,4,8
+401752740,Missouri,65,1,3,8
+401752741,Florida,52,0,3,8
+401752741,Mississippi State,63,0,5,8
+401752742,Georgia,74,1,4,8
+401752742,Ole Miss,42,0,3,8
+401752743,Kentucky,71,0,1,8
+401752743,Texas,38,0,2,8
+401752744,Oklahoma,58,1,2,8
+401752744,South Carolina,47,1,1,8
+401752745,LSU,38,1,2,8
+401752745,Vanderbilt,58,4,2,8
+401752871,Notre Dame,59,3,0,8
+401752871,USC,48,0,6,8
+401752872,Minnesota,50,2,2,8
+401752872,Nebraska,36,0,2,8
+401752873,Michigan,60,0,3,8
+401752873,Washington,41,0,3,8
+401752874,Northwestern,59,2,1,8
+401752874,Purdue,39,0,4,8
+401752875,Iowa,42,3,0,8
+401752875,Penn State,58,1,0,8
+401752876,Oregon,52,6,9,8
+401752876,Rutgers,46,0,0,8
+401752877,Ohio State,62,0,4,8
+401752877,Wisconsin,35,1,1,8
+401752878,Indiana,52,2,6,8
+401752878,Michigan State,49,0,3,8
+401752879,Maryland,48,2,2,8
+401752879,UCLA,56,3,4,8
+401752941,Lafayette,48,1,2,8
+401752941,Oregon State,56,5,3,8
+401752951,Virginia,46,1,3,8
+401752951,Washington State,50,0,3,8
+401754371,California,51,0,2,8
+401754371,North Carolina,45,0,3,8
+401754564,Louisville,52,2,2,8
+401754564,Miami,47,0,4,8
+401754565,Clemson,53,0,4,8
+401754565,SMU,50,2,4,8
+401754566,Duke,60,0,8,8
+401754566,Georgia Tech,50,2,5,8
+401754567,Florida State,58,0,6,8
+401754567,Stanford,51,0,2,8
+401754568,Pittsburgh,47,1,2,8
+401754568,Syracuse,44,1,1,8
+401754569,Boston College,59,2,2,8
+401754569,UConn,51,1,6,8
+401756923,Arizona State,57,1,4,8
+401756923,Texas Tech,46,1,1,8
+401756924,BYU,53,1,3,8
+401756924,Utah,53,3,3,8
+401756925,Arizona,53,0,1,8
+401756925,Houston,60,1,2,8
+401756926,Cincinnati,50,1,4,8
+401756926,Oklahoma State,59,2,3,8
+401756927,Baylor,61,0,3,8
+401756927,TCU,61,1,3,8
+401756928,UCF,60,3,6,8
+401756928,West Virginia,52,0,0,8
+401757281,Florida International,57,1,2,8
+401757281,Western Kentucky,48,0,3,8
+401757282,Liberty,48,0,1,8
+401757282,New Mexico State,57,1,6,8
+401757283,Delaware,48,0,7,8
+401757283,Jacksonville State,63,2,3,8
+401757284,Sam Houston,62,1,2,8
+401757284,UTEP,54,3,6,8
+401760392,Air Force,59,5,0,8
+401760392,Wyoming,58,2,2,8
+401760393,Boise State,47,6,7,8
+401760393,UNLV,55,5,3,8
+401760394,Colorado State,42,0,1,8
+401760394,Hawai'i,54,1,4,8
+401760395,Nevada,50,0,2,8
+401760395,New Mexico,53,3,3,8
+401760396,San José State,54,1,4,8
+401760396,Utah State,59,1,6,8
+401761628,Arkansas State,62,1,2,8
+401761628,South Alabama,57,2,1,8
+401761629,App State,57,1,2,8
+401761629,Coastal Carolina,53,3,2,8
+401761630,Georgia Southern,58,0,4,8
+401761630,Georgia State,61,0,2,8
+401761631,James Madison,67,4,5,8
+401761631,Old Dominion,38,0,3,8
+401761632,Marshall,98,2,4,8
+401761632,Texas State,95,0,13,8
+401761633,Troy,42,1,4,8
+401761633,UL Monroe,47,2,3,8
+401761668,Louisiana,50,2,1,8
+401761668,Southern Miss,35,0,2,8
+401762486,East Carolina,73,1,4,8
+401762486,Tulsa,59,2,3,8
+401762487,Memphis,45,1,3,8
+401762487,UAB,59,1,4,8
+401762488,Army,67,0,2,8
+401762488,Tulane,50,1,2,8
+401762489,Charlotte,37,0,3,8
+401762489,Temple,32,2,1,8
+401762490,Florida Atlantic,65,0,2,8
+401762490,South Florida,65,3,6,8
+401762491,North Texas,66,3,5,8
+401762491,UTSA,42,4,0,8
+401762838,Akron,52,2,4,8
+401762838,Ball State,50,4,2,8
+401762839,Bowling Green,50,3,1,8
+401762839,Central Michigan,48,1,1,8
+401762840,Buffalo,66,0,4,8
+401762840,Massachusetts,47,3,2,8
+401762841,Eastern Michigan,38,1,6,8
+401762841,Miami (OH),66,4,1,8
+401762842,Kent State,36,0,2,8
+401762842,Toledo,63,1,7,8
+401762843,Northern Illinois,44,0,2,8
+401762843,Ohio,66,2,3,8
+401767092,Eastern Washington,53,1,3,8
+401767092,Idaho,51,0,4,8
+401767100,Montana,58,0,4,8
+401767100,Sacred Heart,53,1,2,8
+401767123,Northern Colorado,55,1,4,8
+401767123,Sacramento State,61,2,2,8
+401767128,Portland State,51,0,5,8
+401767128,Weber State,55,3,1,8
+401767144,Campbell,29,0,2,8
+401767144,New Hampshire,42,1,0,8
+401767155,Elon,49,2,4,8
+401767155,William & Mary,53,1,4,8
+401767166,Charleston Southern,45,0,5,8
+401767166,Western Illinois,61,1,7,8
+401767184,Hampton,48,1,3,8
+401767184,Villanova,45,3,2,8
+401767197,Eastern Illinois,50,2,3,8
+401767197,Southeast Missouri State,52,0,4,8
+401767203,Gardner-Webb,43,0,4,8
+401767203,UT Martin,62,1,4,8
+401767212,Lindenwood,45,0,4,8
+401767212,Tennessee Tech,57,2,2,8
+401767227,Howard,46,1,1,8
+401767227,Tennessee State,45,1,3,8
+401767243,Abilene Christian,47,2,4,8
+401767243,Southern Utah,48,3,0,8
+401767261,Monmouth,52,1,2,8
+401767261,Stony Brook,67,0,3,8
+401767280,Eastern Kentucky,38,3,1,8
+401767280,North Alabama,61,2,1,8
+401767301,Tarleton State,54,2,4,8
+401767301,West Georgia,40,1,2,8
+401767321,Rhode Island,61,1,8,8
+401767321,UAlbany,38,1,2,8
+401767373,Alcorn State,47,2,3,8
+401767373,Florida A&M,65,2,6,8
+401767383,Arkansas-Pine Bluff,47,2,4,8
+401767383,Grambling,54,0,1,8
+401767434,Prairie View A&M,39,0,2,8
+401767434,Southern,44,0,0,8
+401767440,Illinois State,41,2,2,8
+401767440,Youngstown State,71,2,6,8
+401767449,Indiana State,42,0,1,8
+401767449,North Dakota State,63,1,1,8
+401767462,East Texas A&M,63,2,8,8
+401767462,Incarnate Word,71,0,5,8
+401767471,Houston Christian,33,1,1,8
+401767471,McNeese,64,2,0,8
+401767485,Lamar,61,1,2,8
+401767485,UT Rio Grande Valley,38,0,1,8
+401767505,North Dakota,59,4,1,8
+401767505,Southern Illinois,52,0,2,8
+401767517,Nicholls,41,0,1,8
+401767517,Stephen F. Austin,46,1,3,8
+401767521,Northwestern State,33,0,2,8
+401767521,SE Louisiana,51,1,3,8
+401767532,Chattanooga,61,2,8,8
+401767532,East Tennessee State,61,4,4,8
+401767538,Northern Iowa,45,0,2,8
+401767538,South Dakota,46,0,1,8
+401767553,Brown,65,2,0,8
+401767553,Princeton,57,1,4,8
+401767568,Furman,45,1,1,8
+401767568,Wofford,49,1,4,8
+401767581,Samford,63,1,4,8
+401767581,VMI,49,2,7,8
+401767584,The Citadel,51,5,2,8
+401767584,Western Carolina,60,2,6,8
+401767597,Butler,54,1,2,8
+401767597,Dayton,42,2,3,8
+401767606,Davidson,43,0,3,8
+401767606,Drake,61,7,3,8
+401767630,Marist,60,1,4,8
+401767630,Morehead State,47,2,1,8
+401767641,Presbyterian,52,1,5,8
+401767641,Stetson,53,1,2,8
+401767649,St. Thomas (MN),51,2,6,8
+401767649,Valparaiso,46,2,1,8
+401767683,Columbia,47,0,6,8
+401767683,Pennsylvania,57,2,2,8
+401767692,Bucknell,51,1,2,8
+401767692,Cornell,62,0,4,8
+401767700,Dartmouth,55,3,5,8
+401767700,Fordham,50,0,3,8
+401767704,Harvard,46,3,5,8
+401767704,Merrimack,53,1,1,8
+401767722,Colgate,51,0,3,8
+401767722,Georgetown,54,0,3,8
+401767728,Holy Cross,49,1,0,8
+401767728,Richmond,53,0,4,8
+401767745,Central Connecticut,58,0,2,8
+401767745,Wagner,42,0,1,8
+401767753,Duquesne,50,4,1,8
+401767753,Mercyhurst,22,0,0,8
+401767759,Long Island University,57,2,1,8
+401767759,Robert Morris,29,1,4,8
+401767773,Stonehill,37,2,1,8
+401767773,Yale,66,4,5,8
+401752746,Arkansas,34,0,4,9
+401752746,Auburn,60,1,2,9
+401752747,Kentucky,61,0,4,9
+401752747,Tennessee,52,0,6,9
+401752748,LSU,45,1,4,9
+401752748,Texas A&M,51,1,4,9
+401752749,Mississippi State,63,1,7,9
+401752749,Texas,56,0,4,9
+401752750,Oklahoma,41,2,3,9
+401752750,Ole Miss,63,1,6,9
+401752751,Alabama,45,1,4,9
+401752751,South Carolina,52,0,3,9
+401752752,Missouri,63,1,2,9
+401752752,Vanderbilt,33,1,1,9
+401752880,Illinois,50,0,3,9
+401752880,Washington,60,2,3,9
+401752881,Michigan,54,3,2,9
+401752881,Michigan State,52,2,2,9
+401752882,Iowa,47,1,3,9
+401752882,Minnesota,37,0,1,9
+401752883,Nebraska,53,1,1,9
+401752883,Northwestern,44,2,3,9
+401752884,Purdue,40,3,1,9
+401752884,Rutgers,61,0,6,9
+401752885,Indiana,66,4,3,9
+401752885,UCLA,34,0,0,9
+401752886,Oregon,49,3,3,9
+401752886,Wisconsin,32,0,1,9
+401752942,SMU,47,0,2,9
+401752942,Wake Forest,50,0,3,9
+401752952,Toledo,49,0,3,9
+401752952,Washington State,52,0,3,9
+401754372,California,47,0,5,9
+401754372,Virginia Tech,64,5,2,9
+401754570,Boston College,57,0,4,9
+401754570,Louisville,43,3,3,9
+401754571,Georgia Tech,59,3,4,9
+401754571,Syracuse,48,1,4,9
+401754572,Miami,66,0,2,9
+401754572,Stanford,37,1,1,9
+401754573,North Carolina,58,1,2,9
+401754573,Virginia,47,0,3,9
+401754574,NC State,43,1,5,9
+401754574,Pittsburgh,61,0,6,9
+401756929,Arizona State,39,1,6,9
+401756929,Houston,65,1,3,9
+401756930,Baylor,49,1,0,9
+401756930,Cincinnati,64,1,0,9
+401756931,BYU,49,0,5,9
+401756931,Iowa State,53,2,2,9
+401756932,Kansas,53,0,0,9
+401756932,Kansas State,47,1,5,9
+401756933,Oklahoma State,43,0,0,9
+401756933,Texas Tech,56,0,7,9
+401756934,Colorado,40,1,2,9
+401756934,Utah,56,4,4,9
+401756935,TCU,55,1,3,9
+401756935,West Virginia,56,0,3,9
+401757172,Rice,71,3,2,9
+401757172,UConn,58,0,4,9
+401757285,Florida International,56,3,3,9
+401757285,Kennesaw State,54,2,4,9
+401757286,Louisiana Tech,69,1,5,9
+401757286,Western Kentucky,58,0,1,9
+401757287,Delaware,61,0,4,9
+401757287,Middle Tennessee,51,1,2,9
+401757288,Missouri State,55,1,2,9
+401757288,New Mexico State,44,1,1,9
+401760397,Boise State,59,0,1,9
+401760397,Nevada,36,2,0,9
+401760398,Colorado State,44,0,3,9
+401760398,Wyoming,50,3,3,9
+401760399,Fresno State,42,0,0,9
+401760399,San Diego State,55,2,1,9
+401760400,New Mexico,59,2,2,9
+401760400,Utah State,35,1,2,9
+401761634,Georgia State,55,0,2,9
+401761634,South Alabama,63,1,3,9
+401761635,App State,49,0,4,9
+401761635,Old Dominion,64,0,2,9
+401761636,Arkansas State,69,5,1,9
+401761636,Georgia Southern,55,0,4,9
+401761637,Southern Miss,53,3,5,9
+401761637,UL Monroe,51,3,1,9
+401761638,Louisiana,49,1,2,9
+401761638,Troy,52,1,2,9
+401762492,Charlotte,45,1,4,9
+401762492,North Texas,62,2,10,9
+401762493,Florida Atlantic,56,0,4,9
+401762493,Navy,65,5,2,9
+401762494,Memphis,58,0,3,9
+401762494,South Florida,62,3,1,9
+401762495,Temple,56,2,4,9
+401762495,Tulsa,61,0,7,9
+401762844,Akron,52,1,4,9
+401762844,Buffalo,51,0,3,9
+401762845,Ball State,49,0,2,9
+401762845,Northern Illinois,56,2,1,9
+401762846,Bowling Green,61,1,3,9
+401762846,Kent State,41,1,3,9
+401762847,Central Michigan,63,3,4,9
+401762847,Massachusetts,44,2,1,9
+401762848,Eastern Michigan,44,0,3,9
+401762848,Ohio,66,2,6,9
+401762874,Miami (OH),50,1,4,9
+401762874,Western Michigan,51,1,2,9
+401767035,Bryant,62,0,1,9
+401767035,Rhode Island,37,1,3,9
+401767065,Eastern Washington,55,0,3,9
+401767065,Weber State,49,3,3,9
+401767075,Cal Poly,37,0,3,9
+401767075,Montana State,66,2,1,9
+401767085,Idaho State,48,3,3,9
+401767085,Northern Arizona,67,1,1,9
+401767093,Idaho,45,1,5,9
+401767093,Portland State,48,1,1,9
+401767101,Montana,50,3,3,9
+401767101,Sacramento State,63,0,3,9
+401767124,Northern Colorado,48,0,2,9
+401767124,UC Davis,54,2,3,9
+401767145,Campbell,61,1,4,9
+401767145,North Carolina A&T,39,2,1,9
+401767167,Charleston Southern,52,0,4,9
+401767167,Eastern Illinois,44,2,2,9
+401767176,Elon,41,1,1,9
+401767176,Maine,53,1,1,9
+401767185,Hampton,86,2,5,9
+401767185,Monmouth,90,3,2,9
+401767204,Gardner-Webb,67,3,5,9
+401767204,Lindenwood,48,1,2,9
+401767221,Southeast Missouri State,58,0,5,9
+401767221,Tennessee Tech,48,1,2,9
+401767228,Tennessee State,59,3,2,9
+401767228,Western Illinois,34,0,2,9
+401767252,Austin Peay,48,3,4,9
+401767252,North Alabama,62,1,4,9
+401767271,New Hampshire,56,3,5,9
+401767271,William & Mary,52,2,4,9
+401767281,Eastern Kentucky,35,0,1,9
+401767281,Tarleton State,61,1,3,9
+401767295,Southern Utah,49,2,1,9
+401767295,Utah Tech,60,0,1,9
+401767302,Central Arkansas,60,1,2,9
+401767302,West Georgia,52,1,3,9
+401767314,Alabama A&M,32,0,1,9
+401767314,Alabama State,62,4,4,9
+401767325,Stony Brook,62,1,0,9
+401767325,Towson,27,0,5,9
+401767334,UAlbany,33,0,1,9
+401767334,Villanova,51,0,2,9
+401767345,Delaware State,59,3,4,9
+401767345,North Carolina Central,47,1,8,9
+401767374,Alcorn State,55,0,1,9
+401767374,Mississippi Valley State,51,0,2,9
+401767384,Arkansas-Pine Bluff,42,1,1,9
+401767384,Bethune-Cookman,64,3,3,9
+401767408,Norfolk State,33,1,4,9
+401767408,South Carolina State,70,1,8,9
+401767419,Grambling,45,1,2,9
+401767419,Jackson State,54,3,4,9
+401767435,Lincoln (CA),13,0,1,9
+401767435,Prairie View A&M,34,1,6,9
+401767441,Illinois State,52,0,1,9
+401767441,South Dakota,60,1,2,9
+401767450,Indiana State,40,1,2,9
+401767450,North Dakota,69,3,7,9
+401767456,Florida A&M,60,3,4,9
+401767456,Southern,53,2,5,9
+401767463,East Texas A&M,34,0,5,9
+401767463,Stephen F. Austin,74,0,4,9
+401767472,Houston Christian,34,1,0,9
+401767472,SE Louisiana,58,1,2,9
+401767478,Incarnate Word,63,1,3,9
+401767478,UT Rio Grande Valley,55,0,9,9
+401767486,Lamar,65,1,1,9
+401767486,Northwestern State,35,0,3,9
+401767493,McNeese,34,1,4,9
+401767493,Nicholls,60,3,2,9
+401767498,Murray State,43,1,2,9
+401767498,Youngstown State,66,1,4,9
+401767512,North Dakota State,64,3,5,9
+401767512,South Dakota State,32,0,2,9
+401767533,Chattanooga,51,5,3,9
+401767533,Samford,56,0,3,9
+401767539,Northern Iowa,38,2,2,9
+401767539,Southern Illinois,57,3,3,9
+401767554,Brown,61,0,8,9
+401767554,Cornell,70,0,5,9
+401767561,East Tennessee State,60,1,3,9
+401767561,Wofford,48,2,1,9
+401767569,Furman,50,1,4,9
+401767569,The Citadel,47,1,3,9
+401767577,Mercer,64,2,7,9
+401767577,VMI,32,2,2,9
+401767607,Davidson,43,0,5,9
+401767607,San Diego,64,1,2,9
+401767617,Dayton,58,3,3,9
+401767617,Presbyterian,50,0,4,9
+401767623,Drake,54,1,4,9
+401767623,Marist,49,1,1,9
+401767638,Morehead State,45,3,2,9
+401767638,Valparaiso,53,1,2,9
+401767650,St. Thomas (MN),55,2,6,9
+401767650,Stetson,39,0,1,9
+401767668,Bucknell,46,1,4,9
+401767668,Georgetown,55,1,3,9
+401767675,Fordham,44,0,1,9
+401767675,Lehigh,60,0,5,9
+401767701,Columbia,50,0,2,9
+401767701,Dartmouth,52,3,2,9
+401767705,Harvard,56,4,2,9
+401767705,Princeton,48,0,3,9
+401767729,Colgate,52,1,0,9
+401767729,Holy Cross,46,1,1,9
+401767754,Duquesne,43,1,1,9
+401767754,Wagner,52,4,0,9
+401767764,Robert Morris,46,1,3,9
+401767764,Saint Francis,40,1,3,9
+401767774,Mercyhurst,48,1,5,9
+401767774,Stonehill,47,1,3,9
+401779510,Long Island University,60,4,1,9
+401779510,New Haven,43,0,2,9
+401788997,Pennsylvania,50,0,3,9
+401788997,Yale,48,3,3,9
+401752753,Arkansas,60,2,3,10
+401752753,Mississippi State,52,1,6,10
+401752754,Auburn,47,1,0,10
+401752754,Kentucky,48,0,1,10
+401752755,Florida,46,2,3,10
+401752755,Georgia,57,1,4,10
+401752756,Ole Miss,57,3,3,10
+401752756,South Carolina,40,0,2,10
+401752757,Oklahoma,49,3,0,10
+401752757,Tennessee,60,0,5,10
+401752758,Texas,52,0,2,10
+401752758,Vanderbilt,46,1,5,10
+401752887,Indiana,68,4,3,10
+401752887,Maryland,31,0,5,10
+401752888,Michigan State,54,1,4,10
+401752888,Minnesota,47,1,1,10
+401752889,Ohio State,50,1,5,10
+401752889,Penn State,46,1,1,10
+401752890,Michigan,49,2,3,10
+401752890,Purdue,56,1,0,10
+401752891,Illinois,57,2,4,10
+401752891,Rutgers,50,0,3,10
+401752892,Nebraska,51,1,1,10
+401752892,USC,44,0,2,10
+401752943,Oregon State,49,1,1,10
+401752943,Washington State,42,2,1,10
+401754575,North Carolina,57,1,3,10
+401754575,Syracuse,32,0,1,10
+401754576,California,42,0,3,10
+401754576,Virginia,65,1,3,10
+401754577,Clemson,60,0,3,10
+401754577,Duke,47,0,4,10
+401754578,Florida State,49,2,5,10
+401754578,Wake Forest,50,0,1,10
+401754579,Georgia Tech,56,1,6,10
+401754579,NC State,56,2,4,10
+401754580,Louisville,53,4,1,10
+401754580,Virginia Tech,50,0,0,10
+401754581,Miami,66,0,3,10
+401754581,SMU,51,0,7,10
+401754582,Pittsburgh,54,2,4,10
+401754582,Stanford,49,0,6,10
+401754583,Boston College,56,0,4,10
+401754583,Notre Dame,46,1,4,10
+401756936,Baylor,66,0,5,10
+401756936,UCF,40,0,1,10
+401756937,Arizona,45,1,3,10
+401756937,Colorado,58,0,1,10
+401756938,Houston,51,2,5,10
+401756938,West Virginia,66,3,3,10
+401756939,Arizona State,57,2,3,10
+401756939,Iowa State,48,1,3,10
+401756940,Kansas,52,2,2,10
+401756940,Oklahoma State,52,0,4,10
+401756941,Kansas State,43,1,3,10
+401756941,Texas Tech,62,2,4,10
+401756942,Cincinnati,40,2,2,10
+401756942,Utah,68,1,4,10
+401757173,UAB,52,1,1,10
+401757173,UConn,51,1,4,10
+401757289,Kennesaw State,51,0,1,10
+401757289,UTEP,53,0,3,10
+401757290,Louisiana Tech,54,5,5,10
+401757290,Sam Houston,48,5,2,10
+401757291,Florida International,55,0,3,10
+401757291,Missouri State,48,2,2,10
+401757292,Jacksonville State,52,0,4,10
+401757292,Middle Tennessee,34,0,3,10
+401757293,Delaware,52,0,6,10
+401757293,Liberty,55,2,4,10
+401757294,New Mexico State,36,1,0,10
+401757294,Western Kentucky,65,1,6,10
+401760401,Air Force,61,0,1,10
+401760401,Army,50,1,2,10
+401760402,Boise State,40,1,0,10
+401760402,Fresno State,57,1,0,10
+401760403,Hawai'i,55,0,5,10
+401760403,San José State,46,3,10,10
+401760404,New Mexico,45,1,6,10
+401760404,UNLV,59,0,6,10
+401760405,San Diego State,51,1,5,10
+401760405,Wyoming,44,1,1,10
+401761639,James Madison,52,2,4,10
+401761639,Texas State,56,0,4,10
+401761640,Coastal Carolina,52,1,5,10
+401761640,Marshall,62,4,0,10
+401761641,Old Dominion,52,1,4,10
+401761641,UL Monroe,55,1,3,10
+401761642,Louisiana,59,0,5,10
+401761642,South Alabama,55,0,2,10
+401761643,Arkansas State,53,0,3,10
+401761643,Troy,43,0,2,10
+401762443,Tulane,44,1,6,10
+401762443,UTSA,67,2,7,10
+401762497,Memphis,49,1,3,10
+401762497,Rice,56,1,1,10
+401762498,East Carolina,69,5,5,10
+401762498,Temple,43,1,1,10
+401762499,Navy,51,3,1,10
+401762499,North Texas,62,1,5,10
+401762849,Bowling Green,47,1,1,10
+401762849,Buffalo,40,2,1,10
+401762850,Central Michigan,44,0,2,10
+401762850,Western Michigan,57,2,1,10
+401767066,Eastern Washington,55,1,1,10
+401767066,Sacramento State,57,5,0,10
+401767076,Cal Poly,48,3,4,10
+401767076,Portland State,61,1,6,10
+401767086,Idaho State,50,3,3,10
+401767086,UC Davis,67,0,4,10
+401767094,Idaho,49,3,3,10
+401767094,Northern Arizona,59,3,4,10
+401767102,Montana,53,2,4,10
+401767102,Weber State,56,0,1,10
+401767109,Montana State,87,2,9,10
+401767109,Northern Colorado,89,0,1,10
+401767136,Bryant,41,0,1,10
+401767136,Monmouth,60,2,3,10
+401767168,Charleston Southern,51,0,5,10
+401767168,Southeast Missouri State,48,1,2,10
+401767193,Maine,59,2,2,10
+401767193,Stony Brook,51,0,3,10
+401767198,Eastern Illinois,36,1,5,10
+401767198,UT Martin,69,0,1,10
+401767205,Gardner-Webb,62,0,2,10
+401767205,Tennessee Tech,37,1,5,10
+401767213,Lindenwood,58,4,2,10
+401767213,Tennessee State,37,1,3,10
+401767244,Abilene Christian,47,4,3,10
+401767244,Tarleton State,54,2,9,10
+401767253,Austin Peay,43,1,1,10
+401767253,Southern Utah,64,0,4,10
+401767275,North Carolina A&T,49,1,0,10
+401767275,Towson,48,2,7,10
+401767282,Central Arkansas,39,0,3,10
+401767282,Eastern Kentucky,67,1,3,10
+401767288,North Alabama,63,1,2,10
+401767288,Utah Tech,57,3,4,10
+401767315,Alabama A&M,33,1,2,10
+401767315,Grambling,54,0,1,10
+401767335,UAlbany,35,0,1,10
+401767335,William & Mary,70,0,3,10
+401767346,Delaware State,40,1,1,10
+401767346,Norfolk State,45,0,3,10
+401767355,Howard,42,0,2,10
+401767355,North Carolina Central,45,3,7,10
+401767364,Alabama State,49,1,1,10
+401767364,Prairie View A&M,59,2,3,10
+401767375,Alcorn State,71,1,4,10
+401767375,Texas Southern,38,0,3,10
+401767385,Arkansas-Pine Bluff,61,1,3,10
+401767385,Southern,45,1,2,10
+401767391,Bethune-Cookman,53,0,3,10
+401767391,Mississippi Valley State,58,0,7,10
+401767401,Morgan State,50,1,4,10
+401767401,South Carolina State,52,1,6,10
+401767423,Florida A&M,37,1,3,10
+401767423,Jackson State,59,4,3,10
+401767442,Illinois State,62,3,1,10
+401767442,Northern Iowa,44,0,2,10
+401767451,Indiana State,35,0,2,10
+401767451,South Dakota State,67,0,4,10
+401767464,East Texas A&M,46,0,3,10
+401767464,SE Louisiana,54,1,6,10
+401767473,Houston Christian,41,2,2,10
+401767473,Nicholls,65,1,3,10
+401767479,Incarnate Word,58,0,1,10
+401767479,Lamar,38,0,3,10
+401767494,McNeese,59,6,2,10
+401767494,Northwestern State,37,1,0,10
+401767499,Murray State,47,1,1,10
+401767499,Southern Illinois,59,0,3,10
+401767506,North Dakota,40,1,2,10
+401767506,South Dakota,45,0,2,10
+401767513,North Dakota State,55,0,3,10
+401767513,Youngstown State,46,1,2,10
+401767525,Stephen F. Austin,76,1,2,10
+401767525,UT Rio Grande Valley,36,2,1,10
+401767534,Chattanooga,60,0,3,10
+401767534,Western Carolina,50,1,3,10
+401767555,Brown,50,0,4,10
+401767555,Pennsylvania,58,2,3,10
+401767570,Furman,33,1,2,10
+401767570,Mercer,68,0,7,10
+401767582,Samford,59,0,5,10
+401767582,Wofford,47,1,1,10
+401767585,The Citadel,59,2,3,10
+401767585,VMI,53,2,3,10
+401767598,Butler,42,2,2,10
+401767598,Drake,56,1,5,10
+401767608,Davidson,52,2,1,10
+401767608,Morehead State,53,2,2,10
+401767618,Dayton,42,0,3,10
+401767618,San Diego,60,1,4,10
+401767631,Marist,38,0,2,10
+401767631,St. Thomas (MN),59,0,6,10
+401767642,Presbyterian,60,1,4,10
+401767642,Valparaiso,39,0,2,10
+401767661,New Haven,41,1,3,10
+401767661,Sacred Heart,61,2,2,10
+401767685,Columbia,38,0,4,10
+401767685,Yale,58,2,2,10
+401767693,Cornell,58,1,1,10
+401767693,Princeton,48,0,3,10
+401767702,Dartmouth,46,0,3,10
+401767702,Harvard,54,0,3,10
+401767716,Fordham,45,0,0,10
+401767716,Richmond,56,0,2,10
+401767723,Georgetown,46,1,3,10
+401767723,Lehigh,45,1,2,10
+401767730,Holy Cross,50,1,2,10
+401767730,Lafayette,57,2,2,10
+401767746,Central Connecticut,47,0,4,10
+401767746,Long Island University,58,2,2,10
+401767765,Robert Morris,45,0,1,10
+401767765,Stonehill,48,1,1,10
+401767768,Saint Francis,56,0,2,10
+401767768,Wagner,36,2,0,10
+401769068,Colgate,43,0,5,10
+401769068,Merrimack,54,2,4,10
+401752759,Alabama,47,0,6,11
+401752759,LSU,44,1,1,11
+401752760,Florida,50,0,1,11
+401752760,Kentucky,60,1,2,11
+401752761,Ole Miss,68,0,6,11
+401752761,The Citadel,43,1,0,11
+401752762,Georgia,61,3,4,11
+401752762,Mississippi State,55,1,1,11
+401752763,Missouri,39,2,2,11
+401752763,Texas A&M,57,3,3,11
+401752764,Auburn,63,1,5,11
+401752764,Vanderbilt,59,1,7,11
+401752893,Indiana,47,0,3,11
+401752893,Penn State,52,1,5,11
+401752894,Maryland,43,5,1,11
+401752894,Rutgers,61,2,4,11
+401752895,Nebraska,52,0,3,11
+401752895,UCLA,51,2,2,11
+401752896,Northwestern,42,2,1,11
+401752896,USC,54,1,3,11
+401752897,Ohio State,68,0,5,11
+401752897,Purdue,34,0,1,11
+401752898,Iowa,49,0,2,11
+401752898,Oregon,48,2,3,11
+401752899,Washington,52,1,0,11
+401752899,Wisconsin,50,1,1,11
+401752944,Oregon State,66,1,5,11
+401752944,Sam Houston,32,1,1,11
+401754584,Boston College,59,0,4,11
+401754584,SMU,49,3,7,11
+401754585,California,53,1,9,11
+401754585,Louisville,47,2,3,11
+401754586,Clemson,54,0,5,11
+401754586,Florida State,42,2,3,11
+401754587,Miami,49,0,4,11
+401754587,Syracuse,50,2,0,11
+401754588,North Carolina,43,0,2,11
+401754588,Stanford,52,1,2,11
+401754589,Virginia,48,2,1,11
+401754589,Wake Forest,49,0,1,11
+401754590,Duke,54,1,2,11
+401754590,UConn,56,2,3,11
+401756943,Arizona,40,2,1,11
+401756943,Kansas,54,0,5,11
+401756944,Iowa State,49,2,2,11
+401756944,TCU,62,0,1,11
+401756945,BYU,49,0,1,11
+401756945,Texas Tech,56,2,4,11
+401756946,Houston,66,1,1,11
+401756946,UCF,44,0,4,11
+401756947,Colorado,51,1,5,11
+401756947,West Virginia,66,0,2,11
+401757166,Navy,46,1,0,11
+401757166,Notre Dame,54,2,6,11
+401757295,Delaware,49,0,6,11
+401757295,Louisiana Tech,50,1,3,11
+401757296,Florida International,52,2,4,11
+401757296,Middle Tennessee,51,0,4,11
+401757297,Jacksonville State,53,2,1,11
+401757297,UTEP,52,0,3,11
+401757298,Kennesaw State,57,2,4,11
+401757298,New Mexico State,57,1,4,11
+401757299,Liberty,59,3,3,11
+401757299,Missouri State,40,0,6,11
+401760406,Air Force,69,2,0,11
+401760406,San José State,43,0,6,11
+401760407,Colorado State,50,0,2,11
+401760407,UNLV,56,4,4,11
+401760408,Hawai'i,55,1,3,11
+401760408,San Diego State,39,2,2,11
+401760409,Nevada,38,0,2,11
+401760409,Utah State,64,0,6,11
+401761644,App State,54,1,4,11
+401761644,Georgia Southern,60,0,4,11
+401761645,Coastal Carolina,55,3,3,11
+401761645,Georgia State,58,2,5,11
+401761646,James Madison,47,2,4,11
+401761646,Marshall,66,4,2,11
+401761647,Arkansas State,70,0,5,11
+401761647,Southern Miss,63,0,5,11
+401761648,Louisiana,69,1,2,11
+401761648,Texas State,48,2,6,11
+401762500,South Florida,46,2,4,11
+401762500,UTSA,61,0,3,11
+401762501,Memphis,56,2,5,11
+401762501,Tulane,47,1,7,11
+401762502,Rice,47,0,1,11
+401762502,UAB,42,1,4,11
+401762503,Army,64,0,1,11
+401762503,Temple,36,1,2,11
+401762504,Charlotte,44,0,4,11
+401762504,East Carolina,66,0,1,11
+401762505,Florida Atlantic,46,2,6,11
+401762505,Tulsa,71,1,3,11
+401762851,Akron,60,0,5,11
+401762851,Massachusetts,39,1,0,11
+401762852,Miami (OH),33,1,2,11
+401762852,Ohio,35,1,1,11
+401762853,Ball State,46,1,2,11
+401762853,Kent State,47,1,4,11
+401762854,Northern Illinois,43,0,1,11
+401762854,Toledo,54,0,5,11
+401762855,Bowling Green,44,0,2,11
+401762855,Eastern Michigan,57,1,3,11
+401767069,Eastern Washington,62,0,5,11
+401767069,Montana,45,2,3,11
+401767077,Cal Poly,56,1,1,11
+401767077,Idaho State,62,0,2,11
+401767095,Idaho,44,1,3,11
+401767095,UC Davis,59,2,4,11
+401767110,Montana State,54,2,1,11
+401767110,Weber State,50,0,2,11
+401767117,Northern Arizona,57,0,5,11
+401767117,Northern Colorado,49,0,2,11
+401767129,Portland State,47,0,1,11
+401767129,Sacramento State,52,3,4,11
+401767137,Bryant,48,0,3,11
+401767137,UAlbany,52,0,3,11
+401767146,Campbell,53,1,2,11
+401767146,William & Mary,60,0,1,11
+401767177,Elon,25,0,2,11
+401767177,Rhode Island,58,1,2,11
+401767186,Hampton,34,1,1,11
+401767186,Maine,56,1,1,11
+401767199,Eastern Illinois,42,1,1,11
+401767199,Tennessee Tech,50,1,1,11
+401767206,Gardner-Webb,53,3,7,11
+401767206,Southeast Missouri State,41,1,6,11
+401767214,Lindenwood,51,3,3,11
+401767214,Western Illinois,50,2,2,11
+401767229,Tennessee State,34,0,1,11
+401767229,UT Martin,59,1,0,11
+401767245,Abilene Christian,56,2,1,11
+401767245,Utah Tech,44,1,0,11
+401767254,Austin Peay,72,0,5,11
+401767254,Central Arkansas,45,2,2,11
+401767262,Monmouth,45,1,2,11
+401767262,New Hampshire,58,2,3,11
+401767283,Eastern Kentucky,33,3,2,11
+401767283,Southern Utah,60,3,2,11
+401767289,North Alabama,42,0,2,11
+401767289,West Georgia,57,3,4,11
+401767316,North Carolina A&T,32,0,2,11
+401767316,Stony Brook,72,0,4,11
+401767330,Towson,39,1,4,11
+401767330,Villanova,58,4,0,11
+401767347,Delaware State,50,1,2,11
+401767347,Morgan State,40,1,0,11
+401767356,Alabama A&M,49,1,0,11
+401767356,Prairie View A&M,52,3,8,11
+401767365,Alabama State,31,0,3,11
+401767365,Texas Southern,70,1,0,11
+401767376,Alcorn State,59,4,1,11
+401767376,Southern,42,1,1,11
+401767386,Arkansas-Pine Bluff,53,0,6,11
+401767386,Florida A&M,54,3,3,11
+401767392,Bethune-Cookman,48,0,4,11
+401767392,Grambling,51,3,4,11
+401767396,Howard,45,0,2,11
+401767396,South Carolina State,43,2,4,11
+401767409,Norfolk State,45,3,3,11
+401767409,North Carolina Central,58,0,3,11
+401767424,Jackson State,63,1,2,11
+401767424,Mississippi Valley State,37,0,1,11
+401767443,Illinois State,80,1,5,11
+401767443,Indiana State,38,1,2,11
+401767465,East Texas A&M,43,3,4,11
+401767465,McNeese,59,3,4,11
+401767474,Houston Christian,39,0,2,11
+401767474,Stephen F. Austin,58,2,2,11
+401767480,Incarnate Word,53,2,4,11
+401767480,Northwestern State,42,0,2,11
+401767487,Lamar,58,0,1,11
+401767487,SE Louisiana,38,4,1,11
+401767500,Murray State,48,1,2,11
+401767500,Northern Iowa,52,2,3,11
+401767507,North Dakota,61,0,0,11
+401767507,North Dakota State,42,2,3,11
+401767518,Nicholls,56,0,2,11
+401767518,UT Rio Grande Valley,51,0,6,11
+401767535,Chattanooga,66,1,5,11
+401767535,Furman,40,0,4,11
+401767542,South Dakota,53,2,2,11
+401767542,South Dakota State,43,1,2,11
+401767548,Southern Illinois,50,1,7,11
+401767548,Youngstown State,60,5,7,11
+401767562,East Tennessee State,58,3,6,11
+401767562,Samford,51,2,5,11
+401767578,Mercer,54,2,8,11
+401767578,Western Carolina,65,0,12,11
+401767590,VMI,47,0,1,11
+401767590,Wofford,52,1,5,11
+401767599,Butler,58,1,2,11
+401767599,Morehead State,46,0,3,11
+401767609,Davidson,54,0,1,11
+401767609,Presbyterian,48,0,1,11
+401767624,Drake,46,1,2,11
+401767624,St. Thomas (MN),49,0,1,11
+401767632,Marist,45,2,3,11
+401767632,Stetson,53,1,2,11
+401767646,San Diego,65,3,2,11
+401767646,Valparaiso,39,1,4,11
+401767662,Sacred Heart,46,1,1,11
+401767662,Virginia Lynchburg,49,0,2,11
+401767669,Bucknell,54,0,2,11
+401767669,Fordham,43,0,2,11
+401767676,Brown,49,0,6,11
+401767676,Yale,60,2,3,11
+401767694,Cornell,62,1,3,11
+401767694,Pennsylvania,48,1,0,11
+401767703,Dartmouth,48,2,4,11
+401767703,Princeton,60,0,2,11
+401767706,Columbia,30,0,3,11
+401767706,Harvard,48,1,3,11
+401767724,Georgetown,52,1,3,11
+401767724,Richmond,45,1,3,11
+401767731,Holy Cross,42,0,4,11
+401767731,Lehigh,50,5,4,11
+401767747,Central Connecticut,55,2,1,11
+401767747,Stonehill,40,1,2,11
+401767755,Duquesne,56,0,1,11
+401767755,Long Island University,49,4,2,11
+401767766,Robert Morris,46,0,6,11
+401767766,Wagner,57,2,0,11
+401767769,Mercyhurst,42,1,4,11
+401767769,Saint Francis,54,0,2,11
+401769849,Colgate,58,1,1,11
+401769849,Lafayette,53,5,3,11
+401783279,Merrimack,59,1,2,11
+401783279,New Haven,45,0,5,11
+401752765,Alabama,56,1,5,12
+401752765,Oklahoma,40,2,2,12
+401752766,Georgia,57,2,4,12
+401752766,Texas,41,0,1,12
+401752767,Kentucky,59,1,3,12
+401752767,Tennessee Tech,45,1,1,12
+401752768,Arkansas,41,2,2,12
+401752768,LSU,55,2,4,12
+401752769,Florida,40,0,3,12
+401752769,Ole Miss,67,2,2,12
+401752770,Mississippi State,69,0,2,12
+401752770,Missouri,44,5,2,12
+401752771,New Mexico State,60,0,2,12
+401752771,Tennessee,57,2,1,12
+401752772,South Carolina,45,1,6,12
+401752772,Texas A&M,48,0,7,12
+401752900,Ohio State,58,2,1,12
+401752900,UCLA,41,0,2,12
+401752901,Indiana,55,0,5,12
+401752901,Wisconsin,36,0,1,12
+401752902,Purdue,44,1,2,12
+401752902,Washington,42,1,7,12
+401752903,Michigan State,34,1,1,12
+401752903,Penn State,55,2,2,12
+401752904,Minnesota,42,1,1,12
+401752904,Oregon,60,2,4,12
+401752905,Michigan,61,2,5,12
+401752905,Northwestern,38,0,4,12
+401752906,Illinois,63,2,3,12
+401752906,Maryland,42,0,0,12
+401752907,Iowa,46,1,2,12
+401752907,USC,52,1,4,12
+401752945,Oregon State,51,0,3,12
+401752945,Tulsa,59,4,5,12
+401752953,Louisiana Tech,36,0,0,12
+401752953,Washington State,56,0,2,12
+401754591,Clemson,49,2,3,12
+401754591,Louisville,48,4,2,12
+401754592,Boston College,51,3,5,12
+401754592,Georgia Tech,66,2,4,12
+401754593,Duke,36,0,2,12
+401754593,Virginia,66,1,7,12
+401754594,Florida State,59,1,1,12
+401754594,Virginia Tech,49,1,2,12
+401754595,Miami,59,1,7,12
+401754595,NC State,35,0,1,12
+401754596,North Carolina,44,0,2,12
+401754596,Wake Forest,50,3,3,12
+401754597,Notre Dame,56,2,3,12
+401754597,Pittsburgh,39,0,2,12
+401756948,Arizona State,55,1,3,12
+401756948,West Virginia,54,0,4,12
+401756949,Baylor,60,2,6,12
+401756949,Utah,49,4,1,12
+401756950,BYU,60,0,3,12
+401756950,TCU,40,0,3,12
+401756951,Arizona,62,2,5,12
+401756951,Cincinnati,43,3,2,12
+401756952,Kansas State,43,1,3,12
+401756952,Oklahoma State,52,2,4,12
+401756953,Texas Tech,62,3,4,12
+401756953,UCF,48,1,1,12
+401757174,Air Force,64,0,1,12
+401757174,UConn,45,2,2,12
+401757300,Delaware,53,0,7,12
+401757300,Sam Houston,43,3,4,12
+401757301,Florida International,63,1,2,12
+401757301,Liberty,55,1,2,12
+401757302,Jacksonville State,50,3,3,12
+401757302,Kennesaw State,71,2,6,12
+401757303,Middle Tennessee,51,3,8,12
+401757303,Western Kentucky,65,4,7,12
+401757304,Missouri State,64,0,4,12
+401757304,UTEP,40,0,1,12
+401760410,Boise State,50,0,0,12
+401760410,San Diego State,51,3,1,12
+401760411,Colorado State,53,0,2,12
+401760411,New Mexico,43,0,5,12
+401760412,Fresno State,57,3,0,12
+401760412,Wyoming,41,1,1,12
+401760413,Nevada,58,2,3,12
+401760413,San José State,40,1,2,12
+401760414,UNLV,53,1,3,12
+401760414,Utah State,48,2,2,12
+401761649,Old Dominion,56,5,2,12
+401761649,Troy,35,0,1,12
+401761650,Coastal Carolina,55,2,3,12
+401761650,Georgia Southern,58,5,5,12
+401761651,Georgia State,56,1,3,12
+401761651,Marshall,54,1,6,12
+401761652,App State,26,0,2,12
+401761652,James Madison,73,5,4,12
+401761653,South Alabama,67,1,1,12
+401761653,UL Monroe,32,1,2,12
+401761654,Southern Miss,59,0,5,12
+401761654,Texas State,64,2,2,12
+401762506,North Texas,52,1,5,12
+401762506,UAB,59,2,3,12
+401762507,Charlotte,42,0,3,12
+401762507,UTSA,61,3,4,12
+401762508,East Carolina,58,1,5,12
+401762508,Memphis,64,3,0,12
+401762509,Florida Atlantic,67,0,3,12
+401762509,Tulane,54,1,5,12
+401762510,Navy,61,5,2,12
+401762510,South Florida,57,2,5,12
+401762856,Akron,62,0,5,12
+401762856,Kent State,36,0,5,12
+401762857,Ohio,44,3,0,12
+401762857,Western Michigan,51,1,1,12
+401762858,Buffalo,49,1,3,12
+401762858,Central Michigan,46,0,4,12
+401762859,Massachusetts,48,1,1,12
+401762859,Northern Illinois,62,4,2,12
+401762860,Miami (OH),37,0,2,12
+401762860,Toledo,49,1,2,12
+401762861,Ball State,42,1,0,12
+401762861,Eastern Michigan,57,1,4,12
+401767067,Eastern Washington,58,0,3,12
+401767067,Northern Colorado,52,1,1,12
+401767078,Cal Poly,42,0,5,12
+401767078,Northern Arizona,55,1,6,12
+401767087,Idaho State,52,1,6,12
+401767087,Weber State,45,0,1,12
+401767096,Idaho,44,3,2,12
+401767096,Sacramento State,68,3,4,12
+401767103,Montana,62,2,6,12
+401767103,Portland State,47,2,4,12
+401767111,Montana State,43,3,2,12
+401767111,UC Davis,60,0,3,12
+401767138,Bryant,42,0,1,12
+401767138,New Hampshire,55,1,2,12
+401767147,Campbell,54,0,3,12
+401767147,Elon,48,1,2,12
+401767169,Charleston Southern,38,1,4,12
+401767169,UT Martin,52,1,4,12
+401767187,Hampton,44,0,1,12
+401767187,William & Mary,57,2,3,12
+401767194,Maine,47,0,6,12
+401767194,Rhode Island,52,3,3,12
+401767200,Eastern Illinois,53,0,1,12
+401767200,Lindenwood,48,2,7,12
+401767207,Gardner-Webb,51,1,0,12
+401767207,Tennessee State,53,0,1,12
+401767222,Southeast Missouri State,53,1,2,12
+401767222,Western Illinois,50,3,5,12
+401767246,Abilene Christian,63,0,4,12
+401767246,Eastern Kentucky,28,0,1,12
+401767255,Austin Peay,40,1,2,12
+401767255,Samford,60,1,5,12
+401767263,Monmouth,55,3,6,12
+401767263,North Carolina A&T,49,0,4,12
+401767290,North Alabama,43,0,1,12
+401767290,Tarleton State,52,1,7,12
+401767296,Central Arkansas,43,2,3,12
+401767296,Southern Utah,69,1,1,12
+401767303,Utah Tech,44,1,1,12
+401767303,West Georgia,55,2,1,12
+401767326,Stony Brook,45,0,4,12
+401767326,Villanova,57,0,6,12
+401767348,Delaware State,55,2,3,12
+401767348,Howard,38,1,4,12
+401767357,Alabama A&M,60,1,4,12
+401767357,Florida A&M,44,1,5,12
+401767377,Alcorn State,58,0,0,12
+401767377,Grambling,45,1,0,12
+401767387,Arkansas-Pine Bluff,43,1,0,12
+401767387,Prairie View A&M,63,2,6,12
+401767393,Bethune-Cookman,38,1,2,12
+401767393,Jackson State,62,4,1,12
+401767402,Morgan State,54,2,0,12
+401767402,Norfolk State,47,4,1,12
+401767414,North Carolina Central,38,1,4,12
+401767414,South Carolina State,57,2,3,12
+401767444,Illinois State,54,0,2,12
+401767444,South Dakota State,63,1,1,12
+401767452,Indiana State,45,4,4,12
+401767452,Youngstown State,61,2,5,12
+401767457,Southern,53,1,3,12
+401767457,Texas Southern,54,0,2,12
+401767466,East Texas A&M,63,3,3,12
+401767466,Houston Christian,57,0,2,12
+401767481,Incarnate Word,56,3,2,12
+401767481,SE Louisiana,47,1,3,12
+401767488,Lamar,41,1,0,12
+401767488,Stephen F. Austin,62,1,0,12
+401767495,McNeese,62,0,2,12
+401767495,UT Rio Grande Valley,38,1,5,12
+401767501,Murray State,52,0,0,12
+401767501,North Dakota,55,1,2,12
+401767514,North Dakota State,54,2,3,12
+401767514,Northern Iowa,41,0,1,12
+401767519,Nicholls,47,2,3,12
+401767519,Northwestern State,54,0,2,12
+401767543,South Dakota,64,0,5,12
+401767543,Southern Illinois,50,0,6,12
+401767556,Chattanooga,45,0,1,12
+401767556,Mercer,57,2,3,12
+401767563,East Tennessee State,71,2,8,12
+401767563,Western Carolina,66,1,4,12
+401767571,Furman,71,2,1,12
+401767571,VMI,42,0,2,12
+401767586,The Citadel,57,3,2,12
+401767586,Wofford,48,2,3,12
+401767600,Butler,47,0,2,12
+401767600,San Diego,48,1,5,12
+401767610,Davidson,40,0,3,12
+401767610,Marist,53,2,4,12
+401767619,Dayton,54,2,2,12
+401767619,Drake,47,3,1,12
+401767643,Presbyterian,62,1,4,12
+401767643,St. Thomas (MN),33,0,1,12
+401767654,Stetson,58,4,1,12
+401767654,Valparaiso,48,1,2,12
+401767663,Merrimack,60,4,1,12
+401767663,Sacred Heart,53,4,3,12
+401767670,Bucknell,44,1,4,12
+401767670,Holy Cross,53,3,4,12
+401767677,Brown,56,1,4,12
+401767677,Columbia,57,0,2,12
+401767695,Cornell,52,0,4,12
+401767695,Dartmouth,47,3,1,12
+401767707,Harvard,60,0,3,12
+401767707,Pennsylvania,66,0,2,12
+401767717,Fordham,42,0,2,12
+401767717,Georgetown,60,0,3,12
+401767737,Colgate,34,0,3,12
+401767737,Lehigh,50,1,4,12
+401767740,Lafayette,48,3,4,12
+401767740,Richmond,62,0,4,12
+401767748,Central Connecticut,56,3,6,12
+401767748,Duquesne,44,6,3,12
+401767760,Long Island University,60,2,2,12
+401767760,Saint Francis,42,1,0,12
+401767767,Mercyhurst,49,2,1,12
+401767767,Robert Morris,38,2,1,12
+401767775,Stonehill,37,2,0,12
+401767775,Wagner,54,1,0,12
+401788998,Princeton,54,0,2,12
+401788998,Yale,45,0,3,12
+401752773,Alabama,72,2,4,13
+401752773,Eastern Illinois,31,0,0,13
+401752774,Auburn,47,5,2,13
+401752774,Mercer,60,1,2,13
+401752775,Florida,39,1,2,13
+401752775,Tennessee,67,3,2,13
+401752776,Charlotte,29,0,2,13
+401752776,Georgia,64,0,2,13
+401752777,LSU,58,1,1,13
+401752777,Western Kentucky,40,0,1,13
+401752778,Missouri,51,1,4,13
+401752778,Oklahoma,44,0,1,13
+401752779,Coastal Carolina,52,0,1,13
+401752779,South Carolina,62,3,4,13
+401752780,Arkansas,57,3,7,13
+401752780,Texas,47,0,8,13
+401752781,Samford,37,0,1,13
+401752781,Texas A&M,61,1,3,13
+401752782,Kentucky,46,0,4,13
+401752782,Vanderbilt,59,1,6,13
+401752908,Nebraska,49,1,3,13
+401752908,Penn State,49,2,5,13
+401752909,Minnesota,36,1,5,13
+401752909,Northwestern,62,2,4,13
+401752910,UCLA,39,1,2,13
+401752910,Washington,56,2,4,13
+401752911,Oregon,48,0,4,13
+401752911,USC,47,0,4,13
+401752912,Ohio State,50,3,2,13
+401752912,Rutgers,41,0,1,13
+401752913,Iowa,47,0,2,13
+401752913,Michigan State,49,1,3,13
+401752914,Maryland,44,2,3,13
+401752914,Michigan,63,1,5,13
+401752915,Illinois,44,0,3,13
+401752915,Wisconsin,48,2,0,13
+401752954,James Madison,40,2,1,13
+401752954,Washington State,56,1,2,13
+401754598,Florida State,50,0,4,13
+401754598,NC State,54,1,2,13
+401754599,California,52,0,3,13
+401754599,Stanford,45,1,3,13
+401754600,Duke,63,2,3,13
+401754600,North Carolina,43,0,3,13
+401754601,Georgia Tech,59,0,5,13
+401754601,Pittsburgh,54,3,2,13
+401754602,Louisville,41,1,2,13
+401754602,SMU,65,2,4,13
+401754603,Miami,57,0,5,13
+401754603,Virginia Tech,50,3,3,13
+401754604,Notre Dame,31,6,0,13
+401754604,Syracuse,62,0,0,13
+401754605,Clemson,51,3,3,13
+401754605,Furman,49,0,3,13
+401754606,Delaware,57,0,2,13
+401754606,Wake Forest,48,2,4,13
+401756954,Arizona,48,1,3,13
+401756954,Baylor,62,2,1,13
+401756955,BYU,63,2,1,13
+401756955,Cincinnati,46,1,6,13
+401756956,Arizona State,52,3,4,13
+401756956,Colorado,45,2,3,13
+401756957,Houston,55,3,3,13
+401756957,TCU,58,1,4,13
+401756958,Iowa State,67,2,3,13
+401756958,Kansas,36,2,3,13
+401756959,Oklahoma State,41,1,0,13
+401756959,UCF,47,0,4,13
+401756960,Kansas State,51,8,0,13
+401756960,Utah,62,3,4,13
+401757175,Florida Atlantic,72,1,6,13
+401757175,UConn,63,2,6,13
+401757305,Florida International,52,4,2,13
+401757305,Jacksonville State,58,3,3,13
+401757306,Kennesaw State,63,0,9,13
+401757306,Missouri State,51,3,6,13
+401757307,Liberty,51,5,2,13
+401757307,Louisiana Tech,66,3,2,13
+401757308,Middle Tennessee,50,3,3,13
+401757308,Sam Houston,46,0,4,13
+401757309,New Mexico State,64,4,4,13
+401757309,UTEP,48,5,3,13
+401760415,Air Force,48,0,1,13
+401760415,New Mexico,47,1,2,13
+401760416,Boise State,71,3,3,13
+401760416,Colorado State,40,0,3,13
+401760417,Fresno State,49,2,1,13
+401760417,Utah State,62,1,3,13
+401760418,Hawai'i,38,0,1,13
+401760418,UNLV,60,2,2,13
+401760419,Nevada,49,1,1,13
+401760419,Wyoming,45,0,2,13
+401760420,San Diego State,50,0,1,13
+401760420,San José State,52,0,0,13
+401761655,Arkansas State,57,0,3,13
+401761655,Louisiana,58,3,1,13
+401761656,App State,60,1,2,13
+401761656,Marshall,57,2,2,13
+401761657,Georgia Southern,43,0,1,13
+401761657,Old Dominion,67,6,1,13
+401761658,South Alabama,74,2,1,13
+401761658,Southern Miss,52,0,8,13
+401761659,Texas State,66,2,1,13
+401761659,UL Monroe,53,1,2,13
+401761660,Georgia State,58,1,8,13
+401761660,Troy,54,0,6,13
+401762511,South Florida,49,2,4,13
+401762511,UAB,61,0,3,13
+401762512,Army,60,2,1,13
+401762512,Tulsa,55,1,4,13
+401762513,East Carolina,47,1,3,13
+401762513,UTSA,63,2,3,13
+401762514,North Texas,51,1,8,13
+401762514,Rice,66,2,1,13
+401762515,Temple,39,0,2,13
+401762515,Tulane,55,1,3,13
+401762862,Akron,40,1,2,13
+401762862,Bowling Green,51,0,4,13
+401762863,Massachusetts,49,1,0,13
+401762863,Ohio,57,5,0,13
+401762864,Northern Illinois,44,1,1,13
+401762864,Western Michigan,64,2,0,13
+401762865,Buffalo,51,1,5,13
+401762865,Miami (OH),52,1,4,13
+401762866,Central Michigan,55,1,1,13
+401762866,Kent State,45,1,4,13
+401762867,Ball State,53,2,5,13
+401762867,Toledo,44,3,3,13
+401767068,Cal Poly,63,1,6,13
+401767068,Eastern Washington,52,0,4,13
+401767088,Idaho,42,2,2,13
+401767088,Idaho State,64,0,4,13
+401767104,Montana,50,4,1,13
+401767104,Montana State,56,3,2,13
+401767118,Northern Arizona,42,0,4,13
+401767118,Weber State,54,3,4,13
+401767125,Northern Colorado,44,3,1,13
+401767125,Portland State,60,1,0,13
+401767134,Sacramento State,67,2,0,13
+401767134,UC Davis,50,0,6,13
+401767139,Bryant,50,1,3,13
+401767139,Stony Brook,67,1,2,13
+401767148,Campbell,59,0,1,13
+401767148,Towson,45,0,5,13
+401767170,Charleston Southern,44,2,2,13
+401767170,Tennessee State,44,3,2,13
+401767178,Elon,52,2,3,13
+401767178,North Carolina A&T,36,2,3,13
+401767188,Hampton,48,2,2,13
+401767188,Rhode Island,60,2,4,13
+401767195,Maine,37,2,1,13
+401767195,New Hampshire,53,0,4,13
+401767208,Gardner-Webb,52,1,6,13
+401767208,Western Illinois,55,1,3,13
+401767215,Lindenwood,51,2,2,13
+401767215,Southeast Missouri State,41,0,1,13
+401767234,Tennessee Tech,48,1,2,13
+401767234,UT Martin,52,0,2,13
+401767247,Abilene Christian,64,3,5,13
+401767247,Central Arkansas,41,0,5,13
+401767264,Monmouth,48,1,5,13
+401767264,UAlbany,65,1,1,13
+401767276,Austin Peay,58,4,6,13
+401767276,Tarleton State,53,6,5,13
+401767284,Eastern Kentucky,57,2,1,13
+401767284,Utah Tech,36,0,1,13
+401767291,North Alabama,63,0,4,13
+401767291,Southern Utah,54,2,3,13
+401767338,Sacred Heart,53,1,5,13
+401767338,Villanova,41,2,1,13
+401767340,Richmond,55,1,2,13
+401767340,William & Mary,44,1,0,13
+401767349,Delaware State,59,9,0,13
+401767349,South Carolina State,48,1,4,13
+401767358,Alabama A&M,37,1,3,13
+401767358,Texas Southern,58,1,1,13
+401767367,Alabama State,46,3,5,13
+401767367,Arkansas-Pine Bluff,61,2,1,13
+401767378,Alcorn State,54,2,2,13
+401767378,Jackson State,52,3,4,13
+401767397,Howard,54,1,4,13
+401767397,Norfolk State,37,1,4,13
+401767403,Morgan State,47,1,1,13
+401767403,North Carolina Central,47,0,0,13
+401767430,Mississippi Valley State,40,0,2,13
+401767430,Prairie View A&M,51,4,6,13
+401767445,Illinois State,43,0,1,13
+401767445,Southern Illinois,59,4,1,13
+401767453,Indiana State,55,1,5,13
+401767453,Murray State,70,1,4,13
+401767467,East Texas A&M,53,0,2,13
+401767467,UT Rio Grande Valley,50,1,1,13
+401767489,Lamar,47,4,2,13
+401767489,McNeese,55,1,1,13
+401767508,North Dakota,50,0,4,13
+401767508,South Dakota State,60,1,3,13
+401767515,North Dakota State,52,2,7,13
+401767515,St. Thomas (MN),46,2,2,13
+401767520,Nicholls,46,1,3,13
+401767520,SE Louisiana,54,6,2,13
+401767522,Northwestern State,51,3,3,13
+401767522,Stephen F. Austin,60,4,5,13
+401767540,Northern Iowa,47,2,6,13
+401767540,Youngstown State,52,3,4,13
+401767557,Chattanooga,53,1,1,13
+401767557,Wofford,45,0,6,13
+401767564,East Tennessee State,61,1,3,13
+401767564,The Citadel,56,1,5,13
+401767591,VMI,51,0,2,13
+401767591,Western Carolina,65,0,5,13
+401767601,Butler,58,3,3,13
+401767601,Valparaiso,36,1,0,13
+401767611,Davidson,45,1,2,13
+401767611,Dayton,59,1,4,13
+401767625,Drake,49,1,0,13
+401767625,Morehead State,50,2,1,13
+401767633,Marist,49,1,2,13
+401767633,Presbyterian,51,0,3,13
+401767647,San Diego,41,2,1,13
+401767647,Stetson,64,1,0,13
+401767671,Bucknell,48,1,0,13
+401767671,Colgate,53,2,4,13
+401767678,Brown,46,1,3,13
+401767678,Dartmouth,52,0,3,13
+401767696,Columbia,61,1,3,13
+401767696,Cornell,40,1,4,13
+401767708,Harvard,49,1,4,13
+401767708,Yale,62,0,5,13
+401767718,Fordham,53,3,3,13
+401767718,Merrimack,41,1,2,13
+401767725,Georgetown,46,0,3,13
+401767725,Holy Cross,48,2,0,13
+401767738,Lafayette,72,0,4,13
+401767738,Lehigh,43,6,2,13
+401767749,Central Connecticut,57,2,2,13
+401767749,Mercyhurst,47,1,3,13
+401767756,Duquesne,53,3,3,13
+401767756,Robert Morris,36,0,2,13
+401767761,Long Island University,54,4,2,13
+401767761,Wagner,52,1,0,13
+401767770,Saint Francis,50,0,1,13
+401767770,Stonehill,36,2,2,13
+401788996,Pennsylvania,52,0,2,13
+401788996,Princeton,42,0,1,13
+401752783,Arkansas,37,0,3,14
+401752783,Missouri,57,3,0,14
+401752784,Alabama,53,2,0,14
+401752784,Auburn,50,1,2,14
+401752785,Florida,53,3,2,14
+401752785,Florida State,43,1,4,14
+401752786,Georgia,55,1,2,14
+401752786,Georgia Tech,41,0,2,14
+401752787,Kentucky,34,0,1,14
+401752787,Louisville,59,1,3,14
+401752788,Mississippi State,54,5,1,14
+401752788,Ole Miss,65,1,6,14
+401752789,LSU,43,1,1,14
+401752789,Oklahoma,53,1,5,14
+401752790,Clemson,63,0,6,14
+401752790,South Carolina,35,0,5,14
+401752791,Tennessee,54,1,2,14
+401752791,Vanderbilt,53,5,6,14
+401752792,Texas,48,3,3,14
+401752792,Texas A&M,53,1,1,14
+401752916,Iowa,55,2,4,14
+401752916,Nebraska,44,2,0,14
+401752917,Oregon,60,0,5,14
+401752917,Washington,44,1,1,14
+401752918,Minnesota,46,1,0,14
+401752918,Wisconsin,43,1,2,14
+401752919,UCLA,48,1,2,14
+401752919,USC,45,2,4,14
+401752920,Penn State,48,3,3,14
+401752920,Rutgers,54,1,7,14
+401752921,Michigan,31,3,1,14
+401752921,Ohio State,66,1,4,14
+401752922,Illinois,45,1,3,14
+401752922,Northwestern,45,0,1,14
+401752923,Maryland,51,1,4,14
+401752923,Michigan State,57,1,3,14
+401752924,Indiana,47,4,2,14
+401752924,Purdue,50,0,4,14
+401752946,Oregon State,48,0,2,14
+401752946,Washington State,50,1,2,14
+401754608,Boston College,46,1,6,14
+401754608,Syracuse,49,2,0,14
+401754609,California,67,0,5,14
+401754609,SMU,53,3,4,14
+401754610,Duke,61,1,3,14
+401754610,Wake Forest,54,0,7,14
+401754611,Miami,61,1,4,14
+401754611,Pittsburgh,37,0,3,14
+401754612,NC State,61,0,2,14
+401754612,North Carolina,42,0,1,14
+401754613,Virginia,67,0,2,14
+401754613,Virginia Tech,33,1,1,14
+401754614,Notre Dame,60,1,3,14
+401754614,Stanford,47,1,3,14
+401756961,Arizona,69,0,2,14
+401756961,Arizona State,36,2,1,14
+401756962,Baylor,48,0,5,14
+401756962,Houston,63,1,1,14
+401756963,BYU,57,0,6,14
+401756963,UCF,41,0,3,14
+401756964,Kansas,60,1,6,14
+401756964,Utah,44,1,5,14
+401756965,Colorado,58,2,2,14
+401756965,Kansas State,53,1,1,14
+401756966,Iowa State,48,2,1,14
+401756966,Oklahoma State,40,0,1,14
+401756967,Cincinnati,39,2,5,14
+401756967,TCU,68,1,3,14
+401756968,Texas Tech,79,3,6,14
+401756968,West Virginia,34,1,2,14
+401757310,Delaware,60,2,3,14
+401757310,UTEP,51,0,5,14
+401757311,Florida International,54,5,6,14
+401757311,Sam Houston,50,2,2,14
+401757312,Jacksonville State,58,3,5,14
+401757312,Western Kentucky,52,2,3,14
+401757313,Kennesaw State,56,2,6,14
+401757313,Liberty,64,3,2,14
+401757314,Louisiana Tech,58,6,1,14
+401757314,Missouri State,39,1,5,14
+401757315,Middle Tennessee,53,2,5,14
+401757315,New Mexico State,54,0,2,14
+401760421,Air Force,71,2,2,14
+401760421,Colorado State,35,0,5,14
+401760422,Boise State,69,1,5,14
+401760422,Utah State,43,4,4,14
+401760423,Fresno State,65,2,1,14
+401760423,San José State,38,0,2,14
+401760424,Hawai'i,48,1,5,14
+401760424,Wyoming,45,1,3,14
+401760425,Nevada,51,2,1,14
+401760425,UNLV,48,2,6,14
+401760426,New Mexico,41,2,1,14
+401760426,San Diego State,51,1,2,14
+401761661,App State,61,2,3,14
+401761661,Arkansas State,60,0,4,14
+401761662,Coastal Carolina,40,0,4,14
+401761662,James Madison,62,2,6,14
+401761663,Georgia Southern,71,0,5,14
+401761663,Marshall,38,0,6,14
+401761664,Georgia State,47,1,1,14
+401761664,Old Dominion,60,4,2,14
+401761665,Louisiana,54,3,2,14
+401761665,UL Monroe,58,2,5,14
+401761666,Southern Miss,47,1,4,14
+401761666,Troy,61,0,2,14
+401761667,South Alabama,58,3,1,14
+401761667,Texas State,63,1,4,14
+401762441,Army,54,1,1,14
+401762441,UTSA,50,2,3,14
+401762442,North Texas,57,2,6,14
+401762442,Temple,50,0,2,14
+401762516,Memphis,43,2,1,14
+401762516,Navy,60,1,2,14
+401762517,Tulsa,52,2,3,14
+401762517,UAB,66,2,1,14
+401762518,Charlotte,38,0,3,14
+401762518,Tulane,61,3,4,14
+401762519,East Carolina,75,1,4,14
+401762519,Florida Atlantic,47,0,6,14
+401762520,Rice,47,3,1,14
+401762520,South Florida,68,4,4,14
+401762868,Bowling Green,54,2,1,14
+401762868,Massachusetts,47,1,3,14
+401762869,Eastern Michigan,45,2,6,14
+401762869,Western Michigan,54,3,1,14
+401762870,Buffalo,45,1,6,14
+401762870,Ohio,60,3,1,14
+401762871,Kent State,44,4,3,14
+401762871,Northern Illinois,62,2,0,14
+401762872,Central Michigan,51,0,4,14
+401762872,Toledo,47,3,4,14
+401762875,Ball State,40,1,2,14
+401762875,Miami (OH),51,1,4,14
+401767368,Alabama State,57,1,8,14
+401767368,Tuskegee,40,1,3,14
+401767420,Grambling,51,0,4,14
+401767420,Southern,45,2,4,14
+401767428,Florida A&M,53,2,4,14
+401767428,Mississippi Valley State,47,1,6,14
+401833969,Abilene Christian,52,1,5,14
+401833969,Lamar,34,0,5,14
+401833975,Yale,62,2,5,14
+401833975,Youngstown State,44,3,6,14
+401836055,Harvard,33,0,3,14
+401836055,Villanova,61,3,3,14
+401836095,Illinois State,39,0,2,14
+401836095,SE Louisiana,39,2,1,14
+401836102,Central Connecticut,54,0,3,14
+401836102,Rhode Island,51,0,6,14
+401836115,North Dakota,59,0,3,14
+401836115,Tennessee Tech,48,0,4,14
+401836116,New Hampshire,42,1,0,14
+401836116,South Dakota State,56,2,3,14
+401836195,Drake,55,1,0,14
+401836195,South Dakota,41,2,5,14
+401777324,North Texas,49,0,5,15
+401777324,Tulane,63,1,2,15
+401777325,Jacksonville State,48,1,1,15
+401777325,Kennesaw State,55,1,2,15
+401777326,Boise State,54,1,5,15
+401777326,UNLV,49,4,4,15
+401777327,BYU,43,0,2,15
+401777327,Texas Tech,58,0,4,15
+401777328,Duke,61,0,3,15
+401777328,Virginia,49,0,3,15
+401777329,Miami (OH),40,0,4,15
+401777329,Western Michigan,60,2,2,15
+401777350,Jackson State,34,1,4,15
+401777350,Prairie View A&M,62,0,5,15
+401777351,Alabama,33,0,4,15
+401777351,Georgia,60,0,0,15
+401777352,James Madison,48,5,1,15
+401777352,Troy,36,0,4,15
+401777353,Indiana,46,1,2,15
+401777353,Ohio State,43,1,4,15
+401833977,Rhode Island,45,4,5,15
+401833977,UC Davis,57,5,4,15
+401833978,Lehigh,51,1,3,15
+401833978,Villanova,42,0,2,15
+401836196,Montana State,50,2,1,15
+401836196,Yale,55,0,3,15
+401836197,Montana,72,1,5,15
+401836197,South Dakota State,41,0,4,15
+401836198,Illinois State,73,1,1,15
+401836198,North Dakota State,28,0,2,15
+401836216,Abilene Christian,49,2,2,15
+401836216,Stephen F. Austin,48,1,4,15
+401836217,North Dakota,37,2,3,15
+401836217,Tarleton State,60,0,4,15
+401836218,Mercer,45,0,0,15
+401836218,South Dakota,53,5,3,15
+401762521,Army,38,1,3,16
+401762521,Navy,54,2,1,16
+401833985,Montana State,59,3,5,16
+401833985,Stephen F. Austin,44,1,0,16
+401833986,Tarleton State,39,1,2,16
+401833986,Villanova,53,4,2,16
+401833987,Montana,54,2,6,16
+401833987,South Dakota,44,1,2,16
+401836219,Illinois State,56,2,2,16
+401836219,UC Davis,53,2,4,16
