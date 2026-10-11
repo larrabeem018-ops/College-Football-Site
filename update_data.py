@@ -125,6 +125,88 @@ def section(title):
 
 
 # ---------------------------------------------------------------------------
+# Incremental pulls -- only ask the API for weeks we don't already have.
+#
+#   * A finished season (e.g. 2025) that's already saved is never re-pulled.
+#   * For the season in progress, saved weeks are kept and the pull starts at
+#     the LAST saved week (re-pulled in case it was saved mid-weekend), then
+#     stops at the first week that comes back empty (not played yet).
+#   * Preseason files (rosters, recruits, draft, portal...) are skipped if
+#     they're already saved.
+#   * --full ignores all of this and re-pulls everything.
+# ---------------------------------------------------------------------------
+
+FULL_REFRESH = False   # set by --full
+
+
+def game_week_map(year):
+    """gameId -> week from any saved file for `year` that has both columns."""
+    m = {}
+    for path in (f"data/espnBetLines_{year}.csv", f"data/postgame_wp_{year}.csv", f"data/drives_{year}.csv",
+                 f"data/advanced_game_stats_nogt_{year}.csv", f"data/advanced_game_stats_{year}.csv"):
+        if not os.path.exists(path):
+            continue
+        try:
+            d = pd.read_csv(path, usecols=lambda c: c in ("id", "gameId", "week"))
+        except Exception:
+            continue
+        key = "gameId" if "gameId" in d.columns else ("id" if "id" in d.columns else None)
+        if key and "week" in d.columns:
+            for g, w in zip(d[key], d["week"]):
+                if pd.notna(w):
+                    m.setdefault(g, int(w))
+    return m
+
+
+def incremental_start(path, year, label):
+    """Decide what to pull for a week-by-week file.
+
+    Returns (kept, start_week):
+      kept        saved rows to keep (DataFrame) or None
+      start_week  first week to pull, or None if nothing needs pulling
+    """
+    if FULL_REFRESH or not os.path.exists(path):
+        return None, 1
+    try:
+        df = pd.read_csv(path)
+    except Exception:
+        return None, 1
+    if "week" not in df.columns or df["week"].isna().all():
+        # older files (e.g. team_game_stats) were saved without weeks -- fill them in from other saved files
+        wk = df["gameId"].map(game_week_map(year)) if "gameId" in df.columns else pd.Series(dtype=float)
+        if wk.notna().sum() == 0:
+            print(f"  {label}: saved file has no week info -- re-pulling it once")
+            return None, 1
+        order = pd.DataFrame({"gameId": df["gameId"], "week": wk}).drop_duplicates("gameId")
+        order["week"] = order["week"].cummax().ffill().bfill()   # file is in week order
+        df["week"] = df["gameId"].map(order.set_index("gameId")["week"]).astype(int)
+        df.to_csv(path, index=False)
+        print(f"  {label}: added week numbers to the saved file (no API calls)")
+    if year < UPCOMING_SEASON:
+        print(f"  {label}: {year} season already saved -- skipping (use --full to re-pull)")
+        return df, None
+    last = int(df["week"].max())
+    print(f"  {label}: weeks 1-{last} already saved -- re-checking week {last}, then pulling any new weeks")
+    return df, last
+
+
+def combine(kept, new):
+    """Saved rows + newly pulled rows. A week in `new` replaces that week in `kept`;
+    saved weeks the new pull didn't return (e.g. an API hiccup) are kept as they were."""
+    if new is not None and len(new) and kept is not None and len(kept) and "week" in new.columns:
+        kept = kept[~kept["week"].isin(set(new["week"]))]
+    frames = [f for f in (kept, new) if f is not None and len(f)]
+    return pd.concat(frames, ignore_index=True) if frames else pd.DataFrame()
+
+
+def preseason_saved():
+    files = ["data/Roster_2024.csv", "data/Roster_2025.csv", "data/Draft_Position.csv", "data/Recruits_2025.csv",
+             "data/player_stats_2024.csv", "data/teams.csv", "data/team_info.csv", "data/transfers_2025.csv",
+             "data/transfers_2025_stats.csv"]
+    return all(os.path.exists(f) for f in files)
+
+
+# ---------------------------------------------------------------------------
 # 1) Rosters
 # ---------------------------------------------------------------------------
 
@@ -309,26 +391,31 @@ def extract_qb_week(games_json, week):
 
 def fetch_qb_stats_for_season(year, max_week=15):
     section(f"QB game-by-game stats ({year}, all conferences)")
+    kept, start = incremental_start(f"data/all_qb_game_stats_{year}.csv", year, "QB stats")
+    if start is None:
+        return
     all_rows = []
-    for week in range(1, max_week + 1):
+    for week in range(start, max_week + 1):
         try:
             games_json = get("/games/players", year=year, week=week, category="passing")
         except RuntimeError as e:
             print(f"  week {week}: {e}")
             continue
         if not games_json:
-            print(f"  week {week}: no data (not played yet, or season ended before this week)")
-            continue
+            print(f"  week {week}: no data yet -- stopping")
+            break
         week_rows = extract_qb_week(games_json, week)
         print(f"  week {week}: {len(week_rows)} QB performances")
         all_rows.extend(week_rows)
 
-    weekly_df = pd.DataFrame(all_rows)
+    new = pd.DataFrame(all_rows)
+    if not new.empty:
+        new["completion_pct"] = new["comp"] / new["att"]
+    weekly_df = combine(kept, new)
     if weekly_df.empty:
         print(f"  No QB data available yet for {year} -- skipping file writes for this season.")
         return
 
-    weekly_df["completion_pct"] = weekly_df["comp"] / weekly_df["att"]
     save(weekly_df, f"data/all_qb_game_stats_{year}.csv")
 
     # Season snapshot: one row per QB, aggregated across all weeks played so far.
@@ -368,6 +455,9 @@ def fetch_qb_stats():
 
 def fetch_lines_for_season(year):
     section(f"Betting lines ({year}, ESPN Bet preferred)")
+    if year < UPCOMING_SEASON and not FULL_REFRESH and os.path.exists(f"data/espnBetLines_{year}.csv"):
+        print(f"  {year} season already saved -- skipping (use --full to re-pull)")
+        return
     games = get("/lines", year=year, seasonType="regular")
 
     rows = []
@@ -473,29 +563,34 @@ def extract_team_game_row(game, team_obj, opponent_obj):
 
 def fetch_team_game_stats(year, max_week=15):
     section(f"Team game stats ({year} full season, offense + allowed)")
+    path = f"data/team_game_stats_{year}.csv"
+    kept, start = incremental_start(path, year, "Team game stats")
+    if start is None:
+        return kept
     rows = []
-    for week in range(1, max_week + 1):
+    for week in range(start, max_week + 1):
         try:
             games_json = get("/games/teams", year=year, week=week, seasonType="regular")
         except RuntimeError as e:
             print(f"  week {week}: {e}")
             continue
         if not games_json:
-            print(f"  week {week}: no data (not played yet, or season ended before this week)")
-            continue
+            print(f"  week {week}: no data yet -- stopping")
+            break
         week_rows = 0
         for game in games_json:
             teams = game.get("teams", [])
             if len(teams) != 2:
                 continue
             a, b = teams
-            rows.append(extract_team_game_row(game, a, b))
-            rows.append(extract_team_game_row(game, b, a))
+            for r in (extract_team_game_row(game, a, b), extract_team_game_row(game, b, a)):
+                r["week"] = week          # the API leaves week blank here
+                rows.append(r)
             week_rows += 2
         print(f"  week {week}: {week_rows} team-game rows")
 
-    long_df = pd.DataFrame(rows)
-    save(long_df, f"data/team_game_stats_{year}.csv")
+    long_df = combine(kept, pd.DataFrame(rows))
+    save(long_df, path)
     return long_df
 
 
@@ -599,8 +694,12 @@ def fetch_advanced_game_stats(year, max_week=16):
     for exclude_gt, suffix in ((False, ""), (True, "_nogt")):
         label = "garbage time removed" if exclude_gt else "all plays"
         section(f"Advanced game stats ({year}, {label})")
+        path = f"data/advanced_game_stats{suffix}_{year}.csv"
+        kept, start = incremental_start(path, year, "Advanced stats")
+        if start is None:
+            continue
         frames = []
-        for week in range(1, max_week + 1):
+        for week in range(start, max_week + 1):
             try:
                 rows = get("/stats/game/advanced", year=year, week=week, seasonType="regular",
                            excludeGarbageTime=str(exclude_gt).lower())
@@ -608,21 +707,25 @@ def fetch_advanced_game_stats(year, max_week=16):
                 print(f"  week {week}: {e}")
                 continue
             if not rows:
-                print(f"  week {week}: no data (not played yet, or no games that week)")
-                continue
+                print(f"  week {week}: no data yet -- stopping")
+                break
             df = pd.json_normalize(rows, sep="_")
             if "week" not in df.columns:
                 df["week"] = week
             frames.append(df)
             print(f"  week {week}: {len(df)} team-game rows")
-        if frames:
-            save(pd.concat(frames, ignore_index=True), f"data/advanced_game_stats{suffix}_{year}.csv")
+        if frames or kept is not None:
+            save(combine(kept, pd.concat(frames, ignore_index=True) if frames else None), path)
         else:
             print("  nothing returned -- skipping save")
 
 
 def fetch_returning_and_talent(year):
     section(f"Returning production + team talent ({year})")
+    if not FULL_REFRESH and os.path.exists(f"data/returning_production_{year}.csv") \
+            and os.path.exists(f"data/talent_{year}.csv"):
+        print("  already saved (set once per season) -- skipping (use --full to re-pull)")
+        return
     try:
         ret = pd.json_normalize(get("/player/returning", year=year), sep="_")
         save(ret, f"data/returning_production_{year}.csv")
@@ -641,22 +744,26 @@ def fetch_drives(year, max_week=16):
     section(f"Drives / starting field position ({year})")
     keep = ["gameId", "week", "offense", "defense", "isHomeOffense", "driveNumber", "startPeriod",
             "startYardsToGoal", "endYardsToGoal", "driveResult", "plays", "yards", "scoring"]
+    path = f"data/drives_{year}.csv"
+    kept, start = incremental_start(path, year, "Saved file")
+    if start is None:
+        return
     frames = []
-    for week in range(1, max_week + 1):
+    for week in range(start, max_week + 1):
         try:
             rows = get("/drives", year=year, week=week, seasonType="regular")
         except RuntimeError as e:
             print(f"  week {week}: {e}")
             continue
         if not rows:
-            print(f"  week {week}: no data (not played yet, or no games that week)")
-            continue
+            print(f"  week {week}: no data yet -- stopping")
+            break
         df = pd.json_normalize(rows, sep="_")
         df["week"] = week
         frames.append(df[[c for c in keep if c in df.columns]])
         print(f"  week {week}: {len(df)} drives")
-    if frames:
-        save(pd.concat(frames, ignore_index=True), f"data/drives_{year}.csv")
+    if frames or kept is not None:
+        save(combine(kept, pd.concat(frames, ignore_index=True) if frames else None), path)
     else:
         print("  nothing returned -- skipping save")
 
@@ -669,16 +776,20 @@ def fetch_explosive_plays(year, max_week=16, min_yards=20):
     """Count of 20+ yard scrimmage plays per team per game (rush and pass),
     built from play-by-play. Writes data/explosive_plays_{year}.csv."""
     section(f"Explosive plays ({min_yards}+ yards, {year})")
+    path = f"data/explosive_plays_{year}.csv"
+    kept, start = incremental_start(path, year, "Saved file")
+    if start is None:
+        return
     rows = []
-    for week in range(1, max_week + 1):
+    for week in range(start, max_week + 1):
         try:
             plays = get("/plays", year=year, week=week, seasonType="regular")
         except RuntimeError as e:
             print(f"  week {week}: {e}")
             continue
         if not plays:
-            print(f"  week {week}: no data (not played yet, or no games that week)")
-            continue
+            print(f"  week {week}: no data yet -- stopping")
+            break
         df = pd.DataFrame(plays)
         df = df[df["playType"].isin(RUSH_PLAY_TYPES | PASS_PLAY_TYPES)].copy()
         df["is_rush"] = df["playType"].isin(RUSH_PLAY_TYPES)
@@ -691,8 +802,8 @@ def fetch_explosive_plays(year, max_week=16, min_yards=20):
         g["week"] = week
         rows.append(g)
         print(f"  week {week}: {len(df):,} scrimmage plays, {int(df['big'].sum())} of {min_yards}+ yards")
-    if rows:
-        save(pd.concat(rows, ignore_index=True), f"data/explosive_plays_{year}.csv")
+    if rows or kept is not None:
+        save(combine(kept, pd.concat(rows, ignore_index=True) if rows else None), path)
     else:
         print("  nothing returned -- skipping save")
 
@@ -701,22 +812,26 @@ def fetch_havoc(year, max_week=16):
     """Per-game havoc rates (TFLs, sacks, forced fumbles, passes defended / plays).
     Weekly endpoint, so no per-game calls. Writes data/havoc_game_stats_{year}.csv."""
     section(f"Havoc game stats ({year})")
+    path = f"data/havoc_game_stats_{year}.csv"
+    kept, start = incremental_start(path, year, "Saved file")
+    if start is None:
+        return
     frames = []
-    for week in range(1, max_week + 1):
+    for week in range(start, max_week + 1):
         try:
             rows = get("/stats/game/havoc", year=year, week=week, seasonType="regular")
         except RuntimeError as e:
             print(f"  week {week}: {e}")
             continue
         if not rows:
-            print(f"  week {week}: no data (not played yet, or no games that week)")
-            continue
+            print(f"  week {week}: no data yet -- stopping")
+            break
         df = pd.json_normalize(rows, sep="_")
         df["week"] = week
         frames.append(df)
         print(f"  week {week}: {len(df)} team-game rows")
-    if frames:
-        save(pd.concat(frames, ignore_index=True), f"data/havoc_game_stats_{year}.csv")
+    if frames or kept is not None:
+        save(combine(kept, pd.concat(frames, ignore_index=True) if frames else None), path)
     else:
         print("  nothing returned -- skipping save")
 
@@ -727,8 +842,12 @@ def fetch_postgame_win_prob(year, max_week=16):
     section(f"Postgame win probability ({year})")
     keep = ["id", "week", "homeTeam", "awayTeam", "homePoints", "awayPoints", "neutralSite",
             "homePostgameWinProbability", "awayPostgameWinProbability", "excitementIndex"]
+    path = f"data/postgame_wp_{year}.csv"
+    kept, start = incremental_start(path, year, "Saved file")
+    if start is None:
+        return
     frames = []
-    for week in range(1, max_week + 1):
+    for week in range(start, max_week + 1):
         try:
             rows = get("/games", year=year, week=week, seasonType="regular")
         except RuntimeError as e:
@@ -736,16 +855,16 @@ def fetch_postgame_win_prob(year, max_week=16):
             continue
         df = pd.json_normalize(rows) if rows else pd.DataFrame()
         if df.empty or "homePostgameWinProbability" not in df.columns:
-            print(f"  week {week}: no data")
-            continue
+            print(f"  week {week}: no data yet -- stopping")
+            break
         df = df[[c for c in keep if c in df.columns]].dropna(subset=["homePostgameWinProbability"])
         if df.empty:
             print(f"  week {week}: no completed games")
             continue
         frames.append(df.rename(columns={"id": "gameId"}))
         print(f"  week {week}: {len(df)} games")
-    if frames:
-        save(pd.concat(frames, ignore_index=True), f"data/postgame_wp_{year}.csv")
+    if frames or kept is not None:
+        save(combine(kept, pd.concat(frames, ignore_index=True) if frames else None), path)
     else:
         print("  nothing returned -- skipping save")
 
@@ -850,6 +969,11 @@ def main():
                         help="skip advanced game stats / returning production / talent (used by score_model.py)")
     parser.add_argument("--only-model-inputs", action="store_true",
                         help="ONLY pull advanced game stats / returning production / talent / drives, then stop")
+    parser.add_argument("--full", action="store_true",
+                        help="re-pull EVERYTHING, including weeks and seasons already saved (normally only "
+                             "new weeks are pulled)")
+    parser.add_argument("--refresh-preseason", action="store_true",
+                        help="re-pull rosters / recruits / draft / transfer portal even if already saved")
     parser.add_argument("--only-win-prob", action="store_true",
                         help="ONLY pull postgame win probability for each season (~16 calls per season), then stop")
     parser.add_argument("--only-test-inputs", action="store_true",
@@ -876,9 +1000,10 @@ def main():
     )
     args = parser.parse_args()
 
-    global SEASONS
+    global SEASONS, FULL_REFRESH
     if args.seasons:
         SEASONS = args.seasons
+    FULL_REFRESH = args.full
 
     if args.only_win_prob:
         for year in SEASONS:
@@ -908,12 +1033,16 @@ def main():
         print("\nDone (model inputs only).")
         return
 
-    roster_prior, roster_upcoming = fetch_rosters()
-    fetch_draft()
-    fetch_recruits()
-    player_stats_wide = fetch_player_stats()
-    fetch_teams()
-    fetch_transfers(roster_prior, player_stats_wide)
+    if args.full or args.refresh_preseason or not preseason_saved():
+        roster_prior, roster_upcoming = fetch_rosters()
+        fetch_draft()
+        fetch_recruits()
+        player_stats_wide = fetch_player_stats()
+        fetch_teams()
+        fetch_transfers(roster_prior, player_stats_wide)
+    else:
+        print("\n=== Preseason data (rosters, recruits, draft, transfer portal) ===")
+        print("  already saved -- skipping (use --refresh-preseason to re-pull)")
 
     if not args.skip_qb:
         fetch_qb_stats()

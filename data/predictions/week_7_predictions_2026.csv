@@ -1,0 +1,63 @@
+gameId,week,startDate,homeTeam,awayTeam,homeConference,awayConference,spread,overUnder,spreadOpen,neutral,conf_game,pred_home,pred_away,model_total,total_edge,home_qb,home_qb_starts,home_qb_season,home_qb_week,away_qb,away_qb_starts,away_qb_season,away_qb_week,home_games_played,away_games_played,model_spread,edge,tier,pick_side,pick,pick_line
+401871067,7,2026-10-13T23:00:00.000Z,Middle Tennessee,Delaware,Conference USA,Conference USA,1.5,48.5,1.5,False,True,24.4,27.6,51.9,3.4,Roman Gagliano,9,2026,5,EJ Archield Jr.,1,2026,5,5.0,5.0,3.2,-1.7,pass,away,Delaware,Delaware -1.5
+401871053,7,2026-10-14T00:00:00.000Z,Jacksonville State,Florida International,Conference USA,Conference USA,-3.0,45.5,-3.0,False,True,23.9,22.2,46.2,0.7,Caden Creel,16,2026,6,J.J. Kohl,11,2026,6,6.0,5.0,-1.7,-1.3,pass,away,Florida International,Florida International +3.0
+401871054,7,2026-10-14T23:30:00.000Z,Missouri State,Kennesaw State,Conference USA,Conference USA,,,,False,True,23.3,28.4,51.7,,Skyler Locklear,12,2026,6,Rickie Collins,10,2026,6,5.0,5.0,5.1,,,away,Kennesaw State,
+401871068,7,2026-10-15T00:00:00.000Z,Sam Houston,Western Kentucky,Conference USA,Conference USA,,,,False,True,27.1,28.9,56.0,,Landyn Locke,10,2026,6,Brock Glenn,3,2026,6,5.0,6.0,1.9,,,away,Western Kentucky,
+401869950,7,2026-10-15T23:30:00.000Z,Old Dominion,Georgia Southern,Sun Belt,Sun Belt,,,,False,True,24.0,23.8,47.8,,Quinn Henicle,6,2026,6,Max Johnson,9,2026,5,6.0,5.0,-0.3,,,away,Georgia Southern,
+401862800,7,2026-10-15T23:30:00.000Z,UAB,East Carolina,American Athletic,American Athletic,,,,False,True,21.5,28.7,50.2,,Ryder Burton,8,2026,5,Emory Williams,3,2026,6,5.0,5.0,7.3,,,away,East Carolina,
+401860923,7,2026-10-16T00:00:00.000Z,Texas State,Colorado State,Pac-12,Pac-12,-12.5,67.5,-12.5,False,True,44.9,31.7,76.5,9.0,Brad Jackson,18,2026,5,Ksaan Farrar,4,2026,5,5.0,5.0,-13.2,0.7,pass,home,Texas State,Texas State -12.5
+401862801,7,2026-10-16T23:30:00.000Z,Tulane,Memphis,American Athletic,American Athletic,,,,False,True,23.0,30.3,53.3,,Kadin Semonza,5,2026,6,Marcus Stokes,5,2026,5,5.0,5.0,7.4,,,away,Memphis,
+401869844,7,2026-10-17T00:00:00.000Z,Coastal Carolina,App State,Sun Belt,Sun Belt,,,,False,True,24.5,26.9,51.4,,Deuce Bailey,7,2026,5,Malachi Singleton,7,2026,6,5.0,5.0,2.5,,,away,App State,
+401858493,7,2026-10-17T00:00:00.000Z,Purdue,Washington,Big Ten,Big Ten,,,,False,True,26.6,29.4,56.0,,Ryan Browne,16,2026,5,Elijah Brown,6,2026,6,5.0,6.0,2.9,,,away,Washington,
+401858494,7,2026-10-17T04:00:00.000Z,UCLA,Wisconsin,Big Ten,Big Ten,-3.5,49.5,-3.0,False,True,26.0,17.9,43.9,-5.6,Nico Iamaleava,16,2026,6,Colton Joseph,17,2026,5,5.0,5.0,-8.1,4.6,fav_value,home,UCLA,UCLA -3.5
+401856833,7,2026-10-17T04:00:00.000Z,Colorado,Utah,Big 12,Big 12,,,,False,True,16.5,31.8,48.3,,Isaac Wilson,2,2026,5,Devon Dampier,16,2026,4,5.0,4.0,15.3,,,away,Utah,
+401858269,7,2026-10-17T04:00:00.000Z,California,Wake Forest,ACC,ACC,,,,False,True,19.1,31.4,50.5,,Jackson Brousseau,12,2026,6,Giovanni Lopez,17,2026,6,6.0,6.0,12.4,,,away,Wake Forest,
+401858492,7,2026-10-17T04:00:00.000Z,Oregon,Nebraska,Big Ten,Big Ten,-12.5,58.5,-21.5,False,True,29.0,24.5,53.5,-5.0,Dylan Raiola,12,2026,6,Anthony Colandrea,20,2026,6,5.0,6.0,-4.4,-8.1,lean,away,Nebraska,Nebraska +12.5
+401858490,7,2026-10-17T04:00:00.000Z,Michigan,Penn State,Big Ten,Big Ten,-5.5,43.5,-6.5,False,True,22.8,20.8,43.5,0.0,Bryce Underwood,18,2026,5,Rocco Becht,17,2026,5,5.0,5.0,-2.0,-3.5,lean,away,Penn State,Penn State +5.5
+401862802,7,2026-10-17T16:00:00.000Z,Army,Florida Atlantic,American Athletic,American Athletic,,,,False,True,31.7,28.5,60.2,,Cale Hellums,6,2026,6,Caden Veltkamp,17,2026,5,5.0,5.0,-3.2,,,away,Florida Atlantic,
+401869957,7,2026-10-17T16:00:00.000Z,James Madison,Georgia State,Sun Belt,Sun Belt,,,,False,True,35.6,23.7,59.4,,Camden Coleman,4,2026,5,Cameran Brown,14,2026,5,5.0,5.0,-11.9,,,away,Georgia State,
+401856720,7,2026-10-17T16:00:00.000Z,LSU,Mississippi State,SEC,SEC,-12.5,59.5,-12.5,False,True,34.8,24.6,59.4,-0.1,Sam Leavitt,12,2026,5,Kamario Taylor,8,2026,5,5.0,5.0,-10.3,-2.2,pass,away,Mississippi State,Mississippi State +12.5
+401856724,7,2026-10-17T16:00:00.000Z,Texas,Florida,SEC,SEC,-8.5,53.5,-9.5,False,True,31.5,22.6,54.1,0.6,Arch Manning,18,2026,6,Aaron Philo,7,2026,6,5.0,6.0,-9.0,0.5,pass,home,Texas,Texas -8.5
+401866441,7,2026-10-17T16:00:00.000Z,Bowling Green,Ball State,Mid-American,Mid-American,,,,False,True,27.2,19.1,46.3,,Jay Kastantin,6,2026,6,Keldric Luster,5,2026,6,6.0,6.0,-8.1,,,away,Ball State,
+401856830,7,2026-10-17T16:00:00.000Z,Kansas State,Kansas,Big 12,Big 12,-9.5,55.5,-7.5,False,True,26.3,29.7,56.0,0.5,Avery Johnson,17,2026,6,Isaiah Marshall,4,2026,5,5.0,4.0,3.3,-12.8,big_gap,away,Kansas,Kansas +9.5
+401858488,7,2026-10-17T16:00:00.000Z,Indiana,Ohio State,Big Ten,Big Ten,2.5,48.5,1.5,False,True,24.9,25.6,50.5,2.0,Josh Hoover,18,2026,6,Julian Sayin,20,2026,6,6.0,6.0,0.7,1.8,pass,home,Indiana,Indiana +2.5
+401856829,7,2026-10-17T16:00:00.000Z,West Virginia,Cincinnati,Big 12,Big 12,,,,False,True,33.3,35.1,68.3,,Michael Hawkins Jr.,6,2026,6,JC French,18,2026,5,6.0,5.0,1.8,,,away,Cincinnati,
+401858491,7,2026-10-17T16:00:00.000Z,Michigan State,Northwestern,Big Ten,Big Ten,,,,False,True,24.0,30.2,54.2,,Alessio Milivojevic,11,2026,6,Aidan Chiles,13,2026,6,6.0,5.0,6.1,,,away,Northwestern,
+401858261,7,2026-10-17T16:00:00.000Z,Clemson,Charleston Southern,ACC,OVC,,,,False,False,39.4,2.1,41.5,,Tait Reynolds,4,2026,5,Jared Echols,2,2026,6,5.0,6.0,-37.3,,,away,Charleston Southern,
+401858268,7,2026-10-17T16:00:00.000Z,SMU,Virginia,ACC,ACC,,,,False,True,26.9,24.5,51.3,,Kevin Jennings,18,2026,5,Beau Pribula,14,2026,5,5.0,5.0,-2.4,,,away,Virginia,
+401858267,7,2026-10-17T16:00:00.000Z,Boston College,Pittsburgh,ACC,ACC,,,,False,True,17.9,28.0,45.8,,Mason McKenzie,6,2026,5,Holden Geriner,3,2026,6,5.0,6.0,10.1,,,away,Pittsburgh,
+401858489,7,2026-10-17T16:30:00.000Z,Maryland,Rutgers,Big Ten,Big Ten,,,,False,True,33.0,31.3,64.3,,Malik Washington,18,2026,6,Dylan Lonergan,12,2026,5,6.0,5.0,-1.7,,,away,Rutgers,
+401856725,7,2026-10-17T17:00:00.000Z,Texas A&M,The Citadel,SEC,Southern,,,,False,False,48.1,0.0,48.1,,Marcel Reed,19,2026,6,Quentin Hayes,7,2026,6,6.0,6.0,-48.1,,,away,The Citadel,
+401862803,7,2026-10-17T17:00:00.000Z,Temple,Charlotte,American Athletic,American Athletic,,,,False,True,35.9,16.6,52.4,,Ajani Sheppard,5,2026,6,Conner Harrell,6,2026,6,6.0,6.0,-19.3,,,away,Charlotte,
+401866442,7,2026-10-17T17:00:00.000Z,Buffalo,Massachusetts,Mid-American,Mid-American,,,,False,True,25.2,21.0,46.3,,Jason Wright,5,2026,6,Aedan McCarthy,1,2026,6,6.0,6.0,-4.2,,,away,Massachusetts,
+401866443,7,2026-10-17T17:30:00.000Z,Central Michigan,Western Michigan,Mid-American,Mid-American,,,,False,True,19.5,25.3,44.8,,Angel H Flores,4,2026,6,Broc Lowry,19,2026,6,6.0,6.0,5.8,,,away,Western Michigan,
+401866478,7,2026-10-17T19:30:00.000Z,Miami (OH),Akron,Mid-American,Mid-American,,,,False,True,30.6,21.5,52.1,,Caleb Heavner,2,2026,6,Brayden Roggow,5,2026,6,6.0,6.0,-9.1,,,away,Akron,
+401864524,7,2026-10-17T19:30:00.000Z,Air Force,UNLV,Mountain West,Mountain West,,,,False,True,27.2,28.1,55.3,,Liam Szarka,10,2026,5,Jackson Arnold,13,2026,5,4.0,5.0,0.9,,,away,UNLV,
+401866444,7,2026-10-17T19:30:00.000Z,Eastern Michigan,Toledo,Mid-American,Mid-American,,,,False,True,21.9,29.6,51.5,,Noah Kim,19,2026,6,John Alan Richter,7,2026,6,7.0,6.0,7.8,,,away,Toledo,
+401856721,7,2026-10-17T19:30:00.000Z,Ole Miss,Missouri,SEC,SEC,-6.5,57.5,-6.0,False,True,28.6,29.1,57.8,0.3,Trinidad Chambliss,18,2026,6,Austin Simmons,9,2026,6,5.0,6.0,0.5,-7.0,lean,away,Missouri,Missouri +6.5
+401864522,7,2026-10-17T19:30:00.000Z,Wyoming,Northern Illinois,Mountain West,Mountain West,,,,False,True,21.6,17.1,38.7,,Tyler Hughes,17,2026,6,Taron Dickens,13,2026,4,6.0,4.0,-4.4,,,away,Northern Illinois,
+401856723,7,2026-10-17T19:30:00.000Z,Tennessee,Alabama,SEC,SEC,4.5,56.5,1.5,False,True,24.3,33.8,58.1,1.6,George MacIntyre,2,2026,6,Keelon Russell,5,2026,5,6.0,5.0,9.5,-5.0,fav_value,away,Alabama,Alabama -4.5
+401858264,7,2026-10-17T19:30:00.000Z,Virginia Tech,Georgia Tech,ACC,ACC,,,,False,True,32.0,27.1,59.1,,Ethan Grunkemeyer,13,2026,6,Alberto Mendoza,5,2026,6,6.0,5.0,-4.9,,,away,Georgia Tech,
+401856719,7,2026-10-17T19:30:00.000Z,Georgia,Auburn,SEC,SEC,-18.5,49.5,-16.5,False,True,32.5,17.2,49.7,0.2,Gunner Stockton,19,2026,5,Byrum Brown,17,2026,5,5.0,5.0,-15.3,-3.2,lean,away,Auburn,Auburn +18.5
+401856828,7,2026-10-17T19:30:00.000Z,Texas Tech,Arizona State,Big 12,Big 12,,,,False,True,35.2,19.2,54.4,,Will Hammond,10,2026,5,Cutter Boley,14,2026,5,5.0,4.0,-15.9,,,away,Arizona State,
+401858266,7,2026-10-17T19:30:00.000Z,Duke,North Carolina,ACC,ACC,-4.5,46.5,-4.5,False,True,27.2,23.0,50.2,3.7,Walker Eget,15,2026,6,Billy Edwards,6,2026,6,5.0,5.0,-4.2,-0.3,pass,away,North Carolina,North Carolina +4.5
+401862805,7,2026-10-17T20:30:00.000Z,Rice,Tulsa,American Athletic,American Athletic,,,,False,True,23.3,24.5,47.9,,Jacurri Brown,5,2026,6,Baylor Hayes,14,2026,6,6.0,6.0,1.2,,,away,Tulsa,
+401869966,7,2026-10-17T21:00:00.000Z,Louisiana,Troy,Sun Belt,Sun Belt,,,,False,True,25.1,23.3,48.4,,D'Wayne' Winfield,14,2026,5,Will Crowder,11,2026,6,5.0,5.0,-1.9,,,away,Troy,
+401860903,7,2026-10-17T22:00:00.000Z,Oregon State,Washington State,Pac-12,Pac-12,,,,False,True,32.3,15.7,48.0,,Braden Atkinson,17,2026,6,Caden Pinnick,17,2026,6,6.0,6.0,-16.5,,,away,Washington State,
+401869934,7,2026-10-17T23:00:00.000Z,Southern Miss,Arkansas State,Sun Belt,Sun Belt,,,,False,True,31.6,31.6,63.2,,Landy Lyddy,4,2026,6,Trey Owens,6,2026,6,5.0,6.0,0.0,,,away,Arkansas State,
+401856726,7,2026-10-17T23:00:00.000Z,Vanderbilt,Arkansas,SEC,SEC,,,,False,True,28.1,25.0,53.1,,Jared Curtis,4,2026,6,KJ Jackson,8,2026,6,6.0,6.0,-3.2,,,away,Arkansas,
+401858263,7,2026-10-17T23:00:00.000Z,Miami,Florida State,ACC,ACC,-21.0,56.5,-16.5,False,True,38.9,20.6,59.4,2.9,Darian Mensah,19,2026,5,Ashton Daniels,9,2026,6,5.0,6.0,-18.3,-2.7,pass,away,Florida State,Florida State +21.0
+401864520,7,2026-10-17T23:00:00.000Z,North Dakota State,Nevada,Mountain West,Mountain West,,,,False,True,30.9,17.6,48.4,,Nathan Hayes,6,2026,5,Carter Jones,10,2026,4,5.0,4.0,-13.3,,,away,Nevada,
+401856832,7,2026-10-17T23:00:00.000Z,Baylor,TCU,Big 12,Big 12,,,,False,True,27.8,22.6,50.4,,D.J. Lagway,15,2026,5,Jaden Craig,16,2026,5,5.0,5.0,-5.2,,,away,TCU,
+401862806,7,2026-10-17T23:00:00.000Z,South Florida,Kent State,American Athletic,Mid-American,,,,False,False,35.2,11.6,46.8,,Michael Van Buren Jr.,12,2026,6,Dru Deshields,17,2026,6,6.0,6.0,-23.6,,,away,Kent State,
+401856722,7,2026-10-17T23:30:00.000Z,Oklahoma,Kentucky,SEC,SEC,-6.0,41.5,-6.5,False,True,26.0,21.2,47.3,5.8,John Mateer,17,2026,6,Kenny Minchey,5,2026,5,5.0,5.0,-4.8,-1.2,pass,away,Kentucky,Kentucky +6.0
+401856809,7,2026-10-17T23:30:00.000Z,BYU,Notre Dame,Big 12,FBS Independents,12.5,49.5,10.0,False,False,23.4,28.1,51.4,1.9,Bear Bachmeier,19,2026,6,C.J. Carr,17,2026,6,5.0,6.0,4.7,7.8,lean,home,BYU,BYU +12.5
+401856831,7,2026-10-17T23:30:00.000Z,Houston,Oklahoma State,Big 12,Big 12,-3.5,57.5,-3.5,False,True,34.3,24.2,58.5,1.0,Conner Weigman,19,2026,6,Drew Mestemaker,19,2026,6,6.0,5.0,-10.0,6.5,fav_value,home,Houston,Houston -3.5
+401858265,7,2026-10-17T23:30:00.000Z,Syracuse,Louisville,ACC,ACC,,,,False,True,27.5,34.4,62.0,,Amari Odom,13,2026,5,Lincoln Kienholz,6,2026,6,4.0,6.0,6.9,,,away,Louisville,
+401858262,7,2026-10-17T23:30:00.000Z,Stanford,Elon,ACC,Coastal Athletic,,,,False,False,37.2,10.5,47.7,,Davis Warren,6,2026,6,Brady Stober,10,2026,6,6.0,7.0,-26.7,,,away,Elon,
+401862804,7,2026-10-18T00:00:00.000Z,UTSA,Navy,American Athletic,American Athletic,,,,False,True,28.8,26.0,54.7,,Owen McCown,19,2026,6,Jackson Gutierrez,3,2026,6,6.0,5.0,-2.8,,,away,Navy,
+401871091,7,2026-10-18T00:00:00.000Z,UL Monroe,Louisiana Tech,Sun Belt,Sun Belt,,,,False,True,22.0,35.2,57.2,,Aidan Armenta,15,2026,5,Trey Kukuk,7,2026,5,5.0,4.0,13.2,,,away,Louisiana Tech,
+401864523,7,2026-10-18T01:00:00.000Z,UTEP,San José State,Mountain West,Mountain West,,,,False,True,22.9,28.5,51.4,,EJ Colson,13,2026,5,Luke Weaver,9,2026,6,5.0,6.0,5.6,,,away,San José State,
+401866445,7,2026-10-18T02:00:00.000Z,Sacramento State,Ohio,Mid-American,Mid-American,,,,False,True,18.4,31.4,49.8,,Jackson Sharman,6,2026,6,Nick Poulos,2,2026,6,6.0,6.0,13.0,,,away,Ohio,
+401860904,7,2026-10-18T02:30:00.000Z,San Diego State,Fresno State,Pac-12,Pac-12,,,,False,True,19.7,28.5,48.2,,Jayden Denegal,18,2026,6,Jayden Mandal,5,2026,5,6.0,5.0,8.7,,,away,Fresno State,
+401864521,7,2026-10-18T02:30:00.000Z,Hawai'i,New Mexico,Mountain West,Mountain West,,,,False,True,17.5,33.1,50.5,,Micah Alejado,16,2026,5,Toa Faavae,3,2026,5,5.0,5.0,15.6,,,away,New Mexico,
