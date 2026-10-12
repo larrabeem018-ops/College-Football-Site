@@ -16734,6 +16734,24 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401871089,5,South Alabama,UL Monroe,True,23,4,80,0,TD,6,80,True
 401871089,5,UL Monroe,South Alabama,False,24,4,75,0,TD,7,75,True
 401871089,5,South Alabama,UL Monroe,True,25,4,42,8,END OF GAME,2,34,False
+401856712,6,Alabama,Georgia,True,1,1,75,70,FUMBLE,12,38,False
+401856712,6,Georgia,Alabama,False,2,1,61,25,FG,7,36,True
+401856712,6,Alabama,Georgia,True,3,1,75,3,PUNT,7,26,False
+401856712,6,Georgia,Alabama,False,4,2,97,10,PUNT,3,7,False
+401856712,6,Alabama,Georgia,True,5,2,50,50,PUNT,3,0,False
+401856712,6,Georgia,Alabama,False,6,2,93,3,TD,9,93,True
+401856712,6,Alabama,Georgia,True,7,2,89,0,TD,3,89,True
+401856712,6,Georgia,Alabama,False,8,2,75,71,INT,1,0,False
+401856712,6,Alabama,Georgia,True,9,2,40,100,PUNT,3,-14,False
+401856712,6,Georgia,Alabama,False,10,2,86,20,PUNT,7,34,False
+401856712,6,Alabama,Georgia,True,11,2,80,99,TD,12,80,True
+401856712,6,Georgia,Alabama,False,12,3,75,3,TD,8,75,True
+401856712,6,Alabama,Georgia,True,13,3,75,21,FG,10,54,True
+401856712,6,Georgia,Alabama,False,14,3,90,79,MISSED FG,11,69,False
+401856712,6,Alabama,Georgia,True,15,4,79,52,PUNT,6,31,False
+401856712,6,Georgia,Alabama,False,16,4,89,5,FG,10,84,True
+401856712,6,Alabama,Georgia,True,17,4,75,7,PUNT,5,32,False
+401856712,6,Georgia,Alabama,False,18,4,93,53,END OF GAME,8,40,False
 401856713,6,Arkansas,Tennessee,True,1,1,75,33,FUMBLE,5,42,False
 401856713,6,Tennessee,Arkansas,False,2,1,67,67,MISSED FG,7,34,False
 401856713,6,Arkansas,Tennessee,True,3,1,67,42,PUNT,4,10,False
@@ -16745,7 +16763,7 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401856713,6,Arkansas,Tennessee,True,9,2,80,19,PUNT,6,18,False
 401856713,6,Tennessee,Arkansas,False,10,2,81,8,PUNT,5,29,False
 401856713,6,Arkansas,Tennessee,True,11,2,92,55,PUNT,3,5,False
-401856713,6,Tennessee,Arkansas,False,12,2,45,80,END OF HALF,6,-35,False
+401856713,6,Tennessee,Arkansas,False,12,2,45,80,FUMBLE,6,23,False
 401856713,6,Arkansas,Tennessee,True,13,2,20,20,MISSED FG,1,0,False
 401856713,6,Tennessee,Arkansas,False,14,3,75,30,PUNT,3,-4,False
 401856713,6,Arkansas,Tennessee,True,15,3,70,3,TD,5,70,True
@@ -16759,7 +16777,7 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401856713,6,Arkansas,Tennessee,True,23,4,58,6,PUNT,3,3,False
 401856713,6,Tennessee,Arkansas,False,24,4,94,0,TD,5,94,True
 401856713,6,Arkansas,Tennessee,True,25,4,75,38,PUNT,3,0,False
-401856713,6,Tennessee,Arkansas,False,26,4,62,64,Uncategorized,5,-2,False
+401856713,6,Tennessee,Arkansas,False,26,4,62,64,END OF GAME,5,-2,False
 401856714,6,South Carolina,Florida,False,1,1,75,35,PUNT,3,3,False
 401856714,6,Florida,South Carolina,True,2,1,65,20,PUNT,3,6,False
 401856714,6,South Carolina,Florida,False,3,1,80,37,PUNT,3,3,False
@@ -16771,7 +16789,7 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401856714,6,South Carolina,Florida,False,9,2,75,65,FG,10,56,True
 401856714,6,Florida,South Carolina,True,10,2,75,74,INT,2,-1,False
 401856714,6,South Carolina,Florida,False,11,2,26,0,TD,5,26,True
-401856714,6,Florida,South Carolina,True,12,2,77,30,MISSED FG,9,47,False
+401856714,6,Florida,South Carolina,True,12,2,77,30,MISSED FG,9,52,False
 401856714,6,Florida,South Carolina,True,13,3,75,65,FG,9,45,True
 401856714,6,South Carolina,Florida,False,14,3,75,0,TD,6,75,True
 401856714,6,Florida,South Carolina,True,15,3,81,41,PUNT,7,2,False
@@ -16783,7 +16801,30 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401856714,6,Florida,South Carolina,True,21,4,75,24,INT,4,23,False
 401856714,6,South Carolina,Florida,False,22,4,76,43,PUNT,5,16,False
 401856714,6,Florida,South Carolina,True,23,4,57,0,TD,10,57,True
-401856714,6,South Carolina,Florida,False,24,4,75,88,Uncategorized,2,-13,False
+401856714,6,South Carolina,Florida,False,24,4,75,88,END OF GAME,2,-13,False
+401856715,6,LSU,Kentucky,False,1,1,75,65,FG,14,69,True
+401856715,6,Kentucky,LSU,True,2,1,80,0,TD,2,80,True
+401856715,6,LSU,Kentucky,False,3,1,75,0,TD,11,75,True
+401856715,6,Kentucky,LSU,True,4,1,75,35,PUNT,7,31,False
+401856715,6,LSU,Kentucky,False,5,2,84,100,PUNT TD,3,2,True
+401856715,6,LSU,Kentucky,False,6,2,75,0,TD,14,75,True
+401856715,6,Kentucky,LSU,True,7,2,75,96,TD,15,75,True
+401856715,6,Kentucky,LSU,True,8,3,75,38,PUNT,3,2,False
+401856715,6,LSU,Kentucky,False,9,3,62,64,INT,1,0,False
+401856715,6,Kentucky,LSU,True,10,3,36,17,DOWNS,5,18,False
+401856715,6,LSU,Kentucky,False,11,3,82,30,PUNT,3,4,False
+401856715,6,Kentucky,LSU,True,12,3,70,21,PUNT,3,7,False
+401856715,6,LSU,Kentucky,False,13,3,79,65,FG,11,73,True
+401856715,6,Kentucky,LSU,True,14,3,75,65,FG,10,65,True
+401856715,6,LSU,Kentucky,False,15,4,75,0,TD,6,75,True
+401856715,6,Kentucky,LSU,True,16,4,75,24,MISSED FG,9,51,False
+401856715,6,LSU,Kentucky,False,17,4,76,87,FUMBLE,2,-11,False
+401856715,6,Kentucky,LSU,True,18,4,13,8,MISSED FG,4,5,False
+401856715,6,LSU,Kentucky,False,19,4,80,19,PUNT,5,23,False
+401856715,6,Kentucky,LSU,True,20,4,81,65,FG,9,67,True
+401856715,6,LSU,Kentucky,False,21,4,75,0,END OF HALF,1,-5,False
+401856715,6,LSU,Kentucky,False,22,5,25,0,TD,2,25,True
+401856715,6,Kentucky,LSU,True,23,5,25,0,TD,5,25,True
 401856716,6,Texas A&M,Missouri,False,1,1,75,9,PUNT,6,23,False
 401856716,6,Missouri,Texas A&M,True,2,1,91,86,INT,5,18,False
 401856716,6,Texas A&M,Missouri,False,3,1,14,0,INT,3,8,False
@@ -16798,8 +16839,8 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401856716,6,Missouri,Texas A&M,True,12,2,34,65,FG,4,2,True
 401856716,6,Texas A&M,Missouri,False,13,2,75,20,PUNT,3,3,False
 401856716,6,Missouri,Texas A&M,True,14,2,80,17,PUNT,6,28,False
-401856716,6,Texas A&M,Missouri,False,15,2,83,22,PUNT,6,0,False
-401856716,6,Missouri,Texas A&M,True,16,2,78,73,MISSED FG,9,51,False
+401856716,6,Texas A&M,Missouri,False,15,2,83,22,PUNT,6,7,False
+401856716,6,Missouri,Texas A&M,True,16,2,78,73,MISSED FG,9,57,False
 401856716,6,Missouri,Texas A&M,True,17,3,75,65,FG,7,42,True
 401856716,6,Texas A&M,Missouri,False,18,3,75,27,PUNT,3,-10,False
 401856716,6,Missouri,Texas A&M,True,19,3,73,29,PUNT,3,-2,False
@@ -16807,17 +16848,20 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401856716,6,Missouri,Texas A&M,True,21,3,76,0,TD,12,76,True
 401856716,6,Texas A&M,Missouri,False,22,3,55,65,FG,12,45,True
 401856716,6,Missouri,Texas A&M,True,23,4,75,20,PUNT,6,19,False
-401856716,6,Texas A&M,Missouri,False,24,4,80,43,Uncategorized,8,37,False
+401856716,6,Texas A&M,Missouri,False,24,4,80,43,DOWNS,9,37,False
+401856716,6,Missouri,Texas A&M,True,25,4,57,0,TD,2,57,True
+401856716,6,Texas A&M,Missouri,False,26,4,81,16,DOWNS,8,65,False
+401856716,6,Missouri,Texas A&M,True,27,4,84,86,END OF GAME,2,-2,False
 401856717,6,Oklahoma,Texas,True,1,1,65,43,PUNT,3,-2,False
 401856717,6,Texas,Oklahoma,False,2,1,57,11,PUNT,3,7,False
 401856717,6,Oklahoma,Texas,True,3,1,89,13,PUNT,3,2,False
 401856717,6,Texas,Oklahoma,False,4,1,64,11,PUNT,3,2,False
-401856717,6,Oklahoma,Texas,True,5,1,89,59,PUNT,3,0,False
+401856717,6,Oklahoma,Texas,True,5,1,89,59,PUNT,3,1,False
 401856717,6,Texas,Oklahoma,False,6,1,41,0,TD,1,41,True
 401856717,6,Oklahoma,Texas,True,7,1,75,28,PUNT,3,5,False
 401856717,6,Texas,Oklahoma,False,8,1,72,21,PUNT,3,5,False
 401856717,6,Oklahoma,Texas,True,9,1,79,14,PUNT,3,9,False
-401856717,6,Texas,Oklahoma,False,10,1,86,100,TD,4,-6,True
+401856717,6,Texas,Oklahoma,False,10,1,86,100,PUNT TD,3,-6,True
 401856717,6,Texas,Oklahoma,False,11,2,75,3,TD,9,75,True
 401856717,6,Oklahoma,Texas,True,12,2,75,65,MISSED FG,11,40,False
 401856717,6,Texas,Oklahoma,False,13,2,65,65,FG,10,60,True
@@ -16832,29 +16876,29 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401856717,6,Oklahoma,Texas,True,22,4,69,23,PUNT,3,3,False
 401856717,6,Texas,Oklahoma,False,23,4,77,100,INT TD,2,-3,True
 401856717,6,Texas,Oklahoma,False,24,4,75,0,TD,7,75,True
-401856717,6,Oklahoma,Texas,True,25,4,75,27,PUNT,4,-29,False
-401856717,6,Texas,Oklahoma,False,26,4,73,35,MISSED FG,7,31,False
+401856717,6,Oklahoma,Texas,True,25,4,75,27,PUNT,4,11,False
+401856717,6,Texas,Oklahoma,False,26,4,73,35,MISSED FG,7,38,False
 401856717,6,Oklahoma,Texas,True,27,4,65,24,PUNT,3,6,False
 401856717,6,Texas,Oklahoma,False,28,4,76,39,INT,4,27,False
-401856717,6,Oklahoma,Texas,True,29,4,61,72,FG,4,33,True
+401856717,6,Oklahoma,Texas,True,29,4,61,72,FG,4,31,True
 401856718,6,Ole Miss,Vanderbilt,False,1,1,75,20,PUNT,3,4,False
 401856718,6,Vanderbilt,Ole Miss,True,2,1,80,25,PUNT,3,3,False
 401856718,6,Ole Miss,Vanderbilt,False,3,1,75,0,TD,5,75,True
 401856718,6,Vanderbilt,Ole Miss,True,4,1,75,65,FG,8,48,True
 401856718,6,Ole Miss,Vanderbilt,False,5,1,75,0,TD,9,75,True
 401856718,6,Vanderbilt,Ole Miss,True,6,1,75,37,PUNT,6,8,False
-401856718,6,Ole Miss,Vanderbilt,False,7,1,63,8,TD,15,55,True
+401856718,6,Ole Miss,Vanderbilt,False,7,1,63,8,TD,15,63,True
 401856718,6,Vanderbilt,Ole Miss,True,8,2,75,46,INT,7,24,False
 401856718,6,Ole Miss,Vanderbilt,False,9,2,54,0,TD,5,54,True
 401856718,6,Vanderbilt,Ole Miss,True,10,2,75,21,DOWNS,7,54,False
 401856718,6,Ole Miss,Vanderbilt,False,11,2,79,92,PUNT,3,8,False
-401856718,6,Vanderbilt,Ole Miss,True,12,2,92,95,FUMBLE TD,3,-8,True
+401856718,6,Vanderbilt,Ole Miss,True,12,2,92,95,FUMBLE TD,3,-3,True
 401856718,6,Ole Miss,Vanderbilt,False,13,2,65,0,TD,2,9,True
 401856718,6,Vanderbilt,Ole Miss,True,14,2,75,76,END OF HALF,1,-1,False
 401856718,6,Vanderbilt,Ole Miss,True,15,3,75,0,TD,12,75,True
 401856718,6,Ole Miss,Vanderbilt,False,16,3,75,36,INT,6,31,False
 401856718,6,Vanderbilt,Ole Miss,True,17,3,64,13,PUNT,3,-3,False
-401856718,6,Ole Miss,Vanderbilt,False,18,3,87,25,PUNT,6,9,False
+401856718,6,Ole Miss,Vanderbilt,False,18,3,87,25,PUNT,6,21,False
 401856718,6,Vanderbilt,Ole Miss,True,19,3,75,51,INT,5,22,False
 401856718,6,Ole Miss,Vanderbilt,False,20,3,49,65,FG,7,25,True
 401856718,6,Vanderbilt,Ole Miss,True,21,4,85,65,DOWNS,7,20,False
@@ -16862,16 +16906,40 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401856718,6,Vanderbilt,Ole Miss,True,23,4,75,5,PUNT,3,8,False
 401856718,6,Ole Miss,Vanderbilt,False,24,4,95,53,PUNT,3,4,False
 401856718,6,Vanderbilt,Ole Miss,True,25,4,53,0,TD,10,53,True
-401856718,6,Ole Miss,Vanderbilt,False,26,4,75,72,Uncategorized,1,3,False
+401856718,6,Ole Miss,Vanderbilt,False,26,4,75,76,END OF HALF,1,-1,False
+401856808,6,Hawai'i,Arizona State,False,1,1,75,65,FG,5,49,True
+401856808,6,Arizona State,Hawai'i,True,2,1,79,0,TD,10,79,True
+401856808,6,Hawai'i,Arizona State,False,3,1,87,14,PUNT,9,38,False
+401856808,6,Arizona State,Hawai'i,True,4,1,86,73,PUNT,3,4,False
+401856808,6,Hawai'i,Arizona State,False,5,1,27,33,MISSED FG,8,-6,False
+401856808,6,Arizona State,Hawai'i,True,6,2,67,0,TD,6,67,True
+401856808,6,Hawai'i,Arizona State,False,7,2,75,5,PUNT,3,8,False
+401856808,6,Arizona State,Hawai'i,True,8,2,95,8,PUNT,5,42,False
+401856808,6,Hawai'i,Arizona State,False,9,2,92,65,FG,11,80,True
+401856808,6,Arizona State,Hawai'i,True,10,2,67,65,FG,8,37,True
+401856808,6,Hawai'i,Arizona State,False,11,2,75,76,END OF HALF,1,-1,False
+401856808,6,Arizona State,Hawai'i,True,12,3,90,36,PUNT,3,9,False
+401856808,6,Hawai'i,Arizona State,False,13,3,64,26,PUNT,5,13,False
+401856808,6,Arizona State,Hawai'i,True,14,3,74,23,PUNT,3,4,False
+401856808,6,Hawai'i,Arizona State,False,15,3,77,75,INT,7,18,False
+401856808,6,Arizona State,Hawai'i,True,16,3,31,20,MISSED FG,6,11,False
+401856808,6,Hawai'i,Arizona State,False,17,3,80,4,PUNT,5,13,False
+401856808,6,Arizona State,Hawai'i,True,18,3,96,0,TD,5,96,True
+401856808,6,Hawai'i,Arizona State,False,19,3,75,0,TD,9,75,True
+401856808,6,Arizona State,Hawai'i,True,20,4,65,19,PUNT,4,18,False
+401856808,6,Hawai'i,Arizona State,False,21,4,81,21,DOWNS,10,60,False
+401856808,6,Arizona State,Hawai'i,True,22,4,79,12,TD,9,79,True
+401856808,6,Hawai'i,Arizona State,False,23,4,75,19,PUNT,3,5,False
+401856808,6,Arizona State,Hawai'i,True,24,4,81,82,END OF HALF,1,-1,False
 401856823,6,West Virginia,Arizona,True,1,1,65,65,FG,13,58,True
 401856823,6,Arizona,West Virginia,False,2,1,75,0,TD,10,75,True
-401856823,6,West Virginia,Arizona,True,3,1,75,100,FUMBLE TD,2,5,True
+401856823,6,West Virginia,Arizona,True,3,1,75,100,FUMBLE RETURN TD,2,7,True
 401856823,6,West Virginia,Arizona,True,4,1,75,3,DOWNS,15,72,False
 401856823,6,Arizona,West Virginia,False,5,2,97,97,INT,3,13,False
 401856823,6,West Virginia,Arizona,True,6,2,3,0,TD,1,3,True
 401856823,6,Arizona,West Virginia,False,7,2,75,65,FG,8,48,True
 401856823,6,West Virginia,Arizona,True,8,2,75,0,TD,7,75,True
-401856823,6,Arizona,West Virginia,False,9,2,75,30,PUNT,3,-1,False
+401856823,6,Arizona,West Virginia,False,9,2,75,30,PUNT,3,8,False
 401856823,6,West Virginia,Arizona,True,10,2,70,42,PUNT,3,-5,False
 401856823,6,Arizona,West Virginia,False,11,2,58,0,TD,4,58,True
 401856823,6,West Virginia,Arizona,True,12,2,75,3,FUMBLE,7,72,False
@@ -16888,9 +16956,9 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401856823,6,West Virginia,Arizona,True,23,4,75,62,DOWNS,6,13,False
 401856823,6,Arizona,West Virginia,False,24,4,38,33,MISSED FG,4,5,False
 401856823,6,West Virginia,Arizona,True,25,4,67,44,DOWNS,7,23,False
-401856823,6,Arizona,West Virginia,False,26,4,56,38,Uncategorized,3,-6,False
+401856823,6,Arizona,West Virginia,False,26,4,56,100,PUNT,3,-6,False
 401856823,6,West Virginia,Arizona,True,27,4,69,63,DOWNS,6,6,False
-401856823,6,Arizona,West Virginia,False,28,4,37,42,Uncategorized,2,-5,False
+401856823,6,Arizona,West Virginia,False,28,4,37,42,END OF HALF,2,-5,False
 401856824,6,Oklahoma State,UCF,True,1,1,75,58,FUMBLE,2,17,False
 401856824,6,UCF,Oklahoma State,False,2,1,42,0,TD,9,42,True
 401856824,6,Oklahoma State,UCF,True,3,1,75,0,TD,8,75,True
@@ -16906,12 +16974,12 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401856824,6,Oklahoma State,UCF,True,13,3,85,65,FG,9,63,True
 401856824,6,UCF,Oklahoma State,False,14,3,75,27,MISSED FG,13,48,False
 401856824,6,Oklahoma State,UCF,True,15,3,73,65,FG,8,62,True
-401856824,6,UCF,Oklahoma State,False,16,4,74,100,FUMBLE TD,5,-26,True
+401856824,6,UCF,Oklahoma State,False,16,4,74,100,FUMBLE TD,5,2,True
 401856824,6,UCF,Oklahoma State,False,17,4,75,66,DOWNS,4,9,False
 401856824,6,Oklahoma State,UCF,True,18,4,34,0,TD,3,34,True
 401856824,6,UCF,Oklahoma State,False,19,4,75,0,TD,11,75,True
 401856824,6,Oklahoma State,UCF,True,20,4,49,21,DOWNS,9,28,False
-401856824,6,UCF,Oklahoma State,False,21,4,79,6,Uncategorized,3,26,False
+401856824,6,UCF,Oklahoma State,False,21,4,79,6,END OF GAME,3,26,False
 401856825,6,Houston,Kansas State,False,1,1,75,0,TD,12,75,True
 401856825,6,Kansas State,Houston,True,2,1,75,20,PUNT,5,16,False
 401856825,6,Houston,Kansas State,False,3,1,80,16,MISSED FG,8,64,False
@@ -16923,7 +16991,7 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401856825,6,Houston,Kansas State,False,9,2,85,20,PUNT,3,7,False
 401856825,6,Kansas State,Houston,True,10,2,80,79,END OF HALF,1,1,False
 401856825,6,Kansas State,Houston,True,11,3,75,24,PUNT,5,12,False
-401856825,6,Houston,Kansas State,False,12,3,78,0,TD,9,78,True
+401856825,6,Houston,Kansas State,False,12,3,78,0,TD,8,76,True
 401856825,6,Kansas State,Houston,True,13,3,64,0,TD,6,64,True
 401856825,6,Houston,Kansas State,False,14,3,67,0,TD,10,67,True
 401856825,6,Kansas State,Houston,True,15,3,75,32,PUNT,3,0,False
@@ -16931,7 +16999,7 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401856825,6,Kansas State,Houston,True,17,4,80,12,INT,7,70,False
 401856825,6,Houston,Kansas State,False,18,4,88,39,PUNT,3,9,False
 401856825,6,Kansas State,Houston,True,19,4,61,0,TD,13,61,True
-401856825,6,Houston,Kansas State,False,20,4,41,28,Uncategorized,6,13,False
+401856825,6,Houston,Kansas State,False,20,4,41,28,END OF GAME,6,13,False
 401856826,6,BYU,Iowa State,True,1,1,75,3,TD,10,75,True
 401856826,6,Iowa State,BYU,False,2,1,75,51,PUNT,5,26,False
 401856826,6,BYU,Iowa State,True,3,1,93,7,PUNT,3,0,False
@@ -16941,19 +17009,43 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401856826,6,BYU,Iowa State,True,7,2,70,54,DOWNS,5,24,False
 401856826,6,Iowa State,BYU,False,8,2,54,29,PUNT,3,-6,False
 401856826,6,BYU,Iowa State,True,9,2,71,0,TD,4,71,True
-401856826,6,Iowa State,BYU,False,10,2,75,37,PUNT,3,-3,False
+401856826,6,Iowa State,BYU,False,10,2,75,37,PUNT,3,1,False
 401856826,6,BYU,Iowa State,True,11,2,63,73,END OF HALF,1,-10,False
 401856826,6,Iowa State,BYU,False,12,3,75,1,PUNT,3,21,False
 401856826,6,BYU,Iowa State,True,13,3,99,98,DOWNS,12,97,False
 401856826,6,Iowa State,BYU,False,14,3,98,79,PUNT,4,18,False
 401856826,6,BYU,Iowa State,True,15,3,79,0,TD,3,79,True
-401856826,6,Iowa State,BYU,False,16,3,75,49,FUMBLE,3,-14,False
-401856826,6,Iowa State,BYU,False,17,4,49,8,TD,6,41,True
+401856826,6,Iowa State,BYU,False,16,3,75,49,PUNT,3,-14,False
+401856826,6,Iowa State,BYU,False,17,4,49,8,TD,6,49,True
 401856826,6,BYU,Iowa State,True,18,4,75,57,PUNT,7,32,False
 401856826,6,Iowa State,BYU,False,19,4,97,28,MISSED FG,13,69,False
 401856826,6,BYU,Iowa State,True,20,4,72,65,FG,6,52,True
 401856826,6,Iowa State,BYU,False,21,4,75,67,DOWNS,4,8,False
-401856826,6,BYU,Iowa State,True,22,4,33,35,Uncategorized,2,-2,False
+401856826,6,BYU,Iowa State,True,22,4,33,35,END OF GAME,2,-2,False
+401856827,6,Utah,Kansas,True,1,1,75,0,TD,10,75,True
+401856827,6,Kansas,Utah,False,2,1,75,34,PUNT,3,-2,False
+401856827,6,Utah,Kansas,True,3,1,66,0,TD,3,66,True
+401856827,6,Kansas,Utah,False,4,1,75,64,INT,3,1,False
+401856827,6,Utah,Kansas,True,5,1,36,7,PUNT,3,-7,False
+401856827,6,Kansas,Utah,False,6,1,93,25,PUNT,5,17,False
+401856827,6,Utah,Kansas,True,7,1,75,83,FUMBLE,3,-8,False
+401856827,6,Kansas,Utah,False,8,1,7,0,TD,3,7,True
+401856827,6,Utah,Kansas,True,9,2,75,0,TD,7,75,True
+401856827,6,Kansas,Utah,False,10,2,75,27,PUNT,3,7,False
+401856827,6,Utah,Kansas,True,11,2,73,16,PUNT,4,16,False
+401856827,6,Kansas,Utah,False,12,2,84,14,PUNT,3,5,False
+401856827,6,Utah,Kansas,True,13,2,86,34,DOWNS,9,52,False
+401856827,6,Kansas,Utah,False,14,2,66,0,TD,5,66,True
+401856827,6,Utah,Kansas,True,15,2,75,36,INT,1,0,False
+401856827,6,Kansas,Utah,False,16,2,64,65,FG,5,48,True
+401856827,6,Kansas,Utah,False,17,3,75,82,PUNT,5,27,False
+401856827,6,Utah,Kansas,True,18,3,82,0,TD,15,82,True
+401856827,6,Kansas,Utah,False,19,3,75,0,TD,9,75,True
+401856827,6,Utah,Kansas,True,20,3,75,2,TD,9,75,True
+401856827,6,Kansas,Utah,False,21,4,75,1,DOWNS,6,74,False
+401856827,6,Utah,Kansas,True,22,4,99,0,TD,3,99,True
+401856827,6,Kansas,Utah,False,23,4,75,7,DOWNS,9,68,False
+401856827,6,Utah,Kansas,True,24,4,93,43,Uncategorized,11,50,False
 401858254,6,Florida State,Louisville,False,1,1,75,0,TD,14,75,True
 401858254,6,Louisville,Florida State,True,2,1,75,55,DOWNS,8,30,False
 401858254,6,Florida State,Louisville,False,3,1,55,0,TD,8,55,True
@@ -16976,7 +17068,7 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401858254,6,Florida State,Louisville,False,20,4,75,54,DOWNS,7,21,False
 401858254,6,Louisville,Florida State,True,21,4,46,65,FG,7,24,True
 401858254,6,Florida State,Louisville,False,22,4,75,62,INT,1,0,False
-401858254,6,Louisville,Florida State,True,23,4,38,21,Uncategorized,5,17,False
+401858254,6,Louisville,Florida State,True,23,4,38,21,END OF GAME,5,17,False
 401858255,6,Georgia Tech,Duke,True,1,1,78,0,TD,12,78,True
 401858255,6,Duke,Georgia Tech,False,2,1,75,45,PUNT,6,13,False
 401858255,6,Georgia Tech,Duke,True,3,1,55,36,DOWNS,7,19,False
@@ -16985,9 +17077,9 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401858255,6,Duke,Georgia Tech,False,6,2,78,8,PUNT,5,18,False
 401858255,6,Georgia Tech,Duke,True,7,2,92,0,TD,7,92,True
 401858255,6,Duke,Georgia Tech,False,8,2,75,65,FG,9,57,True
-401858255,6,Georgia Tech,Duke,True,9,2,82,14,PUNT,4,25,False
+401858255,6,Georgia Tech,Duke,True,9,2,82,14,PUNT,4,22,False
 401858255,6,Duke,Georgia Tech,False,10,2,86,42,END OF HALF,7,79,False
-401858255,6,Duke,Georgia Tech,False,11,3,75,91,PUNT,6,15,False
+401858255,6,Duke,Georgia Tech,False,11,3,75,91,PUNT,6,24,False
 401858255,6,Georgia Tech,Duke,True,12,3,91,0,TD,5,91,True
 401858255,6,Duke,Georgia Tech,False,13,3,75,1,TD,15,75,True
 401858255,6,Georgia Tech,Duke,True,14,3,91,26,PUNT,3,7,False
@@ -16996,14 +17088,14 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401858255,6,Duke,Georgia Tech,False,17,4,70,0,TD,12,70,True
 401858255,6,Georgia Tech,Duke,True,18,4,61,0,TD,8,61,True
 401858255,6,Duke,Georgia Tech,False,19,4,75,16,MISSED FG,6,59,False
-401858255,6,Georgia Tech,Duke,True,20,4,80,82,Uncategorized,1,-2,False
+401858255,6,Georgia Tech,Duke,True,20,4,80,82,END OF GAME,1,-2,False
 401858256,6,Pittsburgh,North Carolina,True,1,1,75,0,TD,12,75,True
 401858256,6,North Carolina,Pittsburgh,False,2,1,75,20,PUNT,7,24,False
 401858256,6,Pittsburgh,North Carolina,True,3,1,80,28,PUNT,9,28,False
 401858256,6,North Carolina,Pittsburgh,False,4,1,72,90,PUNT,3,7,False
 401858256,6,Pittsburgh,North Carolina,True,5,2,90,65,FG,14,67,True
 401858256,6,North Carolina,Pittsburgh,False,6,2,75,0,TD,5,75,True
-401858256,6,Pittsburgh,North Carolina,True,7,2,88,62,MISSED FG,14,53,False
+401858256,6,Pittsburgh,North Carolina,True,7,2,88,62,MISSED FG,14,50,False
 401858256,6,North Carolina,Pittsburgh,False,8,2,62,63,END OF HALF,1,-1,False
 401858256,6,North Carolina,Pittsburgh,False,9,3,75,69,INT,3,4,False
 401858256,6,Pittsburgh,North Carolina,True,10,3,31,25,INT,4,8,False
@@ -17019,16 +17111,16 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401858256,6,Pittsburgh,North Carolina,True,20,4,41,21,DOWNS,6,20,False
 401858256,6,North Carolina,Pittsburgh,False,21,4,79,61,PUNT,3,-3,False
 401858256,6,Pittsburgh,North Carolina,True,22,4,39,30,DOWNS,4,9,False
-401858256,6,North Carolina,Pittsburgh,False,23,4,70,29,PUNT,3,7,False
+401858256,6,North Carolina,Pittsburgh,False,23,4,70,29,PUNT,3,9,False
 401858256,6,Pittsburgh,North Carolina,True,24,4,71,75,DOWNS,4,-4,False
-401858256,6,North Carolina,Pittsburgh,False,25,4,25,27,Uncategorized,2,-2,False
+401858256,6,North Carolina,Pittsburgh,False,25,4,25,27,END OF HALF,2,-2,False
 401858257,6,Stanford,Notre Dame,False,1,1,80,82,FUMBLE,1,-2,False
 401858257,6,Notre Dame,Stanford,True,2,1,18,3,TD,4,18,True
 401858257,6,Stanford,Notre Dame,False,3,1,81,23,PUNT,3,4,False
 401858257,6,Notre Dame,Stanford,True,4,1,58,14,PUNT,3,0,False
 401858257,6,Stanford,Notre Dame,False,5,1,86,30,PUNT,3,9,False
 401858257,6,Notre Dame,Stanford,True,6,1,70,3,TD,12,70,True
-401858257,6,Stanford,Notre Dame,False,7,1,73,53,Uncategorized,5,26,False
+401858257,6,Stanford,Notre Dame,False,7,1,73,53,PUNT,5,26,False
 401858257,6,Notre Dame,Stanford,True,8,1,99,0,TD,2,99,True
 401858257,6,Stanford,Notre Dame,False,9,2,75,81,INT,3,2,False
 401858257,6,Notre Dame,Stanford,True,10,2,19,15,FG,4,4,True
@@ -17040,13 +17132,36 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401858257,6,Notre Dame,Stanford,True,16,2,75,66,END OF HALF,3,9,False
 401858257,6,Notre Dame,Stanford,True,17,3,75,58,PUNT,5,33,False
 401858257,6,Stanford,Notre Dame,False,18,3,90,29,PUNT,3,8,False
-401858257,6,Notre Dame,Stanford,True,19,3,71,3,TD,10,71,True
-401858257,6,Stanford,Notre Dame,False,20,3,75,13,TD,5,62,True
+401858257,6,Notre Dame,Stanford,True,19,3,71,3,TD,9,71,True
+401858257,6,Stanford,Notre Dame,False,20,3,75,13,TD,5,75,True
 401858257,6,Notre Dame,Stanford,True,21,3,75,3,TD,8,75,True
-401858257,6,Stanford,Notre Dame,False,22,4,75,10,PUNT,4,25,False
+401858257,6,Stanford,Notre Dame,False,22,4,75,10,PUNT,4,18,False
 401858257,6,Notre Dame,Stanford,True,23,4,90,3,TD,16,90,True
 401858257,6,Stanford,Notre Dame,False,24,4,75,25,INT,5,13,False
-401858257,6,Notre Dame,Stanford,True,25,4,75,81,Uncategorized,3,-6,False
+401858257,6,Notre Dame,Stanford,True,25,4,75,81,END OF HALF,3,-6,False
+401858258,6,Virginia,Syracuse,True,1,1,75,3,TD,8,75,True
+401858258,6,Syracuse,Virginia,False,2,1,75,3,TD,13,75,True
+401858258,6,Virginia,Syracuse,True,3,1,75,9,PUNT,6,15,False
+401858258,6,Syracuse,Virginia,False,4,2,91,3,TD,9,91,True
+401858258,6,Virginia,Syracuse,True,5,2,79,9,PUNT,3,-12,False
+401858258,6,Syracuse,Virginia,False,6,2,46,71,MISSED FG,5,17,False
+401858258,6,Virginia,Syracuse,True,7,2,71,20,PUNT,3,-1,False
+401858258,6,Syracuse,Virginia,False,8,2,80,65,FG,16,69,True
+401858258,6,Virginia,Syracuse,True,9,2,75,35,END OF HALF,6,40,False
+401858258,6,Syracuse,Virginia,False,10,3,92,77,MISSED FG,6,69,False
+401858258,6,Virginia,Syracuse,True,11,3,77,30,PUNT,3,5,False
+401858258,6,Syracuse,Virginia,False,12,3,70,20,PUNT,9,31,False
+401858258,6,Virginia,Syracuse,True,13,3,80,39,PUNT,8,19,False
+401858258,6,Syracuse,Virginia,False,14,3,94,47,PUNT,3,-1,False
+401858258,6,Virginia,Syracuse,True,15,3,53,0,TD,1,53,True
+401858258,6,Syracuse,Virginia,False,16,3,75,27,PUNT,6,16,False
+401858258,6,Virginia,Syracuse,True,17,4,73,3,TD,7,73,True
+401858258,6,Syracuse,Virginia,False,18,4,75,66,DOWNS,6,9,False
+401858258,6,Virginia,Syracuse,True,19,4,34,3,TD,6,34,True
+401858258,6,Syracuse,Virginia,False,20,4,75,46,TD,8,75,True
+401858258,6,Virginia,Syracuse,True,21,4,62,13,PUNT,3,6,False
+401858258,6,Syracuse,Virginia,False,22,4,87,83,DOWNS,4,4,False
+401858258,6,Virginia,Syracuse,True,23,4,17,19,Uncategorized,1,-2,False
 401858259,6,California,Virginia Tech,True,1,1,75,44,PUNT,3,-4,False
 401858259,6,Virginia Tech,California,False,2,1,56,57,PUNT,6,13,False
 401858259,6,California,Virginia Tech,True,3,1,88,39,PUNT,7,27,False
@@ -17056,20 +17171,20 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401858259,6,California,Virginia Tech,True,7,2,83,22,PUNT,3,5,False
 401858259,6,Virginia Tech,California,False,8,2,74,48,PUNT,4,22,False
 401858259,6,California,Virginia Tech,True,9,2,85,0,TD,5,85,True
-401858259,6,Virginia Tech,California,False,10,2,75,0,TD,8,75,True
+401858259,6,Virginia Tech,California,False,10,2,75,0,TD,7,75,True
 401858259,6,California,Virginia Tech,True,11,2,75,20,PUNT,5,34,False
 401858259,6,Virginia Tech,California,False,12,2,80,27,PUNT,3,5,False
-401858259,6,California,Virginia Tech,True,13,2,73,61,FG,8,34,True
+401858259,6,California,Virginia Tech,True,13,2,73,61,FG,8,56,True
 401858259,6,Virginia Tech,California,False,14,3,75,33,PUNT,3,6,False
-401858259,6,California,Virginia Tech,True,15,3,33,5,PUNT,8,-14,False
+401858259,6,California,Virginia Tech,True,15,3,33,5,PUNT,6,20,False
 401858259,6,Virginia Tech,California,False,16,3,95,31,PUNT,8,46,False
 401858259,6,California,Virginia Tech,True,17,3,69,65,FG,11,65,True
 401858259,6,Virginia Tech,California,False,18,3,75,79,MISSED FG,7,54,False
 401858259,6,California,Virginia Tech,True,19,4,79,0,TD,14,79,True
 401858259,6,Virginia Tech,California,False,20,4,73,0,TD,9,73,True
-401858259,6,California,Virginia Tech,True,21,4,75,2,TD,6,73,True
-401858259,6,Virginia Tech,California,False,22,4,60,7,Uncategorized,3,53,False
-401858260,6,NC State,Wake Forest,True,1,1,75,73,FUMBLE,3,-23,False
+401858259,6,California,Virginia Tech,True,21,4,75,2,TD,6,75,True
+401858259,6,Virginia Tech,California,False,22,4,60,7,END OF GAME,3,53,False
+401858260,6,NC State,Wake Forest,True,1,1,75,73,FUMBLE,3,5,False
 401858260,6,Wake Forest,NC State,False,2,1,2,0,TD,2,2,True
 401858260,6,NC State,Wake Forest,True,3,1,75,0,TD,9,75,True
 401858260,6,Wake Forest,NC State,False,4,1,75,4,PUNT,11,26,False
@@ -17087,7 +17202,7 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401858260,6,NC State,Wake Forest,True,16,4,70,18,PUNT,5,-2,False
 401858260,6,Wake Forest,NC State,False,17,4,82,35,PUNT,3,9,False
 401858260,6,NC State,Wake Forest,True,18,4,65,18,DOWNS,14,47,False
-401858260,6,Wake Forest,NC State,False,19,4,82,87,Uncategorized,3,-5,False
+401858260,6,Wake Forest,NC State,False,19,4,82,87,END OF GAME,3,-5,False
 401858480,6,Illinois,Michigan State,False,1,1,75,21,FG,7,54,True
 401858480,6,Michigan State,Illinois,True,2,1,75,26,PUNT,3,1,False
 401858480,6,Illinois,Michigan State,False,3,1,80,3,TD,11,80,True
@@ -17095,12 +17210,12 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401858480,6,Illinois,Michigan State,False,5,1,82,3,TD,14,82,True
 401858480,6,Michigan State,Illinois,True,6,2,75,0,TD,11,75,True
 401858480,6,Illinois,Michigan State,False,7,2,75,83,FG,12,58,True
-401858480,6,Michigan State,Illinois,True,8,3,75,46,FUMBLE,5,21,False
+401858480,6,Michigan State,Illinois,True,8,3,75,46,FUMBLE,5,25,False
 401858480,6,Illinois,Michigan State,False,9,3,50,65,FG,8,30,True
 401858480,6,Michigan State,Illinois,True,10,3,88,24,FG,10,64,True
-401858480,6,Illinois,Michigan State,False,11,3,75,89,INT,3,-35,False
+401858480,6,Illinois,Michigan State,False,11,3,75,89,INT,3,5,False
 401858480,6,Michigan State,Illinois,True,12,3,11,3,TD,1,11,True
-401858480,6,Illinois,Michigan State,False,13,3,75,1,TD,6,74,True
+401858480,6,Illinois,Michigan State,False,13,3,75,1,TD,7,75,True
 401858480,6,Michigan State,Illinois,True,14,4,72,3,TD,10,72,True
 401858480,6,Illinois,Michigan State,False,15,4,87,67,DOWNS,7,20,False
 401858480,6,Michigan State,Illinois,True,16,4,33,3,TD,6,33,True
@@ -17109,11 +17224,11 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401858480,6,Illinois,Michigan State,False,19,5,25,0,TD,1,25,True
 401858480,6,Michigan State,Illinois,True,20,5,25,0,TD,5,25,True
 401858481,6,Nebraska,Indiana,True,1,1,75,65,FG,13,66,True
-401858481,6,Indiana,Nebraska,False,2,1,75,65,FG,6,47,True
+401858481,6,Indiana,Nebraska,False,2,1,75,65,FG,6,51,True
 401858481,6,Nebraska,Indiana,True,3,1,75,0,TD,10,75,True
-401858481,6,Indiana,Nebraska,False,4,1,75,18,PUNT,4,37,False
+401858481,6,Indiana,Nebraska,False,4,1,75,18,PUNT,4,38,False
 401858481,6,Nebraska,Indiana,True,5,2,82,13,PUNT,6,9,False
-401858481,6,Indiana,Nebraska,False,6,2,87,26,PUNT,6,18,False
+401858481,6,Indiana,Nebraska,False,6,2,87,26,PUNT,6,22,False
 401858481,6,Nebraska,Indiana,True,7,2,74,22,MISSED FG,16,52,False
 401858481,6,Indiana,Nebraska,False,8,2,78,74,END OF HALF,1,4,False
 401858481,6,Indiana,Nebraska,False,9,3,75,65,FG,10,58,True
@@ -17122,14 +17237,14 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401858481,6,Nebraska,Indiana,True,12,3,41,1,PUNT,3,-4,False
 401858481,6,Indiana,Nebraska,False,13,3,99,29,PUNT,4,22,False
 401858481,6,Nebraska,Indiana,True,14,4,71,0,TD,5,71,True
-401858481,6,Indiana,Nebraska,False,15,4,75,0,TD,1,0,True
+401858481,6,Indiana,Nebraska,False,15,4,75,0,TD,1,75,True
 401858481,6,Nebraska,Indiana,True,16,4,75,20,PUNT,4,7,False
 401858481,6,Indiana,Nebraska,False,17,4,80,0,TD,5,80,True
 401858481,6,Nebraska,Indiana,True,18,4,75,56,DOWNS,6,19,False
 401858481,6,Indiana,Nebraska,False,19,4,44,5,PUNT,3,6,False
 401858481,6,Nebraska,Indiana,True,20,4,95,61,DOWNS,9,34,False
-401858481,6,Indiana,Nebraska,False,21,4,39,11,PUNT,3,-6,False
-401858481,6,Nebraska,Indiana,True,22,4,89,66,Uncategorized,2,23,False
+401858481,6,Indiana,Nebraska,False,21,4,39,11,PUNT,3,-3,False
+401858481,6,Nebraska,Indiana,True,22,4,89,66,END OF HALF,3,24,False
 401858482,6,Northwestern,Ball State,True,1,1,75,3,TD,7,75,True
 401858482,6,Ball State,Northwestern,False,2,1,75,52,PUNT,7,27,False
 401858482,6,Northwestern,Ball State,True,3,1,92,3,TD,9,92,True
@@ -17148,19 +17263,19 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401858482,6,Northwestern,Ball State,True,16,3,99,0,TD,10,99,True
 401858482,6,Ball State,Northwestern,False,17,3,77,66,MISSED FG,17,43,False
 401858482,6,Northwestern,Ball State,True,18,4,66,61,PUNT,8,27,False
-401858482,6,Ball State,Northwestern,False,19,4,97,35,Uncategorized,10,62,False
+401858482,6,Ball State,Northwestern,False,19,4,97,14,END OF HALF,11,83,False
 401858483,6,Ohio State,Maryland,True,1,1,68,20,PUNT,7,16,False
 401858483,6,Maryland,Ohio State,False,2,1,80,64,PUNT,3,4,False
-401858483,6,Ohio State,Maryland,True,3,1,36,8,TD,2,28,True
-401858483,6,Maryland,Ohio State,False,4,1,75,31,PUNT,3,-34,False
+401858483,6,Ohio State,Maryland,True,3,1,36,8,TD,2,36,True
+401858483,6,Maryland,Ohio State,False,4,1,75,31,PUNT,3,6,False
 401858483,6,Ohio State,Maryland,True,5,1,69,68,FUMBLE,3,1,False
 401858483,6,Maryland,Ohio State,False,6,1,32,65,FG,7,11,True
 401858483,6,Ohio State,Maryland,True,7,1,71,0,TD,2,71,True
 401858483,6,Maryland,Ohio State,False,8,1,75,0,TD,11,75,True
 401858483,6,Ohio State,Maryland,True,9,2,77,0,TD,5,77,True
-401858483,6,Maryland,Ohio State,False,10,2,75,69,PUNT,3,6,False
+401858483,6,Maryland,Ohio State,False,10,2,75,69,PUNT,3,1,False
 401858483,6,Ohio State,Maryland,True,11,2,64,65,FG,6,42,True
-401858483,6,Maryland,Ohio State,False,12,2,75,56,DOWNS,7,19,False
+401858483,6,Maryland,Ohio State,False,12,2,75,56,DOWNS,7,14,False
 401858483,6,Ohio State,Maryland,True,13,2,44,0,TD,8,44,True
 401858483,6,Maryland,Ohio State,False,14,2,75,74,END OF HALF,1,1,False
 401858483,6,Maryland,Ohio State,False,15,3,75,13,PUNT,4,13,False
@@ -17172,7 +17287,7 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401858483,6,Ohio State,Maryland,True,21,4,72,0,TD,16,72,True
 401858483,6,Maryland,Ohio State,False,22,4,75,15,PUNT,4,18,False
 401858483,6,Ohio State,Maryland,True,23,4,85,17,PUNT,3,7,False
-401858483,6,Maryland,Ohio State,False,24,4,83,82,Uncategorized,1,1,False
+401858483,6,Maryland,Ohio State,False,24,4,83,82,END OF GAME,1,1,False
 401858484,6,UCLA,Oregon,False,1,1,75,65,FG,8,73,True
 401858484,6,Oregon,UCLA,True,2,1,75,10,PUNT,4,22,False
 401858484,6,UCLA,Oregon,False,3,1,90,99,FUMBLE,1,-9,False
@@ -17188,12 +17303,12 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401858484,6,UCLA,Oregon,False,13,2,51,0,TD,4,51,True
 401858484,6,Oregon,UCLA,True,14,2,75,35,PUNT,3,4,False
 401858484,6,UCLA,Oregon,False,15,2,65,20,MISSED FG,7,56,False
-401858484,6,Oregon,UCLA,True,16,2,80,38,PUNT,3,-3,False
+401858484,6,Oregon,UCLA,True,16,2,80,38,PUNT,3,-5,False
 401858484,6,UCLA,Oregon,False,17,2,62,40,INT,3,12,False
-401858484,6,Oregon,UCLA,True,18,2,60,59,INT,3,0,False
+401858484,6,Oregon,UCLA,True,18,2,60,59,INT,3,-4,False
 401858484,6,UCLA,Oregon,False,19,2,41,0,INT,4,19,False
 401858484,6,Oregon,UCLA,True,20,2,80,78,END OF HALF,1,2,False
-401858484,6,Oregon,UCLA,True,21,3,75,35,PUNT,3,2,False
+401858484,6,Oregon,UCLA,True,21,3,75,35,PUNT,3,-8,False
 401858484,6,UCLA,Oregon,False,22,3,65,11,PUNT,7,8,False
 401858484,6,Oregon,UCLA,True,23,3,89,67,FUMBLE,4,22,False
 401858484,6,UCLA,Oregon,False,24,3,33,3,DOWNS,7,30,False
@@ -17203,9 +17318,50 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401858484,6,UCLA,Oregon,False,28,4,54,32,PUNT,3,-5,False
 401858484,6,Oregon,UCLA,True,29,4,68,65,FG,8,60,True
 401858484,6,UCLA,Oregon,False,30,4,89,43,PUNT,3,6,False
-401858484,6,Oregon,UCLA,True,31,4,57,0,TD,3,56,True
+401858484,6,Oregon,UCLA,True,31,4,57,0,TD,4,57,True
 401858484,6,UCLA,Oregon,False,32,4,65,5,PUNT,4,17,False
-401858484,6,Oregon,UCLA,True,33,4,95,63,Uncategorized,7,32,False
+401858484,6,Oregon,UCLA,True,33,4,95,33,FUMBLE,8,62,False
+401858485,6,USC,Penn State,False,1,1,75,0,TD,8,75,True
+401858485,6,Penn State,USC,True,2,1,75,0,TD,6,75,True
+401858485,6,USC,Penn State,False,3,1,75,30,PUNT,3,2,False
+401858485,6,Penn State,USC,True,4,1,70,20,PUNT,8,24,False
+401858485,6,USC,Penn State,False,5,1,80,0,TD,8,80,True
+401858485,6,Penn State,USC,True,6,2,75,0,TD,7,75,True
+401858485,6,USC,Penn State,False,7,2,69,39,MISSED FG,8,30,False
+401858485,6,Penn State,USC,True,8,2,61,10,PUNT,4,12,False
+401858485,6,USC,Penn State,False,9,2,90,65,FG,9,70,True
+401858485,6,Penn State,USC,True,10,2,75,60,FG,8,45,True
+401858485,6,Penn State,USC,True,11,3,47,65,FG,8,31,True
+401858485,6,USC,Penn State,False,12,3,75,0,TD,10,75,True
+401858485,6,Penn State,USC,True,13,3,75,65,FG,13,68,True
+401858485,6,USC,Penn State,False,14,4,71,0,TD,10,71,True
+401858485,6,Penn State,USC,True,15,4,65,7,PUNT,11,17,False
+401858485,6,USC,Penn State,False,16,4,93,40,PUNT,3,1,False
+401858485,6,Penn State,USC,True,17,4,60,35,FUMBLE,1,25,False
+401858485,6,USC,Penn State,False,18,4,65,29,END OF GAME,6,36,False
+401858486,6,Purdue,Minnesota,True,1,1,68,65,FG,6,41,True
+401858486,6,Minnesota,Purdue,False,2,1,71,2,PUNT,5,34,False
+401858486,6,Purdue,Minnesota,True,3,1,98,15,TD,14,98,True
+401858486,6,Minnesota,Purdue,False,4,1,91,51,PUNT,3,4,False
+401858486,6,Purdue,Minnesota,True,5,1,49,60,DOWNS,4,9,False
+401858486,6,Minnesota,Purdue,False,6,2,60,65,FG,7,29,True
+401858486,6,Purdue,Minnesota,True,7,2,75,65,FG,9,65,True
+401858486,6,Minnesota,Purdue,False,8,2,70,8,PUNT,3,2,False
+401858486,6,Purdue,Minnesota,True,9,2,92,0,TD,7,92,True
+401858486,6,Minnesota,Purdue,False,10,2,86,31,INT,7,47,False
+401858486,6,Purdue,Minnesota,True,11,2,69,64,END OF HALF,1,5,False
+401858486,6,Minnesota,Purdue,False,12,3,75,31,PUNT,3,7,False
+401858486,6,Purdue,Minnesota,True,13,3,69,0,TD,7,69,True
+401858486,6,Minnesota,Purdue,False,14,3,75,65,FG,12,57,True
+401858486,6,Purdue,Minnesota,True,15,3,80,45,PUNT,3,1,False
+401858486,6,Minnesota,Purdue,False,16,3,55,0,TD,3,55,True
+401858486,6,Purdue,Minnesota,True,17,3,75,0,TD,9,75,True
+401858486,6,Minnesota,Purdue,False,18,4,68,40,DOWNS,4,9,False
+401858486,6,Purdue,Minnesota,True,19,4,41,10,PUNT,3,-2,False
+401858486,6,Purdue,Minnesota,True,20,4,10,0,TD,4,10,True
+401858486,6,Minnesota,Purdue,False,21,4,75,14,PUNT,6,17,False
+401858486,6,Purdue,Minnesota,True,22,4,86,28,PUNT,6,18,False
+401858486,6,Minnesota,Purdue,False,23,4,72,70,END OF GAME,1,2,False
 401858487,6,Iowa,Washington,False,1,1,65,65,FG,7,32,True
 401858487,6,Washington,Iowa,True,2,1,81,36,PUNT,3,-4,False
 401858487,6,Iowa,Washington,False,3,1,64,65,FG,8,56,True
@@ -17217,7 +17373,7 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401858487,6,Iowa,Washington,False,9,2,69,0,TD,8,69,True
 401858487,6,Washington,Iowa,True,10,2,75,31,PUNT,3,-9,False
 401858487,6,Iowa,Washington,False,11,2,69,0,TD,5,69,True
-401858487,6,Washington,Iowa,True,12,2,75,65,FG,12,62,True
+401858487,6,Washington,Iowa,True,12,2,75,65,FG,12,63,True
 401858487,6,Iowa,Washington,False,13,2,65,26,PUNT,3,5,False
 401858487,6,Washington,Iowa,True,14,2,74,42,END OF HALF,8,32,False
 401858487,6,Washington,Iowa,True,15,3,75,0,TD,8,75,True
@@ -17227,8 +17383,26 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401858487,6,Washington,Iowa,True,19,4,75,39,PUNT,3,-9,False
 401858487,6,Iowa,Washington,False,20,4,61,1,PUNT,5,18,False
 401858487,6,Washington,Iowa,True,21,4,99,40,PUNT,5,16,False
-401858487,6,Iowa,Washington,False,22,4,60,16,PUNT,3,2,False
+401858487,6,Iowa,Washington,False,22,4,60,16,PUNT,3,5,False
 401858487,6,Washington,Iowa,True,23,4,84,0,TD,12,84,True
+401860901,6,Fresno State,Boise State,True,1,1,75,0,TD,10,75,True
+401860901,6,Boise State,Fresno State,False,2,1,75,0,TD,2,75,True
+401860901,6,Fresno State,Boise State,True,3,1,75,49,PUNT,4,24,False
+401860901,6,Boise State,Fresno State,False,4,1,90,3,TD,13,90,True
+401860901,6,Fresno State,Boise State,True,5,1,74,0,TD,2,74,True
+401860901,6,Boise State,Fresno State,False,6,1,75,3,TD,18,75,True
+401860901,6,Fresno State,Boise State,True,7,2,75,41,PUNT,5,16,False
+401860901,6,Boise State,Fresno State,False,8,2,84,41,PUNT,5,6,False
+401860901,6,Fresno State,Boise State,True,9,2,59,0,TD,9,59,True
+401860901,6,Boise State,Fresno State,False,10,2,68,65,FG,7,36,True
+401860901,6,Boise State,Fresno State,False,11,2,65,35,END OF HALF,0,0,False
+401860901,6,Boise State,Fresno State,False,12,3,87,21,FG,14,66,True
+401860901,6,Fresno State,Boise State,True,13,3,75,12,PUNT,5,22,False
+401860901,6,Boise State,Fresno State,False,14,3,88,0,TD,8,88,True
+401860901,6,Fresno State,Boise State,True,15,4,73,0,TD,11,73,True
+401860901,6,Boise State,Fresno State,False,16,4,75,65,FG,14,53,True
+401860901,6,Fresno State,Boise State,True,17,4,75,65,FG,6,46,True
+401860901,6,Boise State,Fresno State,False,18,4,46,47,END OF GAME,1,-1,False
 401860902,6,Oregon State,San Diego State,True,1,1,75,0,TD,11,75,True
 401860902,6,San Diego State,Oregon State,False,2,1,75,20,PUNT,6,21,False
 401860902,6,Oregon State,San Diego State,True,3,1,80,0,TD,8,80,True
@@ -17241,48 +17415,48 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401860902,6,San Diego State,Oregon State,False,10,2,75,54,DOWNS,6,21,False
 401860902,6,Oregon State,San Diego State,True,11,2,46,33,MISSED FG,6,13,False
 401860902,6,San Diego State,Oregon State,False,12,2,67,0,TD,6,67,True
-401860902,6,Oregon State,San Diego State,True,13,2,75,50,FG,4,25,True
+401860902,6,Oregon State,San Diego State,True,13,2,75,50,FG,4,40,True
 401860902,6,San Diego State,Oregon State,False,14,3,75,29,PUNT,3,6,False
 401860902,6,Oregon State,San Diego State,True,15,3,71,0,TD,1,71,True
 401860902,6,San Diego State,Oregon State,False,16,3,75,41,PUNT,3,0,False
 401860902,6,Oregon State,San Diego State,True,17,3,59,0,TD,5,59,True
 401860902,6,San Diego State,Oregon State,False,18,3,75,54,INT,5,16,False
 401860902,6,Oregon State,San Diego State,True,19,3,46,0,TD,6,46,True
-401860902,6,San Diego State,Oregon State,False,20,3,3,8,Uncategorized,0,-5,False
-401860902,6,Oregon State,San Diego State,True,21,3,65,100,TD,0,0,True
+401860902,6,San Diego State,Oregon State,False,20,3,3,8,Uncategorized,1,5,False
+401860902,6,San Diego State,Oregon State,False,21,3,100,100,TD,0,0,True
 401860902,6,Oregon State,San Diego State,True,22,3,75,0,TD,14,75,True
 401860902,6,San Diego State,Oregon State,False,23,4,84,43,PUNT,3,5,False
 401860902,6,Oregon State,San Diego State,True,24,4,57,16,DOWNS,10,41,False
 401860902,6,San Diego State,Oregon State,False,25,4,84,37,PUNT,3,4,False
 401860902,6,Oregon State,San Diego State,True,26,4,63,14,PUNT,6,3,False
-401860902,6,San Diego State,Oregon State,False,27,4,86,92,Uncategorized,3,-6,False
+401860902,6,San Diego State,Oregon State,False,27,4,86,92,END OF GAME,3,-6,False
 401860922,6,Washington State,Utah State,False,1,1,65,65,FG,4,3,True
 401860922,6,Utah State,Washington State,True,2,1,68,21,MISSED FG,8,47,False
 401860922,6,Washington State,Utah State,False,3,1,79,65,FG,15,54,True
 401860922,6,Utah State,Washington State,True,4,1,65,65,FG,7,35,True
 401860922,6,Washington State,Utah State,False,5,2,75,65,FG,8,43,True
-401860922,6,Utah State,Washington State,True,6,2,75,63,PUNT,5,63,False
+401860922,6,Utah State,Washington State,True,6,2,75,63,PUNT,3,-3,False
 401860922,6,Washington State,Utah State,False,7,2,88,34,PUNT,3,5,False
 401860922,6,Utah State,Washington State,True,8,2,66,47,DOWNS,6,19,False
 401860922,6,Washington State,Utah State,False,9,2,53,0,TD,4,53,True
 401860922,6,Utah State,Washington State,True,10,2,75,32,PUNT,3,7,False
 401860922,6,Washington State,Utah State,False,11,2,68,20,PUNT,6,16,False
-401860922,6,Utah State,Washington State,True,12,2,80,7,PUNT,3,15,False
+401860922,6,Utah State,Washington State,True,12,2,80,7,PUNT,3,16,False
 401860922,6,Washington State,Utah State,False,13,2,93,89,END OF HALF,2,4,False
 401860922,6,Washington State,Utah State,False,14,3,75,45,PUNT,3,-4,False
 401860922,6,Utah State,Washington State,True,15,3,55,20,PUNT,3,-5,False
-401860922,6,Washington State,Utah State,False,16,3,80,61,DOWNS,5,19,False
+401860922,6,Washington State,Utah State,False,16,3,80,61,FUMBLE,5,19,False
 401860922,6,Utah State,Washington State,True,17,3,39,0,TD,5,39,True
 401860922,6,Washington State,Utah State,False,18,3,75,29,PUNT,6,10,False
 401860922,6,Utah State,Washington State,True,19,3,71,22,PUNT,3,2,False
 401860922,6,Washington State,Utah State,False,20,3,78,20,PUNT,6,40,False
 401860922,6,Utah State,Washington State,True,21,4,80,12,PUNT,6,41,False
-401860922,6,Washington State,Utah State,False,22,4,88,81,DOWNS,3,7,False
+401860922,6,Washington State,Utah State,False,22,4,88,81,FUMBLE,3,7,False
 401860922,6,Utah State,Washington State,True,23,4,19,0,TD,3,19,True
 401860922,6,Washington State,Utah State,False,24,4,83,38,PUNT,3,5,False
 401860922,6,Utah State,Washington State,True,25,4,62,25,PUNT,3,9,False
 401860922,6,Washington State,Utah State,False,26,4,75,29,PUNT,3,-14,False
-401860922,6,Utah State,Washington State,True,27,4,71,63,Uncategorized,5,8,False
+401860922,6,Utah State,Washington State,True,27,4,71,53,END OF GAME,5,8,False
 401861964,6,UConn,Temple,False,1,1,75,0,TD,6,75,True
 401861964,6,Temple,UConn,True,2,1,79,0,TD,1,79,True
 401861964,6,UConn,Temple,False,3,1,75,0,TD,5,75,True
@@ -17290,19 +17464,19 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401861964,6,UConn,Temple,False,5,1,75,10,DOWNS,10,65,False
 401861964,6,Temple,UConn,True,6,1,90,65,FG,12,82,True
 401861964,6,UConn,Temple,False,7,2,75,0,TD,5,75,True
-401861964,6,Temple,UConn,True,8,2,75,22,FUMBLE,7,51,False
+401861964,6,Temple,UConn,True,8,2,75,22,FUMBLE,7,53,False
 401861964,6,UConn,Temple,False,9,2,78,65,FG,9,75,True
 401861964,6,Temple,UConn,True,10,3,75,34,PUNT,3,3,False
 401861964,6,UConn,Temple,False,11,3,66,31,PUNT,3,1,False
 401861964,6,Temple,UConn,True,12,3,69,11,PUNT,4,21,False
 401861964,6,UConn,Temple,False,13,3,89,28,PUNT,4,14,False
-401861964,6,Temple,UConn,True,14,3,72,65,FG,9,53,True
+401861964,6,Temple,UConn,True,14,3,72,65,FG,9,61,True
 401861964,6,UConn,Temple,False,15,3,75,22,PUNT,3,2,False
-401861964,6,Temple,UConn,True,16,3,78,38,FUMBLE,7,39,False
+401861964,6,Temple,UConn,True,16,3,78,38,FUMBLE,7,40,False
 401861964,6,UConn,Temple,False,17,4,62,0,TD,10,62,True
 401861964,6,Temple,UConn,True,18,4,75,43,PUNT,3,-4,False
 401861964,6,UConn,Temple,False,19,4,57,65,FG,10,48,True
-401861964,6,Temple,UConn,True,20,4,75,30,Uncategorized,6,45,False
+401861964,6,Temple,UConn,True,20,4,75,30,END OF GAME,6,45,False
 401862794,6,South Florida,UTSA,False,1,1,65,0,TD,10,65,True
 401862794,6,UTSA,South Florida,True,2,1,75,25,PUNT,3,4,False
 401862794,6,South Florida,UTSA,False,3,1,75,22,PUNT,6,9,False
@@ -17313,7 +17487,7 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401862794,6,UTSA,South Florida,True,8,2,84,34,PUNT,5,12,False
 401862794,6,South Florida,UTSA,False,9,2,66,65,FG,12,60,True
 401862794,6,UTSA,South Florida,True,10,2,75,35,DOWNS,7,40,False
-401862794,6,South Florida,UTSA,False,11,2,65,14,PUNT,3,0,False
+401862794,6,South Florida,UTSA,False,11,2,65,14,PUNT,3,6,False
 401862794,6,UTSA,South Florida,True,12,2,86,87,END OF HALF,1,-1,False
 401862794,6,UTSA,South Florida,True,13,3,75,0,TD,8,75,True
 401862794,6,South Florida,UTSA,False,14,3,75,13,PUNT,5,12,False
@@ -17322,7 +17496,7 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401862794,6,UTSA,South Florida,True,17,3,70,65,FG,13,57,True
 401862794,6,South Florida,UTSA,False,18,4,75,0,TD,12,75,True
 401862794,6,UTSA,South Florida,True,19,4,75,1,TD,10,74,True
-401862794,6,South Florida,UTSA,False,20,4,67,72,DOWNS,2,-5,False
+401862794,6,South Florida,UTSA,False,20,4,67,23,END OF GAME,2,-5,False
 401862795,6,Army,Tulane,True,1,1,75,25,PUNT,3,6,False
 401862795,6,Tulane,Army,False,2,1,75,26,INT,8,42,False
 401862795,6,Army,Tulane,True,3,1,74,0,TD,12,74,True
@@ -17330,22 +17504,22 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401862795,6,Army,Tulane,True,5,1,82,55,DOWNS,10,27,False
 401862795,6,Tulane,Army,False,6,2,45,65,FG,9,42,True
 401862795,6,Army,Tulane,True,7,2,75,37,PUNT,2,4,False
-401862795,6,Tulane,Army,False,8,2,63,12,PUNT,5,20,False
-401862795,6,Army,Tulane,True,9,2,88,28,PUNT,3,5,False
+401862795,6,Tulane,Army,False,8,2,63,12,PUNT,5,22,False
+401862795,6,Army,Tulane,True,9,2,88,28,PUNT,3,8,False
 401862795,6,Tulane,Army,False,10,2,72,62,END OF HALF,4,10,False
 401862795,6,Tulane,Army,False,11,3,72,20,PUNT,3,3,False
 401862795,6,Army,Tulane,True,12,3,80,31,MISSED FG,10,49,False
-401862795,6,Tulane,Army,False,13,3,68,0,TD,11,68,True
+401862795,6,Tulane,Army,False,13,3,68,0,TD,12,68,True
 401862795,6,Army,Tulane,True,14,3,75,65,FG,14,61,True
 401862795,6,Tulane,Army,False,15,4,42,0,TD,3,42,True
 401862795,6,Army,Tulane,True,16,4,65,0,TD,2,65,True
 401862795,6,Tulane,Army,False,17,4,78,33,DOWNS,6,45,False
-401862795,6,Army,Tulane,True,18,4,67,9,FG,12,58,True
+401862795,6,Army,Tulane,True,18,4,67,9,FG,12,59,True
 401862796,6,North Texas,Charlotte,True,1,1,75,8,FG,9,67,True
 401862796,6,Charlotte,North Texas,False,2,1,88,89,INT,3,4,False
 401862796,6,North Texas,Charlotte,True,3,1,11,3,TD,2,11,True
 401862796,6,Charlotte,North Texas,False,4,1,77,28,FG,11,49,True
-401862796,6,North Texas,Charlotte,True,5,1,75,8,TD,8,67,True
+401862796,6,North Texas,Charlotte,True,5,1,75,8,TD,8,75,True
 401862796,6,Charlotte,North Texas,False,6,2,75,3,TD,1,75,True
 401862796,6,North Texas,Charlotte,True,7,2,75,66,TD,1,75,True
 401862796,6,Charlotte,North Texas,False,8,2,75,37,PUNT,3,4,False
@@ -17354,7 +17528,7 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401862796,6,North Texas,Charlotte,True,11,2,61,0,TD,2,61,True
 401862796,6,Charlotte,North Texas,False,12,2,75,16,PUNT,3,6,False
 401862796,6,North Texas,Charlotte,True,13,2,84,16,PUNT,4,19,False
-401862796,6,Charlotte,North Texas,False,14,2,84,44,INT,6,45,False
+401862796,6,Charlotte,North Texas,False,14,2,84,44,INT,6,50,False
 401862796,6,North Texas,Charlotte,True,15,2,56,0,TD,6,56,True
 401862796,6,Charlotte,North Texas,False,16,2,75,72,END OF HALF,1,3,False
 401862796,6,Charlotte,North Texas,False,17,3,75,39,PUNT,3,2,False
@@ -17366,7 +17540,7 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401862796,6,Charlotte,North Texas,False,23,3,58,34,PUNT,3,-10,False
 401862796,6,North Texas,Charlotte,True,24,4,66,65,FG,10,63,True
 401862796,6,Charlotte,North Texas,False,25,4,75,20,PUNT,9,26,False
-401862796,6,North Texas,Charlotte,True,26,4,80,61,Uncategorized,6,19,False
+401862796,6,North Texas,Charlotte,True,26,4,80,61,END OF GAME,6,19,False
 401862797,6,East Carolina,Rice,True,1,1,75,49,PUNT,3,2,False
 401862797,6,Rice,East Carolina,False,2,1,51,48,PUNT,3,-1,False
 401862797,6,East Carolina,Rice,True,3,1,97,0,TD,7,97,True
@@ -17374,13 +17548,13 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401862797,6,East Carolina,Rice,True,5,1,77,37,PUNT,3,2,False
 401862797,6,Rice,East Carolina,False,6,1,63,56,DOWNS,4,7,False
 401862797,6,East Carolina,Rice,True,7,1,44,21,DOWNS,6,23,False
-401862797,6,Rice,East Carolina,False,8,1,79,49,PUNT,3,3,False
+401862797,6,Rice,East Carolina,False,8,1,79,49,PUNT,3,-2,False
 401862797,6,East Carolina,Rice,True,9,2,49,8,PUNT,3,3,False
 401862797,6,Rice,East Carolina,False,10,2,92,24,PUNT,9,30,False
 401862797,6,East Carolina,Rice,True,11,2,76,42,PUNT,3,-14,False
 401862797,6,Rice,East Carolina,False,12,2,58,65,FG,10,31,True
 401862797,6,East Carolina,Rice,True,13,2,75,35,DOWNS,8,40,False
-401862797,6,Rice,East Carolina,False,14,2,65,14,PUNT,4,15,False
+401862797,6,Rice,East Carolina,False,14,2,65,14,PUNT,4,12,False
 401862797,6,East Carolina,Rice,True,15,2,86,77,END OF HALF,3,31,False
 401862797,6,Rice,East Carolina,False,16,3,75,0,TD,4,75,True
 401862797,6,East Carolina,Rice,True,17,3,75,0,TD,17,75,True
@@ -17391,20 +17565,45 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401862797,6,Rice,East Carolina,False,22,4,75,80,INT,2,-1,False
 401862797,6,East Carolina,Rice,True,23,4,20,0,TD,3,20,True
 401862797,6,Rice,East Carolina,False,24,4,75,39,PUNT,3,-6,False
-401862797,6,East Carolina,Rice,True,25,4,61,76,DOWNS,9,37,False
+401862797,6,East Carolina,Rice,True,25,4,61,76,DOWNS,9,35,False
 401862797,6,Rice,East Carolina,False,26,4,74,64,FUMBLE,2,10,False
 401862797,6,East Carolina,Rice,True,27,4,36,20,MISSED FG,6,16,False
 401862797,6,Rice,East Carolina,False,28,4,80,65,FG,13,54,True
-401862797,6,Rice,East Carolina,False,29,4,65,10,Uncategorized,0,0,False
+401862797,6,East Carolina,Rice,True,29,4,0,0,END OF GAME,1,0,False
+401862798,6,UAB,Memphis,False,1,1,75,0,TD,8,75,True
+401862798,6,Memphis,UAB,True,2,1,75,0,TD,9,75,True
+401862798,6,UAB,Memphis,False,3,1,75,8,FUMBLE,12,67,False
+401862798,6,Memphis,UAB,True,4,1,92,28,PUNT,4,16,False
+401862798,6,UAB,Memphis,False,5,1,72,65,INT,4,19,False
+401862798,6,Memphis,UAB,True,6,2,35,65,FG,7,20,True
+401862798,6,UAB,Memphis,False,7,2,75,65,FG,9,44,True
+401862798,6,Memphis,UAB,True,8,2,75,9,PUNT,4,18,False
+401862798,6,UAB,Memphis,False,9,2,91,65,FG,10,52,True
+401862798,6,Memphis,UAB,True,10,2,75,39,PUNT,3,6,False
+401862798,6,UAB,Memphis,False,11,2,61,59,END OF HALF,1,2,False
+401862798,6,Memphis,UAB,True,12,3,75,100,PUNT,3,2,False
+401862798,6,UAB,Memphis,False,13,3,72,19,PUNT,3,20,False
+401862798,6,Memphis,UAB,True,14,3,81,0,TD,9,81,True
+401862798,6,UAB,Memphis,False,15,3,75,14,PUNT,3,9,False
+401862798,6,Memphis,UAB,True,16,3,86,0,TD,5,86,True
+401862798,6,UAB,Memphis,False,17,3,75,35,MISSED FG,8,40,False
+401862798,6,Memphis,UAB,True,18,3,65,19,PUNT,6,11,False
+401862798,6,UAB,Memphis,False,19,4,81,72,FUMBLE,3,9,False
+401862798,6,Memphis,UAB,True,20,4,28,85,TD,8,28,True
+401862798,6,UAB,Memphis,False,21,4,69,47,DOWNS,6,22,False
+401862798,6,Memphis,UAB,True,22,4,53,0,TD,7,53,True
+401862798,6,UAB,Memphis,False,23,4,75,17,PUNT,3,2,False
+401862798,6,Memphis,UAB,True,24,4,83,41,PUNT,3,9,False
+401862798,6,UAB,Memphis,False,25,4,59,40,DOWNS,4,-1,False
 401862799,6,Navy,Tulsa,True,1,1,75,0,TD,5,75,True
-401862799,6,Tulsa,Navy,False,2,1,75,0,TD,13,75,True
+401862799,6,Tulsa,Navy,False,2,1,75,0,TD,12,75,True
 401862799,6,Navy,Tulsa,True,3,1,67,42,DOWNS,4,9,False
-401862799,6,Tulsa,Navy,False,4,1,42,0,TD,9,42,True
+401862799,6,Tulsa,Navy,False,4,1,42,0,TD,9,41,True
 401862799,6,Navy,Tulsa,True,5,1,75,73,FUMBLE,2,3,False
 401862799,6,Tulsa,Navy,False,6,1,28,65,FG,7,17,True
 401862799,6,Navy,Tulsa,True,7,2,65,14,FUMBLE,9,51,False
-401862799,6,Tulsa,Navy,False,8,2,86,38,PUNT,3,0,False
-401862799,6,Navy,Tulsa,True,9,2,33,94,FUMBLE,8,32,False
+401862799,6,Tulsa,Navy,False,8,2,86,38,PUNT,3,-15,False
+401862799,6,Navy,Tulsa,True,9,2,0,94,FUMBLE,8,27,False
 401862799,6,Tulsa,Navy,False,10,2,94,65,FG,9,88,True
 401862799,6,Navy,Tulsa,True,11,2,72,0,TD,5,72,True
 401862799,6,Tulsa,Navy,False,12,2,75,79,END OF HALF,1,-4,False
@@ -17417,14 +17616,77 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401862799,6,Tulsa,Navy,False,19,4,75,82,PUNT,3,0,False
 401862799,6,Navy,Tulsa,True,20,4,82,0,TD,13,82,True
 401862799,6,Tulsa,Navy,False,21,4,75,47,DOWNS,5,28,False
-401862799,6,Navy,Tulsa,True,22,4,53,53,Uncategorized,1,0,False
+401862799,6,Navy,Tulsa,True,22,4,0,0,END OF HALF,1,-2,False
+401864516,6,Northern Illinois,Air Force,True,1,1,75,17,PUNT,3,6,False
+401864516,6,Air Force,Northern Illinois,False,2,1,83,3,TD,15,83,True
+401864516,6,Northern Illinois,Air Force,True,3,1,75,10,INT,9,69,False
+401864516,6,Air Force,Northern Illinois,False,4,2,90,41,PUNT,5,31,False
+401864516,6,Northern Illinois,Air Force,True,5,2,71,3,TD,7,71,True
+401864516,6,Air Force,Northern Illinois,False,6,2,75,3,TD,13,75,True
+401864516,6,Northern Illinois,Air Force,True,7,2,75,81,END OF HALF,1,-6,False
+401864516,6,Air Force,Northern Illinois,False,8,3,75,3,TD,8,75,True
+401864516,6,Northern Illinois,Air Force,True,9,3,75,22,PUNT,3,-3,False
+401864516,6,Air Force,Northern Illinois,False,10,3,55,3,TD,3,55,True
+401864516,6,Northern Illinois,Air Force,True,11,3,75,87,DOWNS,12,62,False
+401864516,6,Air Force,Northern Illinois,False,12,3,87,98,DOWNS,17,85,False
+401864516,6,Northern Illinois,Air Force,True,13,4,98,36,DOWNS,8,34,False
+401864516,6,Air Force,Northern Illinois,False,14,4,36,10,END OF GAME,7,26,False
+401864517,6,UTEP,Nevada,True,1,1,75,25,PUNT,3,5,False
+401864517,6,Nevada,UTEP,False,2,1,75,11,PUNT,7,22,False
+401864517,6,UTEP,Nevada,True,3,1,89,57,PUNT,3,1,False
+401864517,6,Nevada,UTEP,False,4,1,43,23,TD,4,43,True
+401864517,6,UTEP,Nevada,True,5,1,75,13,PUNT,3,15,False
+401864517,6,Nevada,UTEP,False,6,1,94,67,PUNT,3,4,False
+401864517,6,UTEP,Nevada,True,7,1,67,20,PUNT,3,2,False
+401864517,6,Nevada,UTEP,False,8,1,80,65,FG,14,65,True
+401864517,6,UTEP,Nevada,True,9,2,67,21,PUNT,3,3,False
+401864517,6,Nevada,UTEP,False,10,2,79,26,Uncategorized,3,5,False
+401864517,6,UTEP,Nevada,True,11,2,66,14,PUNT,3,4,False
+401864517,6,Nevada,UTEP,False,12,2,86,87,FUMBLE,3,-1,False
+401864517,6,UTEP,Nevada,True,13,2,13,0,TD,3,13,True
+401864517,6,Nevada,UTEP,False,14,2,75,65,FG,8,66,True
+401864517,6,UTEP,Nevada,True,15,2,80,16,PUNT,3,-4,False
+401864517,6,Nevada,UTEP,False,16,2,84,81,END OF HALF,1,3,False
+401864517,6,Nevada,UTEP,False,17,3,75,65,FG,11,47,True
+401864517,6,UTEP,Nevada,True,18,3,75,44,PUNT,4,19,False
+401864517,6,Nevada,UTEP,False,19,3,65,22,PUNT,5,-2,False
+401864517,6,UTEP,Nevada,True,20,3,78,53,DOWNS,5,36,False
+401864517,6,Nevada,UTEP,False,21,3,58,0,TD,3,58,True
+401864517,6,UTEP,Nevada,True,22,3,85,30,PUNT,8,21,False
+401864517,6,Nevada,UTEP,False,23,4,70,0,TD,12,70,True
+401864517,6,UTEP,Nevada,True,24,4,75,0,TD,10,75,True
+401864517,6,Nevada,UTEP,False,25,4,60,65,Uncategorized,2,-30,False
+401864518,6,North Dakota State,UNLV,False,1,1,73,40,PUNT,3,-7,False
+401864518,6,UNLV,North Dakota State,True,2,1,60,13,PUNT,3,2,False
+401864518,6,North Dakota State,UNLV,False,3,1,87,77,INT TD,3,12,True
+401864518,6,North Dakota State,UNLV,False,4,1,75,23,INT,4,27,False
+401864518,6,UNLV,North Dakota State,True,5,1,77,28,MISSED FG,9,49,False
+401864518,6,North Dakota State,UNLV,False,6,1,72,5,PUNT,5,25,False
+401864518,6,UNLV,North Dakota State,True,7,1,95,54,INT,8,46,False
+401864518,6,North Dakota State,UNLV,False,8,2,46,9,DOWNS,7,37,False
+401864518,6,UNLV,North Dakota State,True,9,2,91,66,PUNT,3,-2,False
+401864518,6,North Dakota State,UNLV,False,10,2,34,0,TD,4,34,True
+401864518,6,UNLV,North Dakota State,True,11,2,75,8,PUNT,11,33,False
+401864518,6,North Dakota State,UNLV,False,12,2,92,35,MISSED FG,11,57,False
+401864518,6,UNLV,North Dakota State,True,13,2,65,58,END OF HALF,1,7,False
+401864518,6,UNLV,North Dakota State,True,14,3,75,31,PUNT,3,6,False
+401864518,6,North Dakota State,UNLV,False,15,3,69,46,PUNT,3,1,False
+401864518,6,UNLV,North Dakota State,True,16,3,54,65,FG,7,42,True
+401864518,6,North Dakota State,UNLV,False,17,3,68,11,PUNT,3,19,False
+401864518,6,UNLV,North Dakota State,True,18,3,89,9,PUNT,9,50,False
+401864518,6,North Dakota State,UNLV,False,19,3,91,82,DOWNS,4,9,False
+401864518,6,UNLV,North Dakota State,True,20,4,18,65,FG,6,11,True
+401864518,6,North Dakota State,UNLV,False,21,4,86,17,PUNT,7,33,False
+401864518,6,UNLV,North Dakota State,True,22,4,83,20,PUNT,4,23,False
+401864518,6,North Dakota State,UNLV,False,23,4,80,29,INT,8,39,False
+401864518,6,UNLV,North Dakota State,True,24,4,71,92,END OF GAME,3,-21,False
 401864519,6,San José State,Wyoming,True,1,1,75,57,PUNT,3,-5,False
 401864519,6,Wyoming,San José State,False,2,1,43,65,FG,5,23,True
 401864519,6,San José State,Wyoming,True,3,1,75,27,MISSED FG,6,48,False
-401864519,6,Wyoming,San José State,False,4,1,73,10,DOWNS,18,63,False
+401864519,6,Wyoming,San José State,False,4,1,73,10,DOWNS,18,61,False
 401864519,6,San José State,Wyoming,True,5,2,88,3,TD,8,88,True
 401864519,6,Wyoming,San José State,False,6,2,75,11,FG,16,64,True
-401864519,6,San José State,Wyoming,True,7,2,75,36,FUMBLE,1,11,False
+401864519,6,San José State,Wyoming,True,7,2,75,36,INT,1,0,False
 401864519,6,Wyoming,San José State,False,8,2,36,13,INT,5,14,False
 401864519,6,San José State,Wyoming,True,9,2,87,33,END OF HALF,11,54,False
 401864519,6,Wyoming,San José State,False,10,3,75,59,FUMBLE,3,16,False
@@ -17434,7 +17696,7 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401864519,6,Wyoming,San José State,False,14,3,75,3,TD,18,75,True
 401864519,6,San José State,Wyoming,True,15,4,76,29,PUNT,3,5,False
 401864519,6,Wyoming,San José State,False,16,4,73,12,PUNT,3,8,False
-401864519,6,San José State,Wyoming,True,17,4,88,13,PUNT,9,45,False
+401864519,6,San José State,Wyoming,True,17,4,88,13,PUNT,9,40,False
 401864519,6,Wyoming,San José State,False,18,4,87,0,END OF HALF,3,25,False
 401864519,6,San José State,Wyoming,True,19,5,25,16,DOWNS,4,9,False
 401864519,6,Wyoming,San José State,False,20,5,10,65,FG,6,22,True
@@ -17449,7 +17711,7 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401866435,6,Eastern Michigan,Akron,False,9,2,90,2,PUNT,8,32,False
 401866435,6,Akron,Eastern Michigan,True,10,2,98,98,END OF HALF,1,0,False
 401866435,6,Akron,Eastern Michigan,True,11,3,75,65,FG,9,53,True
-401866435,6,Eastern Michigan,Akron,False,12,3,75,45,DOWNS,8,30,False
+401866435,6,Eastern Michigan,Akron,False,12,3,75,45,FUMBLE,8,30,False
 401866435,6,Akron,Eastern Michigan,True,13,3,55,78,PUNT,3,-7,False
 401866435,6,Eastern Michigan,Akron,False,14,3,22,65,FG,4,7,True
 401866435,6,Akron,Eastern Michigan,True,15,3,83,41,PUNT,4,-1,False
@@ -17459,10 +17721,10 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401866435,6,Akron,Eastern Michigan,True,19,4,92,22,TD,9,92,True
 401866435,6,Eastern Michigan,Akron,False,20,4,73,65,FG,11,42,True
 401866435,6,Akron,Eastern Michigan,True,21,4,75,29,MISSED FG,9,46,False
-401866435,6,Eastern Michigan,Akron,False,22,4,71,72,Uncategorized,1,-1,False
+401866435,6,Eastern Michigan,Akron,False,22,4,71,72,END OF GAME,1,-1,False
 401866436,6,Bowling Green,Sacramento State,True,1,1,68,46,INT,3,12,False
 401866436,6,Sacramento State,Bowling Green,False,2,1,54,65,FG,12,39,True
-401866436,6,Bowling Green,Sacramento State,True,3,1,75,25,PUNT,7,32,False
+401866436,6,Bowling Green,Sacramento State,True,3,1,75,25,PUNT,6,31,False
 401866436,6,Sacramento State,Bowling Green,False,4,1,75,27,PUNT,7,3,False
 401866436,6,Bowling Green,Sacramento State,True,5,2,73,0,TD,9,73,True
 401866436,6,Sacramento State,Bowling Green,False,6,2,75,38,PUNT,5,-4,False
@@ -17473,27 +17735,27 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401866436,6,Sacramento State,Bowling Green,False,11,3,75,28,MISSED FG,14,47,False
 401866436,6,Bowling Green,Sacramento State,True,12,3,72,0,TD,5,72,True
 401866436,6,Sacramento State,Bowling Green,False,13,3,75,19,PUNT,4,19,False
-401866436,6,Bowling Green,Sacramento State,True,14,3,82,1,TD,9,81,True
-401866436,6,Sacramento State,Bowling Green,False,15,4,74,62,FUMBLE TD,3,-26,True
+401866436,6,Bowling Green,Sacramento State,True,14,3,82,1,TD,9,82,True
+401866436,6,Sacramento State,Bowling Green,False,15,4,74,62,FUMBLE TD,3,1,True
 401866436,6,Sacramento State,Bowling Green,False,16,4,78,49,DOWNS,7,29,False
 401866436,6,Bowling Green,Sacramento State,True,17,4,51,8,PUNT,3,4,False
 401866436,6,Sacramento State,Bowling Green,False,18,4,92,0,TD,5,92,True
 401866436,6,Sacramento State,Bowling Green,False,19,4,65,56,DOWNS,4,-2,False
-401866436,6,Bowling Green,Sacramento State,True,20,4,44,11,Uncategorized,7,33,False
+401866436,6,Bowling Green,Sacramento State,True,20,4,44,11,END OF HALF,7,33,False
 401866437,6,Buffalo,Toledo,False,1,1,75,65,FG,12,69,True
 401866437,6,Toledo,Buffalo,True,2,1,75,17,PUNT,7,12,False
 401866437,6,Buffalo,Toledo,False,3,1,83,65,FG,12,72,True
 401866437,6,Toledo,Buffalo,True,4,1,75,18,PUNT,3,9,False
 401866437,6,Buffalo,Toledo,False,5,1,82,73,PUNT,3,1,False
-401866437,6,Toledo,Buffalo,True,6,1,73,23,PUNT,5,9,False
+401866437,6,Toledo,Buffalo,True,6,1,73,23,PUNT,4,9,False
 401866437,6,Buffalo,Toledo,False,7,2,77,21,PUNT,3,7,False
 401866437,6,Toledo,Buffalo,True,8,2,79,71,MISSED FG,9,50,False
 401866437,6,Buffalo,Toledo,False,9,2,71,7,PUNT,4,21,False
-401866437,6,Toledo,Buffalo,True,10,2,93,89,DOWNS,3,4,False
-401866437,6,Buffalo,Toledo,False,11,2,11,8,TD,4,3,True
+401866437,6,Toledo,Buffalo,True,10,2,93,89,FUMBLE,3,4,False
+401866437,6,Buffalo,Toledo,False,11,2,11,8,TD,4,11,True
 401866437,6,Toledo,Buffalo,True,12,2,75,38,PUNT,3,-1,False
 401866437,6,Buffalo,Toledo,False,13,2,62,21,MISSED FG,11,41,False
-401866437,6,Toledo,Buffalo,True,14,3,75,64,FUMBLE,3,13,False
+401866437,6,Toledo,Buffalo,True,14,3,75,100,FUMBLE,3,13,False
 401866437,6,Buffalo,Toledo,False,15,3,38,65,FG,8,25,True
 401866437,6,Toledo,Buffalo,True,16,3,75,21,MISSED FG,9,54,False
 401866437,6,Buffalo,Toledo,False,17,3,79,35,PUNT,2,3,False
@@ -17503,9 +17765,9 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401866437,6,Buffalo,Toledo,False,21,4,72,86,PUNT,3,-4,False
 401866437,6,Toledo,Buffalo,True,22,4,86,0,TD,14,86,True
 401866437,6,Buffalo,Toledo,False,23,4,87,0,TD,1,87,True
-401866437,6,Buffalo,Toledo,False,24,4,65,16,Uncategorized,9,49,False
-401866438,6,Ohio,Central Michigan,True,1,1,70,8,TD,7,62,True
-401866438,6,Central Michigan,Ohio,False,2,1,75,66,DOWNS,9,41,False
+401866437,6,Buffalo,Toledo,False,24,4,65,16,END OF HALF,9,24,False
+401866438,6,Ohio,Central Michigan,True,1,1,70,8,TD,8,70,True
+401866438,6,Central Michigan,Ohio,False,2,1,75,66,DOWNS,9,40,False
 401866438,6,Ohio,Central Michigan,True,3,1,65,0,TD,8,65,True
 401866438,6,Central Michigan,Ohio,False,4,1,75,41,PUNT,3,4,False
 401866438,6,Ohio,Central Michigan,True,5,2,59,65,FG,9,52,True
@@ -17518,7 +17780,7 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401866438,6,Central Michigan,Ohio,False,12,2,73,74,END OF HALF,1,-1,False
 401866438,6,Central Michigan,Ohio,False,13,3,75,88,PUNT,3,5,False
 401866438,6,Ohio,Central Michigan,True,14,3,88,61,FUMBLE,5,27,False
-401866438,6,Central Michigan,Ohio,False,15,3,39,67,DOWNS,4,6,False
+401866438,6,Central Michigan,Ohio,False,15,3,39,67,DOWNS,4,-2,False
 401866438,6,Ohio,Central Michigan,True,16,3,59,31,PUNT,3,-10,False
 401866438,6,Central Michigan,Ohio,False,17,3,83,27,PUNT,4,15,False
 401866438,6,Ohio,Central Michigan,True,18,3,73,27,PUNT,3,9,False
@@ -17527,7 +17789,7 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401866438,6,Central Michigan,Ohio,False,21,4,80,40,PUNT,6,20,False
 401866438,6,Ohio,Central Michigan,True,22,4,90,43,PUNT,8,33,False
 401866438,6,Central Michigan,Ohio,False,23,4,79,0,TD,8,79,True
-401866438,6,Ohio,Central Michigan,True,24,4,75,65,Uncategorized,3,10,False
+401866438,6,Ohio,Central Michigan,True,24,4,75,65,END OF GAME,3,10,False
 401866439,6,Western Michigan,Kent State,True,1,1,75,0,TD,4,75,True
 401866439,6,Kent State,Western Michigan,False,2,1,82,25,MISSED FG,15,57,False
 401866439,6,Western Michigan,Kent State,True,3,1,75,0,TD,10,75,True
@@ -17536,25 +17798,25 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401866439,6,Kent State,Western Michigan,False,6,2,63,20,PUNT,5,22,False
 401866439,6,Western Michigan,Kent State,True,7,2,80,50,PUNT,3,-3,False
 401866439,6,Kent State,Western Michigan,False,8,2,50,0,TD,7,50,True
-401866439,6,Western Michigan,Kent State,True,9,2,73,0,TD,10,73,True
+401866439,6,Western Michigan,Kent State,True,9,2,73,0,TD,9,73,True
 401866439,6,Kent State,Western Michigan,False,10,2,73,67,END OF HALF,3,6,False
-401866439,6,Kent State,Western Michigan,False,11,3,65,59,Uncategorized,3,6,False
+401866439,6,Kent State,Western Michigan,False,11,3,65,100,PUNT,3,6,False
 401866439,6,Western Michigan,Kent State,True,12,3,80,1,DOWNS,9,79,False
 401866439,6,Kent State,Western Michigan,False,13,3,99,36,PUNT,5,15,False
 401866439,6,Western Michigan,Kent State,True,14,3,64,65,FG,9,51,True
 401866439,6,Kent State,Western Michigan,False,15,3,77,82,PUNT,5,12,False
-401866439,6,Western Michigan,Kent State,True,16,4,82,4,TD,8,98,True
+401866439,6,Western Michigan,Kent State,True,16,4,82,4,TD,8,82,True
 401866439,6,Kent State,Western Michigan,False,17,4,80,35,DOWNS,8,45,False
 401866439,6,Western Michigan,Kent State,True,18,4,65,0,TD,10,65,True
 401866439,6,Kent State,Western Michigan,False,19,4,87,82,INT,9,27,False
-401866439,6,Western Michigan,Kent State,True,20,4,18,22,Uncategorized,2,-4,False
+401866439,6,Western Michigan,Kent State,True,20,4,18,24,END OF HALF,2,-6,False
 401866440,6,Massachusetts,Miami (OH),True,1,1,75,32,PUNT,3,6,False
 401866440,6,Miami (OH),Massachusetts,False,2,1,68,17,PUNT,3,0,False
 401866440,6,Massachusetts,Miami (OH),True,3,1,83,0,TD,11,83,True
 401866440,6,Miami (OH),Massachusetts,False,4,1,73,0,TD,5,73,True
 401866440,6,Massachusetts,Miami (OH),True,5,1,75,34,DOWNS,4,9,False
 401866440,6,Miami (OH),Massachusetts,False,6,1,34,0,TD,2,34,True
-401866440,6,Massachusetts,Miami (OH),True,7,1,75,65,FG,5,29,True
+401866440,6,Massachusetts,Miami (OH),True,7,1,75,65,FG,5,37,True
 401866440,6,Miami (OH),Massachusetts,False,8,2,75,11,PUNT,10,23,False
 401866440,6,Massachusetts,Miami (OH),True,9,2,89,11,PUNT,6,28,False
 401866440,6,Miami (OH),Massachusetts,False,10,2,89,20,PUNT,7,52,False
@@ -17570,12 +17832,12 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401866440,6,Massachusetts,Miami (OH),True,20,3,80,49,PUNT,3,2,False
 401866440,6,Miami (OH),Massachusetts,False,21,4,51,65,FG,7,23,True
 401866440,6,Massachusetts,Miami (OH),True,22,4,75,65,FG,12,59,True
-401866440,6,Miami (OH),Massachusetts,False,23,4,75,91,PUNT,5,15,False
-401866440,6,Massachusetts,Miami (OH),True,24,4,91,0,TD,9,70,True
-401866440,6,Miami (OH),Massachusetts,False,25,4,0,0,Uncategorized,0,0,False
-401866658,6,North Carolina A&T,New Hampshire,True,1,1,86,55,PUNT,6,19,False
+401866440,6,Miami (OH),Massachusetts,False,23,4,75,91,PUNT,5,5,False
+401866440,6,Massachusetts,Miami (OH),True,24,4,91,0,TD,9,91,True
+401866440,6,Miami (OH),Massachusetts,False,25,4,0,0,END OF GAME,0,0,False
+401866658,6,North Carolina A&T,New Hampshire,True,1,1,86,55,PUNT,6,18,False
 401866658,6,New Hampshire,North Carolina A&T,False,2,1,45,0,TD,11,45,True
-401866658,6,North Carolina A&T,New Hampshire,True,3,1,75,0,TD,8,75,True
+401866658,6,North Carolina A&T,New Hampshire,True,3,1,75,0,TD,7,75,True
 401866658,6,New Hampshire,North Carolina A&T,False,4,1,80,65,INT,10,48,False
 401866658,6,North Carolina A&T,New Hampshire,True,5,2,71,0,TD,5,71,True
 401866658,6,New Hampshire,North Carolina A&T,False,6,2,75,0,TD,3,75,True
@@ -17606,13 +17868,13 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401866659,6,Towson,Stony Brook,True,9,2,81,16,PUNT,4,24,False
 401866659,6,Stony Brook,Towson,False,10,2,84,27,PUNT,8,22,False
 401866659,6,Towson,Stony Brook,True,11,2,73,0,TD,7,73,True
-401866659,6,Stony Brook,Towson,False,12,2,77,36,PUNT,3,-6,False
-401866659,6,Towson,Stony Brook,True,13,2,64,54,DOWNS,3,10,False
+401866659,6,Stony Brook,Towson,False,12,2,77,36,PUNT,3,8,False
+401866659,6,Towson,Stony Brook,True,13,2,64,54,END OF HALF,3,10,False
 401866659,6,Stony Brook,Towson,False,14,3,75,41,PUNT,3,5,False
 401866659,6,Towson,Stony Brook,True,15,3,59,26,DOWNS,6,33,False
 401866659,6,Stony Brook,Towson,False,16,3,74,18,PUNT,3,7,False
 401866659,6,Towson,Stony Brook,True,17,3,82,0,TD,4,82,True
-401866659,6,Towson,Stony Brook,True,18,3,65,100,TD,0,0,True
+401866659,6,Towson,Stony Brook,True,18,3,65,100,TD,1,90,True
 401866659,6,Towson,Stony Brook,True,19,3,75,0,TD,6,75,True
 401866659,6,Stony Brook,Towson,False,20,3,69,20,PUNT,3,-1,False
 401866659,6,Towson,Stony Brook,True,21,3,80,29,PUNT,3,4,False
@@ -17620,8 +17882,9 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401866659,6,Towson,Stony Brook,True,23,4,70,28,INT,3,32,False
 401866659,6,Stony Brook,Towson,False,24,4,72,22,PUNT,3,8,False
 401866659,6,Towson,Stony Brook,True,25,4,78,50,PUNT,3,-9,False
-401866659,6,Stony Brook,Towson,False,26,4,50,2,PUNT,3,1,False
+401866659,6,Stony Brook,Towson,False,26,4,50,2,PUNT,3,5,False
 401866659,6,Towson,Stony Brook,True,27,4,98,65,FG,14,73,True
+401866659,6,Stony Brook,Towson,False,28,4,49,50,END OF GAME,1,-1,False
 401866660,6,Sacred Heart,Stonehill,True,1,1,64,19,PUNT,6,12,False
 401866660,6,Stonehill,Sacred Heart,False,2,1,81,19,INT,5,58,False
 401866660,6,Sacred Heart,Stonehill,True,3,1,81,67,DOWNS,8,48,False
@@ -17629,25 +17892,25 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401866660,6,Sacred Heart,Stonehill,True,5,1,62,84,INT,11,46,False
 401866660,6,Stonehill,Sacred Heart,False,6,2,80,0,TD,13,80,True
 401866660,6,Sacred Heart,Stonehill,True,7,2,35,42,PUNT,3,-1,False
-401866660,6,Stonehill,Sacred Heart,False,8,2,58,20,MISSED FG,6,39,False
+401866660,6,Stonehill,Sacred Heart,False,8,2,58,20,MISSED FG,6,47,False
 401866660,6,Sacred Heart,Stonehill,True,9,2,80,80,END OF HALF,1,0,False
 401866660,6,Stonehill,Sacred Heart,False,10,3,60,3,TD,5,60,True
 401866660,6,Sacred Heart,Stonehill,True,11,3,75,27,PUNT,3,2,False
 401866660,6,Stonehill,Sacred Heart,False,12,3,54,22,PUNT,3,-8,False
-401866660,6,Sacred Heart,Stonehill,True,13,3,78,22,PUNT,8,3,False
+401866660,6,Sacred Heart,Stonehill,True,13,3,78,22,PUNT,8,16,False
 401866660,6,Stonehill,Sacred Heart,False,14,3,78,36,PUNT,3,0,False
-401866660,6,Sacred Heart,Stonehill,True,15,3,64,3,FUMBLE RETURN TD,6,-36,True
+401866660,6,Sacred Heart,Stonehill,True,15,3,64,3,FUMBLE RETURN TD,6,62,True
 401866660,6,Sacred Heart,Stonehill,True,16,3,68,3,TD,10,68,True
 401866660,6,Stonehill,Sacred Heart,False,17,4,73,30,PUNT,3,-1,False
 401866660,6,Sacred Heart,Stonehill,True,18,4,70,47,DOWNS,7,23,False
 401866660,6,Stonehill,Sacred Heart,False,19,4,53,10,PUNT,7,-7,False
-401866660,6,Sacred Heart,Stonehill,True,20,4,90,13,Uncategorized,12,77,False
+401866660,6,Sacred Heart,Stonehill,True,20,4,90,13,END OF GAME,12,77,False
 401866661,6,Wofford,Elon,False,1,1,75,45,DOWNS,5,30,False
 401866661,6,Elon,Wofford,True,2,1,55,46,DOWNS,4,9,False
 401866661,6,Wofford,Elon,False,3,1,54,13,PUNT,3,1,False
 401866661,6,Elon,Wofford,True,4,1,87,45,PUNT,3,4,False
 401866661,6,Wofford,Elon,False,5,1,55,24,PUNT,3,-6,False
-401866661,6,Elon,Wofford,True,6,1,76,12,PUNT,4,28,False
+401866661,6,Elon,Wofford,True,6,1,76,12,PUNT,5,28,False
 401866661,6,Wofford,Elon,False,7,1,88,27,PUNT,5,21,False
 401866661,6,Elon,Wofford,True,8,1,73,58,FUMBLE,2,15,False
 401866661,6,Wofford,Elon,False,9,1,42,7,PUNT,4,-4,False
@@ -17655,19 +17918,19 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401866661,6,Wofford,Elon,False,11,2,49,51,PUNT,3,0,False
 401866661,6,Elon,Wofford,True,12,2,95,32,PUNT,5,23,False
 401866661,6,Wofford,Elon,False,13,2,68,65,FG,12,45,True
-401866661,6,Elon,Wofford,True,14,2,75,96,INT,3,-5,False
+401866661,6,Elon,Wofford,True,14,2,75,96,INT,3,0,False
 401866661,6,Wofford,Elon,False,15,2,4,65,FG,4,0,True
-401866661,6,Wofford,Elon,False,16,2,65,24,FG,4,0,True
+401866661,6,Wofford,Elon,False,16,2,65,24,FG,4,5,True
 401866661,6,Elon,Wofford,True,17,3,67,14,PUNT,3,6,False
 401866661,6,Wofford,Elon,False,18,3,86,0,TD,9,86,True
 401866661,6,Elon,Wofford,True,19,3,64,60,INT,2,20,False
 401866661,6,Wofford,Elon,False,20,3,40,22,MISSED FG,6,18,False
 401866661,6,Elon,Wofford,True,21,3,78,68,MISSED FG,8,56,False
 401866661,6,Wofford,Elon,False,22,3,32,20,PUNT,3,0,False
-401866661,6,Elon,Wofford,True,23,3,80,13,DOWNS,13,67,False
+401866661,6,Elon,Wofford,True,23,3,80,13,DOWNS,14,67,False
 401866661,6,Wofford,Elon,False,24,4,87,28,PUNT,3,7,False
 401866661,6,Elon,Wofford,True,25,4,72,43,INT,9,40,False
-401866661,6,Wofford,Elon,False,26,4,57,18,Uncategorized,10,39,False
+401866661,6,Wofford,Elon,False,26,4,57,18,END OF HALF,10,39,False
 401866662,6,Brown,Bryant,True,1,1,75,19,PUNT,6,7,False
 401866662,6,Bryant,Brown,False,2,1,81,17,PUNT,3,-2,False
 401866662,6,Brown,Bryant,True,3,1,55,0,TD,6,55,True
@@ -17676,17 +17939,17 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401866662,6,Bryant,Brown,False,6,2,82,35,PUNT,5,17,False
 401866662,6,Brown,Bryant,True,7,2,79,0,TD,8,79,True
 401866662,6,Bryant,Brown,False,8,2,60,0,TD,5,60,True
-401866662,6,Brown,Bryant,True,9,2,65,32,PUNT,3,1,False
+401866662,6,Brown,Bryant,True,9,2,65,32,PUNT,3,14,False
 401866662,6,Bryant,Brown,False,10,2,68,47,PUNT,3,-8,False
 401866662,6,Brown,Bryant,True,11,2,53,0,INT,9,43,False
 401866662,6,Bryant,Brown,False,12,2,80,26,END OF HALF,4,54,False
 401866662,6,Bryant,Brown,False,13,3,70,65,FG,15,56,True
-401866662,6,Brown,Bryant,True,14,3,68,40,PUNT,3,4,False
-401866662,6,Bryant,Brown,False,15,3,80,5,FG,15,75,True
+401866662,6,Brown,Bryant,True,14,3,68,40,PUNT,3,8,False
+401866662,6,Bryant,Brown,False,15,3,80,5,FG,15,74,True
 401866662,6,Brown,Bryant,True,16,3,70,3,TD,14,70,True
-401866662,6,Bryant,Brown,False,17,4,82,72,INT,10,54,False
+401866662,6,Bryant,Brown,False,17,4,82,72,INT,9,64,False
 401866662,6,Brown,Bryant,True,18,4,89,30,DOWNS,11,59,False
-401866662,6,Bryant,Brown,False,19,4,70,50,Uncategorized,2,20,False
+401866662,6,Bryant,Brown,False,19,4,70,50,END OF GAME,2,20,False
 401867829,6,Cornell,Harvard,True,1,1,75,65,FG,13,49,True
 401867829,6,Harvard,Cornell,False,2,1,75,24,INT,1,0,False
 401867829,6,Cornell,Harvard,True,3,1,76,0,TD,11,76,True
@@ -17707,9 +17970,9 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401867829,6,Harvard,Cornell,False,18,3,86,65,FG,15,77,True
 401867829,6,Cornell,Harvard,True,19,4,75,0,TD,4,75,True
 401867829,6,Cornell,Harvard,True,20,4,60,0,TD,14,52,True
-401867829,6,Harvard,Cornell,False,21,4,51,27,PUNT,3,3,False
+401867829,6,Harvard,Cornell,False,21,4,51,27,PUNT,3,4,False
 401867829,6,Cornell,Harvard,True,22,4,73,0,TD,10,73,True
-401867829,6,Harvard,Cornell,False,23,4,51,57,Uncategorized,3,-6,False
+401867829,6,Harvard,Cornell,False,23,4,51,57,END OF HALF,3,-6,False
 401867836,6,Dartmouth,Yale,False,1,1,75,39,PUNT,3,-14,False
 401867836,6,Yale,Dartmouth,True,2,1,61,0,TD,10,61,True
 401867836,6,Dartmouth,Yale,False,3,1,75,20,PUNT,3,-2,False
@@ -17726,12 +17989,12 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401867836,6,Yale,Dartmouth,True,14,3,80,12,PUNT,7,31,False
 401867836,6,Dartmouth,Yale,False,15,3,88,12,PUNT,4,27,False
 401867836,6,Yale,Dartmouth,True,16,3,88,19,DOWNS,9,69,False
-401867836,6,Dartmouth,Yale,False,17,4,81,60,INT,5,45,False
+401867836,6,Dartmouth,Yale,False,17,4,81,60,INT,5,38,False
 401867836,6,Yale,Dartmouth,True,18,4,50,65,FG,7,43,True
 401867836,6,Dartmouth,Yale,False,19,4,75,15,DOWNS,6,60,False
 401867836,6,Yale,Dartmouth,True,20,4,85,0,TD,6,85,True
 401867836,6,Dartmouth,Yale,False,21,4,75,52,PUNT,3,-14,False
-401867836,6,Yale,Dartmouth,True,22,4,48,34,Uncategorized,3,14,False
+401867836,6,Yale,Dartmouth,True,22,4,48,0,END OF GAME,3,14,False
 401867860,6,Indiana State,Youngstown State,True,1,1,75,0,TD,4,75,True
 401867860,6,Youngstown State,Indiana State,False,2,1,75,0,TD,9,75,True
 401867860,6,Indiana State,Youngstown State,True,3,1,75,29,MISSED FG,6,50,False
@@ -17751,19 +18014,19 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401867860,6,Indiana State,Youngstown State,True,17,3,75,1,PUNT,3,7,False
 401867860,6,Youngstown State,Indiana State,False,18,3,99,41,PUNT,5,16,False
 401867860,6,Indiana State,Youngstown State,True,19,3,59,25,PUNT,3,-10,False
-401867860,6,Youngstown State,Indiana State,False,20,3,75,26,PUNT,3,6,False
-401867860,6,Indiana State,Youngstown State,True,21,3,74,18,Uncategorized,3,-3,False
+401867860,6,Youngstown State,Indiana State,False,20,3,75,26,PUNT,3,8,False
+401867860,6,Indiana State,Youngstown State,True,21,3,74,18,PUNT,3,-3,False
 401867860,6,Youngstown State,Indiana State,False,22,4,82,0,TD,7,82,True
-401867860,6,Indiana State,Youngstown State,True,23,4,75,24,PUNT,3,7,False
+401867860,6,Indiana State,Youngstown State,True,23,4,75,24,PUNT,3,8,False
 401867860,6,Youngstown State,Indiana State,False,24,4,76,37,PUNT,3,7,False
 401867860,6,Indiana State,Youngstown State,True,25,4,63,24,PUNT,3,2,False
 401867860,6,Youngstown State,Indiana State,False,26,4,76,1,PUNT,6,19,False
 401867860,6,Indiana State,Youngstown State,True,27,4,99,48,PUNT,3,2,False
-401867860,6,Youngstown State,Indiana State,False,28,4,52,54,Uncategorized,2,-2,False
+401867860,6,Youngstown State,Indiana State,False,28,4,52,54,END OF GAME,2,-2,False
 401867877,6,Northern Iowa,North Dakota,True,1,1,65,65,FG,8,44,True
 401867877,6,North Dakota,Northern Iowa,False,2,1,75,0,TD,11,75,True
 401867877,6,Northern Iowa,North Dakota,True,3,1,80,43,PUNT,3,2,False
-401867877,6,North Dakota,Northern Iowa,False,4,1,57,100,TD,3,4,True
+401867877,6,North Dakota,Northern Iowa,False,4,1,57,100,PUNT TD,3,4,True
 401867877,6,North Dakota,Northern Iowa,False,5,1,77,79,INT,4,12,False
 401867877,6,Northern Iowa,North Dakota,True,6,1,21,0,TD,3,21,True
 401867877,6,North Dakota,Northern Iowa,False,7,1,75,80,FUMBLE,1,-5,False
@@ -17776,20 +18039,20 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401867877,6,North Dakota,Northern Iowa,False,14,2,34,65,FG,8,23,True
 401867877,6,Northern Iowa,North Dakota,True,15,2,35,24,PUNT,3,-3,False
 401867877,6,North Dakota,Northern Iowa,False,16,2,76,49,FUMBLE,3,27,False
-401867877,6,Northern Iowa,North Dakota,True,17,2,51,45,END OF HALF,4,6,False
+401867877,6,Northern Iowa,North Dakota,True,17,2,51,45,END OF HALF,4,20,False
 401867877,6,Northern Iowa,North Dakota,True,18,3,65,22,MISSED FG,4,1,False
 401867877,6,North Dakota,Northern Iowa,False,19,3,78,56,INT,8,55,False
 401867877,6,Northern Iowa,North Dakota,True,20,3,44,20,PUNT,6,4,False
 401867877,6,North Dakota,Northern Iowa,False,21,3,80,23,PUNT,6,13,False
 401867877,6,Northern Iowa,North Dakota,True,22,3,77,48,PUNT,3,-5,False
 401867877,6,North Dakota,Northern Iowa,False,23,3,52,0,TD,9,52,True
-401867877,6,Northern Iowa,North Dakota,True,24,4,75,75,PUNT,3,0,False
+401867877,6,Northern Iowa,North Dakota,True,24,4,75,100,PUNT,3,0,False
 401867877,6,North Dakota,Northern Iowa,False,25,4,69,29,PUNT,3,3,False
 401867877,6,Northern Iowa,North Dakota,True,26,4,71,9,PUNT,7,28,False
 401867877,6,North Dakota,Northern Iowa,False,27,4,91,33,PUNT,4,13,False
 401867877,6,Northern Iowa,North Dakota,True,28,4,67,27,PUNT,3,8,False
 401867877,6,North Dakota,Northern Iowa,False,29,4,73,44,DOWNS,6,17,False
-401867877,6,Northern Iowa,North Dakota,True,30,4,44,46,Uncategorized,2,-2,False
+401867877,6,Northern Iowa,North Dakota,True,30,4,44,46,END OF GAME,2,-2,False
 401867886,6,Southern Illinois,South Dakota,False,1,1,75,15,DOWNS,12,60,False
 401867886,6,South Dakota,Southern Illinois,True,2,1,85,0,TD,5,85,True
 401867886,6,Southern Illinois,South Dakota,False,3,1,75,24,PUNT,3,2,False
@@ -17807,7 +18070,7 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401867886,6,Southern Illinois,South Dakota,False,15,4,75,42,PUNT,5,-16,False
 401867886,6,South Dakota,Southern Illinois,True,16,4,58,0,TD,6,58,True
 401867886,6,Southern Illinois,South Dakota,False,17,4,75,13,DOWNS,11,62,False
-401867886,6,South Dakota,Southern Illinois,True,18,4,87,69,Uncategorized,8,18,False
+401867886,6,South Dakota,Southern Illinois,True,18,4,87,69,END OF HALF,8,18,False
 401867907,6,American International,Central Connecticut,False,1,1,75,39,PUNT,3,4,False
 401867907,6,Central Connecticut,American International,True,2,1,61,0,TD,8,61,True
 401867907,6,American International,Central Connecticut,False,3,1,65,0,TD,13,65,True
@@ -17833,35 +18096,35 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401867907,6,American International,Central Connecticut,False,23,4,66,31,PUNT,3,-12,False
 401867907,6,Central Connecticut,American International,True,24,4,69,1,PUNT,13,30,False
 401867907,6,American International,Central Connecticut,False,25,4,99,58,PUNT,3,0,False
-401867907,6,Central Connecticut,American International,True,26,4,42,38,Uncategorized,3,4,False
+401867907,6,Central Connecticut,American International,True,26,4,42,38,END OF HALF,3,4,False
 401867911,6,Long Island University,Duquesne,False,1,1,68,51,PUNT,5,19,False
 401867911,6,Duquesne,Long Island University,True,2,1,94,68,FUMBLE,4,26,False
 401867911,6,Long Island University,Duquesne,False,3,1,32,65,FG,4,6,True
-401867911,6,Duquesne,Long Island University,True,4,1,80,59,INT,4,-32,False
+401867911,6,Duquesne,Long Island University,True,4,1,80,59,INT,4,13,False
 401867911,6,Long Island University,Duquesne,False,5,1,41,67,DOWNS,4,8,False
 401867911,6,Duquesne,Long Island University,True,6,1,67,3,TD,10,67,True
 401867911,6,Long Island University,Duquesne,False,7,1,75,46,PUNT,3,5,False
 401867911,6,Duquesne,Long Island University,True,8,2,54,17,PUNT,3,1,False
 401867911,6,Long Island University,Duquesne,False,9,2,83,32,PUNT,3,0,False
-401867911,6,Duquesne,Long Island University,True,10,2,68,0,TD,7,33,True
+401867911,6,Duquesne,Long Island University,True,10,2,68,0,TD,7,68,True
 401867911,6,Long Island University,Duquesne,False,11,2,65,0,TD,8,65,True
-401867911,6,Duquesne,Long Island University,True,12,2,63,54,FUMBLE,6,9,False
+401867911,6,Duquesne,Long Island University,True,12,2,63,54,DOWNS,6,9,False
 401867911,6,Long Island University,Duquesne,False,13,2,46,51,END OF HALF,1,-5,False
 401867911,6,Duquesne,Long Island University,True,14,3,64,4,PUNT,3,7,False
 401867911,6,Long Island University,Duquesne,False,15,3,96,11,PUNT,3,7,False
 401867911,6,Duquesne,Long Island University,True,16,3,56,14,PUNT,3,4,False
 401867911,6,Long Island University,Duquesne,False,17,3,86,49,DOWNS,9,37,False
-401867911,6,Duquesne,Long Island University,True,18,3,51,10,PUNT,8,11,False
+401867911,6,Duquesne,Long Island University,True,18,3,51,10,PUNT,8,21,False
 401867911,6,Long Island University,Duquesne,False,19,3,90,35,PUNT,3,3,False
 401867911,6,Duquesne,Long Island University,True,20,3,65,12,PUNT,3,2,False
 401867911,6,Long Island University,Duquesne,False,21,4,88,3,TD,6,88,True
 401867911,6,Duquesne,Long Island University,True,22,4,58,92,MISSED FG,13,50,False
 401867911,6,Long Island University,Duquesne,False,23,4,80,33,DOWNS,7,47,False
-401867911,6,Duquesne,Long Island University,True,24,4,67,19,INT,3,32,False
-401867911,6,Long Island University,Duquesne,False,25,4,81,82,Uncategorized,1,-1,False
+401867911,6,Duquesne,Long Island University,True,24,4,67,19,INT,3,33,False
+401867911,6,Long Island University,Duquesne,False,25,4,81,82,END OF GAME,1,-1,False
 401867919,6,Robert Morris,Morgan State,False,1,1,75,16,PUNT,7,26,False
-401867919,6,Morgan State,Robert Morris,True,2,1,84,1,PUNT,6,31,False
-401867919,6,Robert Morris,Morgan State,False,3,1,99,0,TD,12,71,True
+401867919,6,Morgan State,Robert Morris,True,2,1,84,1,PUNT,6,32,False
+401867919,6,Robert Morris,Morgan State,False,3,1,99,0,TD,12,99,True
 401867919,6,Morgan State,Robert Morris,True,4,1,70,25,PUNT,3,9,False
 401867919,6,Robert Morris,Morgan State,False,5,2,75,0,TD,8,75,True
 401867919,6,Morgan State,Robert Morris,True,6,2,76,56,PUNT,4,3,False
@@ -17869,33 +18132,33 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401867919,6,Morgan State,Robert Morris,True,8,2,80,65,FG,13,69,True
 401867919,6,Morgan State,Robert Morris,True,9,3,44,65,FG,9,42,True
 401867919,6,Robert Morris,Morgan State,False,10,3,75,40,PUNT,6,26,False
-401867919,6,Morgan State,Robert Morris,True,11,3,60,8,TD,2,52,True
+401867919,6,Morgan State,Robert Morris,True,11,3,60,8,TD,2,60,True
 401867919,6,Robert Morris,Morgan State,False,12,3,54,48,TD,2,54,True
 401867919,6,Morgan State,Robert Morris,True,13,3,68,0,TD,7,68,True
 401867919,6,Robert Morris,Morgan State,False,14,3,76,19,MISSED FG,13,57,False
 401867919,6,Morgan State,Robert Morris,True,15,4,80,49,PUNT,3,4,False
 401867919,6,Robert Morris,Morgan State,False,16,4,51,0,TD,8,51,True
 401867919,6,Morgan State,Robert Morris,True,17,4,75,0,TD,11,75,True
-401867919,6,Robert Morris,Morgan State,False,18,4,74,47,Uncategorized,3,24,False
+401867919,6,Robert Morris,Morgan State,False,18,4,74,47,END OF GAME,3,24,False
 401867930,6,Wagner,Princeton,True,1,1,70,30,PUNT,3,6,False
 401867930,6,Princeton,Wagner,False,2,1,70,0,TD,6,70,True
 401867930,6,Wagner,Princeton,True,3,1,75,65,FG,9,54,True
-401867930,6,Princeton,Wagner,False,4,1,72,96,PUNT,4,18,False
+401867930,6,Princeton,Wagner,False,4,1,72,96,PUNT,4,23,False
 401867930,6,Wagner,Princeton,True,5,1,96,45,PUNT,3,9,False
-401867930,6,Princeton,Wagner,False,6,1,55,0,TD,9,42,True
+401867930,6,Princeton,Wagner,False,6,1,55,0,TD,10,55,True
 401867930,6,Wagner,Princeton,True,7,2,75,0,TD,13,75,True
 401867930,6,Princeton,Wagner,False,8,2,75,0,TD,5,75,True
-401867930,6,Wagner,Princeton,True,9,2,59,23,FG,10,36,True
+401867930,6,Wagner,Princeton,True,9,2,59,23,FG,10,39,True
 401867930,6,Princeton,Wagner,False,10,3,75,10,PUNT,9,26,False
 401867930,6,Wagner,Princeton,True,11,3,90,10,PUNT,9,49,False
 401867930,6,Princeton,Wagner,False,12,3,90,0,TD,10,90,True
 401867930,6,Princeton,Wagner,False,13,3,65,46,INT,5,16,False
 401867930,6,Wagner,Princeton,True,14,3,54,28,INT,2,18,False
 401867930,6,Princeton,Wagner,False,15,3,72,50,DOWNS,9,22,False
-401867930,6,Wagner,Princeton,True,16,4,50,49,PUNT,3,1,False
+401867930,6,Wagner,Princeton,True,16,4,50,100,PUNT,3,1,False
 401867930,6,Princeton,Wagner,False,17,4,99,14,PUNT,10,44,False
-401867930,6,Wagner,Princeton,True,18,4,86,90,Uncategorized,9,-4,False
-401867930,6,Princeton,Wagner,False,19,4,10,24,Uncategorized,2,-14,False
+401867930,6,Wagner,Princeton,True,18,4,86,90,FUMBLE,9,66,False
+401867930,6,Princeton,Wagner,False,19,4,10,24,END OF HALF,2,-14,False
 401867960,6,Pennsylvania,Howard,True,1,1,75,12,PUNT,5,16,False
 401867960,6,Howard,Pennsylvania,False,2,1,88,0,TD,14,88,True
 401867960,6,Pennsylvania,Howard,True,3,1,59,65,FG,9,55,True
@@ -17915,20 +18178,20 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401867960,6,Howard,Pennsylvania,False,17,4,75,20,PUNT,6,25,False
 401867960,6,Pennsylvania,Howard,True,18,4,80,20,MISSED FG,8,60,False
 401867960,6,Howard,Pennsylvania,False,19,4,80,48,PUNT,3,7,False
-401867960,6,Pennsylvania,Howard,True,20,4,52,1,TD,9,51,True
-401867960,6,Howard,Pennsylvania,False,21,4,82,15,INT,2,0,False
-401867960,6,Pennsylvania,Howard,True,22,4,17,18,Uncategorized,1,-1,False
-401867974,6,Norfolk State,Virginia Lynchburg,True,1,1,0,0,MISSED FG,5,18,False
+401867960,6,Pennsylvania,Howard,True,20,4,52,1,TD,9,52,True
+401867960,6,Howard,Pennsylvania,False,21,4,82,15,INT,2,-10,False
+401867960,6,Pennsylvania,Howard,True,22,4,17,18,END OF GAME,1,-1,False
+401867974,6,Norfolk State,Virginia Lynchburg,True,1,1,0,0,MISSED FG,6,18,False
 401867974,6,Virginia Lynchburg,Norfolk State,False,2,1,80,75,PUNT,3,2,False
 401867974,6,Norfolk State,Virginia Lynchburg,True,3,1,25,5,PUNT,3,-9,False
 401867974,6,Virginia Lynchburg,Norfolk State,False,4,1,95,82,FUMBLE,3,13,False
 401867974,6,Norfolk State,Virginia Lynchburg,True,5,1,18,0,TD,1,18,True
 401867974,6,Virginia Lynchburg,Norfolk State,False,6,1,81,40,PUNT,3,7,False
 401867974,6,Norfolk State,Virginia Lynchburg,True,7,1,60,0,TD,7,60,True
-401867974,6,Virginia Lynchburg,Norfolk State,False,8,1,97,20,PUNT,6,9,False
-401867974,6,Norfolk State,Virginia Lynchburg,True,9,1,80,0,TD,9,80,True
+401867974,6,Virginia Lynchburg,Norfolk State,False,8,1,97,20,PUNT,6,31,False
+401867974,6,Norfolk State,Virginia Lynchburg,True,9,1,80,0,TD,8,79,True
 401867974,6,Virginia Lynchburg,Norfolk State,False,10,2,83,100,INT TD,3,-7,True
-401867974,6,Virginia Lynchburg,Norfolk State,False,11,2,75,100,TD,3,4,True
+401867974,6,Virginia Lynchburg,Norfolk State,False,11,2,75,100,PUNT TD,3,4,True
 401867974,6,Virginia Lynchburg,Norfolk State,False,12,2,75,32,INT,5,28,False
 401867974,6,Norfolk State,Virginia Lynchburg,True,13,2,68,16,INT,7,39,False
 401867974,6,Virginia Lynchburg,Norfolk State,False,14,2,84,100,INT TD,2,14,True
@@ -17936,34 +18199,60 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401867974,6,Norfolk State,Virginia Lynchburg,True,16,2,72,0,TD,8,72,True
 401867974,6,Norfolk State,Virginia Lynchburg,True,17,2,65,20,END OF HALF,0,0,False
 401867974,6,Norfolk State,Virginia Lynchburg,True,18,3,58,0,TD,4,58,True
-401867974,6,Virginia Lynchburg,Norfolk State,False,19,3,75,11,PUNT,9,35,False
+401867974,6,Virginia Lynchburg,Norfolk State,False,19,3,75,11,PUNT,8,35,False
 401867974,6,Norfolk State,Virginia Lynchburg,True,20,3,89,53,FUMBLE,3,49,False
-401867974,6,Virginia Lynchburg,Norfolk State,False,21,3,60,91,TD,5,9,True
+401867974,6,Virginia Lynchburg,Norfolk State,False,21,3,60,100,TD,5,-40,True
 401867974,6,Virginia Lynchburg,Norfolk State,False,22,3,75,33,PUNT,4,11,False
 401867974,6,Norfolk State,Virginia Lynchburg,True,23,3,67,32,PUNT,3,-4,False
 401867974,6,Virginia Lynchburg,Norfolk State,False,24,4,68,39,INT,9,30,False
 401867974,6,Norfolk State,Virginia Lynchburg,True,25,4,61,20,DOWNS,8,41,False
-401867974,6,Virginia Lynchburg,Norfolk State,False,26,4,80,75,Uncategorized,3,5,False
+401867974,6,Virginia Lynchburg,Norfolk State,False,26,4,80,75,END OF GAME,3,5,False
+401867980,6,North Carolina Central,William & Mary,True,1,1,75,100,PUNT TD,3,-4,True
+401867980,6,North Carolina Central,William & Mary,True,2,1,75,25,PUNT,8,28,False
+401867980,6,William & Mary,North Carolina Central,False,3,1,75,21,PUNT,3,-7,False
+401867980,6,North Carolina Central,William & Mary,True,4,1,79,65,FUMBLE,4,14,False
+401867980,6,William & Mary,North Carolina Central,False,5,1,35,32,MISSED FG,4,3,False
+401867980,6,North Carolina Central,William & Mary,True,6,1,68,22,MISSED FG,11,46,False
+401867980,6,William & Mary,North Carolina Central,False,7,2,78,32,PUNT,3,7,False
+401867980,6,North Carolina Central,William & Mary,True,8,2,68,0,TD,9,68,True
+401867980,6,William & Mary,North Carolina Central,False,9,2,73,50,PUNT,3,3,False
+401867980,6,North Carolina Central,William & Mary,True,10,2,50,10,DOWNS,8,40,False
+401867980,6,William & Mary,North Carolina Central,False,11,2,90,0,INT,7,87,False
+401867980,6,North Carolina Central,William & Mary,True,12,2,80,50,DOWNS,10,30,False
+401867980,6,William & Mary,North Carolina Central,False,13,2,50,45,INT,4,-1,False
+401867980,6,William & Mary,North Carolina Central,False,14,3,69,22,PUNT,3,4,False
+401867980,6,North Carolina Central,William & Mary,True,15,3,78,36,PUNT,3,-3,False
+401867980,6,William & Mary,North Carolina Central,False,16,3,64,0,TD,8,64,True
+401867980,6,North Carolina Central,William & Mary,True,17,3,75,0,TD,3,75,True
+401867980,6,William & Mary,North Carolina Central,False,18,3,84,1,PUNT,6,37,False
+401867980,6,North Carolina Central,William & Mary,True,19,3,99,43,PUNT,3,9,False
+401867980,6,William & Mary,North Carolina Central,False,20,3,57,8,PUNT,3,5,False
+401867980,6,North Carolina Central,William & Mary,True,21,4,92,72,PUNT,3,-2,False
+401867980,6,William & Mary,North Carolina Central,False,22,4,28,65,FG,4,4,True
+401867980,6,North Carolina Central,William & Mary,True,23,4,75,15,MISSED FG,12,60,False
+401867980,6,William & Mary,North Carolina Central,False,24,4,80,5,PUNT,10,36,False
+401867980,6,North Carolina Central,William & Mary,True,25,4,95,63,DOWNS,7,32,False
+401867980,6,William & Mary,North Carolina Central,False,26,4,37,43,END OF GAME,3,-6,False
 401867987,6,Charleston Southern,South Carolina State,True,1,1,82,0,TD,6,82,True
 401867987,6,South Carolina State,Charleston Southern,False,2,1,65,43,PUNT,3,-1,False
 401867987,6,Charleston Southern,South Carolina State,True,3,1,57,14,PUNT,3,6,False
-401867987,6,South Carolina State,Charleston Southern,False,4,1,86,100,TD,3,6,True
+401867987,6,South Carolina State,Charleston Southern,False,4,1,86,100,PUNT TD,3,6,True
 401867987,6,South Carolina State,Charleston Southern,False,5,1,82,0,TD,10,82,True
 401867987,6,Charleston Southern,South Carolina State,True,6,1,75,0,TD,8,75,True
 401867987,6,South Carolina State,Charleston Southern,False,7,2,75,0,TD,11,75,True
-401867987,6,South Carolina State,Charleston Southern,False,8,2,65,100,TD,0,0,True
+401867987,6,Charleston Southern,South Carolina State,True,8,2,98,0,TD,0,0,True
 401867987,6,South Carolina State,Charleston Southern,False,9,2,75,65,FG,11,66,True
-401867987,6,Charleston Southern,South Carolina State,True,10,2,62,61,Uncategorized,3,1,False
+401867987,6,Charleston Southern,South Carolina State,True,10,2,62,100,PUNT,3,1,False
 401867987,6,South Carolina State,Charleston Southern,False,11,2,89,67,PUNT,3,0,False
 401867987,6,Charleston Southern,South Carolina State,True,12,2,33,0,TD,4,33,True
 401867987,6,Charleston Southern,South Carolina State,True,13,2,65,23,END OF HALF,3,6,False
 401867987,6,South Carolina State,Charleston Southern,False,14,3,75,71,FUMBLE,1,4,False
 401867987,6,Charleston Southern,South Carolina State,True,15,3,29,0,TD,1,29,True
 401867987,6,South Carolina State,Charleston Southern,False,16,3,71,13,DOWNS,13,58,False
-401867987,6,Charleston Southern,South Carolina State,True,17,3,87,97,FUMBLE,2,-10,False
+401867987,6,Charleston Southern,South Carolina State,True,17,3,87,97,FUMBLE,2,15,False
 401867987,6,South Carolina State,Charleston Southern,False,18,3,3,0,TD,1,3,True
 401867987,6,Charleston Southern,South Carolina State,True,19,3,75,23,PUNT,4,8,False
-401867987,6,South Carolina State,Charleston Southern,False,20,3,77,0,TD,5,76,True
+401867987,6,South Carolina State,Charleston Southern,False,20,3,77,0,TD,6,77,True
 401867987,6,Charleston Southern,South Carolina State,True,21,3,94,23,PUNT,6,33,False
 401867987,6,South Carolina State,Charleston Southern,False,22,3,77,21,PUNT,3,-1,False
 401867987,6,Charleston Southern,South Carolina State,True,23,3,79,32,PUNT,3,0,False
@@ -17974,53 +18263,90 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401867987,6,South Carolina State,Charleston Southern,False,28,4,75,19,INT,5,50,False
 401867987,6,Charleston Southern,South Carolina State,True,29,4,81,44,PUNT,3,-2,False
 401867987,6,South Carolina State,Charleston Southern,False,30,4,56,3,INT,5,14,False
-401867987,6,Charleston Southern,South Carolina State,True,31,4,97,53,PUNT,3,7,False
+401867987,6,Charleston Southern,South Carolina State,True,31,4,97,53,PUNT,3,5,False
 401867987,6,South Carolina State,Charleston Southern,False,32,4,47,0,TD,8,47,True
-401867987,6,South Carolina State,Charleston Southern,False,33,4,65,65,Uncategorized,0,0,False
+401867987,6,Charleston Southern,South Carolina State,True,33,4,35,47,END OF HALF,0,0,False
 401867992,6,Georgetown,Bucknell,True,1,1,70,21,DOWNS,9,49,False
 401867992,6,Bucknell,Georgetown,False,2,1,79,3,TD,8,79,True
 401867992,6,Georgetown,Bucknell,True,3,1,78,3,TD,10,78,True
 401867992,6,Bucknell,Georgetown,False,4,1,78,23,PUNT,3,7,False
 401867992,6,Georgetown,Bucknell,True,5,1,77,60,INT,6,32,False
 401867992,6,Bucknell,Georgetown,False,6,2,40,0,TD,5,40,True
-401867992,6,Georgetown,Bucknell,True,7,2,75,3,TD,11,35,True
+401867992,6,Georgetown,Bucknell,True,7,2,75,3,TD,11,75,True
 401867992,6,Bucknell,Georgetown,False,8,2,75,1,INT,10,69,False
 401867992,6,Georgetown,Bucknell,True,9,2,99,98,END OF HALF,1,1,False
-401867992,6,Bucknell,Georgetown,False,10,3,65,36,PUNT,3,1,False
+401867992,6,Bucknell,Georgetown,False,10,3,65,36,PUNT,3,10,False
 401867992,6,Georgetown,Bucknell,True,11,3,92,25,PUNT,5,22,False
 401867992,6,Bucknell,Georgetown,False,12,3,75,17,PUNT,3,-8,False
 401867992,6,Georgetown,Bucknell,True,13,3,49,20,PUNT,3,-1,False
 401867992,6,Bucknell,Georgetown,False,14,3,80,38,PUNT,3,4,False
 401867992,6,Georgetown,Bucknell,True,15,3,62,0,TD,5,62,True
-401867992,6,Bucknell,Georgetown,False,16,3,75,26,FUMBLE,6,77,False
+401867992,6,Bucknell,Georgetown,False,16,3,75,26,FUMBLE,6,45,False
 401867992,6,Georgetown,Bucknell,True,17,4,85,10,MISSED FG,16,75,False
 401867992,6,Bucknell,Georgetown,False,18,4,80,13,PUNT,3,-6,False
-401867992,6,Georgetown,Bucknell,True,19,4,52,1,PUNT,3,5,False
+401867992,6,Georgetown,Bucknell,True,19,4,52,1,PUNT,3,8,False
 401867992,6,Bucknell,Georgetown,False,20,4,80,35,INT,5,22,False
-401867992,6,Georgetown,Bucknell,True,21,4,65,63,Uncategorized,3,6,False
+401867992,6,Georgetown,Bucknell,True,21,4,65,63,END OF GAME,3,6,False
 401868011,6,Fordham,Richmond,True,1,1,76,3,TD,9,76,True
 401868011,6,Richmond,Fordham,False,2,1,77,26,PUNT,3,3,False
 401868011,6,Fordham,Richmond,True,3,1,60,14,PUNT,5,18,False
-401868011,6,Richmond,Fordham,False,4,1,86,3,TD,14,86,True
-401868011,6,Fordham,Richmond,True,5,2,75,80,MISSED FG,13,55,False
+401868011,6,Richmond,Fordham,False,4,1,86,35,TD,14,86,True
+401868011,6,Fordham,Richmond,True,5,2,75,20,MISSED FG,13,55,False
 401868011,6,Richmond,Fordham,False,6,2,80,85,PUNT,7,13,False
-401868011,6,Fordham,Richmond,True,7,2,85,38,PUNT,3,-6,False
-401868011,6,Richmond,Fordham,False,8,2,62,60,END OF HALF,7,22,False
-401868011,6,Fordham,Richmond,True,9,2,98,96,DOWNS,1,2,False
+401868011,6,Fordham,Richmond,True,7,2,85,38,PUNT,3,0,False
+401868011,6,Richmond,Fordham,False,8,2,62,2,PUNT,7,22,False
+401868011,6,Fordham,Richmond,True,9,2,98,96,END OF HALF,1,2,False
 401868011,6,Richmond,Fordham,False,10,3,83,37,PUNT,3,6,False
 401868011,6,Richmond,Fordham,False,11,3,37,60,PUNT,3,-3,False
-401868011,6,Fordham,Richmond,True,12,3,87,100,FUMBLE TD,1,-13,True
+401868011,6,Fordham,Richmond,True,12,3,87,100,FUMBLE RETURN TD,1,-13,True
 401868011,6,Fordham,Richmond,True,13,3,50,14,PUNT,3,1,False
-401868011,6,Richmond,Fordham,False,14,3,86,82,Uncategorized,1,4,False
+401868011,6,Richmond,Fordham,False,14,3,86,82,FUMBLE,1,4,False
 401868011,6,Fordham,Richmond,True,15,3,18,12,INT,3,6,False
 401868011,6,Richmond,Fordham,False,16,3,88,50,PUNT,3,-1,False
 401868011,6,Fordham,Richmond,True,17,3,50,0,TD,5,50,True
-401868011,6,Richmond,Fordham,False,18,3,75,22,Uncategorized,6,13,False
+401868011,6,Richmond,Fordham,False,18,3,75,22,PUNT,6,13,False
 401868011,6,Fordham,Richmond,True,19,4,78,26,PUNT,3,4,False
 401868011,6,Richmond,Fordham,False,20,4,77,38,DOWNS,10,39,False
 401868011,6,Fordham,Richmond,True,21,4,62,0,TD,12,62,True
 401868011,6,Richmond,Fordham,False,22,4,75,34,INT,6,21,False
-401868011,6,Fordham,Richmond,True,23,4,66,54,Uncategorized,3,12,False
+401868011,6,Fordham,Richmond,True,23,4,66,54,END OF GAME,3,12,False
+401868054,6,Abilene Christian,Central Arkansas,True,1,1,75,65,FG,18,66,True
+401868054,6,Central Arkansas,Abilene Christian,False,2,1,75,26,INT,11,40,False
+401868054,6,Abilene Christian,Central Arkansas,True,3,1,26,0,TD,6,26,True
+401868054,6,Central Arkansas,Abilene Christian,False,4,2,75,25,MISSED FG,9,50,False
+401868054,6,Abilene Christian,Central Arkansas,True,5,2,75,0,TD,10,75,True
+401868054,6,Central Arkansas,Abilene Christian,False,6,2,75,19,PUNT,4,25,False
+401868054,6,Abilene Christian,Central Arkansas,True,7,2,81,79,END OF HALF,3,2,False
+401868054,6,Central Arkansas,Abilene Christian,False,8,3,75,30,TD,8,75,True
+401868054,6,Abilene Christian,Central Arkansas,True,9,3,80,18,PUNT,6,22,False
+401868054,6,Central Arkansas,Abilene Christian,False,10,3,82,22,PUNT,3,8,False
+401868054,6,Abilene Christian,Central Arkansas,True,11,3,78,65,FG,7,61,True
+401868054,6,Central Arkansas,Abilene Christian,False,12,3,75,10,FUMBLE,11,65,False
+401868054,6,Abilene Christian,Central Arkansas,True,13,4,90,54,PUNT,3,-6,False
+401868054,6,Central Arkansas,Abilene Christian,False,14,4,46,0,TD,2,46,True
+401868054,6,Abilene Christian,Central Arkansas,True,15,4,75,18,END OF GAME,15,57,False
+401868065,6,Tarleton State,Austin Peay,False,1,1,80,55,PUNT,3,5,False
+401868065,6,Austin Peay,Tarleton State,True,2,1,45,6,PUNT,3,4,False
+401868065,6,Tarleton State,Austin Peay,False,3,1,94,50,PUNT,4,26,False
+401868065,6,Austin Peay,Tarleton State,True,4,1,50,65,FG,6,45,True
+401868065,6,Tarleton State,Austin Peay,False,5,1,75,0,TD,7,75,True
+401868065,6,Austin Peay,Tarleton State,True,6,1,75,94,PUNT,3,-2,False
+401868065,6,Tarleton State,Austin Peay,False,7,1,6,65,FG,4,3,True
+401868065,6,Tarleton State,Austin Peay,False,8,1,65,0,TD,6,45,True
+401868065,6,Austin Peay,Tarleton State,True,9,2,84,13,PUNT,6,28,False
+401868065,6,Tarleton State,Austin Peay,False,10,2,87,0,TD,10,87,True
+401868065,6,Austin Peay,Tarleton State,True,11,2,75,0,TD,12,75,True
+401868065,6,Tarleton State,Austin Peay,False,12,2,75,15,INT,8,61,False
+401868065,6,Austin Peay,Tarleton State,True,13,2,85,73,END OF HALF,1,12,False
+401868065,6,Austin Peay,Tarleton State,True,14,3,75,34,PUNT,3,-4,False
+401868065,6,Tarleton State,Austin Peay,False,15,3,66,0,TD,6,66,True
+401868065,6,Austin Peay,Tarleton State,True,16,3,75,0,TD,13,75,True
+401868065,6,Tarleton State,Austin Peay,False,17,3,61,65,FG,9,46,True
+401868065,6,Austin Peay,Tarleton State,True,18,4,75,0,TD,10,75,True
+401868065,6,Tarleton State,Austin Peay,False,19,4,52,0,TD,4,81,True
+401868065,6,Austin Peay,Tarleton State,True,20,4,75,0,TD,11,75,True
+401868065,6,Tarleton State,Austin Peay,False,21,4,75,31,PUNT,9,11,False
+401868065,6,Austin Peay,Tarleton State,True,22,4,69,31,END OF GAME,2,15,False
 401868078,6,Cal Poly,Idaho State,False,1,1,76,66,PUNT,3,-19,False
 401868078,6,Idaho State,Cal Poly,True,2,1,34,65,FG,7,24,True
 401868078,6,Cal Poly,Idaho State,False,3,1,75,0,TD,14,75,True
@@ -18029,8 +18355,8 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401868078,6,Idaho State,Cal Poly,True,6,2,60,10,INT,2,2,False
 401868078,6,Cal Poly,Idaho State,False,7,2,90,32,PUNT,3,22,False
 401868078,6,Idaho State,Cal Poly,True,8,2,83,0,TD,14,83,True
-401868078,6,Cal Poly,Idaho State,False,9,2,75,65,FG,10,65,True
-401868078,6,Idaho State,Cal Poly,True,10,2,72,66,FG,6,38,True
+401868078,6,Cal Poly,Idaho State,False,9,2,75,65,FG,10,69,True
+401868078,6,Idaho State,Cal Poly,True,10,2,72,66,FG,6,44,True
 401868078,6,Idaho State,Cal Poly,True,11,3,75,2,PUNT,5,34,False
 401868078,6,Cal Poly,Idaho State,False,12,3,98,0,SF,1,-2,True
 401868078,6,Idaho State,Cal Poly,True,13,3,69,33,FG,10,36,True
@@ -18041,10 +18367,34 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401868078,6,Cal Poly,Idaho State,False,18,4,75,33,DOWNS,8,42,False
 401868078,6,Idaho State,Cal Poly,True,19,4,67,12,PUNT,5,19,False
 401868078,6,Cal Poly,Idaho State,False,20,4,88,32,PUNT,3,-2,False
-401868078,6,Idaho State,Cal Poly,True,21,4,68,34,PUNT,3,3,False
+401868078,6,Idaho State,Cal Poly,True,21,4,68,34,PUNT,3,1,False
 401868078,6,Cal Poly,Idaho State,False,22,4,66,0,TD,7,66,True
 401868078,6,Idaho State,Cal Poly,True,23,4,75,50,INT,3,7,False
-401868078,6,Cal Poly,Idaho State,False,24,4,50,50,Uncategorized,2,-4,False
+401868078,6,Cal Poly,Idaho State,False,24,4,50,50,END OF HALF,2,-4,False
+401868087,6,Eastern Washington,Northern Colorado,True,1,1,96,0,TD,7,96,True
+401868087,6,Northern Colorado,Eastern Washington,False,2,1,75,37,DOWNS,7,38,False
+401868087,6,Eastern Washington,Northern Colorado,True,3,1,63,0,TD,6,63,True
+401868087,6,Northern Colorado,Eastern Washington,False,4,1,75,40,DOWNS,7,35,False
+401868087,6,Eastern Washington,Northern Colorado,True,5,1,60,14,PUNT,3,5,False
+401868087,6,Northern Colorado,Eastern Washington,False,6,1,86,65,FG,6,74,True
+401868087,6,Eastern Washington,Northern Colorado,True,7,2,75,0,TD,9,75,True
+401868087,6,Northern Colorado,Eastern Washington,False,8,2,75,29,PUNT,3,0,False
+401868087,6,Eastern Washington,Northern Colorado,True,9,2,71,29,PUNT,3,0,False
+401868087,6,Northern Colorado,Eastern Washington,False,10,2,71,65,FG,10,68,True
+401868087,6,Eastern Washington,Northern Colorado,True,11,2,75,0,TD,9,75,True
+401868087,6,Northern Colorado,Eastern Washington,False,12,2,91,65,END OF HALF,3,26,False
+401868087,6,Northern Colorado,Eastern Washington,False,13,3,78,0,TD,17,78,True
+401868087,6,Eastern Washington,Northern Colorado,True,14,3,93,60,PUNT,3,3,False
+401868087,6,Northern Colorado,Eastern Washington,False,15,3,40,65,FG,9,23,True
+401868087,6,Eastern Washington,Northern Colorado,True,16,4,72,38,PUNT,6,-5,False
+401868087,6,Northern Colorado,Eastern Washington,False,17,4,62,0,TD,7,62,True
+401868087,6,Eastern Washington,Northern Colorado,True,18,4,85,32,PUNT,3,5,False
+401868087,6,Northern Colorado,Eastern Washington,False,19,4,68,20,PUNT,6,21,False
+401868087,6,Eastern Washington,Northern Colorado,True,20,4,80,65,FG,7,51,True
+401868087,6,Northern Colorado,Eastern Washington,False,21,4,85,60,INT,1,0,False
+401868087,6,Eastern Washington,Northern Colorado,True,22,4,40,15,PUNT,3,6,False
+401868087,6,Northern Colorado,Eastern Washington,False,23,4,85,8,INT,5,53,False
+401868087,6,Eastern Washington,Northern Colorado,True,24,4,92,97,END OF GAME,3,-7,False
 401868095,6,Weber State,Idaho,True,1,1,75,0,TD,1,75,True
 401868095,6,Idaho,Weber State,False,2,1,71,22,MISSED FG,9,49,False
 401868095,6,Weber State,Idaho,True,3,1,78,0,TD,13,78,True
@@ -18062,15 +18412,15 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401868095,6,Weber State,Idaho,True,15,3,76,7,PUNT,3,7,False
 401868095,6,Idaho,Weber State,False,16,3,93,86,INT,3,6,False
 401868095,6,Weber State,Idaho,True,17,4,14,0,TD,2,14,True
-401868095,6,Idaho,Weber State,False,18,4,65,0,TD,12,35,True
+401868095,6,Idaho,Weber State,False,18,4,65,0,TD,12,65,True
 401868095,6,Weber State,Idaho,True,19,4,75,0,TD,3,75,True
 401868095,6,Idaho,Weber State,False,20,4,75,58,INT,6,24,False
 401868095,6,Weber State,Idaho,True,21,4,42,0,TD,7,42,True
 401868095,6,Idaho,Weber State,False,22,4,69,0,TD,13,69,True
-401868095,6,Weber State,Idaho,True,23,4,48,49,Uncategorized,1,-1,False
+401868095,6,Weber State,Idaho,True,23,4,48,49,END OF GAME,1,-1,False
 401868115,6,Northern Arizona,Montana,True,1,1,75,55,DOWNS,7,20,False
 401868115,6,Montana,Northern Arizona,False,2,1,45,0,TD,5,45,True
-401868115,6,Northern Arizona,Montana,True,3,1,75,0,TD,8,47,True
+401868115,6,Northern Arizona,Montana,True,3,1,75,0,TD,7,75,True
 401868115,6,Montana,Northern Arizona,False,4,1,75,17,PUNT,5,22,False
 401868115,6,Northern Arizona,Montana,True,5,1,83,60,FUMBLE,3,23,False
 401868115,6,Montana,Northern Arizona,False,6,1,40,65,FG,10,28,True
@@ -18085,17 +18435,40 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401868115,6,Northern Arizona,Montana,True,15,3,45,0,TD,5,45,True
 401868115,6,Montana,Northern Arizona,False,16,3,75,30,PUNT,3,3,False
 401868115,6,Northern Arizona,Montana,True,17,3,70,32,PUNT,3,1,False
-401868115,6,Montana,Northern Arizona,False,18,3,68,2,TD,7,67,True
-401868115,6,Montana,Northern Arizona,False,19,4,65,100,TD,0,0,True
+401868115,6,Montana,Northern Arizona,False,18,3,68,2,TD,8,68,True
+401868115,6,Northern Arizona,Montana,True,19,4,75,0,TD,0,0,True
 401868115,6,Montana,Northern Arizona,False,20,4,75,0,TD,9,75,True
 401868115,6,Northern Arizona,Montana,True,21,4,75,0,TD,11,75,True
 401868115,6,Montana,Northern Arizona,False,22,4,75,65,FG,7,58,True
 401868115,6,Northern Arizona,Montana,True,23,4,60,0,SF,4,-40,True
+401868115,6,Northern Arizona,Montana,True,24,4,80,33,Uncategorized,2,40,False
+401868144,6,Eastern Kentucky,West Georgia,True,1,1,75,21,PUNT,3,2,False
+401868144,6,West Georgia,Eastern Kentucky,False,2,1,79,26,PUNT,3,3,False
+401868144,6,Eastern Kentucky,West Georgia,True,3,1,74,20,PUNT,4,15,False
+401868144,6,West Georgia,Eastern Kentucky,False,4,1,80,4,PUNT,4,18,False
+401868144,6,Eastern Kentucky,West Georgia,True,5,1,96,65,PUNT,3,9,False
+401868144,6,West Georgia,Eastern Kentucky,False,6,1,35,0,TD,6,35,True
+401868144,6,Eastern Kentucky,West Georgia,True,7,1,81,0,TD,8,81,True
+401868144,6,West Georgia,Eastern Kentucky,False,8,2,75,13,FUMBLE,3,66,False
+401868144,6,Eastern Kentucky,West Georgia,True,9,2,87,0,TD,12,87,True
+401868144,6,West Georgia,Eastern Kentucky,False,10,2,75,18,PUNT,6,10,False
+401868144,6,Eastern Kentucky,West Georgia,True,11,2,82,7,TD,12,82,True
+401868144,6,West Georgia,Eastern Kentucky,False,12,2,75,61,END OF HALF,3,17,False
+401868144,6,West Georgia,Eastern Kentucky,False,13,3,75,65,FG,9,55,True
+401868144,6,Eastern Kentucky,West Georgia,True,14,3,75,5,PUNT,10,38,False
+401868144,6,West Georgia,Eastern Kentucky,False,15,3,95,35,FG,11,64,True
+401868144,6,Eastern Kentucky,West Georgia,True,16,3,43,65,FG,7,30,True
+401868144,6,West Georgia,Eastern Kentucky,False,17,4,75,0,TD,7,75,True
+401868144,6,Eastern Kentucky,West Georgia,True,18,4,65,65,FG,10,44,True
+401868144,6,West Georgia,Eastern Kentucky,False,19,4,75,40,PUNT,3,-5,False
+401868144,6,Eastern Kentucky,West Georgia,True,20,4,60,65,FG,7,29,True
+401868144,6,West Georgia,Eastern Kentucky,False,21,4,75,23,INT,3,35,False
+401868144,6,Eastern Kentucky,West Georgia,True,22,4,77,31,PUNT,3,8,False
 401868156,6,Portland State,Utah Tech,True,1,1,76,36,DOWNS,8,40,False
 401868156,6,Utah Tech,Portland State,False,2,1,64,53,PUNT,6,17,False
 401868156,6,Portland State,Utah Tech,True,3,1,92,3,TD,14,92,True
 401868156,6,Utah Tech,Portland State,False,4,1,71,63,PUNT,3,-5,False
-401868156,6,Portland State,Utah Tech,True,5,2,37,33,TD,3,4,True
+401868156,6,Portland State,Utah Tech,True,5,2,37,33,TD,3,37,True
 401868156,6,Utah Tech,Portland State,False,6,2,91,80,FUMBLE,4,11,False
 401868156,6,Portland State,Utah Tech,True,7,2,20,18,FG,4,2,True
 401868156,6,Portland State,Utah Tech,True,8,2,65,0,TD,6,21,True
@@ -18104,14 +18477,46 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401868156,6,Utah Tech,Portland State,False,11,2,75,61,END OF HALF,5,23,False
 401868156,6,Utah Tech,Portland State,False,12,3,75,15,MISSED FG,8,60,False
 401868156,6,Portland State,Utah Tech,True,13,3,80,32,PUNT,4,12,False
-401868156,6,Utah Tech,Portland State,False,14,3,91,62,DOWNS,13,53,False
-401868156,6,Portland State,Utah Tech,True,15,3,63,3,Uncategorized,7,60,False
+401868156,6,Utah Tech,Portland State,False,14,3,91,62,DOWNS,12,54,False
+401868156,6,Portland State,Utah Tech,True,15,3,63,100,FUMBLE,8,63,False
 401868156,6,Utah Tech,Portland State,False,16,3,80,55,DOWNS,9,35,False
 401868156,6,Portland State,Utah Tech,True,17,4,55,59,PUNT,5,14,False
 401868156,6,Utah Tech,Portland State,False,18,4,80,3,TD,16,80,True
-401868156,6,Portland State,Utah Tech,True,19,4,43,17,Uncategorized,7,26,False
+401868156,6,Portland State,Utah Tech,True,19,4,43,17,END OF GAME,7,26,False
+401868180,6,Eastern Illinois,Gardner-Webb,False,1,1,91,47,PUNT,4,11,False
+401868180,6,Gardner-Webb,Eastern Illinois,True,2,1,53,47,FUMBLE,1,6,False
+401868180,6,Eastern Illinois,Gardner-Webb,False,3,1,53,20,PUNT,3,6,False
+401868180,6,Gardner-Webb,Eastern Illinois,True,4,1,80,13,PUNT,5,17,False
+401868180,6,Eastern Illinois,Gardner-Webb,False,5,1,87,38,PUNT,3,5,False
+401868180,6,Eastern Illinois,Gardner-Webb,False,6,1,38,30,DOWNS,4,8,False
+401868180,6,Gardner-Webb,Eastern Illinois,True,7,1,70,30,PUNT,3,-2,False
+401868180,6,Eastern Illinois,Gardner-Webb,False,8,1,70,30,PUNT,3,-8,False
+401868180,6,Gardner-Webb,Eastern Illinois,True,9,2,70,36,PUNT,3,1,False
+401868180,6,Eastern Illinois,Gardner-Webb,False,10,2,64,23,PUNT,3,-7,False
+401868180,6,Gardner-Webb,Eastern Illinois,True,11,2,77,27,PUNT,3,9,False
+401868180,6,Eastern Illinois,Gardner-Webb,False,12,2,73,22,PUNT,3,1,False
+401868180,6,Gardner-Webb,Eastern Illinois,True,13,2,78,30,PUNT,6,17,False
+401868180,6,Eastern Illinois,Gardner-Webb,False,14,2,70,30,PUNT,3,-8,False
+401868180,6,Gardner-Webb,Eastern Illinois,True,15,2,70,38,FUMBLE,5,32,False
+401868180,6,Eastern Illinois,Gardner-Webb,False,16,2,62,61,END OF HALF,2,1,False
+401868180,6,Gardner-Webb,Eastern Illinois,True,17,3,78,99,FUMBLE,4,-21,False
+401868180,6,Eastern Illinois,Gardner-Webb,False,18,3,1,0,TD,1,1,True
+401868180,6,Gardner-Webb,Eastern Illinois,True,19,3,74,6,INT,13,60,False
+401868180,6,Eastern Illinois,Gardner-Webb,False,20,3,94,52,PUNT,3,4,False
+401868180,6,Gardner-Webb,Eastern Illinois,True,21,3,48,39,DOWNS,4,9,False
+401868180,6,Eastern Illinois,Gardner-Webb,False,22,3,61,18,PUNT,3,7,False
+401868180,6,Gardner-Webb,Eastern Illinois,True,23,3,82,26,PUNT,5,18,False
+401868180,6,Eastern Illinois,Gardner-Webb,False,24,4,74,39,PUNT,4,-4,False
+401868180,6,Gardner-Webb,Eastern Illinois,True,25,4,61,0,TD,3,61,True
+401868180,6,Eastern Illinois,Gardner-Webb,False,26,4,78,29,PUNT,3,6,False
+401868180,6,Gardner-Webb,Eastern Illinois,True,27,4,71,24,PUNT,3,6,False
+401868180,6,Eastern Illinois,Gardner-Webb,False,28,4,76,0,TD,7,76,True
+401868180,6,Gardner-Webb,Eastern Illinois,True,29,4,76,68,DOWNS,4,8,False
+401868180,6,Eastern Illinois,Gardner-Webb,False,30,4,32,0,TD,4,32,True
+401868180,6,Gardner-Webb,Eastern Illinois,True,31,4,73,43,FUMBLE,8,30,False
+401868180,6,Eastern Illinois,Gardner-Webb,False,32,4,57,59,END OF GAME,1,-2,False
 401868198,6,Tennessee State,UT Martin,True,1,1,75,36,INT,7,23,False
-401868198,6,UT Martin,Tennessee State,False,2,1,64,48,FUMBLE,4,12,False
+401868198,6,UT Martin,Tennessee State,False,2,1,64,48,FUMBLE,4,1,False
 401868198,6,Tennessee State,UT Martin,True,3,1,37,0,TD,4,37,True
 401868198,6,UT Martin,Tennessee State,False,4,1,65,1,PUNT,5,15,False
 401868198,6,Tennessee State,UT Martin,True,5,1,99,0,TD,1,99,True
@@ -18121,8 +18526,8 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401868198,6,Tennessee State,UT Martin,True,9,2,84,28,PUNT,3,5,False
 401868198,6,UT Martin,Tennessee State,False,10,2,72,0,TD,11,72,True
 401868198,6,Tennessee State,UT Martin,True,11,2,87,88,END OF HALF,1,-1,False
-401868198,6,UT Martin,Tennessee State,False,12,3,75,46,FUMBLE,12,29,False
-401868198,6,Tennessee State,UT Martin,True,13,3,54,100,FUMBLE TD,8,-46,True
+401868198,6,UT Martin,Tennessee State,False,12,3,75,46,FUMBLE,11,29,False
+401868198,6,Tennessee State,UT Martin,True,13,3,54,100,FUMBLE TD,8,51,True
 401868198,6,Tennessee State,UT Martin,True,14,3,75,46,PUNT,3,1,False
 401868198,6,UT Martin,Tennessee State,False,15,3,54,0,TD,8,54,True
 401868198,6,Tennessee State,UT Martin,True,16,3,75,96,INT,3,0,False
@@ -18132,10 +18537,10 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401868198,6,Tennessee State,UT Martin,True,20,4,72,3,TD,7,72,True
 401868198,6,UT Martin,Tennessee State,False,21,4,75,31,PUNT,3,6,False
 401868198,6,Tennessee State,UT Martin,True,22,4,69,33,DOWNS,8,36,False
-401868198,6,UT Martin,Tennessee State,False,23,4,67,18,PUNT,4,18,False
+401868198,6,UT Martin,Tennessee State,False,23,4,67,18,PUNT,4,21,False
 401868198,6,Tennessee State,UT Martin,True,24,4,82,77,INT TD,1,0,True
 401868198,6,Tennessee State,UT Martin,True,25,4,81,80,DOWNS,4,1,False
-401868198,6,UT Martin,Tennessee State,False,26,4,20,27,Uncategorized,3,-7,False
+401868198,6,UT Martin,Tennessee State,False,26,4,20,27,END OF GAME,3,-7,False
 401868212,6,San Diego,Butler,False,1,1,75,49,INT,4,15,False
 401868212,6,Butler,San Diego,True,2,1,51,50,PUNT,3,1,False
 401868212,6,San Diego,Butler,False,3,1,82,23,PUNT,3,5,False
@@ -18153,35 +18558,35 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401868212,6,Butler,San Diego,True,15,3,15,3,TD,2,15,True
 401868212,6,San Diego,Butler,False,16,3,80,15,PUNT,4,20,False
 401868212,6,Butler,San Diego,True,17,3,85,39,PUNT,6,30,False
-401868212,6,San Diego,Butler,False,18,3,61,30,TD,6,76,True
+401868212,6,San Diego,Butler,False,18,3,61,30,TD,6,61,True
 401868212,6,Butler,San Diego,True,19,4,60,3,TD,5,60,True
 401868212,6,San Diego,Butler,False,20,4,75,34,PUNT,3,-4,False
 401868212,6,Butler,San Diego,True,21,4,66,46,PUNT,3,1,False
 401868212,6,San Diego,Butler,False,22,4,54,11,DOWNS,12,43,False
-401868212,6,Butler,San Diego,True,23,4,89,77,Uncategorized,3,12,False
+401868212,6,Butler,San Diego,True,23,4,89,79,END OF HALF,4,10,False
 401868221,6,Davidson,Presbyterian,False,1,1,22,0,TD,3,22,True
 401868221,6,Presbyterian,Davidson,True,2,1,72,55,FUMBLE,3,17,False
 401868221,6,Davidson,Presbyterian,False,3,1,45,0,TD,3,45,True
 401868221,6,Presbyterian,Davidson,True,4,1,75,0,TD,10,75,True
 401868221,6,Davidson,Presbyterian,False,5,1,73,47,INT,2,15,False
-401868221,6,Presbyterian,Davidson,True,6,1,53,0,TD,9,52,True
+401868221,6,Presbyterian,Davidson,True,6,1,53,0,TD,9,53,True
 401868221,6,Davidson,Presbyterian,False,7,1,69,21,PUNT,3,4,False
 401868221,6,Presbyterian,Davidson,True,8,1,79,0,TD,10,79,True
 401868221,6,Davidson,Presbyterian,False,9,2,75,33,PUNT,3,0,False
 401868221,6,Presbyterian,Davidson,True,10,2,67,0,TD,5,67,True
 401868221,6,Davidson,Presbyterian,False,11,2,55,33,DOWNS,10,22,False
-401868221,6,Presbyterian,Davidson,True,12,2,67,0,FUMBLE,10,67,True
+401868221,6,Presbyterian,Davidson,True,12,2,67,0,TD,10,67,True
 401868221,6,Davidson,Presbyterian,False,13,2,64,59,END OF HALF,2,5,False
-401868221,6,Davidson,Presbyterian,False,14,3,72,17,PUNT,3,6,False
+401868221,6,Davidson,Presbyterian,False,14,3,72,17,PUNT,3,2,False
 401868221,6,Presbyterian,Davidson,True,15,3,83,7,PUNT,12,53,False
 401868221,6,Davidson,Presbyterian,False,16,3,93,0,TD,6,93,True
 401868221,6,Presbyterian,Davidson,True,17,3,75,45,FUMBLE,7,-12,False
-401868221,6,Davidson,Presbyterian,False,18,3,53,28,Uncategorized,4,5,False
+401868221,6,Davidson,Presbyterian,False,18,3,53,28,PUNT,4,5,False
 401868221,6,Presbyterian,Davidson,True,19,4,72,45,PUNT,3,1,False
 401868221,6,Davidson,Presbyterian,False,20,4,55,35,DOWNS,8,20,False
 401868221,6,Presbyterian,Davidson,True,21,4,65,0,TD,8,65,True
 401868221,6,Davidson,Presbyterian,False,22,4,60,42,DOWNS,9,18,False
-401868221,6,Presbyterian,Davidson,True,23,4,58,46,Uncategorized,4,12,False
+401868221,6,Presbyterian,Davidson,True,23,4,58,46,END OF HALF,4,12,False
 401868229,6,Morehead State,Dayton,False,1,1,80,39,PUNT,3,-8,False
 401868229,6,Dayton,Morehead State,True,2,1,61,0,TD,10,61,True
 401868229,6,Morehead State,Dayton,False,3,1,85,0,TD,3,85,True
@@ -18194,17 +18599,34 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401868229,6,Dayton,Morehead State,True,10,2,73,52,END OF HALF,4,21,False
 401868229,6,Dayton,Morehead State,True,11,3,71,0,TD,8,71,True
 401868229,6,Morehead State,Dayton,False,12,3,84,0,TD,10,84,True
-401868229,6,Dayton,Morehead State,True,13,3,75,76,FUMBLE,3,-1,False
+401868229,6,Dayton,Morehead State,True,13,3,75,35,PUNT,3,-1,False
 401868229,6,Dayton,Morehead State,True,14,3,35,0,TD,6,35,True
 401868229,6,Morehead State,Dayton,False,15,3,75,50,DOWNS,6,25,False
 401868229,6,Dayton,Morehead State,True,16,4,50,0,TD,7,50,True
 401868229,6,Morehead State,Dayton,False,17,4,75,54,DOWNS,7,21,False
 401868229,6,Dayton,Morehead State,True,18,4,46,8,PUNT,3,-1,False
-401868229,6,Morehead State,Dayton,False,19,4,92,100,TD,3,-5,True
+401868229,6,Morehead State,Dayton,False,19,4,92,100,PUNT TD,3,-5,True
 401868229,6,Morehead State,Dayton,False,20,4,90,78,DOWNS,6,12,False
 401868229,6,Dayton,Morehead State,True,21,4,22,0,TD,3,22,True
-401868229,6,Morehead State,Dayton,False,22,4,75,67,Uncategorized,2,8,False
-401868256,6,Drake,Valparaiso,False,1,1,75,51,FUMBLE,7,24,False
+401868229,6,Morehead State,Dayton,False,22,4,75,67,END OF GAME,2,8,False
+401868249,6,SE Louisiana,UT Rio Grande Valley,False,1,1,75,31,MISSED FG,7,44,False
+401868249,6,UT Rio Grande Valley,SE Louisiana,True,2,1,69,42,PUNT,3,3,False
+401868249,6,SE Louisiana,UT Rio Grande Valley,False,3,1,58,33,MISSED FG,7,25,False
+401868249,6,UT Rio Grande Valley,SE Louisiana,True,4,1,67,2,PUNT,8,27,False
+401868249,6,SE Louisiana,UT Rio Grande Valley,False,5,1,98,26,DOWNS,15,72,False
+401868249,6,UT Rio Grande Valley,SE Louisiana,True,6,2,74,16,INT,9,55,False
+401868249,6,SE Louisiana,UT Rio Grande Valley,False,7,2,84,40,PUNT,3,2,False
+401868249,6,UT Rio Grande Valley,SE Louisiana,True,8,2,60,11,PUNT,4,12,False
+401868249,6,SE Louisiana,UT Rio Grande Valley,False,9,2,89,38,INT,6,37,False
+401868249,6,UT Rio Grande Valley,SE Louisiana,True,10,2,62,66,FG,6,28,True
+401868249,6,UT Rio Grande Valley,SE Louisiana,True,11,3,73,35,MISSED FG,10,38,False
+401868249,6,SE Louisiana,UT Rio Grande Valley,False,12,3,65,65,FG,11,46,True
+401868249,6,UT Rio Grande Valley,SE Louisiana,True,13,3,75,65,FG,10,56,True
+401868249,6,SE Louisiana,UT Rio Grande Valley,False,14,4,78,93,INT,13,73,False
+401868249,6,UT Rio Grande Valley,SE Louisiana,True,15,4,93,0,TD,9,93,True
+401868249,6,SE Louisiana,UT Rio Grande Valley,False,16,4,75,66,INT,9,36,False
+401868249,6,UT Rio Grande Valley,SE Louisiana,True,17,4,34,36,END OF GAME,2,-2,False
+401868256,6,Drake,Valparaiso,False,1,1,75,51,FUMBLE,7,27,False
 401868256,6,Valparaiso,Drake,True,2,1,49,0,TD,5,49,True
 401868256,6,Drake,Valparaiso,False,3,1,75,23,PUNT,5,10,False
 401868256,6,Valparaiso,Drake,True,4,1,77,23,PUNT,3,7,False
@@ -18212,9 +18634,9 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401868256,6,Valparaiso,Drake,True,6,1,82,20,PUNT,13,40,False
 401868256,6,Drake,Valparaiso,False,7,2,80,37,DOWNS,7,43,False
 401868256,6,Valparaiso,Drake,True,8,2,63,14,PUNT,3,3,False
-401868256,6,Drake,Valparaiso,False,9,2,86,65,FG,9,81,True
+401868256,6,Drake,Valparaiso,False,9,2,86,65,FG,9,79,True
 401868256,6,Valparaiso,Drake,True,10,2,75,49,PUNT,3,1,False
-401868256,6,Drake,Valparaiso,False,11,2,51,38,FG,10,13,True
+401868256,6,Drake,Valparaiso,False,11,2,51,38,FG,10,20,True
 401868256,6,Valparaiso,Drake,True,12,3,75,37,PUNT,3,6,False
 401868256,6,Drake,Valparaiso,False,13,3,63,23,PUNT,3,4,False
 401868256,6,Valparaiso,Drake,True,14,3,77,36,PUNT,3,1,False
@@ -18223,7 +18645,7 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401868256,6,Drake,Valparaiso,False,17,3,75,27,PUNT,5,17,False
 401868256,6,Valparaiso,Drake,True,18,3,73,14,PUNT,4,19,False
 401868256,6,Drake,Valparaiso,False,19,3,86,54,INT,2,16,False
-401868256,6,Valparaiso,Drake,True,20,3,46,15,FUMBLE,7,31,False
+401868256,6,Valparaiso,Drake,True,20,3,46,15,FUMBLE,7,16,False
 401868256,6,Drake,Valparaiso,False,21,3,85,17,INT,5,33,False
 401868256,6,Valparaiso,Drake,True,22,3,83,31,PUNT,5,16,False
 401868256,6,Drake,Valparaiso,False,23,4,69,26,PUNT,3,-8,False
@@ -18231,30 +18653,30 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401868256,6,Drake,Valparaiso,False,25,4,75,41,INT,4,20,False
 401868256,6,Valparaiso,Drake,True,26,4,59,32,DOWNS,7,27,False
 401868256,6,Drake,Valparaiso,False,27,4,68,58,Uncategorized,2,10,False
-401868265,6,Marist,Columbia,True,1,1,85,15,TD,13,78,True
+401868265,6,Columbia,Marist,False,1,1,65,15,MISSED FG,13,78,True
 401868265,6,Marist,Columbia,True,2,1,75,17,PUNT,4,3,False
-401868265,6,Columbia,Marist,False,3,1,83,46,INT,5,37,False
+401868265,6,Columbia,Marist,False,3,1,83,100,INT,5,37,False
 401868265,6,Marist,Columbia,True,4,1,59,5,PUNT,4,14,False
 401868265,6,Columbia,Marist,False,5,1,95,42,FUMBLE,6,53,False
 401868265,6,Marist,Columbia,True,6,2,58,0,TD,6,58,True
 401868265,6,Columbia,Marist,False,7,2,71,44,PUNT,5,11,False
 401868265,6,Marist,Columbia,True,8,2,56,0,TD,9,56,True
 401868265,6,Columbia,Marist,False,9,2,89,0,TD,7,89,True
-401868265,6,Marist,Columbia,True,10,2,82,100,FUMBLE TD,2,-18,True
+401868265,6,Marist,Columbia,True,10,2,82,100,FUMBLE TD,2,26,True
 401868265,6,Marist,Columbia,True,11,2,78,43,END OF HALF,5,35,False
 401868265,6,Columbia,Marist,False,12,3,69,27,PUNT,3,-4,False
 401868265,6,Marist,Columbia,True,13,3,73,0,TD,4,73,True
 401868265,6,Columbia,Marist,False,14,3,75,20,PUNT,8,27,False
 401868265,6,Marist,Columbia,True,15,3,80,27,PUNT,5,18,False
 401868265,6,Columbia,Marist,False,16,3,73,34,PUNT,3,-11,False
-401868265,6,Marist,Columbia,True,17,3,66,0,TD,9,80,True
+401868265,6,Marist,Columbia,True,17,3,66,0,TD,9,66,True
 401868265,6,Columbia,Marist,False,18,4,71,0,TD,10,71,True
 401868265,6,Marist,Columbia,True,19,4,75,81,FUMBLE,3,-6,False
 401868265,6,Columbia,Marist,False,20,4,19,0,TD,1,19,True
-401868265,6,Marist,Columbia,True,21,4,97,95,SF,2,2,True
+401868265,6,Marist,Columbia,True,21,4,97,95,SF,1,-3,True
 401868265,6,Columbia,Marist,False,22,4,57,0,TD,12,57,True
 401868265,6,Marist,Columbia,True,23,4,81,61,DOWNS,6,20,False
-401868265,6,Columbia,Marist,False,24,4,39,45,Uncategorized,3,-6,False
+401868265,6,Columbia,Marist,False,24,4,39,45,END OF GAME,3,-6,False
 401868282,6,Stetson,St. Thomas (MN),False,1,1,88,20,PUNT,7,28,False
 401868282,6,St. Thomas (MN),Stetson,True,2,1,80,0,TD,6,80,True
 401868282,6,Stetson,St. Thomas (MN),False,3,1,75,0,TD,11,75,True
@@ -18263,12 +18685,12 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401868282,6,St. Thomas (MN),Stetson,True,6,2,52,0,TD,4,52,True
 401868282,6,Stetson,St. Thomas (MN),False,7,2,80,44,PUNT,3,-4,False
 401868282,6,St. Thomas (MN),Stetson,True,8,2,56,9,INT,1,0,False
-401868282,6,Stetson,St. Thomas (MN),False,9,2,91,75,PUNT,9,56,False
+401868282,6,Stetson,St. Thomas (MN),False,9,2,91,75,PUNT,9,16,False
 401868282,6,St. Thomas (MN),Stetson,True,10,2,65,0,TD,6,57,True
 401868282,6,Stetson,St. Thomas (MN),False,11,2,79,34,DOWNS,8,45,False
 401868282,6,St. Thomas (MN),Stetson,True,12,2,66,49,TD,5,66,True
 401868282,6,St. Thomas (MN),Stetson,True,13,3,73,0,TD,5,73,True
-401868282,6,Stetson,St. Thomas (MN),False,14,3,75,100,TD,3,3,True
+401868282,6,Stetson,St. Thomas (MN),False,14,3,75,100,PUNT TD,3,3,True
 401868282,6,Stetson,St. Thomas (MN),False,15,3,75,30,PUNT,5,15,False
 401868282,6,St. Thomas (MN),Stetson,True,16,3,70,8,TD,4,62,True
 401868282,6,Stetson,St. Thomas (MN),False,17,3,75,5,DOWNS,10,70,False
@@ -18278,7 +18700,7 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401868282,6,Stetson,St. Thomas (MN),False,21,4,86,0,TD,5,86,True
 401868282,6,St. Thomas (MN),Stetson,True,22,4,75,0,TD,5,75,True
 401868282,6,Stetson,St. Thomas (MN),False,23,4,67,0,TD,4,67,True
-401868282,6,St. Thomas (MN),Stetson,True,24,4,75,22,Uncategorized,11,53,False
+401868282,6,St. Thomas (MN),Stetson,True,24,4,75,22,END OF HALF,11,53,False
 401868300,6,Alabama A&M,Bethune-Cookman,True,1,1,80,21,PUNT,3,1,False
 401868300,6,Bethune-Cookman,Alabama A&M,False,2,1,59,8,PUNT,3,7,False
 401868300,6,Alabama A&M,Bethune-Cookman,True,3,1,92,0,TD,4,92,True
@@ -18289,7 +18711,7 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401868300,6,Bethune-Cookman,Alabama A&M,False,8,1,35,65,FG,8,26,True
 401868300,6,Alabama A&M,Bethune-Cookman,True,9,2,78,44,PUNT,4,22,False
 401868300,6,Bethune-Cookman,Alabama A&M,False,10,2,75,47,PUNT,3,0,False
-401868300,6,Alabama A&M,Bethune-Cookman,True,11,2,53,3,TD,11,53,True
+401868300,6,Alabama A&M,Bethune-Cookman,True,11,2,0,3,TD,11,53,True
 401868300,6,Bethune-Cookman,Alabama A&M,False,12,2,74,0,TD,9,74,True
 401868300,6,Alabama A&M,Bethune-Cookman,True,13,2,75,65,FG,7,61,True
 401868300,6,Bethune-Cookman,Alabama A&M,False,14,3,70,37,PUNT,3,7,False
@@ -18304,11 +18726,11 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401868300,6,Bethune-Cookman,Alabama A&M,False,23,4,70,45,PUNT,3,-8,False
 401868300,6,Alabama A&M,Bethune-Cookman,True,24,4,55,3,TD,4,55,True
 401868300,6,Bethune-Cookman,Alabama A&M,False,25,4,77,0,TD,14,77,True
-401868300,6,Alabama A&M,Bethune-Cookman,True,26,4,75,47,Uncategorized,3,28,False
-401868329,6,Florida A&M,Alabama State,False,1,1,65,9,TD,7,33,True
+401868300,6,Alabama A&M,Bethune-Cookman,True,26,4,75,47,END OF HALF,3,28,False
+401868329,6,Alabama State,Florida A&M,True,1,1,65,8,MISSED FG,7,33,True
 401868329,6,Florida A&M,Alabama State,False,2,1,85,0,TD,8,85,True
 401868329,6,Alabama State,Florida A&M,True,3,1,73,28,MISSED FG,12,45,False
-401868329,6,Florida A&M,Alabama State,False,4,2,72,12,PUNT,4,19,False
+401868329,6,Florida A&M,Alabama State,False,4,2,72,12,PUNT,4,22,False
 401868329,6,Alabama State,Florida A&M,True,5,2,88,65,FG,15,81,True
 401868329,6,Florida A&M,Alabama State,False,6,2,69,91,PUNT,3,17,False
 401868329,6,Alabama State,Florida A&M,True,7,2,91,81,INT,4,15,False
@@ -18332,7 +18754,7 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401868340,6,Chattanooga,Samford,True,4,1,69,65,FG,9,41,True
 401868340,6,Samford,Chattanooga,False,5,2,75,38,PUNT,3,-3,False
 401868340,6,Chattanooga,Samford,True,6,2,62,65,FG,10,41,True
-401868340,6,Samford,Chattanooga,False,7,2,73,65,FG,12,49,True
+401868340,6,Samford,Chattanooga,False,7,2,73,65,FG,12,44,True
 401868340,6,Chattanooga,Samford,True,8,2,75,77,END OF HALF,1,-2,False
 401868340,6,Chattanooga,Samford,True,9,3,83,65,FG,10,63,True
 401868340,6,Samford,Chattanooga,False,10,3,75,17,PUNT,9,9,False
@@ -18341,34 +18763,34 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401868340,6,Chattanooga,Samford,True,13,4,68,11,PUNT,3,9,False
 401868340,6,Samford,Chattanooga,False,14,4,89,46,PUNT,3,5,False
 401868340,6,Chattanooga,Samford,True,15,4,54,70,PUNT,3,-3,False
-401868340,6,Chattanooga,Samford,True,16,4,15,65,FG,4,-12,True
+401868340,6,Chattanooga,Samford,True,16,4,15,65,FG,4,3,True
 401868340,6,Samford,Chattanooga,False,17,4,67,1,INT,7,28,False
-401868340,6,Chattanooga,Samford,True,18,4,99,38,PUNT,6,13,False
+401868340,6,Chattanooga,Samford,True,18,4,99,38,PUNT,6,18,False
 401868340,6,Samford,Chattanooga,False,19,4,62,40,DOWNS,7,22,False
-401868340,6,Chattanooga,Samford,True,20,4,60,63,Uncategorized,1,-3,False
+401868340,6,Chattanooga,Samford,True,20,4,60,63,END OF HALF,1,-3,False
 401868347,6,The Citadel,East Tennessee State,True,1,1,84,0,TD,13,84,True
 401868347,6,East Tennessee State,The Citadel,False,2,1,81,38,PUNT,3,9,False
 401868347,6,The Citadel,East Tennessee State,True,3,1,62,65,FG,7,51,True
 401868347,6,East Tennessee State,The Citadel,False,4,1,78,9,PUNT,6,16,False
-401868347,6,The Citadel,East Tennessee State,True,5,2,91,100,FUMBLE TD,1,-9,True
+401868347,6,The Citadel,East Tennessee State,True,5,2,91,100,FUMBLE TD,1,-5,True
 401868347,6,The Citadel,East Tennessee State,True,6,2,73,50,FUMBLE,9,25,False
 401868347,6,East Tennessee State,The Citadel,False,7,2,52,65,FG,11,44,True
-401868347,6,The Citadel,East Tennessee State,True,8,2,71,33,PUNT,3,-3,False
+401868347,6,The Citadel,East Tennessee State,True,8,2,71,33,PUNT,3,4,False
 401868347,6,East Tennessee State,The Citadel,False,9,2,81,1,PUNT,7,31,False
 401868347,6,The Citadel,East Tennessee State,True,10,2,99,1,END OF HALF,2,0,False
-401868347,6,East Tennessee State,The Citadel,False,11,3,75,65,FG,11,66,True
-401868347,6,The Citadel,East Tennessee State,True,12,3,75,100,TD,3,1,True
-401868347,6,The Citadel,East Tennessee State,True,13,3,87,7,PUNT,9,29,False
+401868347,6,East Tennessee State,The Citadel,False,11,3,75,65,FG,10,66,True
+401868347,6,The Citadel,East Tennessee State,True,12,3,75,100,PUNT TD,3,1,True
+401868347,6,The Citadel,East Tennessee State,True,13,3,87,7,PUNT,7,29,False
 401868347,6,East Tennessee State,The Citadel,False,14,3,93,0,TD,3,93,True
-401868347,6,The Citadel,East Tennessee State,True,15,3,75,57,FUMBLE,3,-4,False
+401868347,6,The Citadel,East Tennessee State,True,15,3,75,57,PUNT,3,-4,False
 401868347,6,The Citadel,East Tennessee State,True,16,3,57,43,DOWNS,4,14,False
 401868347,6,East Tennessee State,The Citadel,False,17,4,57,0,TD,11,57,True
 401868347,6,The Citadel,East Tennessee State,True,18,4,79,29,PUNT,3,-10,False
 401868347,6,East Tennessee State,The Citadel,False,19,4,64,77,FUMBLE,2,-13,False
 401868347,6,The Citadel,East Tennessee State,True,20,4,23,0,TD,4,23,True
-401868347,6,East Tennessee State,The Citadel,False,21,4,51,17,PUNT,3,1,False
+401868347,6,East Tennessee State,The Citadel,False,21,4,51,17,PUNT,3,-1,False
 401868347,6,The Citadel,East Tennessee State,True,22,4,83,11,DOWNS,8,72,False
-401868347,6,East Tennessee State,The Citadel,False,23,4,89,92,Uncategorized,3,-3,False
+401868347,6,East Tennessee State,The Citadel,False,23,4,89,92,END OF GAME,3,-3,False
 401868360,6,Arkansas Baptist,Alcorn State,False,1,1,76,49,PUNT,7,26,False
 401868360,6,Alcorn State,Arkansas Baptist,True,2,1,51,0,TD,6,51,True
 401868360,6,Arkansas Baptist,Alcorn State,False,3,1,68,32,PUNT,5,16,False
@@ -18377,10 +18799,10 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401868360,6,Alcorn State,Arkansas Baptist,True,6,2,62,0,TD,12,62,True
 401868360,6,Arkansas Baptist,Alcorn State,False,7,2,81,72,INT,2,0,False
 401868360,6,Alcorn State,Arkansas Baptist,True,8,2,28,7,FUMBLE,5,21,False
-401868360,6,Arkansas Baptist,Alcorn State,False,9,2,93,100,TD,9,26,True
-401868360,6,Arkansas Baptist,Alcorn State,False,10,2,66,40,DOWNS,8,-5,False
-401868360,6,Alcorn State,Arkansas Baptist,True,11,2,60,7,END OF HALF,4,14,False
-401868360,6,Alcorn State,Arkansas Baptist,True,12,3,76,0,TD,3,35,True
+401868360,6,Arkansas Baptist,Alcorn State,False,9,2,93,100,PUNT TD,9,26,True
+401868360,6,Arkansas Baptist,Alcorn State,False,10,2,66,40,DOWNS,8,26,False
+401868360,6,Alcorn State,Arkansas Baptist,True,11,2,60,7,END OF HALF,4,28,False
+401868360,6,Alcorn State,Arkansas Baptist,True,12,3,76,0,TD,3,76,True
 401868360,6,Arkansas Baptist,Alcorn State,False,13,3,65,34,PUNT,3,2,False
 401868360,6,Alcorn State,Arkansas Baptist,True,14,3,66,6,PUNT,5,21,False
 401868360,6,Arkansas Baptist,Alcorn State,False,15,3,94,90,FUMBLE,1,4,False
@@ -18388,23 +18810,23 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401868360,6,Arkansas Baptist,Alcorn State,False,17,3,79,50,PUNT,3,3,False
 401868360,6,Alcorn State,Arkansas Baptist,True,18,3,50,0,TD,8,50,True
 401868360,6,Arkansas Baptist,Alcorn State,False,19,3,70,22,PUNT,7,28,False
-401868360,6,Alcorn State,Arkansas Baptist,True,20,3,78,20,PUNT,8,36,False
-401868360,6,Arkansas Baptist,Alcorn State,False,21,4,80,100,FUMBLE TD,4,-20,True
+401868360,6,Alcorn State,Arkansas Baptist,True,20,3,0,20,PUNT,8,36,False
+401868360,6,Arkansas Baptist,Alcorn State,False,21,4,80,100,FUMBLE RETURN TD,4,-10,True
 401868360,6,Arkansas Baptist,Alcorn State,False,22,4,82,72,PUNT,3,-6,False
 401868360,6,Alcorn State,Arkansas Baptist,True,23,4,28,0,TD,2,28,True
-401868360,6,Arkansas Baptist,Alcorn State,False,24,4,75,8,PUNT,7,-12,False
-401868360,6,Alcorn State,Arkansas Baptist,True,25,4,92,87,Uncategorized,3,5,False
+401868360,6,Arkansas Baptist,Alcorn State,False,24,4,75,8,PUNT,7,30,False
+401868360,6,Alcorn State,Arkansas Baptist,True,25,4,92,87,END OF GAME,3,5,False
 401868376,6,Furman,Tennessee Tech,False,1,1,75,25,PUNT,6,19,False
 401868376,6,Tennessee Tech,Furman,True,2,1,75,3,TD,13,75,True
-401868376,6,Furman,Tennessee Tech,False,3,1,75,42,Uncategorized,5,17,False
+401868376,6,Furman,Tennessee Tech,False,3,1,75,42,PUNT,5,17,False
 401868376,6,Tennessee Tech,Furman,True,4,1,62,19,FUMBLE,2,43,False
 401868376,6,Furman,Tennessee Tech,False,5,2,81,14,FG,11,67,True
 401868376,6,Tennessee Tech,Furman,True,6,2,75,38,PUNT,5,13,False
 401868376,6,Furman,Tennessee Tech,False,7,2,79,15,PUNT,3,8,False
 401868376,6,Tennessee Tech,Furman,True,8,2,85,0,TD,13,85,True
 401868376,6,Furman,Tennessee Tech,False,9,2,75,60,END OF HALF,4,15,False
-401868376,6,Tennessee Tech,Furman,True,10,3,75,75,SF,3,0,True
-401868376,6,Furman,Tennessee Tech,False,11,3,57,32,Uncategorized,3,-15,False
+401868376,6,Tennessee Tech,Furman,True,10,3,75,75,PUNT,3,0,True
+401868376,6,Furman,Tennessee Tech,False,11,3,57,32,PUNT,3,-15,False
 401868376,6,Tennessee Tech,Furman,True,12,3,68,16,PUNT,3,8,False
 401868376,6,Furman,Tennessee Tech,False,13,3,84,35,FG,13,49,True
 401868376,6,Tennessee Tech,Furman,True,14,3,80,42,PUNT,3,8,False
@@ -18415,14 +18837,14 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401868376,6,Furman,Tennessee Tech,False,19,4,51,0,TD,6,51,True
 401868376,6,Tennessee Tech,Furman,True,20,4,73,65,FG,9,39,True
 401868376,6,Furman,Tennessee Tech,False,21,4,75,36,DOWNS,11,39,False
-401868376,6,Tennessee Tech,Furman,True,22,4,64,66,Uncategorized,2,-2,False
+401868376,6,Tennessee Tech,Furman,True,22,4,64,66,END OF GAME,2,-2,False
 401868382,6,Mercer,Western Carolina,True,1,1,75,30,PUNT,3,2,False
 401868382,6,Western Carolina,Mercer,False,2,1,70,25,PUNT,5,10,False
 401868382,6,Mercer,Western Carolina,True,3,1,75,28,PUNT,4,8,False
 401868382,6,Western Carolina,Mercer,False,4,1,72,38,DOWNS,9,34,False
 401868382,6,Mercer,Western Carolina,True,5,1,62,1,INT,8,47,False
 401868382,6,Western Carolina,Mercer,False,6,1,99,55,PUNT,3,24,False
-401868382,6,Mercer,Western Carolina,True,7,2,45,38,FUMBLE,7,7,False
+401868382,6,Mercer,Western Carolina,True,7,2,45,38,DOWNS,7,7,False
 401868382,6,Western Carolina,Mercer,False,8,2,62,1,PUNT,3,8,False
 401868382,6,Mercer,Western Carolina,True,9,2,99,48,INT,7,21,False
 401868382,6,Western Carolina,Mercer,False,10,2,52,8,INT,3,5,False
@@ -18440,16 +18862,16 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401868382,6,Western Carolina,Mercer,False,22,4,71,1,PUNT,5,31,False
 401868382,6,Mercer,Western Carolina,True,23,4,99,0,TD,4,99,True
 401868382,6,Western Carolina,Mercer,False,24,4,75,0,TD,16,75,True
-401868382,6,Mercer,Western Carolina,True,25,4,74,72,FG,8,46,True
+401868382,6,Mercer,Western Carolina,True,25,4,74,72,FG,8,50,True
 401868955,6,Grambling,Jackson State,True,1,1,75,4,PUNT,6,28,False
 401868955,6,Jackson State,Grambling,False,2,1,96,3,TD,7,96,True
 401868955,6,Grambling,Jackson State,True,3,1,75,67,INT,3,6,False
 401868955,6,Jackson State,Grambling,False,4,1,33,47,PUNT,3,-20,False
-401868955,6,Grambling,Jackson State,True,5,1,86,100,FUMBLE TD,2,-14,True
+401868955,6,Grambling,Jackson State,True,5,1,86,100,FUMBLE TD,2,-3,True
 401868955,6,Grambling,Jackson State,True,6,1,75,0,TD,10,75,True
 401868955,6,Jackson State,Grambling,False,7,1,82,39,PUNT,3,1,False
-401868955,6,Grambling,Jackson State,True,8,2,61,48,DOWNS,4,9,False
-401868955,6,Jackson State,Grambling,False,9,2,47,2,TD,4,45,True
+401868955,6,Grambling,Jackson State,True,8,2,61,48,DOWNS,4,8,False
+401868955,6,Jackson State,Grambling,False,9,2,47,2,TD,4,47,True
 401868955,6,Grambling,Jackson State,True,10,2,35,0,TD,7,75,True
 401868955,6,Jackson State,Grambling,False,11,2,75,70,PUNT,3,-11,False
 401868955,6,Grambling,Jackson State,True,12,2,65,10,PUNT,3,7,False
@@ -18457,21 +18879,21 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401868955,6,Grambling,Jackson State,True,14,2,23,0,TD,6,23,True
 401868955,6,Jackson State,Grambling,False,15,2,61,61,END OF HALF,1,0,False
 401868955,6,Jackson State,Grambling,False,16,3,75,31,FG,14,44,True
-401868955,6,Grambling,Jackson State,True,17,3,63,3,TD,12,62,True
+401868955,6,Grambling,Jackson State,True,17,3,63,3,TD,11,62,True
 401868955,6,Jackson State,Grambling,False,18,3,80,33,INT,5,33,False
 401868955,6,Grambling,Jackson State,True,19,3,67,3,TD,3,67,True
 401868955,6,Jackson State,Grambling,False,20,4,75,3,TD,5,75,True
-401868955,6,Grambling,Jackson State,True,21,4,64,15,PUNT,3,1,False
+401868955,6,Grambling,Jackson State,True,21,4,64,15,PUNT,3,6,False
 401868955,6,Jackson State,Grambling,False,22,4,85,0,TD,2,85,True
 401868955,6,Grambling,Jackson State,True,23,4,75,5,FUMBLE,6,70,False
-401868955,6,Jackson State,Grambling,False,24,4,95,32,PUNT,6,26,False
+401868955,6,Jackson State,Grambling,False,24,4,95,32,PUNT,6,27,False
 401868955,6,Grambling,Jackson State,True,25,4,32,0,TD,2,32,True
 401868955,6,Jackson State,Grambling,False,26,4,75,91,INT,1,0,False
-401868955,6,Grambling,Jackson State,True,27,4,9,65,FG,4,4,True
-401868955,6,Jackson State,Grambling,False,28,4,83,74,Uncategorized,3,9,False
+401868955,6,Grambling,Jackson State,True,27,4,9,65,FG,4,2,True
+401868955,6,Jackson State,Grambling,False,28,4,83,32,END OF HALF,5,51,False
 401868966,6,Mississippi Valley State,Texas Southern,False,1,1,75,37,PUNT,8,19,False
 401868966,6,Texas Southern,Mississippi Valley State,True,2,1,63,10,PUNT,3,2,False
-401868966,6,Mississippi Valley State,Texas Southern,False,3,1,90,8,TD,5,82,True
+401868966,6,Mississippi Valley State,Texas Southern,False,3,1,90,8,TD,5,90,True
 401868966,6,Texas Southern,Mississippi Valley State,True,4,1,75,33,PUNT,3,3,False
 401868966,6,Mississippi Valley State,Texas Southern,False,5,1,67,56,PUNT,3,6,False
 401868966,6,Texas Southern,Mississippi Valley State,True,6,1,56,22,PUNT,3,-7,False
@@ -18498,13 +18920,13 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401868966,6,Mississippi Valley State,Texas Southern,False,27,4,79,0,TD,6,79,True
 401868966,6,Texas Southern,Mississippi Valley State,True,28,4,75,56,PUNT,3,-10,False
 401868966,6,Mississippi Valley State,Texas Southern,False,29,4,44,0,TD,6,44,True
-401868966,6,Texas Southern,Mississippi Valley State,True,30,4,64,28,Uncategorized,5,36,False
+401868966,6,Texas Southern,Mississippi Valley State,True,30,4,64,28,END OF GAME,5,36,False
 401868968,6,Southern,Prairie View A&M,False,1,1,79,31,MISSED FG,7,48,False
 401868968,6,Prairie View A&M,Southern,True,2,1,69,14,PUNT,3,7,False
 401868968,6,Southern,Prairie View A&M,False,3,1,86,23,PUNT,3,9,False
 401868968,6,Prairie View A&M,Southern,True,4,1,64,38,PUNT,3,2,False
 401868968,6,Southern,Prairie View A&M,False,5,1,75,0,TD,6,75,True
-401868968,6,Prairie View A&M,Southern,True,6,1,69,14,Uncategorized,5,18,False
+401868968,6,Prairie View A&M,Southern,True,6,1,69,14,PUNT,5,18,False
 401868968,6,Southern,Prairie View A&M,False,7,2,86,49,PUNT,3,8,False
 401868968,6,Prairie View A&M,Southern,True,8,2,51,3,TD,6,51,True
 401868968,6,Southern,Prairie View A&M,False,9,2,78,14,PUNT,6,21,False
@@ -18512,28 +18934,28 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401868968,6,Southern,Prairie View A&M,False,11,2,26,5,DOWNS,6,21,False
 401868968,6,Prairie View A&M,Southern,True,12,2,95,1,FUMBLE,8,94,False
 401868968,6,Southern,Prairie View A&M,False,13,2,99,2,END OF HALF,3,6,False
-401868968,6,Prairie View A&M,Southern,True,14,3,48,0,TD,2,52,True
-401868968,6,Southern,Prairie View A&M,False,15,3,8,42,DOWNS,12,-34,False
-401868968,6,Prairie View A&M,Southern,True,16,3,58,22,DOWNS,11,36,False
-401868968,6,Southern,Prairie View A&M,False,17,3,73,35,PUNT,9,8,False
-401868968,6,Prairie View A&M,Southern,True,18,3,63,30,INT,6,14,False
+401868968,6,Prairie View A&M,Southern,True,14,3,48,0,TD,1,48,True
+401868968,6,Southern,Prairie View A&M,False,15,3,8,42,DOWNS,7,33,False
+401868968,6,Prairie View A&M,Southern,True,16,3,58,22,DOWNS,8,36,False
+401868968,6,Southern,Prairie View A&M,False,17,3,73,35,PUNT,6,13,False
+401868968,6,Prairie View A&M,Southern,True,18,3,63,30,INT,6,25,False
 401868968,6,Southern,Prairie View A&M,False,19,3,70,0,TD,6,70,True
-401868968,6,Prairie View A&M,Southern,True,20,3,73,51,PUNT,9,24,False
+401868968,6,Prairie View A&M,Southern,True,20,3,73,51,PUNT,8,24,False
 401868968,6,Southern,Prairie View A&M,False,21,4,89,0,TD,13,89,True
 401868968,6,Prairie View A&M,Southern,True,22,4,65,31,PUNT,3,2,False
 401868968,6,Southern,Prairie View A&M,False,23,4,69,34,PUNT,3,7,False
 401868968,6,Prairie View A&M,Southern,True,24,4,66,30,PUNT,3,-1,False
-401868968,6,Southern,Prairie View A&M,False,25,4,70,44,PUNT,3,1,False
+401868968,6,Southern,Prairie View A&M,False,25,4,70,44,PUNT,3,4,False
 401868968,6,Prairie View A&M,Southern,True,26,4,56,100,INT TD,3,3,True
-401868968,6,Prairie View A&M,Southern,True,27,4,81,43,Uncategorized,4,38,False
+401868968,6,Prairie View A&M,Southern,True,27,4,81,43,END OF GAME,5,38,False
 401869144,6,Incarnate Word,Lamar,False,1,1,74,77,PUNT,3,1,False
 401869144,6,Lamar,Incarnate Word,True,2,1,77,65,FG,11,62,True
 401869144,6,Incarnate Word,Lamar,False,3,1,67,28,DOWNS,9,39,False
 401869144,6,Lamar,Incarnate Word,True,4,1,72,0,TD,7,72,True
 401869144,6,Incarnate Word,Lamar,False,5,1,51,0,TD,7,51,True
 401869144,6,Lamar,Incarnate Word,True,6,2,75,0,TD,4,75,True
-401869144,6,Lamar,Incarnate Word,True,7,2,25,0,TD,7,25,True
-401869144,6,Incarnate Word,Lamar,False,8,2,75,44,Uncategorized,6,31,False
+401869144,6,Lamar,Incarnate Word,True,7,2,0,0,TD,7,25,True
+401869144,6,Incarnate Word,Lamar,False,8,2,75,44,FUMBLE,6,50,False
 401869144,6,Lamar,Incarnate Word,True,9,2,56,23,PUNT,3,-1,False
 401869144,6,Incarnate Word,Lamar,False,10,2,77,0,TD,10,77,True
 401869144,6,Lamar,Incarnate Word,True,11,2,75,76,END OF HALF,1,-1,False
@@ -18545,12 +18967,12 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401869144,6,Incarnate Word,Lamar,False,17,3,94,77,FUMBLE,5,17,False
 401869144,6,Lamar,Incarnate Word,True,18,3,23,0,TD,5,23,True
 401869144,6,Incarnate Word,Lamar,False,19,4,52,56,DOWNS,4,-4,False
-401869144,6,Lamar,Incarnate Word,True,20,4,44,100,FUMBLE TD,4,-56,True
+401869144,6,Lamar,Incarnate Word,True,20,4,44,100,FUMBLE RETURN TD,4,2,True
 401869144,6,Lamar,Incarnate Word,True,21,4,75,39,PUNT,5,2,False
 401869144,6,Incarnate Word,Lamar,False,22,4,61,0,TD,12,61,True
-401869144,6,Lamar,Incarnate Word,True,23,4,75,8,PUNT,5,18,False
-401869144,6,Incarnate Word,Lamar,False,24,4,92,72,FUMBLE,3,20,False
-401869144,6,Lamar,Incarnate Word,True,25,4,28,78,Uncategorized,4,5,False
+401869144,6,Lamar,Incarnate Word,True,23,4,75,8,PUNT,5,21,False
+401869144,6,Incarnate Word,Lamar,False,24,4,92,72,FUMBLE,3,15,False
+401869144,6,Lamar,Incarnate Word,True,25,4,28,78,DOWNS,4,5,False
 401869843,6,Old Dominion,App State,False,1,1,75,64,PUNT,3,2,False
 401869843,6,App State,Old Dominion,True,2,1,36,31,DOWNS,4,5,False
 401869843,6,Old Dominion,App State,False,3,1,69,77,MISSED FG,10,46,False
@@ -18565,10 +18987,10 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401869843,6,App State,Old Dominion,True,12,2,50,7,PUNT,3,0,False
 401869843,6,Old Dominion,App State,False,13,2,93,43,FUMBLE,12,50,False
 401869843,6,App State,Old Dominion,True,14,2,57,58,INT,1,0,False
-401869843,6,Old Dominion,App State,False,15,2,42,58,END OF HALF,2,0,False
+401869843,6,Old Dominion,App State,False,15,2,42,58,INT,2,0,False
 401869843,6,App State,Old Dominion,True,16,3,75,16,FG,9,59,True
 401869843,6,Old Dominion,App State,False,17,3,75,64,INT,8,39,False
-401869843,6,App State,Old Dominion,True,18,3,94,0,SF,1,-6,True
+401869843,6,App State,Old Dominion,True,18,3,94,0,SF,1,-12,True
 401869843,6,Old Dominion,App State,False,19,3,54,68,DOWNS,6,22,False
 401869843,6,App State,Old Dominion,True,20,3,68,38,PUNT,3,0,False
 401869843,6,Old Dominion,App State,False,21,3,62,7,PUNT,3,2,False
@@ -18577,15 +18999,15 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401869843,6,App State,Old Dominion,True,24,4,76,7,PUNT,5,3,False
 401869843,6,Old Dominion,App State,False,25,4,93,49,PUNT,3,5,False
 401869843,6,App State,Old Dominion,True,26,4,51,47,FUMBLE,3,4,False
-401869843,6,Old Dominion,App State,False,27,4,53,20,PUNT,3,7,False
+401869843,6,Old Dominion,App State,False,27,4,53,20,PUNT,3,6,False
 401869843,6,App State,Old Dominion,True,28,4,80,30,INT,7,25,False
-401869843,6,Old Dominion,App State,False,29,4,70,75,Uncategorized,2,-2,False
-401869933,6,Arkansas State,South Alabama,True,1,1,75,22,PUNT,3,-2,False
+401869843,6,Old Dominion,App State,False,29,4,70,28,END OF HALF,3,-9,False
+401869933,6,Arkansas State,South Alabama,True,1,1,75,24,PUNT,3,-2,False
 401869933,6,South Alabama,Arkansas State,False,2,1,78,3,TD,13,78,True
 401869933,6,Arkansas State,South Alabama,True,3,1,80,3,TD,11,80,True
 401869933,6,South Alabama,Arkansas State,False,4,1,3,3,Uncategorized,0,0,False
-401869933,6,Arkansas State,South Alabama,True,5,1,65,100,TD,0,0,True
-401869933,6,Arkansas State,South Alabama,True,6,1,86,3,TD,7,116,True
+401869933,6,South Alabama,Arkansas State,False,5,1,0,0,TD,0,0,True
+401869933,6,Arkansas State,South Alabama,True,6,1,86,3,TD,7,86,True
 401869933,6,South Alabama,Arkansas State,False,7,2,75,32,PUNT,3,7,False
 401869933,6,Arkansas State,South Alabama,True,8,2,57,3,TD,10,57,True
 401869933,6,South Alabama,Arkansas State,False,9,2,74,0,TD,4,74,True
@@ -18593,7 +19015,7 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401869933,6,South Alabama,Arkansas State,False,11,2,28,0,TD,6,28,True
 401869933,6,Arkansas State,South Alabama,True,12,2,77,88,INT,1,0,False
 401869933,6,South Alabama,Arkansas State,False,13,2,12,0,TD,2,12,True
-401869933,6,Arkansas State,South Alabama,True,14,2,73,0,TD,4,53,True
+401869933,6,Arkansas State,South Alabama,True,14,2,73,0,TD,4,73,True
 401869933,6,South Alabama,Arkansas State,False,15,2,75,78,END OF HALF,1,-3,False
 401869933,6,South Alabama,Arkansas State,False,16,3,74,3,TD,3,74,True
 401869933,6,Arkansas State,South Alabama,True,17,3,75,74,INT,8,61,False
@@ -18603,9 +19025,79 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401869933,6,Arkansas State,South Alabama,True,21,4,79,27,PUNT,3,6,False
 401869933,6,South Alabama,Arkansas State,False,22,4,80,85,FUMBLE,2,-5,False
 401869933,6,Arkansas State,South Alabama,True,23,4,15,0,TD,2,15,True
-401869933,6,South Alabama,Arkansas State,False,24,4,75,19,PUNT,3,4,False
+401869933,6,South Alabama,Arkansas State,False,24,4,75,19,PUNT,3,8,False
 401869933,6,Arkansas State,South Alabama,True,25,4,81,0,TD,10,81,True
-401869933,6,South Alabama,Arkansas State,False,26,4,75,37,Uncategorized,13,38,False
+401869933,6,South Alabama,Arkansas State,False,26,4,75,37,END OF GAME,13,38,False
+401869943,6,Marshall,Coastal Carolina,True,1,1,68,56,INT,1,0,False
+401869943,6,Coastal Carolina,Marshall,False,2,1,44,8,INT,7,24,False
+401869943,6,Marshall,Coastal Carolina,True,3,1,92,90,FUMBLE,2,2,False
+401869943,6,Coastal Carolina,Marshall,False,4,1,10,9,FG,4,1,True
+401869943,6,Marshall,Coastal Carolina,True,5,1,80,94,INT,11,74,False
+401869943,6,Coastal Carolina,Marshall,False,6,1,80,29,PUNT,7,9,False
+401869943,6,Marshall,Coastal Carolina,True,7,1,77,60,INT,5,25,False
+401869943,6,Coastal Carolina,Marshall,False,8,2,40,3,TD,4,40,True
+401869943,6,Marshall,Coastal Carolina,True,9,2,79,42,PUNT,8,21,False
+401869943,6,Coastal Carolina,Marshall,False,10,2,80,65,FG,10,58,True
+401869943,6,Marshall,Coastal Carolina,True,11,2,75,20,PUNT,5,18,False
+401869943,6,Coastal Carolina,Marshall,False,12,2,80,38,PUNT,3,5,False
+401869943,6,Marshall,Coastal Carolina,True,13,2,62,34,END OF HALF,5,36,False
+401869943,6,Coastal Carolina,Marshall,False,14,3,70,0,TD,1,70,True
+401869943,6,Coastal Carolina,Marshall,False,15,3,65,3,TD,7,28,True
+401869943,6,Marshall,Coastal Carolina,True,16,3,75,90,DOWNS,11,65,False
+401869943,6,Coastal Carolina,Marshall,False,17,3,90,13,PUNT,6,29,False
+401869943,6,Marshall,Coastal Carolina,True,18,3,87,0,TD,4,87,True
+401869943,6,Coastal Carolina,Marshall,False,19,3,78,28,PUNT,4,14,False
+401869943,6,Marshall,Coastal Carolina,True,20,3,72,52,DOWNS,7,24,False
+401869943,6,Coastal Carolina,Marshall,False,21,4,52,34,MISSED FG,6,18,False
+401869943,6,Marshall,Coastal Carolina,True,22,4,66,87,FUMBLE,12,64,False
+401869943,6,Coastal Carolina,Marshall,False,23,4,98,66,PUNT,3,-1,False
+401869943,6,Marshall,Coastal Carolina,True,24,4,34,0,TD,4,34,True
+401869943,6,Marshall,Coastal Carolina,True,25,4,65,0,TD,3,50,True
+401869943,6,Coastal Carolina,Marshall,False,26,4,46,26,END OF GAME,4,20,False
+401869949,6,Georgia Southern,James Madison,True,1,1,75,0,TD,5,75,True
+401869949,6,James Madison,Georgia Southern,False,2,1,75,55,PUNT,5,30,False
+401869949,6,Georgia Southern,James Madison,True,3,1,80,13,PUNT,6,20,False
+401869949,6,James Madison,Georgia Southern,False,4,1,87,36,DOWNS,10,51,False
+401869949,6,Georgia Southern,James Madison,True,5,1,64,62,INT,2,-1,False
+401869949,6,James Madison,Georgia Southern,False,6,1,38,65,FG,7,23,True
+401869949,6,Georgia Southern,James Madison,True,7,1,75,14,PUNT,8,32,False
+401869949,6,James Madison,Georgia Southern,False,8,2,86,20,PUNT,6,32,False
+401869949,6,Georgia Southern,James Madison,True,9,2,80,65,FG,10,70,True
+401869949,6,James Madison,Georgia Southern,False,10,2,92,4,FG,15,89,True
+401869949,6,James Madison,Georgia Southern,False,11,3,75,0,TD,4,75,True
+401869949,6,Georgia Southern,James Madison,True,12,3,75,7,FUMBLE,4,68,False
+401869949,6,James Madison,Georgia Southern,False,13,3,93,0,TD,10,93,True
+401869949,6,Georgia Southern,James Madison,True,14,3,65,33,MISSED FG,8,32,False
+401869949,6,James Madison,Georgia Southern,False,15,3,67,27,PUNT,3,-7,False
+401869949,6,Georgia Southern,James Madison,True,16,3,73,0,TD,11,63,True
+401869949,6,James Madison,Georgia Southern,False,17,4,82,0,TD,14,82,True
+401869949,6,Georgia Southern,James Madison,True,18,4,75,0,TD,7,75,True
+401869949,6,James Madison,Georgia Southern,False,19,4,46,15,PUNT,3,4,False
+401869949,6,Georgia Southern,James Madison,True,20,4,85,66,MISSED FG,7,51,False
+401869949,6,James Madison,Georgia Southern,False,21,4,66,70,END OF GAME,2,-4,False
+401869965,6,Louisiana,Louisiana Tech,False,1,1,75,13,FUMBLE,7,62,False
+401869965,6,Louisiana Tech,Louisiana,True,2,1,87,20,PUNT,4,20,False
+401869965,6,Louisiana,Louisiana Tech,False,3,1,80,15,PUNT,6,23,False
+401869965,6,Louisiana Tech,Louisiana,True,4,1,85,0,TD,10,85,True
+401869965,6,Louisiana,Louisiana Tech,False,5,2,75,0,TD,9,75,True
+401869965,6,Louisiana Tech,Louisiana,True,6,2,76,75,FUMBLE,3,1,False
+401869965,6,Louisiana,Louisiana Tech,False,7,2,25,65,FG,7,13,True
+401869965,6,Louisiana Tech,Louisiana,True,8,2,70,0,TD,11,70,True
+401869965,6,Louisiana,Louisiana Tech,False,9,2,74,60,INT,6,25,False
+401869965,6,Louisiana Tech,Louisiana,True,10,2,40,68,MISSED FG,4,8,False
+401869965,6,Louisiana Tech,Louisiana,True,11,3,73,9,PUNT,5,20,False
+401869965,6,Louisiana,Louisiana Tech,False,12,3,91,0,TD,6,91,True
+401869965,6,Louisiana Tech,Louisiana,True,13,3,76,21,FUMBLE,9,55,False
+401869965,6,Louisiana,Louisiana Tech,False,14,3,79,0,TD,6,79,True
+401869965,6,Louisiana Tech,Louisiana,True,15,3,76,0,TD,8,76,True
+401869965,6,Louisiana,Louisiana Tech,False,16,4,70,0,TD,3,70,True
+401869965,6,Louisiana Tech,Louisiana,True,17,4,75,20,PUNT,7,18,False
+401869965,6,Louisiana,Louisiana Tech,False,18,4,80,37,PUNT,3,2,False
+401869965,6,Louisiana Tech,Louisiana,True,19,4,63,0,TD,8,63,True
+401869965,6,Louisiana,Louisiana Tech,False,20,4,75,34,PUNT,3,5,False
+401869965,6,Louisiana Tech,Louisiana,True,21,4,66,0,TD,8,66,True
+401869965,6,Louisiana,Louisiana Tech,False,22,4,75,60,INT,3,0,False
+401869965,6,Louisiana Tech,Louisiana,True,23,4,40,41,END OF GAME,1,-1,False
 401870766,6,Liberty,Sam Houston,True,1,1,75,3,TD,8,75,True
 401870766,6,Sam Houston,Liberty,False,2,1,70,34,PUNT,3,4,False
 401870766,6,Liberty,Sam Houston,True,3,1,75,51,PUNT,6,26,False
@@ -18613,18 +19105,18 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401870766,6,Liberty,Sam Houston,True,5,1,58,3,TD,5,58,True
 401870766,6,Sam Houston,Liberty,False,6,2,75,55,PUNT,7,30,False
 401870766,6,Liberty,Sam Houston,True,7,2,89,9,PUNT,5,41,False
-401870766,6,Sam Houston,Liberty,False,8,2,91,28,PUNT,7,26,False
-401870766,6,Liberty,Sam Houston,True,9,2,83,48,PUNT,3,-10,False
-401870766,6,Sam Houston,Liberty,False,10,2,52,65,FG,7,36,True
+401870766,6,Sam Houston,Liberty,False,8,2,91,28,PUNT,7,19,False
+401870766,6,Liberty,Sam Houston,True,9,2,83,48,PUNT,3,0,False
+401870766,6,Sam Houston,Liberty,False,10,2,52,65,FG,7,34,True
 401870766,6,Liberty,Sam Houston,True,11,2,49,54,END OF HALF,1,-5,False
 401870766,6,Sam Houston,Liberty,False,12,3,81,64,DOWNS,8,45,False
 401870766,6,Liberty,Sam Houston,True,13,3,64,3,TD,6,64,True
 401870766,6,Sam Houston,Liberty,False,14,3,81,28,DOWNS,10,53,False
 401870766,6,Liberty,Sam Houston,True,15,3,72,0,TD,7,72,True
 401870766,6,Sam Houston,Liberty,False,16,4,92,11,PUNT,3,3,False
-401870766,6,Liberty,Sam Houston,True,17,4,54,8,TD,9,46,True
+401870766,6,Liberty,Sam Houston,True,17,4,54,8,TD,9,54,True
 401870766,6,Sam Houston,Liberty,False,18,4,75,9,DOWNS,12,66,False
-401870766,6,Liberty,Sam Houston,True,19,4,91,80,Uncategorized,3,11,False
+401870766,6,Liberty,Sam Houston,True,19,4,91,80,END OF GAME,3,11,False
 401871051,6,Kennesaw State,Jacksonville State,True,1,1,75,65,FG,15,73,True
 401871051,6,Jacksonville State,Kennesaw State,False,2,1,75,0,TD,14,75,True
 401871051,6,Kennesaw State,Jacksonville State,True,3,2,75,0,TD,4,75,True
@@ -18638,7 +19130,7 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401871051,6,Jacksonville State,Kennesaw State,False,11,3,75,83,INT,8,33,False
 401871051,6,Kennesaw State,Jacksonville State,True,12,3,83,7,INT,6,75,False
 401871051,6,Jacksonville State,Kennesaw State,False,13,3,93,26,PUNT,5,17,False
-401871051,6,Kennesaw State,Jacksonville State,True,14,3,74,8,TD,8,66,True
+401871051,6,Kennesaw State,Jacksonville State,True,14,3,74,8,TD,8,74,True
 401871051,6,Jacksonville State,Kennesaw State,False,15,3,75,0,TD,4,75,True
 401871051,6,Kennesaw State,Jacksonville State,True,16,3,75,23,PUNT,3,9,False
 401871051,6,Jacksonville State,Kennesaw State,False,17,4,77,65,FG,13,75,True
@@ -18646,6 +19138,8 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401871051,6,Jacksonville State,Kennesaw State,False,19,4,53,40,FUMBLE,3,13,False
 401871051,6,Kennesaw State,Jacksonville State,True,20,4,60,65,FG,9,50,True
 401871051,6,Jacksonville State,Kennesaw State,False,21,4,75,65,FG,11,60,True
+401871051,6,Kennesaw State,Jacksonville State,True,22,4,75,55,INT,5,12,False
+401871051,6,Jacksonville State,Kennesaw State,False,23,4,45,47,END OF GAME,1,-2,False
 401871052,6,Missouri State,Western Kentucky,False,1,1,67,16,PUNT,3,7,False
 401871052,6,Western Kentucky,Missouri State,True,2,1,84,32,PUNT,3,1,False
 401871052,6,Missouri State,Western Kentucky,False,3,1,68,32,INT,5,16,False
@@ -18661,19 +19155,19 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401871052,6,Missouri State,Western Kentucky,False,13,2,75,71,END OF HALF,3,4,False
 401871052,6,Western Kentucky,Missouri State,True,14,3,77,5,PUNT,5,20,False
 401871052,6,Missouri State,Western Kentucky,False,15,3,95,0,TD,11,95,True
-401871052,6,Western Kentucky,Missouri State,True,16,3,75,65,FG,13,56,True
+401871052,6,Western Kentucky,Missouri State,True,16,3,75,65,FG,13,59,True
 401871052,6,Missouri State,Western Kentucky,False,17,3,75,38,PUNT,3,0,False
 401871052,6,Western Kentucky,Missouri State,True,18,3,62,65,FG,10,37,True
 401871052,6,Missouri State,Western Kentucky,False,19,4,75,22,DOWNS,8,53,False
 401871052,6,Western Kentucky,Missouri State,True,20,4,78,0,TD,4,78,True
 401871052,6,Missouri State,Western Kentucky,False,21,4,75,80,DOWNS,4,-5,False
-401871052,6,Western Kentucky,Missouri State,True,22,4,20,8,Uncategorized,7,12,False
+401871052,6,Western Kentucky,Missouri State,True,22,4,20,8,END OF GAME,7,12,False
 401871066,6,New Mexico State,Florida International,False,1,1,65,10,PUNT,4,24,False
 401871066,6,Florida International,New Mexico State,True,2,1,90,45,PUNT,3,3,False
 401871066,6,New Mexico State,Florida International,False,3,1,55,7,PUNT,3,4,False
 401871066,6,Florida International,New Mexico State,True,4,1,93,50,PUNT,3,4,False
 401871066,6,New Mexico State,Florida International,False,5,1,50,47,INT,1,0,False
-401871066,6,Florida International,New Mexico State,True,6,1,53,0,TD,10,53,True
+401871066,6,Florida International,New Mexico State,True,6,1,53,0,TD,9,53,True
 401871066,6,New Mexico State,Florida International,False,7,1,75,65,FG,14,67,True
 401871066,6,Florida International,New Mexico State,True,8,2,79,65,FG,14,56,True
 401871066,6,New Mexico State,Florida International,False,9,2,83,10,PUNT,7,33,False
@@ -18690,8 +19184,8 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401871066,6,New Mexico State,Florida International,False,20,4,92,49,PUNT,3,-2,False
 401871066,6,Florida International,New Mexico State,True,21,4,49,25,PUNT,3,-11,False
 401871066,6,New Mexico State,Florida International,False,22,4,75,55,INT,1,0,False
-401871066,6,Florida International,New Mexico State,True,23,4,45,65,FG,7,16,True
-401871066,6,New Mexico State,Florida International,False,24,4,75,49,Uncategorized,6,26,False
+401871066,6,Florida International,New Mexico State,True,23,4,45,65,FG,7,15,True
+401871066,6,New Mexico State,Florida International,False,24,4,75,49,END OF GAME,6,26,False
 401871090,6,Troy,Southern Miss,True,1,1,75,3,TD,10,75,True
 401871090,6,Southern Miss,Troy,False,2,1,65,41,PUNT,3,6,False
 401871090,6,Troy,Southern Miss,True,3,1,65,16,FG,10,49,True
@@ -18699,7 +19193,7 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401871090,6,Troy,Southern Miss,True,5,1,59,0,TD,3,59,True
 401871090,6,Southern Miss,Troy,False,6,1,75,3,TD,12,75,True
 401871090,6,Troy,Southern Miss,True,7,2,78,3,TD,12,78,True
-401871090,6,Southern Miss,Troy,False,8,2,80,80,INT,7,45,False
+401871090,6,Southern Miss,Troy,False,8,2,80,80,INT,7,60,False
 401871090,6,Troy,Southern Miss,True,9,2,75,0,TD,10,75,True
 401871090,6,Southern Miss,Troy,False,10,2,84,77,END OF HALF,1,7,False
 401871090,6,Southern Miss,Troy,False,11,3,75,0,TD,2,75,True
@@ -18710,11 +19204,11 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401871090,6,Troy,Southern Miss,True,16,3,81,65,FG,6,76,True
 401871090,6,Southern Miss,Troy,False,17,3,75,0,TD,5,75,True
 401871090,6,Troy,Southern Miss,True,18,3,75,36,DOWNS,5,39,False
-401871090,6,Southern Miss,Troy,False,19,4,64,81,FUMBLE,8,45,False
+401871090,6,Southern Miss,Troy,False,19,4,64,81,FUMBLE,8,38,False
 401871090,6,Troy,Southern Miss,True,20,4,74,3,TD,8,74,True
 401871090,6,Southern Miss,Troy,False,21,4,75,0,TD,6,75,True
 401871090,6,Troy,Southern Miss,True,22,4,36,0,TD,7,36,True
-401871090,6,Southern Miss,Troy,False,23,4,70,16,Uncategorized,9,54,False
+401871090,6,Southern Miss,Troy,False,23,4,70,16,END OF GAME,9,54,False
 401871473,6,Lindenwood,Southeast Missouri State,True,1,1,75,37,PUNT,3,7,False
 401871473,6,Southeast Missouri State,Lindenwood,False,2,1,63,7,PUNT,5,17,False
 401871473,6,Lindenwood,Southeast Missouri State,True,3,1,93,0,TD,13,93,True
@@ -18728,11 +19222,11 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401871473,6,Lindenwood,Southeast Missouri State,True,11,2,82,83,END OF HALF,1,-1,False
 401871473,6,Southeast Missouri State,Lindenwood,False,12,3,50,3,PUNT,3,5,False
 401871473,6,Lindenwood,Southeast Missouri State,True,13,3,97,53,PUNT,3,5,False
-401871473,6,Southeast Missouri State,Lindenwood,False,14,3,47,100,FUMBLE TD,9,-53,True
+401871473,6,Southeast Missouri State,Lindenwood,False,14,3,47,100,FUMBLE TD,9,33,True
 401871473,6,Southeast Missouri State,Lindenwood,False,15,3,75,0,TD,10,75,True
-401871473,6,Lindenwood,Southeast Missouri State,True,16,3,75,80,PUNT,3,-5,False
+401871473,6,Lindenwood,Southeast Missouri State,True,16,3,75,80,PUNT,3,5,False
 401871473,6,Southeast Missouri State,Lindenwood,False,17,3,20,0,TD,3,20,True
 401871473,6,Lindenwood,Southeast Missouri State,True,18,4,75,40,INT,9,42,False
-401871473,6,Southeast Missouri State,Lindenwood,False,19,4,60,65,FG,7,32,True
+401871473,6,Southeast Missouri State,Lindenwood,False,19,4,60,65,FG,7,33,True
 401871473,6,Lindenwood,Southeast Missouri State,True,20,4,75,0,TD,8,75,True
-401871473,6,Southeast Missouri State,Lindenwood,False,21,4,75,46,Uncategorized,11,29,False
+401871473,6,Southeast Missouri State,Lindenwood,False,21,4,75,46,END OF GAME,11,29,False

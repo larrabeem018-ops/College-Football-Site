@@ -1401,14 +1401,24 @@ gameId,week,team,conference,opponent,homeAway,points,totalYards,rushingYards,net
 401868197,5,Tennessee State,OVC,Western Illinois,away,21,318.0,73.0,245.0,27.0,42.0,5.0,15.0,3.0
 401867829,6,Cornell,Ivy,Harvard,home,29,398.0,240.0,158.0,40.0,38.0,8.0,16.0,2.0
 401867829,6,Harvard,Ivy,Cornell,away,41,380.0,105.0,275.0,35.0,27.0,5.0,11.0,1.0
-401868095,6,Weber State,Big Sky,Idaho,home,38,404.0,305.0,99.0,36.0,19.0,6.0,11.0,2.0
+401868095,6,Weber State,Big Sky,Idaho,home,38,406.0,307.0,99.0,36.0,19.0,6.0,11.0,2.0
 401868095,6,Idaho,Big Sky,Weber State,away,27,496.0,113.0,383.0,34.0,52.0,10.0,19.0,2.0
+401869965,6,Louisiana,Sun Belt,Louisiana Tech,away,31,399.0,160.0,239.0,34.0,24.0,5.0,11.0,3.0
+401869965,6,Louisiana Tech,Sun Belt,Louisiana,home,32,485.0,147.0,338.0,34.0,43.0,7.0,13.0,2.0
 401856824,6,UCF,Big 12,Oklahoma State,away,28,375.0,110.0,265.0,41.0,42.0,7.0,16.0,2.0
 401856824,6,Oklahoma State,Big 12,UCF,home,42,414.0,110.0,304.0,32.0,28.0,4.0,9.0,1.0
 401856825,6,Houston,Big 12,Kansas State,away,35,475.0,233.0,242.0,43.0,30.0,7.0,14.0,0.0
 401856825,6,Kansas State,Big 12,Houston,home,16,299.0,117.0,182.0,29.0,30.0,6.0,13.0,1.0
 401856826,6,BYU,Big 12,Iowa State,home,24,506.0,177.0,329.0,31.0,30.0,4.0,10.0,1.0
 401856826,6,Iowa State,Big 12,BYU,away,10,200.0,102.0,98.0,27.0,29.0,2.0,13.0,0.0
+401856827,6,Utah,Big 12,Kansas,home,41,545.0,287.0,258.0,47.0,31.0,7.0,12.0,2.0
+401856827,6,Kansas,Big 12,Utah,away,24,391.0,58.0,333.0,21.0,37.0,4.0,13.0,1.0
+401860901,6,Fresno State,Pac-12,Boise State,home,31,346.0,69.0,277.0,16.0,35.0,3.0,6.0,0.0
+401860901,6,Boise State,Pac-12,Fresno State,away,38,512.0,274.0,238.0,45.0,34.0,5.0,13.0,0.0
+401864518,6,UNLV,Mountain West,North Dakota State,home,13,255.0,178.0,77.0,48.0,16.0,5.0,15.0,1.0
+401864518,6,North Dakota State,Mountain West,UNLV,away,7,300.0,176.0,124.0,39.0,22.0,4.0,12.0,3.0
+401864516,6,Air Force,Mountain West,Northern Illinois,away,28,433.0,439.0,-6.0,67.0,1.0,10.0,13.0,0.0
+401864516,6,Northern Illinois,Mountain West,Air Force,home,7,253.0,113.0,140.0,23.0,20.0,3.0,9.0,1.0
 401866436,6,Bowling Green,Mid-American,Sacramento State,home,38,355.0,218.0,137.0,41.0,17.0,5.0,9.0,1.0
 401866436,6,Sacramento State,Mid-American,Bowling Green,away,10,215.0,70.0,145.0,35.0,28.0,3.0,14.0,1.0
 401860902,6,Oregon State,Pac-12,San Diego State,home,66,651.0,189.0,462.0,45.0,47.0,12.0,17.0,0.0
@@ -1417,12 +1427,22 @@ gameId,week,team,conference,opponent,homeAway,points,totalYards,rushingYards,net
 401856823,6,West Virginia,Big 12,Arizona,home,31,522.0,303.0,219.0,76.0,28.0,9.0,19.0,2.0
 401860922,6,Washington State,Pac-12,Utah State,away,16,257.0,101.0,156.0,32.0,36.0,5.0,19.0,2.0
 401860922,6,Utah State,Pac-12,Washington State,home,17,236.0,86.0,150.0,30.0,26.0,3.0,14.0,1.0
+401864517,6,Nevada,Mountain West,UTEP,away,30,376.0,274.0,102.0,51.0,22.0,4.0,13.0,1.0
+401864517,6,UTEP,Mountain West,Nevada,home,13,211.0,79.0,132.0,25.0,26.0,1.0,14.0,0.0
 401868376,6,Furman,Southern,Tennessee Tech,away,15,289.0,67.0,222.0,33.0,39.0,6.0,17.0,0.0
 401868376,6,Tennessee Tech,Southern,Furman,home,20,285.0,73.0,212.0,24.0,36.0,6.0,13.0,1.0
 401868156,6,Portland State,Big Sky,Utah Tech,home,30,360.0,168.0,192.0,41.0,20.0,7.0,12.0,1.0
-401868156,6,Utah Tech,Big Sky,Portland State,away,14,330.0,104.0,226.0,30.0,45.0,7.0,18.0,2.0
+401868156,6,Utah Tech,Big Sky,Portland State,away,14,330.0,102.0,228.0,30.0,44.0,7.0,18.0,2.0
+401867980,6,North Carolina Central,MEAC,William & Mary,home,14,439.0,282.0,157.0,43.0,39.0,9.0,19.0,1.0
+401867980,6,William & Mary,Patriot,North Carolina Central,away,17,221.0,115.0,106.0,40.0,19.0,3.0,14.0,2.0
 401866660,6,Sacred Heart,Coastal Athletic,Stonehill,home,7,363.0,127.0,236.0,38.0,37.0,8.0,17.0,2.0
 401866660,6,Stonehill,NEC,Sacred Heart,away,28,341.0,207.0,134.0,29.0,23.0,4.0,10.0,1.0
+401868054,6,Central Arkansas,UAC,Abilene Christian,away,14,289.0,206.0,83.0,31.0,16.0,3.0,8.0,2.0
+401868054,6,Abilene Christian,UAC,Central Arkansas,home,20,303.0,117.0,186.0,40.0,26.0,10.0,14.0,0.0
+401868065,6,Tarleton State,UAC,Austin Peay,away,40,481.0,130.0,351.0,33.0,35.0,6.0,14.0,1.0
+401868065,6,Austin Peay,UAC,Tarleton State,home,32,386.0,155.0,231.0,36.0,33.0,4.0,14.0,1.0
+401868144,6,West Georgia,UAC,Eastern Kentucky,away,20,349.0,79.0,270.0,22.0,34.0,4.0,10.0,2.0
+401868144,6,Eastern Kentucky,UAC,West Georgia,home,30,391.0,196.0,195.0,52.0,24.0,8.0,17.0,0.0
 401868300,6,Bethune-Cookman,SWAC,Alabama A&M,away,17,236.0,210.0,26.0,47.0,21.0,5.0,15.0,4.0
 401868300,6,Alabama A&M,SWAC,Bethune-Cookman,home,55,504.0,335.0,169.0,42.0,19.0,5.0,9.0,1.0
 401871052,6,Missouri State,Conference USA,Western Kentucky,away,13,340.0,136.0,204.0,29.0,38.0,4.0,15.0,1.0
@@ -1431,32 +1451,38 @@ gameId,week,team,conference,opponent,homeAway,points,totalYards,rushingYards,net
 401871066,6,Florida International,Conference USA,New Mexico State,home,22,220.0,100.0,120.0,44.0,22.0,6.0,15.0,1.0
 401868329,6,Florida A&M,SWAC,Alabama State,away,28,386.0,96.0,290.0,23.0,20.0,3.0,9.0,2.0
 401868329,6,Alabama State,SWAC,Florida A&M,home,27,381.0,274.0,107.0,54.0,16.0,7.0,13.0,2.0
-401868955,6,Jackson State,SWAC,Grambling,away,38,388.0,216.0,172.0,43.0,16.0,5.0,12.0,2.0
+401868955,6,Jackson State,SWAC,Grambling,away,38,430.0,244.0,186.0,44.0,17.0,5.0,11.0,2.0
 401868955,6,Grambling,SWAC,Jackson State,home,45,438.0,201.0,237.0,42.0,27.0,7.0,13.0,3.0
 401868966,6,Texas Southern,SWAC,Mississippi Valley State,home,34,340.0,61.0,279.0,27.0,30.0,2.0,11.0,2.0
 401868966,6,Mississippi Valley State,SWAC,Texas Southern,away,38,436.0,155.0,281.0,38.0,40.0,5.0,16.0,2.0
+401869949,6,Georgia Southern,Sun Belt,James Madison,home,24,465.0,122.0,343.0,25.0,40.0,5.0,12.0,2.0
+401869949,6,James Madison,Sun Belt,Georgia Southern,away,27,438.0,209.0,229.0,48.0,29.0,5.0,16.0,0.0
+401869943,6,Coastal Carolina,Sun Belt,Marshall,away,27,308.0,235.0,73.0,45.0,18.0,3.0,12.0,1.0
+401869943,6,Marshall,Sun Belt,Coastal Carolina,home,21,505.0,221.0,284.0,41.0,37.0,9.0,15.0,6.0
 401868968,6,Southern,SWAC,Prairie View A&M,away,28,389.0,182.0,207.0,49.0,22.0,8.0,19.0,0.0
-401868968,6,Prairie View A&M,SWAC,Southern,home,14,362.0,183.0,179.0,35.0,32.0,3.0,12.0,4.0
+401868968,6,Prairie View A&M,SWAC,Southern,home,14,362.0,183.0,179.0,35.0,33.0,3.0,12.0,4.0
 401869843,6,App State,Sun Belt,Old Dominion,home,3,158.0,92.0,66.0,28.0,27.0,1.0,13.0,3.0
-401869843,6,Old Dominion,Sun Belt,App State,away,10,308.0,211.0,97.0,60.0,20.0,7.0,19.0,3.0
+401869843,6,Old Dominion,Sun Belt,App State,away,10,304.0,207.0,97.0,61.0,20.0,7.0,20.0,3.0
 401869933,6,Arkansas State,Sun Belt,South Alabama,home,49,516.0,98.0,418.0,27.0,43.0,8.0,10.0,3.0
 401869933,6,South Alabama,Sun Belt,Arkansas State,away,56,372.0,296.0,76.0,50.0,10.0,3.0,10.0,1.0
 401871090,6,Troy,Sun Belt,Southern Miss,home,55,662.0,437.0,225.0,59.0,21.0,8.0,14.0,0.0
-401871090,6,Southern Miss,Sun Belt,Troy,away,34,512.0,121.0,391.0,27.0,39.0,3.0,9.0,3.0
+401871090,6,Southern Miss,Sun Belt,Troy,away,34,512.0,121.0,391.0,27.0,39.0,2.0,8.0,3.0
 401866440,6,Miami (OH),Mid-American,Massachusetts,away,20,260.0,165.0,95.0,36.0,21.0,3.0,13.0,0.0
 401866440,6,Massachusetts,Mid-American,Miami (OH),home,19,319.0,65.0,254.0,30.0,35.0,4.0,15.0,1.0
+401868249,6,SE Louisiana,Southland,UT Rio Grande Valley,away,3,325.0,127.0,198.0,33.0,35.0,7.0,14.0,3.0
+401868249,6,UT Rio Grande Valley,Southland,SE Louisiana,home,13,310.0,66.0,244.0,21.0,37.0,8.0,13.0,1.0
 401868011,6,Fordham,Patriot,Richmond,home,20,258.0,160.0,98.0,35.0,25.0,4.0,11.0,3.0
 401868011,6,Richmond,Patriot,Fordham,away,14,204.0,82.0,122.0,24.0,39.0,5.0,16.0,2.0
 401867992,6,Georgetown,Patriot,Bucknell,home,21,412.0,254.0,158.0,48.0,23.0,2.0,12.0,1.0
 401867992,6,Bucknell,Patriot,Georgetown,away,14,253.0,80.0,173.0,27.0,22.0,2.0,9.0,3.0
 401869144,6,Incarnate Word,Southland,Lamar,away,35,386.0,83.0,303.0,27.0,39.0,4.0,13.0,3.0
 401869144,6,Lamar,Southland,Incarnate Word,home,38,398.0,275.0,123.0,47.0,22.0,5.0,14.0,1.0
-401861964,6,Temple,American Athletic,UConn,home,20,435.0,146.0,289.0,34.0,26.0,5.0,12.0,2.0
+401861964,6,Temple,American Athletic,UConn,home,20,437.0,148.0,289.0,34.0,26.0,5.0,12.0,2.0
 401861964,6,UConn,FBS Independents,Temple,away,34,505.0,248.0,257.0,39.0,24.0,5.0,12.0,0.0
 401868360,6,Arkansas Baptist,,Alcorn State,away,7,206.0,132.0,74.0,49.0,20.0,4.0,14.0,3.0
 401868360,6,Alcorn State,SWAC,Arkansas Baptist,home,63,446.0,323.0,123.0,53.0,12.0,7.0,10.0,2.0
 401868212,6,San Diego,Pioneer,Butler,away,10,308.0,13.0,295.0,27.0,42.0,5.0,14.0,2.0
-401868212,6,Butler,Pioneer,San Diego,home,41,481.0,264.0,217.0,36.0,17.0,5.0,11.0,0.0
+401868212,6,Butler,Pioneer,San Diego,home,41,479.0,262.0,217.0,36.0,17.0,5.0,11.0,0.0
 401868078,6,Idaho State,Big Sky,Cal Poly,home,24,358.0,120.0,238.0,37.0,36.0,5.0,16.0,2.0
 401868078,6,Cal Poly,Big Sky,Idaho State,away,25,321.0,116.0,205.0,36.0,33.0,7.0,16.0,0.0
 401867911,6,Duquesne,NEC,Long Island University,home,14,295.0,93.0,202.0,42.0,24.0,6.0,13.0,3.0
@@ -1477,14 +1503,16 @@ gameId,week,team,conference,opponent,homeAway,points,totalYards,rushingYards,net
 401867974,6,Norfolk State,MEAC,Virginia Lynchburg,home,62,471.0,299.0,172.0,35.0,22.0,2.0,7.0,2.0
 401867987,6,Charleston Southern,OVC,South Carolina State,home,49,305.0,111.0,194.0,26.0,29.0,2.0,9.0,1.0
 401867987,6,South Carolina State,MEAC,Charleston Southern,away,39,470.0,102.0,368.0,40.0,50.0,11.0,21.0,4.0
+401862798,6,Memphis,American Athletic,UAB,home,38,394.0,230.0,164.0,46.0,21.0,7.0,14.0,0.0
+401862798,6,UAB,American Athletic,Memphis,away,13,310.0,179.0,131.0,49.0,22.0,3.0,15.0,3.0
 401862796,6,North Texas,American Athletic,Charlotte,home,50,580.0,198.0,382.0,31.0,39.0,5.0,14.0,0.0
 401862796,6,Charlotte,American Athletic,North Texas,away,10,274.0,56.0,218.0,33.0,23.0,3.0,13.0,2.0
 401862797,6,East Carolina,American Athletic,Rice,home,28,376.0,234.0,142.0,41.0,34.0,5.0,16.0,0.0
 401862797,6,Rice,American Athletic,East Carolina,away,12,233.0,164.0,69.0,51.0,14.0,3.0,15.0,2.0
 401862794,6,South Florida,American Athletic,UTSA,away,24,288.0,111.0,177.0,31.0,30.0,3.0,11.0,0.0
 401862794,6,UTSA,American Athletic,South Florida,home,31,486.0,277.0,209.0,43.0,32.0,8.0,14.0,0.0
-401871051,6,Kennesaw State,Conference USA,Jacksonville State,home,26,398.0,117.0,281.0,30.0,30.0,4.0,10.0,1.0
-401871051,6,Jacksonville State,Conference USA,Kennesaw State,away,27,387.0,76.0,311.0,29.0,44.0,7.0,14.0,2.0
+401871051,6,Kennesaw State,Conference USA,Jacksonville State,home,26,410.0,117.0,293.0,30.0,35.0,5.0,11.0,2.0
+401871051,6,Jacksonville State,Conference USA,Kennesaw State,away,27,385.0,74.0,311.0,30.0,44.0,7.0,14.0,2.0
 401870766,6,Sam Houston,Conference USA,Liberty,away,3,243.0,105.0,138.0,29.0,30.0,4.0,13.0,0.0
 401870766,6,Liberty,Conference USA,Sam Houston,home,35,411.0,297.0,114.0,39.0,14.0,4.0,7.0,0.0
 401868347,6,The Citadel,Southern,East Tennessee State,home,16,259.0,126.0,133.0,48.0,18.0,4.0,17.0,2.0
@@ -1501,40 +1529,50 @@ gameId,week,team,conference,opponent,homeAway,points,totalYards,rushingYards,net
 401858257,6,Stanford,ACC,Notre Dame,away,7,202.0,58.0,144.0,21.0,23.0,2.0,11.0,3.0
 401858259,6,Virginia Tech,ACC,California,away,20,401.0,113.0,288.0,32.0,31.0,4.0,11.0,0.0
 401858259,6,California,ACC,Virginia Tech,home,25,403.0,82.0,321.0,26.0,43.0,8.0,16.0,0.0
-401858484,6,Oregon,Big Ten,UCLA,home,15,242.0,73.0,169.0,27.0,35.0,1.0,12.0,6.0
+401856808,6,Hawai'i,Mountain West,Arizona State,away,12,316.0,64.0,252.0,22.0,51.0,7.0,19.0,1.0
+401856808,6,Arizona State,Big 12,Hawai'i,home,30,420.0,231.0,189.0,30.0,31.0,3.0,10.0,0.0
+401858484,6,Oregon,Big Ten,UCLA,home,15,272.0,73.0,199.0,27.0,35.0,1.0,12.0,7.0
 401858484,6,UCLA,Big Ten,Oregon,away,17,345.0,140.0,205.0,47.0,23.0,4.0,16.0,3.0
-401858482,6,Ball State,Mid-American,Northwestern,away,14,339.0,90.0,249.0,31.0,46.0,5.0,17.0,1.0
+401858485,6,Penn State,Big Ten,USC,home,23,357.0,68.0,289.0,31.0,32.0,2.0,12.0,1.0
+401858485,6,USC,Big Ten,Penn State,away,31,430.0,129.0,301.0,30.0,33.0,5.0,11.0,0.0
+401858482,6,Ball State,Mid-American,Northwestern,away,14,360.0,90.0,270.0,31.0,47.0,5.0,17.0,1.0
 401858482,6,Northwestern,Big Ten,Ball State,home,45,436.0,164.0,272.0,31.0,24.0,4.0,9.0,0.0
-401858481,6,Nebraska,Big Ten,Indiana,home,17,390.0,128.0,262.0,39.0,44.0,10.0,19.0,1.0
+401858481,6,Nebraska,Big Ten,Indiana,home,17,391.0,128.0,263.0,39.0,44.0,10.0,19.0,1.0
 401858481,6,Indiana,Big Ten,Nebraska,away,20,328.0,65.0,263.0,22.0,22.0,1.0,10.0,0.0
 401858483,6,Ohio State,Big Ten,Maryland,home,45,449.0,207.0,242.0,48.0,21.0,5.0,13.0,2.0
 401858483,6,Maryland,Big Ten,Ohio State,away,16,146.0,82.0,64.0,28.0,25.0,3.0,12.0,0.0
 401858480,6,Illinois,Big Ten,Michigan State,away,38,409.0,127.0,282.0,33.0,37.0,5.0,12.0,1.0
 401858480,6,Michigan State,Big Ten,Illinois,home,37,342.0,127.0,215.0,27.0,27.0,6.0,10.0,1.0
+401858486,6,Purdue,Big Ten,Minnesota,home,41,464.0,305.0,159.0,47.0,24.0,5.0,12.0,0.0
+401858486,6,Minnesota,Big Ten,Purdue,away,13,275.0,27.0,248.0,13.0,39.0,4.0,13.0,2.0
 401858487,6,Iowa,Big Ten,Washington,away,41,465.0,263.0,202.0,38.0,19.0,3.0,9.0,0.0
 401858487,6,Washington,Big Ten,Iowa,home,24,317.0,-3.0,320.0,25.0,51.0,7.0,18.0,0.0
 401866438,6,Central Michigan,Mid-American,Ohio,away,14,275.0,121.0,154.0,32.0,24.0,6.0,14.0,1.0
 401866438,6,Ohio,Mid-American,Central Michigan,home,31,403.0,245.0,158.0,50.0,18.0,9.0,14.0,2.0
 401866435,6,Eastern Michigan,Mid-American,Akron,away,25,413.0,136.0,277.0,33.0,46.0,8.0,18.0,2.0
 401866435,6,Akron,Mid-American,Eastern Michigan,home,23,372.0,143.0,229.0,34.0,24.0,5.0,12.0,0.0
-401866437,6,Toledo,Mid-American,Buffalo,home,8,304.0,101.0,203.0,26.0,35.0,3.0,14.0,3.0
+401866437,6,Toledo,Mid-American,Buffalo,home,8,308.0,105.0,203.0,26.0,35.0,3.0,14.0,3.0
 401866437,6,Buffalo,Mid-American,Toledo,away,23,351.0,180.0,171.0,47.0,31.0,8.0,21.0,0.0
-401866439,6,Western Michigan,Mid-American,Kent State,home,38,468.0,206.0,262.0,38.0,28.0,6.0,11.0,0.0
+401866439,6,Western Michigan,Mid-American,Kent State,home,38,466.0,204.0,262.0,38.0,28.0,6.0,11.0,0.0
 401866439,6,Kent State,Mid-American,Western Michigan,away,7,298.0,75.0,223.0,33.0,35.0,3.0,13.0,1.0
 401856713,6,Tennessee,SEC,Arkansas,away,24,414.0,167.0,247.0,35.0,29.0,4.0,13.0,3.0
 401856713,6,Arkansas,SEC,Tennessee,home,17,288.0,133.0,155.0,34.0,27.0,2.0,11.0,1.0
 401856714,6,South Carolina,SEC,Florida,away,38,393.0,114.0,279.0,37.0,35.0,10.0,16.0,0.0
 401856714,6,Florida,SEC,South Carolina,home,19,387.0,120.0,267.0,38.0,36.0,6.0,13.0,3.0
-401856716,6,Texas A&M,SEC,Missouri,away,6,146.0,20.0,126.0,22.0,31.0,4.0,16.0,2.0
-401856716,6,Missouri,SEC,Texas A&M,home,27,344.0,197.0,147.0,40.0,28.0,6.0,16.0,1.0
+401856712,6,Alabama,SEC,Georgia,home,17,346.0,161.0,185.0,29.0,31.0,6.0,13.0,1.0
+401856712,6,Georgia,SEC,Alabama,away,20,455.0,206.0,249.0,39.0,22.0,7.0,13.0,1.0
+401856715,6,LSU,SEC,Kentucky,away,34,410.0,94.0,316.0,36.0,35.0,7.0,13.0,2.0
+401856715,6,Kentucky,SEC,LSU,home,35,401.0,155.0,246.0,32.0,36.0,5.0,14.0,0.0
+401856716,6,Texas A&M,SEC,Missouri,away,6,216.0,29.0,187.0,23.0,39.0,5.0,18.0,2.0
+401856716,6,Missouri,SEC,Texas A&M,home,27,399.0,252.0,147.0,44.0,28.0,6.0,16.0,1.0
 401856718,6,Vanderbilt,SEC,Ole Miss,home,17,343.0,103.0,240.0,37.0,37.0,9.0,17.0,4.0
-401856718,6,Ole Miss,SEC,Vanderbilt,away,52,413.0,200.0,213.0,35.0,30.0,5.0,11.0,1.0
+401856718,6,Ole Miss,SEC,Vanderbilt,away,52,409.0,196.0,213.0,35.0,30.0,5.0,11.0,1.0
 401856717,6,Texas,SEC,Oklahoma,away,24,382.0,122.0,260.0,32.0,31.0,3.0,14.0,2.0
 401856717,6,Oklahoma,SEC,Texas,home,27,238.0,83.0,155.0,31.0,26.0,2.0,13.0,0.0
 401866662,6,Brown,Ivy,Bryant,home,28,383.0,185.0,198.0,45.0,25.0,7.0,12.0,1.0
 401866662,6,Bryant,Coastal Athletic,Brown,away,13,408.0,100.0,308.0,34.0,37.0,7.0,15.0,0.0
 401862799,6,Navy,American Athletic,Tulsa,home,34,481.0,386.0,95.0,67.0,7.0,8.0,11.0,4.0
-401862799,6,Tulsa,American Athletic,Navy,away,26,376.0,98.0,278.0,28.0,39.0,7.0,16.0,0.0
+401862799,6,Tulsa,American Athletic,Navy,away,26,376.0,98.0,278.0,28.0,36.0,7.0,16.0,0.0
 401858254,6,Louisville,ACC,Florida State,home,44,537.0,397.0,140.0,43.0,15.0,4.0,9.0,0.0
 401858254,6,Florida State,ACC,Louisville,away,20,362.0,153.0,209.0,39.0,38.0,7.0,17.0,1.0
 401858255,6,Duke,ACC,Georgia Tech,away,25,418.0,159.0,259.0,35.0,42.0,10.0,17.0,0.0
@@ -1543,9 +1581,11 @@ gameId,week,team,conference,opponent,homeAway,points,totalYards,rushingYards,net
 401858260,6,NC State,ACC,Wake Forest,home,14,258.0,15.0,243.0,24.0,40.0,6.0,14.0,1.0
 401858256,6,Pittsburgh,ACC,North Carolina,home,17,369.0,150.0,219.0,41.0,44.0,7.0,16.0,2.0
 401858256,6,North Carolina,ACC,Pittsburgh,away,21,269.0,20.0,249.0,25.0,26.0,3.0,11.0,2.0
+401858258,6,Virginia,ACC,Syracuse,home,28,288.0,169.0,119.0,35.0,20.0,3.0,10.0,0.0
+401858258,6,Syracuse,ACC,Virginia,away,25,430.0,163.0,267.0,47.0,35.0,5.0,15.0,0.0
 401864519,6,Wyoming,Mountain West,San José State,away,16,345.0,231.0,114.0,53.0,24.0,3.0,15.0,2.0
 401864519,6,San José State,Mountain West,Wyoming,home,13,326.0,75.0,251.0,28.0,38.0,4.0,12.0,1.0
-401868265,6,Marist,Pioneer,Columbia,home,28,450.0,113.0,337.0,29.0,41.0,5.0,12.0,2.0
+401868265,6,Marist,Pioneer,Columbia,home,28,458.0,121.0,337.0,29.0,41.0,5.0,12.0,2.0
 401868265,6,Columbia,Ivy,Marist,away,41,363.0,86.0,277.0,31.0,32.0,7.0,13.0,2.0
 401867836,6,Yale,Ivy,Dartmouth,home,28,537.0,212.0,325.0,41.0,37.0,4.0,12.0,0.0
 401867836,6,Dartmouth,Ivy,Yale,away,7,225.0,69.0,156.0,29.0,26.0,1.0,10.0,1.0
@@ -1555,17 +1595,21 @@ gameId,week,team,conference,opponent,homeAway,points,totalYards,rushingYards,net
 401868229,6,Dayton,Pioneer,Morehead State,home,56,363.0,131.0,232.0,31.0,32.0,6.0,12.0,0.0
 401868256,6,Valparaiso,Pioneer,Drake,home,21,250.0,95.0,155.0,41.0,29.0,4.0,17.0,1.0
 401868256,6,Drake,Pioneer,Valparaiso,away,13,323.0,59.0,264.0,30.0,38.0,1.0,11.0,6.0
-401866661,6,Wofford,Southern,Elon,away,16,252.0,102.0,150.0,38.0,32.0,2.0,17.0,0.0
-401866661,6,Elon,Coastal Athletic,Wofford,home,0,258.0,179.0,79.0,33.0,26.0,2.0,13.0,5.0
+401868180,6,Gardner-Webb,OVC,Eastern Illinois,home,7,246.0,138.0,108.0,46.0,24.0,2.0,16.0,6.0
+401868180,6,Eastern Illinois,OVC,Gardner-Webb,away,21,174.0,163.0,11.0,50.0,4.0,1.0,13.0,0.0
+401868087,6,Northern Colorado,Big Sky,Eastern Washington,away,22,468.0,281.0,187.0,44.0,34.0,4.0,15.0,2.0
+401868087,6,Eastern Washington,Big Sky,Northern Colorado,home,31,396.0,62.0,334.0,24.0,37.0,7.0,16.0,0.0
+401866661,6,Wofford,Southern,Elon,away,16,252.0,99.0,153.0,38.0,32.0,4.0,18.0,0.0
+401866661,6,Elon,Coastal Athletic,Wofford,home,0,257.0,178.0,79.0,34.0,26.0,2.0,13.0,5.0
 401871473,6,Southeast Missouri State,OVC,Lindenwood,away,38,423.0,215.0,208.0,51.0,23.0,4.0,10.0,1.0
 401871473,6,Lindenwood,OVC,Southeast Missouri State,home,27,380.0,198.0,182.0,30.0,28.0,7.0,13.0,1.0
 401868115,6,Northern Arizona,Big Sky,Montana,home,49,418.0,89.0,329.0,33.0,40.0,8.0,13.0,1.0
-401868115,6,Montana,Big Sky,Northern Arizona,away,44,489.0,142.0,347.0,28.0,39.0,5.0,10.0,1.0
+401868115,6,Montana,Big Sky,Northern Arizona,away,44,489.0,142.0,347.0,28.0,39.0,5.0,10.0,2.0
 401866658,6,North Carolina A&T,Coastal Athletic,New Hampshire,home,30,388.0,158.0,230.0,32.0,36.0,6.0,16.0,0.0
 401866658,6,New Hampshire,Coastal Athletic,North Carolina A&T,away,27,360.0,93.0,267.0,39.0,35.0,8.0,17.0,2.0
 401868282,6,Stetson,Pioneer,St. Thomas (MN),away,21,458.0,124.0,334.0,24.0,56.0,6.0,17.0,0.0
 401868282,6,St. Thomas (MN),Pioneer,Stetson,home,64,614.0,300.0,314.0,41.0,19.0,5.0,8.0,1.0
 401866659,6,Towson,Coastal Athletic,Stony Brook,home,24,433.0,96.0,337.0,34.0,35.0,5.0,13.0,2.0
-401866659,6,Stony Brook,Coastal Athletic,Towson,away,31,321.0,146.0,175.0,40.0,24.0,9.0,18.0,0.0
+401866659,6,Stony Brook,Coastal Athletic,Towson,away,31,320.0,145.0,175.0,41.0,24.0,9.0,18.0,0.0
 401868198,6,UT Martin,OVC,Tennessee State,away,42,307.0,193.0,114.0,45.0,21.0,3.0,14.0,2.0
 401868198,6,Tennessee State,OVC,UT Martin,home,28,391.0,15.0,376.0,21.0,39.0,4.0,11.0,4.0
