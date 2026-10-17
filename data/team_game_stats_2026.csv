@@ -1613,3 +1613,25 @@ gameId,week,team,conference,opponent,homeAway,points,totalYards,rushingYards,net
 401866659,6,Stony Brook,Coastal Athletic,Towson,away,31,320.0,145.0,175.0,41.0,24.0,9.0,18.0,0.0
 401868198,6,UT Martin,OVC,Tennessee State,away,42,307.0,193.0,114.0,45.0,21.0,3.0,14.0,2.0
 401868198,6,Tennessee State,OVC,UT Martin,home,28,391.0,15.0,376.0,21.0,39.0,4.0,11.0,4.0
+401860923,7,Texas State,Pac-12,Colorado State,home,66,716.0,503.0,213.0,55.0,19.0,5.0,9.0,1.0
+401860923,7,Colorado State,Pac-12,Texas State,away,27,430.0,148.0,282.0,31.0,41.0,4.0,15.0,0.0
+401871068,7,Sam Houston,Conference USA,Western Kentucky,home,3,177.0,65.0,112.0,27.0,30.0,2.0,13.0,1.0
+401871068,7,Western Kentucky,Conference USA,Sam Houston,away,16,276.0,144.0,132.0,43.0,31.0,8.0,20.0,0.0
+401871053,7,Jacksonville State,Conference USA,Florida International,home,27,387.0,173.0,214.0,32.0,22.0,3.0,10.0,1.0
+401871053,7,Florida International,Conference USA,Jacksonville State,away,24,404.0,124.0,280.0,32.0,41.0,8.0,15.0,0.0
+401871067,7,Delaware,Conference USA,Middle Tennessee,away,30,391.0,70.0,321.0,30.0,37.0,5.0,12.0,1.0
+401871067,7,Middle Tennessee,Conference USA,Delaware,home,33,396.0,105.0,291.0,25.0,33.0,2.0,9.0,2.0
+401869950,7,Old Dominion,Sun Belt,Georgia Southern,home,15,266.0,65.0,201.0,32.0,24.0,3.0,10.0,2.0
+401869950,7,Georgia Southern,Sun Belt,Old Dominion,away,23,405.0,133.0,272.0,35.0,41.0,3.0,12.0,1.0
+401869844,7,App State,Sun Belt,Coastal Carolina,away,35,516.0,253.0,263.0,52.0,26.0,8.0,14.0,1.0
+401869844,7,Coastal Carolina,Sun Belt,App State,home,32,437.0,139.0,298.0,30.0,31.0,6.0,11.0,1.0
+401871054,7,Kennesaw State,Conference USA,Missouri State,away,21,337.0,77.0,260.0,27.0,36.0,3.0,11.0,0.0
+401871054,7,Missouri State,Conference USA,Kennesaw State,home,24,421.0,118.0,303.0,33.0,40.0,7.0,14.0,1.0
+401862800,7,East Carolina,American Athletic,UAB,away,17,311.0,185.0,126.0,50.0,27.0,9.0,20.0,2.0
+401862800,7,UAB,American Athletic,East Carolina,home,30,361.0,99.0,262.0,32.0,37.0,6.0,16.0,0.0
+401858493,7,Purdue,Big Ten,Washington,home,26,371.0,98.0,273.0,27.0,41.0,5.0,14.0,2.0
+401858493,7,Washington,Big Ten,Purdue,away,38,488.0,186.0,302.0,34.0,27.0,4.0,7.0,5.0
+401862801,7,Tulane,American Athletic,Memphis,home,31,325.0,150.0,175.0,38.0,22.0,4.0,16.0,2.0
+401862801,7,Memphis,American Athletic,Tulane,away,17,482.0,176.0,306.0,44.0,37.0,2.0,11.0,6.0
+401867821,7,Pennsylvania,Ivy,Columbia,home,27,446.0,72.0,374.0,29.0,41.0,7.0,14.0,4.0
+401867821,7,Columbia,Ivy,Pennsylvania,away,28,362.0,125.0,237.0,38.0,40.0,8.0,15.0,2.0

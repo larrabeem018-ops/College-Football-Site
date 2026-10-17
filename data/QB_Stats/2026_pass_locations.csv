@@ -69,20 +69,20 @@ player_id,player,team,conference,attempts,location_eligible,location_available,z
 5141629,Keelon Russell,Alabama,SEC,164,163,130,deep middle,5,3,0,0.6,20.6,28.8,0.6,2.019
 5141629,Keelon Russell,Alabama,SEC,164,163,130,deep right,9,7,0,0.778,23.0,28.6,0.778,1.751
 5141629,Keelon Russell,Alabama,SEC,164,163,130,unknown,33,19,2,0.576,8.5,8.5,0.394,0.105
-5146664,Henry Hasselbeck,App State,SBC,9,9,8,short left,4,3,0,0.75,2.0,-1.0,0.25,-0.818
-5146664,Henry Hasselbeck,App State,SBC,9,9,8,short middle,2,1,0,0.5,4.5,1.5,0.5,-0.379
-5146664,Henry Hasselbeck,App State,SBC,9,9,8,short right,2,2,0,1.0,14.0,6.5,1.0,1.995
-5146664,Henry Hasselbeck,App State,SBC,9,9,8,deep left,0,0,0,,,,0.0,0.0
-5146664,Henry Hasselbeck,App State,SBC,9,9,8,deep middle,0,0,0,,,,0.0,0.0
-5146664,Henry Hasselbeck,App State,SBC,9,9,8,deep right,0,0,0,,,,0.0,0.0
-5146664,Henry Hasselbeck,App State,SBC,9,9,8,unknown,1,0,1,0.0,0.0,25.0,0.0,-1.633
-4870999,Malachi Singleton,App State,SBC,156,155,154,short left,46,30,0,0.652,8.0,2.9,0.457,0.337
-4870999,Malachi Singleton,App State,SBC,156,155,154,short middle,36,20,0,0.556,7.6,8.5,0.444,0.483
-4870999,Malachi Singleton,App State,SBC,156,155,154,short right,55,46,0,0.836,7.9,4.9,0.564,0.465
-4870999,Malachi Singleton,App State,SBC,156,155,154,deep left,7,1,0,0.143,5.1,29.1,0.143,-0.329
-4870999,Malachi Singleton,App State,SBC,156,155,154,deep middle,3,2,0,0.667,27.0,35.3,0.667,2.126
-4870999,Malachi Singleton,App State,SBC,156,155,154,deep right,7,3,0,0.429,13.0,30.7,0.429,1.261
-4870999,Malachi Singleton,App State,SBC,156,155,154,unknown,1,0,1,0.0,0.0,15.0,0.0,-6.24
+5146664,Henry Hasselbeck,App State,SBC,22,22,21,short left,9,6,0,0.667,2.1,1.4,0.222,-0.561
+5146664,Henry Hasselbeck,App State,SBC,22,22,21,short middle,6,4,0,0.667,8.5,4.8,0.5,0.357
+5146664,Henry Hasselbeck,App State,SBC,22,22,21,short right,5,5,0,1.0,14.4,5.6,1.0,1.697
+5146664,Henry Hasselbeck,App State,SBC,22,22,21,deep left,0,0,0,,,,0.0,0.0
+5146664,Henry Hasselbeck,App State,SBC,22,22,21,deep middle,1,1,0,1.0,31.0,31.0,1.0,2.842
+5146664,Henry Hasselbeck,App State,SBC,22,22,21,deep right,0,0,0,,,,0.0,0.0
+5146664,Henry Hasselbeck,App State,SBC,22,22,21,unknown,1,0,1,0.0,0.0,25.0,0.0,-1.633
+4870999,Malachi Singleton,App State,SBC,169,168,166,short left,50,34,0,0.68,7.6,2.7,0.44,0.328
+4870999,Malachi Singleton,App State,SBC,169,168,166,short middle,40,22,0,0.55,7.2,8.8,0.425,0.42
+4870999,Malachi Singleton,App State,SBC,169,168,166,short right,57,48,0,0.842,8.3,5.2,0.579,0.536
+4870999,Malachi Singleton,App State,SBC,169,168,166,deep left,8,2,0,0.25,7.3,28.3,0.25,0.103
+4870999,Malachi Singleton,App State,SBC,169,168,166,deep middle,3,2,0,0.667,27.0,35.3,0.667,2.126
+4870999,Malachi Singleton,App State,SBC,169,168,166,deep right,8,4,0,0.5,17.0,30.3,0.5,1.579
+4870999,Malachi Singleton,App State,SBC,169,168,166,unknown,2,1,1,0.5,5.0,9.5,0.5,-2.269
 5082965,Tommy Ulatowski,App State,SBC,5,5,5,short left,1,1,0,1.0,8.0,-2.0,1.0,0.913
 5082965,Tommy Ulatowski,App State,SBC,5,5,5,short middle,0,0,0,,,,0.0,0.0
 5082965,Tommy Ulatowski,App State,SBC,5,5,5,short right,4,3,0,0.75,3.0,1.0,0.5,-0.055
@@ -419,13 +419,13 @@ player_id,player,team,conference,attempts,location_eligible,location_available,z
 5159078,Tait Reynolds,Clemson,ACC,129,127,123,deep middle,2,0,0,0.0,0.0,33.5,0.0,-0.346
 5159078,Tait Reynolds,Clemson,ACC,129,127,123,deep right,8,1,0,0.125,2.5,27.3,0.125,-0.202
 5159078,Tait Reynolds,Clemson,ACC,129,127,123,unknown,4,1,3,0.25,6.8,27.3,0.25,-3.441
-5296439,Deuce Bailey,Coastal Carolina,SBC,175,174,168,short left,42,20,0,0.476,6.0,6.7,0.429,-0.062
-5296439,Deuce Bailey,Coastal Carolina,SBC,175,174,168,short middle,35,20,0,0.571,6.3,7.1,0.429,0.353
-5296439,Deuce Bailey,Coastal Carolina,SBC,175,174,168,short right,61,39,0,0.639,6.7,6.8,0.393,0.3
-5296439,Deuce Bailey,Coastal Carolina,SBC,175,174,168,deep left,9,2,0,0.222,8.1,28.1,0.222,0.182
-5296439,Deuce Bailey,Coastal Carolina,SBC,175,174,168,deep middle,9,4,0,0.444,20.4,33.0,0.444,1.665
-5296439,Deuce Bailey,Coastal Carolina,SBC,175,174,168,deep right,12,5,0,0.417,11.3,28.4,0.417,-0.143
-5296439,Deuce Bailey,Coastal Carolina,SBC,175,174,168,unknown,6,3,3,0.5,10.8,18.3,0.5,-0.448
+5296439,Deuce Bailey,Coastal Carolina,SBC,206,205,198,short left,46,20,0,0.435,5.5,6.3,0.391,-0.1
+5296439,Deuce Bailey,Coastal Carolina,SBC,206,205,198,short middle,42,26,0,0.619,7.2,7.5,0.5,0.478
+5296439,Deuce Bailey,Coastal Carolina,SBC,206,205,198,short right,71,45,0,0.634,6.6,6.4,0.423,0.312
+5296439,Deuce Bailey,Coastal Carolina,SBC,206,205,198,deep left,15,4,0,0.267,9.4,28.9,0.267,0.277
+5296439,Deuce Bailey,Coastal Carolina,SBC,206,205,198,deep middle,11,6,0,0.545,25.1,32.4,0.545,2.162
+5296439,Deuce Bailey,Coastal Carolina,SBC,206,205,198,deep right,13,5,0,0.385,10.5,28.0,0.385,-0.215
+5296439,Deuce Bailey,Coastal Carolina,SBC,206,205,198,unknown,7,3,4,0.429,9.3,16.3,0.429,-0.784
 5152029,Tre Guerra,Coastal Carolina,SBC,3,3,3,short left,2,1,0,0.5,3.0,5.0,0.0,-0.229
 5152029,Tre Guerra,Coastal Carolina,SBC,3,3,3,short middle,0,0,0,,,,0.0,0.0
 5152029,Tre Guerra,Coastal Carolina,SBC,3,3,3,short right,1,0,0,0.0,0.0,-3.0,0.0,-0.87
@@ -1350,13 +1350,13 @@ player_id,player,team,conference,attempts,location_eligible,location_available,z
 5079548,Air Noland,Memphis,AAC,9,9,8,deep middle,0,0,0,,,,0.0,0.0
 5079548,Air Noland,Memphis,AAC,9,9,8,deep right,0,0,0,,,,0.0,0.0
 5079548,Air Noland,Memphis,AAC,9,9,8,unknown,1,0,1,0.0,0.0,14.0,0.0,-6.006
-5165807,Marcus Stokes,Memphis,AAC,145,144,138,short left,39,28,0,0.718,6.4,5.2,0.59,0.568
-5165807,Marcus Stokes,Memphis,AAC,145,144,138,short middle,22,19,0,0.864,11.0,6.9,0.727,1.184
-5165807,Marcus Stokes,Memphis,AAC,145,144,138,short right,58,40,0,0.69,7.2,6.3,0.466,0.112
-5165807,Marcus Stokes,Memphis,AAC,145,144,138,deep left,8,2,0,0.25,9.8,34.9,0.25,0.277
-5165807,Marcus Stokes,Memphis,AAC,145,144,138,deep middle,5,4,0,0.8,37.6,32.0,0.8,2.761
-5165807,Marcus Stokes,Memphis,AAC,145,144,138,deep right,6,5,0,0.833,35.3,33.0,0.833,2.764
-5165807,Marcus Stokes,Memphis,AAC,145,144,138,unknown,6,3,3,0.5,26.5,36.5,0.5,0.667
+5165807,Marcus Stokes,Memphis,AAC,181,180,171,short left,49,35,0,0.714,6.4,5.9,0.571,0.489
+5165807,Marcus Stokes,Memphis,AAC,181,180,171,short middle,30,24,0,0.8,12.0,7.7,0.7,1.065
+5165807,Marcus Stokes,Memphis,AAC,181,180,171,short right,66,45,0,0.682,7.0,6.4,0.455,0.125
+5165807,Marcus Stokes,Memphis,AAC,181,180,171,deep left,12,2,0,0.167,6.5,34.5,0.167,-0.058
+5165807,Marcus Stokes,Memphis,AAC,181,180,171,deep middle,5,4,0,0.8,37.6,32.0,0.8,2.761
+5165807,Marcus Stokes,Memphis,AAC,181,180,171,deep right,9,7,0,0.778,31.4,33.8,0.778,2.28
+5165807,Marcus Stokes,Memphis,AAC,181,180,171,unknown,9,3,6,0.333,17.7,26.0,0.333,-1.409
 5121169,Darian Mensah,Miami,ACC,133,133,125,short left,46,43,0,0.935,11.3,5.3,0.717,0.745
 5121169,Darian Mensah,Miami,ACC,133,133,125,short middle,19,14,0,0.737,8.5,7.4,0.579,0.893
 5121169,Darian Mensah,Miami,ACC,133,133,125,short right,48,40,0,0.833,7.9,2.0,0.625,0.503
@@ -2008,13 +2008,13 @@ player_id,player,team,conference,attempts,location_eligible,location_available,z
 5149006,Evans Chuba,Purdue,B1G,14,14,13,deep middle,0,0,0,,,,0.0,0.0
 5149006,Evans Chuba,Purdue,B1G,14,14,13,deep right,1,0,0,0.0,0.0,25.0,0.0,-1.051
 5149006,Evans Chuba,Purdue,B1G,14,14,13,unknown,1,1,0,1.0,14.0,,1.0,3.15
-5104738,Ryan Browne,Purdue,B1G,180,180,178,short left,50,36,0,0.72,6.9,4.8,0.44,0.295
-5104738,Ryan Browne,Purdue,B1G,180,180,178,short middle,38,30,0,0.789,11.1,7.3,0.684,0.776
-5104738,Ryan Browne,Purdue,B1G,180,180,178,short right,69,48,0,0.696,7.2,3.4,0.551,0.449
-5104738,Ryan Browne,Purdue,B1G,180,180,178,deep left,10,4,0,0.4,9.6,29.5,0.4,0.398
-5104738,Ryan Browne,Purdue,B1G,180,180,178,deep middle,1,0,0,0.0,0.0,41.0,0.0,-0.877
-5104738,Ryan Browne,Purdue,B1G,180,180,178,deep right,10,5,0,0.5,18.1,27.5,0.5,1.009
-5104738,Ryan Browne,Purdue,B1G,180,180,178,unknown,2,1,1,0.5,4.5,13.0,0.5,-0.664
+5104738,Ryan Browne,Purdue,B1G,221,221,217,short left,59,42,0,0.712,6.5,4.6,0.39,0.269
+5104738,Ryan Browne,Purdue,B1G,221,221,217,short middle,47,37,0,0.787,10.9,7.6,0.702,0.786
+5104738,Ryan Browne,Purdue,B1G,221,221,217,short right,84,55,0,0.655,7.1,3.8,0.524,0.381
+5104738,Ryan Browne,Purdue,B1G,221,221,217,deep left,13,5,0,0.385,11.2,29.1,0.385,0.448
+5104738,Ryan Browne,Purdue,B1G,221,221,217,deep middle,2,0,0,0.0,0.0,30.5,0.0,-2.101
+5104738,Ryan Browne,Purdue,B1G,221,221,217,deep right,12,5,0,0.417,15.1,28.0,0.417,0.689
+5104738,Ryan Browne,Purdue,B1G,221,221,217,unknown,4,1,3,0.25,2.3,19.0,0.25,-2.552
 5145788,Gael Ochoa,Rice,AAC,9,9,9,short left,5,2,0,0.4,4.2,9.0,0.2,-0.334
 5145788,Gael Ochoa,Rice,AAC,9,9,9,short middle,1,1,0,1.0,33.0,15.0,1.0,3.504
 5145788,Gael Ochoa,Rice,AAC,9,9,9,short right,3,1,0,0.333,3.7,4.3,0.333,0.202
@@ -2449,6 +2449,13 @@ player_id,player,team,conference,attempts,location_eligible,location_available,z
 4431633,Will Crowder,Troy,SBC,154,154,149,deep middle,2,2,0,1.0,32.5,31.5,1.0,3.208
 4431633,Will Crowder,Troy,SBC,154,154,149,deep right,12,2,0,0.167,6.6,24.2,0.167,-0.024
 4431633,Will Crowder,Troy,SBC,154,154,149,unknown,5,1,4,0.2,3.6,17.0,0.2,-4.006
+5219709,Dagan Bruno,Tulane,AAC,1,1,1,short left,1,1,0,1.0,10.0,0.0,0.0,0.901
+5219709,Dagan Bruno,Tulane,AAC,1,1,1,short middle,0,0,0,,,,0.0,0.0
+5219709,Dagan Bruno,Tulane,AAC,1,1,1,short right,0,0,0,,,,0.0,0.0
+5219709,Dagan Bruno,Tulane,AAC,1,1,1,deep left,0,0,0,,,,0.0,0.0
+5219709,Dagan Bruno,Tulane,AAC,1,1,1,deep middle,0,0,0,,,,0.0,0.0
+5219709,Dagan Bruno,Tulane,AAC,1,1,1,deep right,0,0,0,,,,0.0,0.0
+5219709,Dagan Bruno,Tulane,AAC,1,1,1,unknown,0,0,0,,,,0.0,0.0
 5091890,Kadin Semonza,Tulane,AAC,119,119,116,short left,35,17,0,0.486,4.1,5.2,0.286,-0.048
 5091890,Kadin Semonza,Tulane,AAC,119,119,116,short middle,22,16,0,0.727,10.3,9.0,0.682,0.854
 5091890,Kadin Semonza,Tulane,AAC,119,119,116,short right,41,25,0,0.61,4.6,5.2,0.293,-0.18
@@ -2456,13 +2463,13 @@ player_id,player,team,conference,attempts,location_eligible,location_available,z
 5091890,Kadin Semonza,Tulane,AAC,119,119,116,deep middle,3,2,0,0.667,36.0,32.0,0.667,1.611
 5091890,Kadin Semonza,Tulane,AAC,119,119,116,deep right,4,1,0,0.25,9.0,34.8,0.25,-0.084
 5091890,Kadin Semonza,Tulane,AAC,119,119,116,unknown,3,1,2,0.333,13.0,8.0,0.333,-0.255
-5291713,Trace Johnson,Tulane,AAC,5,5,5,short left,0,0,0,,,,0.0,0.0
-5291713,Trace Johnson,Tulane,AAC,5,5,5,short middle,0,0,0,,,,0.0,0.0
-5291713,Trace Johnson,Tulane,AAC,5,5,5,short right,4,2,0,0.5,8.8,5.5,0.25,0.337
-5291713,Trace Johnson,Tulane,AAC,5,5,5,deep left,1,0,0,0.0,0.0,33.0,0.0,-0.368
-5291713,Trace Johnson,Tulane,AAC,5,5,5,deep middle,0,0,0,,,,0.0,0.0
-5291713,Trace Johnson,Tulane,AAC,5,5,5,deep right,0,0,0,,,,0.0,0.0
-5291713,Trace Johnson,Tulane,AAC,5,5,5,unknown,0,0,0,,,,0.0,0.0
+5291713,Trace Johnson,Tulane,AAC,26,26,25,short left,5,4,0,0.8,11.6,9.0,0.8,1.222
+5291713,Trace Johnson,Tulane,AAC,26,26,25,short middle,6,3,0,0.5,6.2,9.8,0.333,0.177
+5291713,Trace Johnson,Tulane,AAC,26,26,25,short right,10,6,0,0.6,10.5,7.3,0.5,0.661
+5291713,Trace Johnson,Tulane,AAC,26,26,25,deep left,2,0,0,0.0,0.0,29.5,0.0,-0.711
+5291713,Trace Johnson,Tulane,AAC,26,26,25,deep middle,1,0,0,0.0,0.0,22.0,0.0,-0.822
+5291713,Trace Johnson,Tulane,AAC,26,26,25,deep right,1,0,0,0.0,0.0,45.0,0.0,-0.128
+5291713,Trace Johnson,Tulane,AAC,26,26,25,unknown,1,0,1,0.0,0.0,17.0,0.0,-7.139
 4870518,Zeon Chriss,Tulane,AAC,9,9,9,short left,2,2,0,1.0,24.5,2.0,0.5,1.98
 4870518,Zeon Chriss,Tulane,AAC,9,9,9,short middle,4,2,0,0.5,4.8,3.0,0.25,0.161
 4870518,Zeon Chriss,Tulane,AAC,9,9,9,short right,3,2,0,0.667,-1.3,0.0,0.0,-0.553
@@ -2792,13 +2799,13 @@ player_id,player,team,conference,attempts,location_eligible,location_available,z
 5166797,Dezmen Roebuck,Washington,B1G,1,1,1,deep middle,0,0,0,,,,0.0,0.0
 5166797,Dezmen Roebuck,Washington,B1G,1,1,1,deep right,0,0,0,,,,0.0,0.0
 5166797,Dezmen Roebuck,Washington,B1G,1,1,1,unknown,0,0,0,,,,0.0,0.0
-5079318,Elijah Brown,Washington,B1G,43,42,41,short left,10,9,0,0.9,4.8,4.8,0.5,0.322
-5079318,Elijah Brown,Washington,B1G,43,42,41,short middle,11,9,0,0.818,8.4,7.8,0.727,1.245
-5079318,Elijah Brown,Washington,B1G,43,42,41,short right,14,8,0,0.571,4.6,5.4,0.286,0.071
-5079318,Elijah Brown,Washington,B1G,43,42,41,deep left,3,2,0,0.667,15.3,25.7,0.667,1.166
-5079318,Elijah Brown,Washington,B1G,43,42,41,deep middle,1,1,0,1.0,22.0,22.0,1.0,3.847
-5079318,Elijah Brown,Washington,B1G,43,42,41,deep right,2,0,0,0.0,0.0,34.5,0.0,-0.622
-5079318,Elijah Brown,Washington,B1G,43,42,41,unknown,1,1,0,1.0,3.0,,1.0,1.464
+5079318,Elijah Brown,Washington,B1G,70,69,65,short left,15,14,0,0.933,9.5,5.4,0.6,0.702
+5079318,Elijah Brown,Washington,B1G,70,69,65,short middle,14,12,0,0.857,10.6,7.9,0.786,1.304
+5079318,Elijah Brown,Washington,B1G,70,69,65,short right,30,21,0,0.7,7.2,4.8,0.467,0.606
+5079318,Elijah Brown,Washington,B1G,70,69,65,deep left,3,2,0,0.667,15.3,25.7,0.667,1.166
+5079318,Elijah Brown,Washington,B1G,70,69,65,deep middle,1,1,0,1.0,22.0,22.0,1.0,3.847
+5079318,Elijah Brown,Washington,B1G,70,69,65,deep right,2,0,0,0.0,0.0,34.5,0.0,-0.622
+5079318,Elijah Brown,Washington,B1G,70,69,65,unknown,4,1,3,0.25,0.8,16.0,0.25,-2.871
 5226019,Caden Pinnick,Washington State,PAC,178,178,172,short left,49,34,0,0.694,4.5,3.8,0.327,0.12
 5226019,Caden Pinnick,Washington State,PAC,178,178,172,short middle,29,19,0,0.655,5.8,7.1,0.448,0.147
 5226019,Caden Pinnick,Washington State,PAC,178,178,172,short right,77,54,0,0.701,6.1,5.2,0.416,0.152
