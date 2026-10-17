@@ -447,6 +447,40 @@ def fetch_qb_stats():
         fetch_qb_stats_for_season(year)
 
 
+def fetch_pass_locations_for_season(year):
+    """Where each passer throws: attempts / completions / yards in six zones
+    (short|deep x left|middle|right) from /passing/players/season. One row per
+    passer per zone -> data/QB_Stats/{year}_pass_locations.csv (used by the
+    website's QB heatmap via export_web_data.py)."""
+    section(f"QB pass locations ({year})")
+    rows = get("/passing/players/season", year=year, seasonType="regular")
+    out = []
+    for r in rows or []:
+        base = {"player_id": r.get("playerId"), "player": r.get("player"), "team": r.get("team"),
+                "conference": r.get("conference"), "attempts": r.get("attempts"),
+                "location_eligible": r.get("locationEligibleAttempts"),
+                "location_available": r.get("locationAvailableAttempts")}
+        for zone, z in (r.get("locations") or {}).items():
+            z = z or {}
+            out.append({**base, "zone": zone,
+                        "zone_att": z.get("attempts"), "zone_comp": z.get("completions"),
+                        "zone_int": z.get("interceptions"), "zone_comp_rate": z.get("completionRate"),
+                        "zone_ypa": z.get("yardsPerAttempt"), "zone_adot": z.get("averageDepthOfTarget"),
+                        "zone_success": z.get("successRate"), "zone_ppa": z.get("ppa")})
+    if not out:
+        print("  no pass-location data returned")
+        return
+    save(pd.DataFrame(out), f"data/QB_Stats/{year}_pass_locations.csv")
+
+
+def fetch_pass_locations():
+    for year in SEASONS:
+        try:
+            fetch_pass_locations_for_season(year)
+        except Exception as e:
+            print(f"  pass locations failed for {year}: {e}")
+
+
 # ---------------------------------------------------------------------------
 # 8) Betting lines -- ESPN Bet lines, pulled for each season in SEASONS and
 #    saved to a year-named file so 2025's finished lines and 2026's
@@ -869,7 +903,85 @@ def fetch_postgame_win_prob(year, max_week=16):
         print("  nothing returned -- skipping save")
 
 
+# ---------------------------------------------------------------------------
+# 9b) Player availability (injury) reports -- the conferences' official
+#     weekly reports. ACC, Big Ten, Big 12 and SEC all publish through the
+#     same vendor (HD Intelligence), which has a public JSON endpoint behind
+#     each conference's "archive" page. One call per conference per season.
+#     No CFBD key needed. Saved to data/availability_{year}.csv, one row per
+#     player per game:
+#       season, conference, team, opponent, game_date, number, player,
+#       statuses (every report in order, " > "-joined), latest (last status
+#       posted), game_day (status on the game-day report, blank if not out yet)
+# ---------------------------------------------------------------------------
+
+AVAIL_URL = "https://app.hdintelligence.com/api"
+AVAIL_CONFS = {"ACC": "ACC", "B10": "Big Ten", "B12": "Big 12", "SEC": "SEC"}
+# The current season uses /get-archive-public; earlier seasons are behind /get-archive-legacy-public.
+AVAIL_ENDPOINTS = {UPCOMING_SEASON: "get-archive-public", PRIOR_SEASON: "get-archive-legacy-public"}
+AVAIL_GAMEDAY_COLS = ("Game Day", "Gameday")
+AVAIL_META_COLS = {"Number", "Opponent", "OpponentDisplay", "Player", "Team", "TeamDisplay",
+                   "Week", "WeekNum"}
+
+
+def fetch_availability(years=None):
+    section("Player availability reports (ACC / Big Ten / Big 12 / SEC)")
+    sess = requests.Session()
+    sess.headers.update({"Content-Type": "application/json",
+                         "Origin": "https://app.hdintelligence.com",
+                         "Referer": "https://app.hdintelligence.com/"})
+    for year in (years or SEASONS):
+        ep = AVAIL_ENDPOINTS.get(year)
+        if ep is None:
+            print(f"  no availability archive known for {year} -- skipping")
+            continue
+        out_path = f"data/availability_{year}.csv"
+        if year != UPCOMING_SEASON and os.path.exists(out_path) and not FULL_REFRESH:
+            print(f"  {out_path} already saved (finished season) -- skipping")
+            continue
+        rows = []
+        for code, conf_name in AVAIL_CONFS.items():
+            try:
+                r = sess.post(f"{AVAIL_URL}/{ep}", json={"sport": "Football", "organization": code,
+                                                        "conference": code}, timeout=60)
+                r.raise_for_status()
+                js = r.json()
+            except Exception as e:
+                print(f"  {conf_name} {year}: request failed ({e})")
+                continue
+            days = js.get("report_days") or []
+            data = js.get("data") or []
+            n = 0
+            for d in data:
+                date = pd.to_datetime(d.get("Week"), errors="coerce", utc=True)
+                if pd.isna(date) or date.year != year:
+                    continue
+                order = days or [k for k in d if k not in AVAIL_META_COLS]
+                sts = [str(d.get(k) or "").strip() for k in order]
+                posted = [s for s in sts if s and s != "-"]
+                gd = next((str(d[k]).strip() for k in AVAIL_GAMEDAY_COLS if k in d), "")
+                rows.append({
+                    "season": year, "conference": conf_name,
+                    "team": d.get("TeamDisplay") or d.get("Team"),
+                    "opponent": d.get("OpponentDisplay") or d.get("Opponent"),
+                    "game_date": date.strftime("%Y-%m-%d"),
+                    "number": str(d.get("Number") or "").lstrip("#"),
+                    "player": str(d.get("Player") or "").strip(),
+                    "statuses": " > ".join(posted),
+                    "latest": posted[-1] if posted else "",
+                    "game_day": "" if gd in ("", "-") else gd,
+                })
+                n += 1
+            print(f"  {conf_name} {year}: {n:,} player-games")
+            time.sleep(REQUEST_DELAY)
+        if rows:
+            save(pd.DataFrame(rows), out_path)
+        else:
+            print(f"  nothing returned for {year} -- keeping any existing {out_path}")
+
+
 def fetch_model_inputs():
+    fetch_availability()
     for year in SEASONS:
         try:
             fetch_advanced_game_stats(year)
@@ -979,6 +1091,10 @@ def main():
     parser.add_argument("--only-test-inputs", action="store_true",
                         help="ONLY pull what split_test.py / field_position_test.py need (team game stats with "
                              "rushing/passing yards, drives, 20+ yard plays, havoc), then stop")
+    parser.add_argument("--only-availability", action="store_true",
+                        help="ONLY pull the conference player availability (injury) reports, then stop")
+    parser.add_argument("--only-pass-locations", action="store_true",
+                        help="ONLY pull QB pass-location splits (short/deep x left/middle/right), then stop")
     parser.add_argument("--only-drives", action="store_true",
                         help="ONLY pull drive-level data (starting field position) for each season, then stop")
     parser.add_argument(
@@ -1022,10 +1138,20 @@ def main():
         print("\nDone (test inputs only).")
         return
 
+    if args.only_pass_locations:
+        fetch_pass_locations()
+        print("\nDone (pass locations only).")
+        return
+
     if args.only_drives:
         for year in SEASONS:
             fetch_drives(year)
         print("\nDone (drives only).")
+        return
+
+    if args.only_availability:
+        fetch_availability()
+        print("\nDone (availability reports only).")
         return
 
     if args.only_model_inputs:
@@ -1046,6 +1172,7 @@ def main():
 
     if not args.skip_qb:
         fetch_qb_stats()
+        fetch_pass_locations()
     else:
         print("\nSkipping QB stats (--skip-qb)")
 
