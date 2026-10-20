@@ -327,6 +327,49 @@ def main():
         week_index.append({"week": wk, "games": len(games),
                            "watchlist": sum(1 for x in games if x["tier"] == "fav_value"),
                            "edges": sum(1 for x in games if x["tier"] in ("fav_value", "big_gap", "lean"))})
+    # ------------------------------------------------------------------ moneyline value (moneyline_value.py)
+    ml_model_path = os.path.join(PRED, "ml_model.json")
+    ml_log_path = os.path.join(PRED, f"ml_log_{SEASON}.csv")
+    if os.path.exists(ml_model_path):
+        ml_model = json.load(open(ml_model_path, encoding="utf-8"))
+        scores = lines_cur.set_index("id")[["homeTeam", "homeScore", "awayScore"]]
+        mlog = read(ml_log_path)
+        graded = []
+        if mlog is not None and len(mlog):
+            for r in mlog.to_dict("records"):
+                res, profit, score = "Pending", 0.0, None
+                if r["gameId"] in scores.index and pd.notna(scores.loc[r["gameId"], "homeScore"]):
+                    hs, as_ = scores.loc[r["gameId"], "homeScore"], scores.loc[r["gameId"], "awayScore"]
+                    us, them = (hs, as_) if r["side"] == "home" else (as_, hs)
+                    score = f"{int(us)}-{int(them)}"
+                    dec = 1 + r["ml"] / 100
+                    res, profit = ("Win", dec - 1) if us > them else ("Loss", -1.0) if us < them else ("Push", 0.0)
+                graded.append({"week": int(r["week"]), "id": r["gameId"], "kick": r["startDate"], "team": team_ref(r["team"]),
+                               "opp": r["opponent"], "home": r["side"] == "home", "line": num(r["line"]), "ml": int(r["ml"]),
+                               "pMkt": num(r["p_mkt"]), "pModel": num(r["p_model"]), "pBlend": num(r["p_blend"]),
+                               "ev": num(r["ev"]), "result": res, "profit": round(profit, 3), "score": score})
+        done_ml = [x for x in graded if x["result"] in ("Win", "Loss")]
+        live = {"bets": len(done_ml), "won": sum(1 for x in done_ml if x["result"] == "Win"),
+                "units": round(sum(x["profit"] for x in done_ml), 2),
+                "roi": round(100 * sum(x["profit"] for x in done_ml) / len(done_ml), 1) if done_ml else None,
+                "pending": sum(1 for x in graded if x["result"] == "Pending")}
+        ml_weeks = {}
+        for wk in weeks:
+            fpath = os.path.join(PRED, f"week_{wk}_ml_value_{SEASON}.csv")
+            if os.path.exists(fpath):
+                v = pd.read_csv(fpath)
+                v = v[v["value"].astype(str) == "True"]
+                ml_weeks[str(wk)] = [x for x in graded if x["week"] == wk] or [
+                    {"week": wk, "id": r["gameId"], "kick": r["startDate"], "team": team_ref(r["team"]), "opp": r["opponent"],
+                     "home": r["side"] == "home", "line": num(r["line"]), "ml": int(r["ml"]), "pMkt": num(r["p_mkt"]),
+                     "pModel": num(r["p_model"]), "pBlend": num(r["p_blend"]), "ev": num(r["ev"]), "result": "Pending",
+                     "profit": 0.0, "score": None} for r in v.to_dict("records")]
+        write("ml.json", {"model": ml_model, "live": live, "weeks": ml_weeks, "log": sorted(graded, key=lambda x: x["kick"], reverse=True)})
+        by_game = {x["id"]: x for wk_rows in ml_weeks.values() for x in wk_rows}
+        for gid, d in all_games.items():
+            if gid in by_game:
+                d["mlValue"] = by_game[gid]
+
     for gid, d in all_games.items():
         write(f"games/{gid}.json", d)
 

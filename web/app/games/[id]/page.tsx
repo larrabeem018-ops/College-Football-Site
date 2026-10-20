@@ -185,6 +185,16 @@ export default async function GamePage({ params }: { params: Promise<{ id: strin
         </div>
 
         <aside aria-label="More on this game" className="flex min-w-0 flex-[1_1_300px] flex-col gap-4">
+          {g.mlValue && (
+            <div className="flex flex-col gap-2 rounded-2xl border border-[#1E4A30] bg-accent-tint p-5">
+              <div className="eyebrow text-accent">Moneyline value</div>
+              <div className="display text-[26px] leading-none">{g.mlValue.team.school} {g.mlValue.ml > 0 ? `+${g.mlValue.ml}` : g.mlValue.ml}</div>
+              <p className="m-0 text-[14px] leading-relaxed text-body">
+                The market prices {g.mlValue.team.school} to win <b>{Math.round(g.mlValue.pMkt * 100)}%</b> of the time; the market-anchored blend says <b>{Math.round(g.mlValue.pBlend * 100)}%</b> (raw model {Math.round(g.mlValue.pModel * 100)}%). At {g.mlValue.ml > 0 ? `+${g.mlValue.ml}` : g.mlValue.ml} that&apos;s about <b>+{(g.mlValue.ev * 100).toFixed(1)}%</b> expected value per bet.
+              </p>
+              <Link href={`/picks/${g.week}/#ml-h`} className="text-[13px] font-bold">All Week {g.week} moneyline value →</Link>
+            </div>
+          )}
           <div className="card flex flex-col gap-3 p-5">
             <div className="eyebrow text-muted">Returning production</div>
             {[{ t: g.away, r: g.awayReturning }, { t: g.home, r: g.homeReturning }].map(({ t, r }) => (

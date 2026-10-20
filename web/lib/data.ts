@@ -2,7 +2,7 @@
 // read the JSON files that export_web_data.py writes to public/data.
 import fs from "node:fs";
 import path from "node:path";
-import type { BettingFile, CompareFile, DirectoryTeam, GameDetail, Meta, PortalRow, TeamDoc, TeamInfo, TrackRecord, WeekFile } from "./types";
+import type { MlFile, BettingFile, CompareFile, DirectoryTeam, GameDetail, Meta, PortalRow, TeamDoc, TeamInfo, TrackRecord, WeekFile } from "./types";
 
 const DIR = path.join(process.cwd(), "public", "data");
 const cache = new Map<string, unknown>();
@@ -36,3 +36,4 @@ export function currentWeek(): WeekFile | null {
 export function tierRow(tier: string) {
   return getTrackRecord().tiers.find((t) => t.tier === tier) ?? null;
 }
+export const getMl = (): MlFile | null => (exists("ml.json") ? load<MlFile>("ml.json") : null);

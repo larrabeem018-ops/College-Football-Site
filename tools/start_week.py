@@ -2,7 +2,7 @@
   1. refresh 2026 data (final scores for last week, stats, lines)
   2. figure out the upcoming week (first week with games not yet played)
   3. pull that week's schedule + spreads
-  4. run the score model for that week
+  4. run the score model for that week, then the moneyline value check
   5. rebuild the website data (web/public/data)
 Optional: python tools/start_week.py 8   to force a week number.
 """
@@ -35,5 +35,6 @@ print(f"\n=== Upcoming week: {week} ===", flush=True)
 run("update_data.py", "--seasons", "2026", "--week", str(week),
     "--skip-qb", "--skip-lines", "--skip-team-stats", "--skip-model-inputs")
 run("score_model.py", "--week", str(week))
+run("moneyline_value.py", "--week", str(week))
 run("export_web_data.py")
 print(f"\nAll done: week {week} picks are built. Commit and push in GitHub Desktop to publish.")

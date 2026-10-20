@@ -1,6 +1,7 @@
 import PickLog, { UnitsChart } from "@/components/PickLog";
 import { Callout, PageHeader, SectionTitle, StatCard } from "@/components/ui";
-import { getTrackRecord } from "@/lib/data";
+import { getMl, getTrackRecord } from "@/lib/data";
+import { MlTable } from "@/components/MlValue";
 import { recordText, TIER_LONG } from "@/lib/format";
 import type { Rec } from "@/lib/types";
 
@@ -9,6 +10,7 @@ const wl = (v?: [number, number]) => (v ? `${v[0]}–${v[1]} (${Math.round((100 
 
 export default function Page() {
   const tr = getTrackRecord();
+  const ml = getMl();
   const be = tr.breakEven;
   const rc = (r: Rec, label: string) => (
     <StatCard label={label} value={r.w + r.l ? recordText(r.w, r.l, r.p) : "None yet"}
@@ -64,6 +66,32 @@ export default function Page() {
               <tr key={t}><td className="font-semibold">{TIER_LONG[t] ?? "All picks (3+ pt gap)"}</td><td className="mono text-right">{wl(tr.qbCheck!.same[t])}</td><td className="mono text-right">{wl(tr.qbCheck!.changed[t])}</td></tr>
             ))}</tbody></table></div>
           <p className="m-0 text-[12px] text-muted">{tr.qbCheck.same.games?.toLocaleString()} games with the same starters, {tr.qbCheck.changed.games?.toLocaleString()} with a change. Small samples (under ~100 picks) can swing a lot by chance.</p>
+        </section>
+      )}
+
+      {ml && (
+        <section id="moneyline" className="flex scroll-mt-24 flex-col gap-4">
+          <SectionTitle right={`Fit on ${ml.model.games.toLocaleString()} games with moneylines`}>Moneyline value</SectionTitle>
+          <p className="m-0 max-w-[860px] text-[14px] leading-relaxed text-soft">
+            The model&apos;s projected margin becomes a win probability (margin ÷ {ml.model.sigma}-point spread of outcomes). Because the raw model is overconfident when it disagrees with Vegas, value is judged on a blend fit to past results: about {Math.round((1 - ml.model.model_tilt) * 100)}% market price, {Math.round(ml.model.model_tilt * 100)}% model. An underdog is flagged when that blended win % makes its moneyline a positive-expected-value bet. Backtest: each season&apos;s blend was fit on the other season only.
+          </p>
+          <div className="grid grid-cols-[repeat(auto-fit,minmax(200px,1fr))] gap-3">
+            <StatCard label="Flagged underdogs · backtest" value={`${ml.model.backtest.all.won}–${(ml.model.backtest.all.bets ?? 0) - (ml.model.backtest.all.won ?? 0)}`} sub={`ROI ${(ml.model.backtest.all.roi ?? 0) > 0 ? "+" : ""}${ml.model.backtest.all.roi}% · ${(ml.model.backtest.all.units ?? 0) > 0 ? "+" : ""}${ml.model.backtest.all.units}u`} tone={(ml.model.backtest.all.roi ?? 0) >= 0 ? "good" : "bad"} />
+            <StatCard label="Every underdog (baseline)" value={`${ml.model.backtest.every_dog.won}–${(ml.model.backtest.every_dog.bets ?? 0) - (ml.model.backtest.every_dog.won ?? 0)}`} sub={`ROI ${ml.model.backtest.every_dog.roi}%`} tone="bad" />
+            <StatCard label={`Live · ${tr.season}`} value={ml.live.bets ? `${ml.live.won}–${ml.live.bets - ml.live.won}` : "—"} sub={ml.live.bets ? `ROI ${(ml.live.roi ?? 0) > 0 ? "+" : ""}${ml.live.roi}% · ${ml.live.pending} pending` : `${ml.live.pending} pending`} tone={ml.live.roi == null ? "muted" : ml.live.roi >= 0 ? "good" : "bad"} />
+          </div>
+          <div className="card overflow-x-auto">
+            <table className="tbl min-w-[620px]">
+              <thead><tr><th>Underdog size</th><th className="text-right">Bets</th><th className="text-right">Won</th><th className="text-right">Median odds</th><th className="text-right">Units</th><th className="text-right">ROI</th></tr></thead>
+              <tbody>{ml.model.backtest.by_line.map((b) => (
+                <tr key={b.label}><td className="font-semibold">{b.label}</td><td className="mono text-right">{b.bets}</td><td className="mono text-right">{b.bets ? `${b.won} (${b.win_pct}%)` : "—"}</td>
+                  <td className="mono text-right">{b.median_odds ? `+${b.median_odds}` : "—"}</td><td className="mono text-right">{b.units != null ? `${b.units > 0 ? "+" : ""}${b.units}` : "—"}</td>
+                  <td className={`mono text-right font-semibold ${(b.roi ?? 0) >= 0 ? "text-accent" : "text-loss"}`}>{b.roi != null ? `${b.roi > 0 ? "+" : ""}${b.roi}%` : "—"}</td></tr>
+              ))}</tbody>
+            </table>
+          </div>
+          <p className="m-0 text-[12px] text-muted">Bucket results are small samples and swing a lot by chance; the overall flagged-underdog result is the number to judge it by. Prices come from one sportsbook in the data.</p>
+          {ml.log.length > 0 && <><h3 className="display m-0 text-[22px]">Live log</h3><MlTable rows={ml.log} showWeek /></>}
         </section>
       )}
 

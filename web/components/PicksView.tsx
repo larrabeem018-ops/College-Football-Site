@@ -1,5 +1,6 @@
 import Link from "next/link";
-import { getMeta, getTrackRecord, getWeek } from "@/lib/data";
+import { getMeta, getMl, getTrackRecord, getWeek } from "@/lib/data";
+import MlValue from "./MlValue";
 import GamesTable from "./GamesTable";
 import PickCard from "./PickCard";
 import { Callout, PageHeader, SectionTitle } from "./ui";
@@ -28,6 +29,7 @@ export default function PicksView({ week }: { week: number }) {
   const watch = wk.games.filter((g) => g.tier === "fav_value").sort(byGap);
   const big = wk.games.filter((g) => g.tier === "big_gap").sort(byGap);
   const bg = tier("big_gap"), ln = tier("lean"), ps = tier("pass");
+  const ml = getMl();
   return (
     <>
       <PageHeader eyebrow="Model vs. the line" title={`Week ${week} picks`} crumbs={[{ href: "/", label: "This Week" }, { href: "/picks/", label: "Picks" }]}
@@ -50,6 +52,8 @@ export default function PicksView({ week }: { week: number }) {
           <Callout tone="plain">No watchlist games this week. The model and Vegas mostly agree on the favorites.</Callout>
         )}
       </section>
+
+      {ml && ml.weeks[String(week)] && <MlValue ml={ml} week={week} />}
 
       {big.length > 0 && (
         <section aria-labelledby="bg-h" className="flex flex-col gap-4">

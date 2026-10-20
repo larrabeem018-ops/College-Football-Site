@@ -19,7 +19,17 @@ export type SeasonStats = {
 } | null;
 export type Returning = { pct: number | null; returning_players: number; total_players: number } | null;
 
-export type GameDetail = Game & { homeStats: SeasonStats; awayStats: SeasonStats; homeReturning: Returning; awayReturning: Returning };
+export type GameDetail = Game & { homeStats: SeasonStats; awayStats: SeasonStats; homeReturning: Returning; awayReturning: Returning; mlValue?: MlRow };
+
+export type MlRow = { week: number; id: number; kick: string; team: TeamRef; opp: string; home: boolean; line: number | null; ml: number;
+  pMkt: number; pModel: number; pBlend: number; ev: number; result: "Win" | "Loss" | "Push" | "Pending"; profit: number; score: string | null };
+export type MlSummary = { bets: number; won?: number; win_pct?: number; median_odds?: number; units?: number; roi?: number };
+export type MlFile = {
+  model: { sigma: number; market_weight: number; model_tilt: number; games: number; fitted: string;
+    backtest: { all: MlSummary; by_season: Record<string, MlSummary>; every_dog: MlSummary; by_line: (MlSummary & { label: string })[] } };
+  live: { bets: number; won: number; units: number; roi: number | null; pending: number };
+  weeks: Record<string, MlRow[]>; log: MlRow[];
+};
 
 export type WeekFile = { week: number; season: number; games: Game[] };
 export type Meta = {
