@@ -21973,3 +21973,2642 @@ gameId,week,offense,defense,isHomeOffense,driveNumber,startPeriod,startYardsToGo
 401874037,7,West Florida,West Alabama,True,23,4,75,1,TD,12,75,True
 401874037,7,West Alabama,West Florida,False,24,4,72,20,PUNT,4,13,False
 401874037,7,West Florida,West Alabama,True,25,4,80,0,END OF GAME,8,68,False
+401856727,8,Alabama,Texas A&M,True,1,1,75,3,PUNT,4,20,False
+401856727,8,Texas A&M,Alabama,False,2,1,97,100,INT TD,4,32,True
+401856727,8,Texas A&M,Alabama,False,3,1,75,59,INT,1,0,False
+401856727,8,Alabama,Texas A&M,True,4,1,41,83,MISSED FG,5,24,False
+401856727,8,Texas A&M,Alabama,False,5,1,80,0,TD,10,80,True
+401856727,8,Alabama,Texas A&M,True,6,1,75,65,FG,7,46,True
+401856727,8,Texas A&M,Alabama,False,7,1,75,3,TD,11,75,True
+401856727,8,Alabama,Texas A&M,True,8,2,75,0,TD,8,74,True
+401856727,8,Texas A&M,Alabama,False,9,2,75,17,PUNT,3,-1,False
+401856727,8,Alabama,Texas A&M,True,10,2,83,71,INT,3,-5,False
+401856727,8,Texas A&M,Alabama,False,11,2,29,65,FG,4,14,True
+401856727,8,Alabama,Texas A&M,True,12,2,67,10,PUNT,5,31,False
+401856727,8,Texas A&M,Alabama,False,13,2,90,91,END OF HALF,1,-1,False
+401856727,8,Texas A&M,Alabama,False,14,3,75,65,FG,13,68,True
+401856727,8,Alabama,Texas A&M,True,15,3,75,76,MISSED FG,8,51,False
+401856727,8,Texas A&M,Alabama,False,16,3,76,55,FUMBLE,7,21,False
+401856727,8,Alabama,Texas A&M,True,17,3,45,0,TD,4,45,True
+401856727,8,Texas A&M,Alabama,False,18,4,75,45,PUNT,3,1,False
+401856727,8,Alabama,Texas A&M,True,19,4,55,3,TD,5,55,True
+401856727,8,Texas A&M,Alabama,False,20,4,75,25,PUNT,3,0,False
+401856727,8,Alabama,Texas A&M,True,21,4,74,39,PUNT,3,13,False
+401856727,8,Texas A&M,Alabama,False,22,4,82,26,PUNT,3,4,False
+401856727,8,Alabama,Texas A&M,True,23,4,74,20,END OF GAME,9,54,False
+401856728,8,Auburn,LSU,True,1,1,75,49,PUNT,3,1,False
+401856728,8,LSU,Auburn,False,2,1,51,65,FG,7,39,True
+401856728,8,Auburn,LSU,True,3,1,75,65,FG,12,69,True
+401856728,8,LSU,Auburn,False,4,1,65,0,TD,8,65,True
+401856728,8,Auburn,LSU,True,5,1,75,28,PUNT,3,6,False
+401856728,8,LSU,Auburn,False,6,1,72,33,PUNT,3,8,False
+401856728,8,Auburn,LSU,True,7,1,67,5,PUNT,3,-7,False
+401856728,8,LSU,Auburn,False,8,2,95,0,TD,14,95,True
+401856728,8,Auburn,LSU,True,9,2,75,0,TD,11,75,True
+401856728,8,LSU,Auburn,False,10,2,75,0,TD,3,75,True
+401856728,8,Auburn,LSU,True,11,2,75,26,PUNT,3,8,False
+401856728,8,LSU,Auburn,False,12,2,74,0,TD,10,74,True
+401856728,8,Auburn,LSU,True,13,2,75,31,END OF HALF,4,15,False
+401856728,8,LSU,Auburn,False,14,3,75,20,PUNT,11,28,False
+401856728,8,Auburn,LSU,True,15,3,80,20,PUNT,4,19,False
+401856728,8,LSU,Auburn,False,16,3,80,24,PUNT,6,13,False
+401856728,8,Auburn,LSU,True,17,3,76,33,PUNT,4,1,False
+401856728,8,LSU,Auburn,False,18,3,67,0,TD,7,67,True
+401856728,8,Auburn,LSU,True,19,4,65,8,PUNT,7,9,False
+401856728,8,LSU,Auburn,False,20,4,92,40,DOWNS,11,52,False
+401856728,8,Auburn,LSU,True,21,4,60,0,TD,12,60,True
+401856728,8,LSU,Auburn,False,22,4,65,59,END OF GAME,1,6,False
+401856729,8,Vanderbilt,Kentucky,False,1,1,75,15,PUNT,11,34,False
+401856729,8,Kentucky,Vanderbilt,True,2,1,85,80,PUNT,3,8,False
+401856729,8,Vanderbilt,Kentucky,False,3,1,20,65,FG,4,8,True
+401856729,8,Kentucky,Vanderbilt,True,4,1,60,5,PUNT,3,6,False
+401856729,8,Vanderbilt,Kentucky,False,5,1,95,0,TD,16,95,True
+401856729,8,Kentucky,Vanderbilt,True,6,2,75,0,TD,7,75,True
+401856729,8,Vanderbilt,Kentucky,False,7,2,75,21,PUNT,3,6,False
+401856729,8,Kentucky,Vanderbilt,True,8,2,79,0,TD,13,79,True
+401856729,8,Vanderbilt,Kentucky,False,9,2,75,76,END OF HALF,1,-1,False
+401856729,8,Kentucky,Vanderbilt,True,10,3,75,0,TD,8,75,True
+401856729,8,Vanderbilt,Kentucky,False,11,3,75,0,TD,9,75,True
+401856729,8,Kentucky,Vanderbilt,True,12,3,75,65,FG,10,46,True
+401856729,8,Vanderbilt,Kentucky,False,13,3,75,83,FUMBLE,2,-8,False
+401856729,8,Kentucky,Vanderbilt,True,14,3,17,65,FG,4,4,True
+401856729,8,Vanderbilt,Kentucky,False,15,4,75,53,INT,5,36,False
+401856729,8,Kentucky,Vanderbilt,True,16,4,47,1,TD,13,47,True
+401856729,8,Vanderbilt,Kentucky,False,17,4,90,51,PUNT,3,6,False
+401856729,8,Kentucky,Vanderbilt,True,18,4,49,13,END OF HALF,6,36,False
+401856730,8,Mississippi State,Oklahoma,True,1,1,75,56,PUNT,3,6,False
+401856730,8,Oklahoma,Mississippi State,False,2,1,44,65,FG,5,20,True
+401856730,8,Mississippi State,Oklahoma,True,3,1,75,31,PUNT,3,0,False
+401856730,8,Oklahoma,Mississippi State,False,4,1,69,15,PUNT,5,22,False
+401856730,8,Mississippi State,Oklahoma,True,5,1,85,43,DOWNS,6,42,False
+401856730,8,Oklahoma,Mississippi State,False,6,1,57,27,MISSED FG,10,30,False
+401856730,8,Mississippi State,Oklahoma,True,7,2,73,13,PUNT,6,23,False
+401856730,8,Oklahoma,Mississippi State,False,8,2,87,50,PUNT,3,8,False
+401856730,8,Mississippi State,Oklahoma,True,9,2,50,4,FUMBLE,7,46,False
+401856730,8,Oklahoma,Mississippi State,False,10,2,96,0,TD,14,96,True
+401856730,8,Mississippi State,Oklahoma,True,11,2,75,71,END OF HALF,1,4,False
+401856730,8,Oklahoma,Mississippi State,False,12,3,75,0,TD,3,75,True
+401856730,8,Mississippi State,Oklahoma,True,13,3,75,12,PUNT,5,16,False
+401856730,8,Oklahoma,Mississippi State,False,14,3,88,55,FUMBLE,4,39,False
+401856730,8,Mississippi State,Oklahoma,True,15,3,51,0,TD,6,51,True
+401856730,8,Oklahoma,Mississippi State,False,16,3,75,65,FG,7,63,True
+401856730,8,Mississippi State,Oklahoma,True,17,3,75,56,DOWNS,6,19,False
+401856730,8,Oklahoma,Mississippi State,False,18,3,44,27,MISSED FG,5,17,False
+401856730,8,Mississippi State,Oklahoma,True,19,4,73,57,DOWNS,5,16,False
+401856730,8,Oklahoma,Mississippi State,False,20,4,43,23,MISSED FG,5,20,False
+401856730,8,Mississippi State,Oklahoma,True,21,4,77,24,INT,7,39,False
+401856730,8,Oklahoma,Mississippi State,False,22,4,76,65,FG,7,56,True
+401856730,8,Mississippi State,Oklahoma,True,23,4,75,0,TD,8,75,True
+401856730,8,Oklahoma,Mississippi State,False,24,4,75,39,END OF GAME,8,36,False
+401856731,8,South Carolina,Tennessee,True,1,1,75,3,TD,10,75,True
+401856731,8,Tennessee,South Carolina,False,2,1,75,58,PUNT,3,5,False
+401856731,8,South Carolina,Tennessee,True,3,1,58,3,TD,2,58,True
+401856731,8,Tennessee,South Carolina,False,4,1,75,3,TD,18,75,True
+401856731,8,South Carolina,Tennessee,True,5,2,75,72,INT,2,-5,False
+401856731,8,Tennessee,South Carolina,False,6,2,28,3,TD,10,28,True
+401856731,8,South Carolina,Tennessee,True,7,2,65,65,FG,17,62,True
+401856731,8,Tennessee,South Carolina,False,8,2,75,0,TD,7,75,True
+401856731,8,South Carolina,Tennessee,True,9,2,75,44,END OF HALF,4,14,False
+401856731,8,Tennessee,South Carolina,False,10,3,75,72,PUNT,5,14,False
+401856731,8,South Carolina,Tennessee,True,11,3,72,25,PUNT,3,-3,False
+401856731,8,Tennessee,South Carolina,False,12,3,73,30,PUNT,3,-7,False
+401856731,8,South Carolina,Tennessee,True,13,3,70,29,PUNT,3,-1,False
+401856731,8,Tennessee,South Carolina,False,14,3,64,55,PUNT,6,19,False
+401856731,8,South Carolina,Tennessee,True,15,3,92,43,DOWNS,7,49,False
+401856731,8,Tennessee,South Carolina,False,16,3,57,18,FG,10,39,True
+401856731,8,South Carolina,Tennessee,True,17,4,75,50,PUNT,7,25,False
+401856731,8,Tennessee,South Carolina,False,18,4,98,39,DOWNS,9,59,False
+401856731,8,South Carolina,Tennessee,True,19,4,61,0,TD,6,61,True
+401856731,8,Tennessee,South Carolina,False,20,4,75,66,FUMBLE,3,9,False
+401856731,8,South Carolina,Tennessee,True,21,4,34,65,FG,4,4,True
+401856732,8,Ole Miss,Texas,False,1,1,75,26,PUNT,3,0,False
+401856732,8,Texas,Ole Miss,True,2,1,74,65,FG,12,69,True
+401856732,8,Ole Miss,Texas,False,3,1,75,65,FG,7,46,True
+401856732,8,Texas,Ole Miss,True,4,1,75,68,INT,3,3,False
+401856732,8,Ole Miss,Texas,False,5,1,32,41,INT,1,0,False
+401856732,8,Texas,Ole Miss,True,6,1,59,11,PUNT,3,2,False
+401856732,8,Ole Miss,Texas,False,7,1,89,40,PUNT,3,3,False
+401856732,8,Texas,Ole Miss,True,8,1,60,0,TD,4,60,True
+401856732,8,Ole Miss,Texas,False,9,1,75,39,PUNT,6,4,False
+401856732,8,Texas,Ole Miss,True,10,2,61,8,TD,5,61,True
+401856732,8,Ole Miss,Texas,False,11,2,75,38,PUNT,3,6,False
+401856732,8,Texas,Ole Miss,True,12,2,62,0,TD,6,62,True
+401856732,8,Ole Miss,Texas,False,13,2,75,25,PUNT,3,7,False
+401856732,8,Texas,Ole Miss,True,14,2,75,16,PUNT,3,8,False
+401856732,8,Ole Miss,Texas,False,15,2,84,3,INT,12,82,False
+401856732,8,Texas,Ole Miss,True,16,2,97,97,END OF HALF,3,0,False
+401856732,8,Texas,Ole Miss,True,17,3,88,100,FUMBLE TD,4,-12,True
+401856732,8,Texas,Ole Miss,True,18,3,75,20,PUNT,4,18,False
+401856732,8,Ole Miss,Texas,False,19,3,80,0,TD,10,80,True
+401856732,8,Texas,Ole Miss,True,20,3,75,46,PUNT,3,0,False
+401856732,8,Ole Miss,Texas,False,21,3,54,17,PUNT,3,1,False
+401856732,8,Texas,Ole Miss,True,22,3,83,29,PUNT,7,13,False
+401856732,8,Ole Miss,Texas,False,23,3,71,0,TD,4,71,True
+401856732,8,Texas,Ole Miss,True,24,4,75,20,INT,3,18,False
+401856732,8,Ole Miss,Texas,False,25,4,80,20,PUNT,6,19,False
+401856732,8,Texas,Ole Miss,True,26,4,80,0,TD,6,80,True
+401856732,8,Ole Miss,Texas,False,27,4,53,5,MISSED FG,7,12,False
+401856732,8,Texas,Ole Miss,True,28,4,59,65,FG,8,44,True
+401856732,8,Ole Miss,Texas,False,29,4,75,65,FG,6,53,True
+401856732,8,Ole Miss,Texas,False,30,4,65,0,INT,11,34,False
+401856834,8,Kansas,Baylor,True,1,1,75,36,INT,6,43,False
+401856834,8,Baylor,Kansas,False,2,1,64,34,DOWNS,7,30,False
+401856834,8,Kansas,Baylor,True,3,1,66,10,TD,11,66,True
+401856834,8,Baylor,Kansas,False,4,1,39,0,TD,6,39,True
+401856834,8,Kansas,Baylor,True,5,1,75,34,PUNT,7,5,False
+401856834,8,Baylor,Kansas,False,6,1,66,16,PUNT,3,3,False
+401856834,8,Kansas,Baylor,True,7,2,84,69,MISSED FG,8,53,False
+401856834,8,Baylor,Kansas,False,8,2,69,34,DOWNS,10,35,False
+401856834,8,Kansas,Baylor,True,9,2,66,23,DOWNS,12,43,False
+401856834,8,Baylor,Kansas,False,10,2,76,14,PUNT,5,21,False
+401856834,8,Kansas,Baylor,True,11,2,86,18,PUNT,3,2,False
+401856834,8,Baylor,Kansas,False,12,2,82,53,END OF HALF,4,29,False
+401856834,8,Baylor,Kansas,False,13,3,75,35,PUNT,3,-1,False
+401856834,8,Kansas,Baylor,True,14,3,65,58,INT TD,1,0,True
+401856834,8,Kansas,Baylor,True,15,3,72,65,FG,6,50,True
+401856834,8,Baylor,Kansas,False,16,3,72,0,TD,7,72,True
+401856834,8,Kansas,Baylor,True,17,3,75,0,TD,12,75,True
+401856834,8,Baylor,Kansas,False,18,4,75,19,PUNT,5,13,False
+401856834,8,Kansas,Baylor,True,19,4,66,65,FG,10,42,True
+401856834,8,Baylor,Kansas,False,20,4,59,31,INT,5,15,False
+401856834,8,Kansas,Baylor,True,21,4,69,40,DOWNS,4,9,False
+401856834,8,Baylor,Kansas,False,22,4,40,65,FG,6,15,True
+401856834,8,Kansas,Baylor,True,23,4,71,0,TD,6,71,True
+401856834,8,Baylor,Kansas,False,24,4,75,33,MISSED FG,7,48,False
+401856834,8,Kansas,Baylor,True,25,4,67,32,END OF GAME,3,-8,False
+401856835,8,UCF,BYU,True,1,1,75,16,PUNT,3,4,False
+401856835,8,BYU,UCF,False,2,1,84,0,TD,11,84,True
+401856835,8,UCF,BYU,True,3,1,75,8,PUNT,5,19,False
+401856835,8,BYU,UCF,False,4,1,92,38,PUNT,3,3,False
+401856835,8,UCF,BYU,True,5,1,62,0,TD,8,62,True
+401856835,8,BYU,UCF,False,6,2,75,34,PUNT,3,0,False
+401856835,8,UCF,BYU,True,7,2,66,65,FG,12,64,True
+401856835,8,BYU,UCF,False,8,2,75,0,TD,8,75,True
+401856835,8,UCF,BYU,True,9,2,75,29,PUNT,4,0,False
+401856835,8,BYU,UCF,False,10,2,71,22,INT,7,32,False
+401856835,8,UCF,BYU,True,11,2,78,0,TD,11,78,True
+401856835,8,BYU,UCF,False,12,2,75,77,END OF HALF,1,-2,False
+401856835,8,BYU,UCF,False,13,3,75,0,TD,9,75,True
+401856835,8,UCF,BYU,True,14,3,75,0,TD,11,75,True
+401856835,8,BYU,UCF,False,15,3,75,65,FG,12,46,True
+401856835,8,UCF,BYU,True,16,4,78,23,PUNT,3,7,False
+401856835,8,BYU,UCF,False,17,4,77,38,PUNT,3,7,False
+401856835,8,UCF,BYU,True,18,4,62,1,DOWNS,12,61,False
+401856835,8,BYU,UCF,False,19,4,99,31,PUNT,3,7,False
+401856835,8,UCF,BYU,True,20,4,69,0,MISSED FG,8,41,False
+401856835,8,BYU,UCF,False,21,5,25,0,TD,3,25,True
+401856835,8,UCF,BYU,True,22,5,25,0,TD,1,25,True
+401856835,8,UCF,BYU,True,23,6,25,0,TD,7,25,True
+401856835,8,BYU,UCF,False,24,6,25,96,DOWNS,6,21,False
+401856836,8,Oklahoma State,Colorado,True,1,1,75,20,TD,3,75,True
+401856836,8,Colorado,Oklahoma State,False,2,1,75,0,TD,12,75,True
+401856836,8,Oklahoma State,Colorado,True,3,1,75,29,PUNT,3,7,False
+401856836,8,Colorado,Oklahoma State,False,4,1,71,0,TD,11,71,True
+401856836,8,Oklahoma State,Colorado,True,5,1,75,65,FG,10,46,True
+401856836,8,Colorado,Oklahoma State,False,6,2,70,31,PUNT,3,0,False
+401856836,8,Oklahoma State,Colorado,True,7,2,69,0,TD,4,69,True
+401856836,8,Colorado,Oklahoma State,False,8,2,75,0,TD,6,75,True
+401856836,8,Oklahoma State,Colorado,True,9,2,75,65,FG,6,64,True
+401856836,8,Colorado,Oklahoma State,False,10,2,75,65,FG,5,48,True
+401856836,8,Oklahoma State,Colorado,True,11,2,75,65,FG,11,52,True
+401856836,8,Colorado,Oklahoma State,False,12,2,88,88,END OF HALF,1,0,False
+401856836,8,Colorado,Oklahoma State,False,13,3,75,87,FUMBLE,1,-3,False
+401856836,8,Oklahoma State,Colorado,True,14,3,13,0,TD,2,13,True
+401856836,8,Colorado,Oklahoma State,False,15,3,75,22,PUNT,3,12,False
+401856836,8,Oklahoma State,Colorado,True,16,3,78,0,TD,8,78,True
+401856836,8,Colorado,Oklahoma State,False,17,3,75,8,PUNT,4,20,False
+401856836,8,Oklahoma State,Colorado,True,18,3,92,42,PUNT,5,22,False
+401856836,8,Colorado,Oklahoma State,False,19,3,58,33,INT,2,6,False
+401856836,8,Oklahoma State,Colorado,True,20,3,67,65,FG,11,64,True
+401856836,8,Colorado,Oklahoma State,False,21,4,75,38,PUNT,3,0,False
+401856836,8,Oklahoma State,Colorado,True,22,4,62,0,TD,6,62,True
+401856836,8,Colorado,Oklahoma State,False,23,4,75,91,INT,5,16,False
+401856836,8,Oklahoma State,Colorado,True,24,4,9,65,FG,4,-3,True
+401856836,8,Colorado,Oklahoma State,False,25,4,75,42,PUNT,3,3,False
+401856836,8,Oklahoma State,Colorado,True,26,4,58,0,TD,8,58,True
+401856836,8,Colorado,Oklahoma State,False,27,4,77,31,END OF GAME,4,46,False
+401856837,8,Utah,Houston,True,1,1,75,11,PUNT,6,34,False
+401856837,8,Houston,Utah,False,2,1,89,16,PUNT,6,21,False
+401856837,8,Utah,Houston,True,3,1,84,27,PUNT,3,8,False
+401856837,8,Houston,Utah,False,4,1,73,3,DOWNS,7,70,False
+401856837,8,Utah,Houston,True,5,1,97,0,INT,12,70,False
+401856837,8,Houston,Utah,False,6,2,80,65,FG,15,74,True
+401856837,8,Utah,Houston,True,7,2,75,30,PUNT,3,1,False
+401856837,8,Houston,Utah,False,8,2,70,8,PUNT,4,18,False
+401856837,8,Utah,Houston,True,9,2,92,16,MISSED FG,5,76,False
+401856837,8,Houston,Utah,False,10,3,75,0,TD,15,75,True
+401856837,8,Utah,Houston,True,11,3,75,0,TD,5,75,True
+401856837,8,Houston,Utah,False,12,3,67,65,FG,5,38,True
+401856837,8,Utah,Houston,True,13,3,80,0,TD,10,80,True
+401856837,8,Houston,Utah,False,14,4,75,16,PUNT,4,13,False
+401856837,8,Utah,Houston,True,15,4,84,33,INT,5,35,False
+401856837,8,Houston,Utah,False,16,4,67,9,PUNT,3,0,False
+401856837,8,Utah,Houston,True,17,4,91,20,PUNT,8,40,False
+401856837,8,Houston,Utah,False,18,4,80,91,FUMBLE,1,-11,False
+401856837,8,Utah,Houston,True,19,4,9,0,TD,1,9,True
+401856837,8,Houston,Utah,False,20,4,75,23,DOWNS,8,52,False
+401856837,8,Utah,Houston,True,21,4,77,19,DOWNS,4,-8,False
+401856838,8,Arizona,Iowa State,True,1,1,75,41,TD,2,75,True
+401856838,8,Iowa State,Arizona,False,2,1,75,20,PUNT,3,3,False
+401856838,8,Arizona,Iowa State,True,3,1,80,0,TD,13,80,True
+401856838,8,Iowa State,Arizona,False,4,1,75,65,FG,7,53,True
+401856838,8,Arizona,Iowa State,True,5,1,75,65,FG,8,39,True
+401856838,8,Iowa State,Arizona,False,6,2,75,20,DOWNS,8,55,False
+401856838,8,Arizona,Iowa State,True,7,2,80,0,TD,15,80,True
+401856838,8,Iowa State,Arizona,False,8,2,75,49,FUMBLE,5,26,False
+401856838,8,Arizona,Iowa State,True,9,2,51,84,MISSED FG,6,37,False
+401856838,8,Iowa State,Arizona,False,10,3,75,10,PUNT,5,19,False
+401856838,8,Arizona,Iowa State,True,11,3,90,20,PUNT,8,33,False
+401856838,8,Iowa State,Arizona,False,12,3,80,33,PUNT,4,21,False
+401856838,8,Arizona,Iowa State,True,13,3,67,15,PUNT,3,8,False
+401856838,8,Iowa State,Arizona,False,14,3,85,33,PUNT,6,15,False
+401856838,8,Arizona,Iowa State,True,15,3,67,4,PUNT,5,22,False
+401856838,8,Iowa State,Arizona,False,16,3,96,22,PUNT,13,36,False
+401856838,8,Arizona,Iowa State,True,17,4,78,0,TD,8,78,True
+401856838,8,Iowa State,Arizona,False,18,4,75,64,DOWNS,5,11,False
+401856838,8,Arizona,Iowa State,True,19,4,36,0,TD,6,36,True
+401856838,8,Iowa State,Arizona,False,20,4,65,18,PUNT,3,2,False
+401856838,8,Arizona,Iowa State,True,21,4,82,84,END OF GAME,1,-2,False
+401856839,8,Kansas State,Arizona State,False,1,1,65,0,TD,9,65,True
+401856839,8,Arizona State,Kansas State,True,2,1,77,0,TD,4,77,True
+401856839,8,Kansas State,Arizona State,False,3,1,79,34,PUNT,3,7,False
+401856839,8,Arizona State,Kansas State,True,4,1,66,1,PUNT,5,19,False
+401856839,8,Kansas State,Arizona State,False,5,1,99,45,PUNT,3,9,False
+401856839,8,Arizona State,Kansas State,True,6,1,55,0,TD,9,55,True
+401856839,8,Kansas State,Arizona State,False,7,2,78,8,PUNT,7,24,False
+401856839,8,Arizona State,Kansas State,True,8,2,92,49,PUNT,3,-2,False
+401856839,8,Kansas State,Arizona State,False,9,2,51,65,FG,7,47,True
+401856839,8,Arizona State,Kansas State,True,10,2,83,5,PUNT,4,25,False
+401856839,8,Kansas State,Arizona State,False,11,2,95,8,PUNT,9,52,False
+401856839,8,Arizona State,Kansas State,True,12,2,92,58,END OF HALF,10,35,False
+401856839,8,Arizona State,Kansas State,True,13,3,75,37,PUNT,4,7,False
+401856839,8,Kansas State,Arizona State,False,14,3,63,3,PUNT,3,5,False
+401856839,8,Arizona State,Kansas State,True,15,3,97,79,PUNT,3,7,False
+401856839,8,Kansas State,Arizona State,False,16,3,21,0,TD,4,21,True
+401856839,8,Arizona State,Kansas State,True,17,3,75,100,PUNT,3,5,False
+401856839,8,Kansas State,Arizona State,False,18,3,56,29,DOWNS,8,27,False
+401856839,8,Arizona State,Kansas State,True,19,3,71,0,TD,7,71,True
+401856839,8,Kansas State,Arizona State,False,20,4,75,44,DOWNS,8,31,False
+401856839,8,Arizona State,Kansas State,True,21,4,56,26,PUNT,3,-10,False
+401856839,8,Kansas State,Arizona State,False,22,4,74,35,PUNT,3,1,False
+401856839,8,Arizona State,Kansas State,True,23,4,65,0,TD,7,65,True
+401856839,8,Kansas State,Arizona State,False,24,4,75,80,DOWNS,4,-5,False
+401856839,8,Arizona State,Kansas State,True,25,4,20,1,DOWNS,7,19,False
+401856839,8,Kansas State,Arizona State,False,26,4,99,85,DOWNS,6,14,False
+401856839,8,Arizona State,Kansas State,True,27,4,15,26,END OF GAME,2,-11,False
+401856840,8,Cincinnati,Texas Tech,True,1,1,75,36,PUNT,3,-1,False
+401856840,8,Texas Tech,Cincinnati,False,2,1,64,52,FUMBLE,4,12,False
+401856840,8,Cincinnati,Texas Tech,True,3,1,48,65,FG,5,18,True
+401856840,8,Texas Tech,Cincinnati,False,4,1,58,65,FG,12,44,True
+401856840,8,Cincinnati,Texas Tech,True,5,1,75,10,PUNT,3,9,False
+401856840,8,Texas Tech,Cincinnati,False,6,1,90,65,FG,10,60,True
+401856840,8,Cincinnati,Texas Tech,True,7,1,75,25,PUNT,3,5,False
+401856840,8,Texas Tech,Cincinnati,False,8,2,75,85,PUNT,6,21,False
+401856840,8,Cincinnati,Texas Tech,True,9,2,85,0,TD,10,85,True
+401856840,8,Texas Tech,Cincinnati,False,10,2,85,45,PUNT,3,4,False
+401856840,8,Cincinnati,Texas Tech,True,11,2,55,0,TD,11,55,True
+401856840,8,Texas Tech,Cincinnati,False,12,2,83,25,INT,4,22,False
+401856840,8,Cincinnati,Texas Tech,True,13,2,75,0,TD,5,75,True
+401856840,8,Cincinnati,Texas Tech,True,14,2,65,27,END OF HALF,0,0,False
+401856840,8,Texas Tech,Cincinnati,False,15,3,78,65,FG,11,54,True
+401856840,8,Cincinnati,Texas Tech,True,16,3,75,100,INT TD,5,15,True
+401856840,8,Cincinnati,Texas Tech,True,17,3,75,63,INT,3,6,False
+401856840,8,Texas Tech,Cincinnati,False,18,3,37,19,MISSED FG,5,18,False
+401856840,8,Cincinnati,Texas Tech,True,19,3,80,0,TD,10,81,True
+401856840,8,Texas Tech,Cincinnati,False,20,3,74,55,PUNT,3,0,False
+401856840,8,Cincinnati,Texas Tech,True,21,4,55,13,PUNT,3,-2,False
+401856840,8,Texas Tech,Cincinnati,False,22,4,87,65,FG,11,72,True
+401856840,8,Cincinnati,Texas Tech,True,23,4,75,0,TD,3,75,True
+401856840,8,Texas Tech,Cincinnati,False,24,4,75,41,FUMBLE,5,34,False
+401856840,8,Cincinnati,Texas Tech,True,25,4,59,36,DOWNS,5,23,False
+401856840,8,Texas Tech,Cincinnati,False,26,4,64,0,TD,7,64,True
+401856840,8,Cincinnati,Texas Tech,True,27,4,35,57,END OF GAME,2,-2,False
+401856841,8,West Virginia,TCU,False,1,1,75,65,FG,8,39,True
+401856841,8,TCU,West Virginia,True,2,1,91,0,TD,16,91,True
+401856841,8,West Virginia,TCU,False,3,1,75,0,TD,10,68,True
+401856841,8,TCU,West Virginia,True,4,2,75,27,FUMBLE,5,48,False
+401856841,8,West Virginia,TCU,False,5,2,73,42,INT,3,-4,False
+401856841,8,TCU,West Virginia,True,6,2,58,65,FG,9,37,True
+401856841,8,West Virginia,TCU,False,7,2,75,25,PUNT,3,3,False
+401856841,8,TCU,West Virginia,True,8,2,75,25,MISSED FG,8,50,False
+401856841,8,West Virginia,TCU,False,9,2,75,29,PUNT,5,20,False
+401856841,8,TCU,West Virginia,True,10,2,71,16,INT,2,22,False
+401856841,8,West Virginia,TCU,False,11,2,84,85,END OF HALF,2,-1,False
+401856841,8,TCU,West Virginia,True,12,3,75,65,FG,9,56,True
+401856841,8,West Virginia,TCU,False,13,3,75,0,TD,5,75,True
+401856841,8,TCU,West Virginia,True,14,3,75,9,PUNT,6,36,False
+401856841,8,West Virginia,TCU,False,15,3,91,54,PUNT,3,3,False
+401856841,8,TCU,West Virginia,True,16,3,46,0,TD,7,46,True
+401856841,8,West Virginia,TCU,False,17,3,75,0,TD,14,75,True
+401856841,8,TCU,West Virginia,True,18,4,75,20,DOWNS,6,55,False
+401856841,8,West Virginia,TCU,False,19,4,79,10,PUNT,5,20,False
+401856841,8,TCU,West Virginia,True,20,4,90,23,FUMBLE,17,67,False
+401856841,8,West Virginia,TCU,False,21,4,77,78,END OF GAME,1,-1,False
+401858270,8,SMU,California,True,1,1,75,35,PUNT,3,9,False
+401858270,8,California,SMU,False,2,1,65,0,TD,7,65,True
+401858270,8,SMU,California,True,3,1,65,65,FG,8,53,True
+401858270,8,California,SMU,False,4,1,75,21,PUNT,3,7,False
+401858270,8,SMU,California,True,5,1,79,0,TD,9,79,True
+401858270,8,California,SMU,False,6,1,75,0,TD,13,75,True
+401858270,8,SMU,California,True,7,2,75,30,PUNT,3,0,False
+401858270,8,California,SMU,False,8,2,80,65,FG,10,57,True
+401858270,8,SMU,California,True,9,2,75,0,TD,9,75,True
+401858270,8,California,SMU,False,10,2,75,65,FG,9,56,True
+401858270,8,California,SMU,False,11,3,75,39,PUNT,3,0,False
+401858270,8,SMU,California,True,12,3,61,0,TD,7,61,True
+401858270,8,California,SMU,False,13,3,75,65,PUNT,3,-5,False
+401858270,8,SMU,California,True,14,3,35,0,TD,4,35,True
+401858270,8,California,SMU,False,15,3,75,35,PUNT,3,4,False
+401858270,8,SMU,California,True,16,3,65,0,TD,6,65,True
+401858270,8,California,SMU,False,17,3,75,59,DOWNS,6,16,False
+401858270,8,SMU,California,True,18,3,41,0,TD,8,41,True
+401858270,8,California,SMU,False,19,4,75,66,DOWNS,4,9,False
+401858270,8,SMU,California,True,20,4,34,0,TD,5,34,True
+401858270,8,California,SMU,False,21,4,75,22,PUNT,4,10,False
+401858270,8,SMU,California,True,22,4,78,0,TD,5,78,True
+401858270,8,California,SMU,False,23,4,75,29,PUNT,3,6,False
+401858270,8,SMU,California,True,24,4,71,67,END OF GAME,2,4,False
+401858271,8,Virginia,Duke,True,1,1,77,22,PUNT,4,13,False
+401858271,8,Duke,Virginia,False,2,1,78,0,TD,4,78,True
+401858271,8,Virginia,Duke,True,3,1,75,42,PUNT,3,-4,False
+401858271,8,Duke,Virginia,False,4,1,58,20,PUNT,5,15,False
+401858271,8,Virginia,Duke,True,5,1,80,0,TD,8,80,True
+401858271,8,Duke,Virginia,False,6,1,75,27,PUNT,3,8,False
+401858271,8,Virginia,Duke,True,7,1,73,65,FG,13,69,True
+401858271,8,Duke,Virginia,False,8,2,75,40,PUNT,3,-1,False
+401858271,8,Virginia,Duke,True,9,2,60,7,PUNT,5,16,False
+401858271,8,Duke,Virginia,False,10,2,93,42,PUNT,4,14,False
+401858271,8,Virginia,Duke,True,11,2,58,84,FG,6,44,True
+401858271,8,Duke,Virginia,False,12,3,63,65,FG,8,41,True
+401858271,8,Virginia,Duke,True,13,3,75,30,FUMBLE,6,45,False
+401858271,8,Duke,Virginia,False,14,3,70,18,PUNT,3,3,False
+401858271,8,Virginia,Duke,True,15,3,82,30,MISSED FG,11,52,False
+401858271,8,Duke,Virginia,False,16,3,70,24,INT,5,41,False
+401858271,8,Virginia,Duke,True,17,3,76,32,PUNT,6,5,False
+401858271,8,Duke,Virginia,False,18,4,68,5,PUNT,4,22,False
+401858271,8,Virginia,Duke,True,19,4,95,32,PUNT,3,1,False
+401858271,8,Duke,Virginia,False,20,4,68,65,FG,5,47,True
+401858271,8,Virginia,Duke,True,21,4,75,65,FG,11,62,True
+401858271,8,Duke,Virginia,False,22,4,75,0,TD,7,75,True
+401858271,8,Virginia,Duke,True,23,4,75,38,INT,5,17,False
+401858271,8,Duke,Virginia,False,24,4,62,63,END OF HALF,1,-1,False
+401858272,8,Stanford,NC State,True,1,1,84,3,TD,11,84,True
+401858272,8,NC State,Stanford,False,2,1,66,52,PUNT,4,17,False
+401858272,8,Stanford,NC State,True,3,1,86,3,TD,9,86,True
+401858272,8,NC State,Stanford,False,4,1,74,0,TD,4,74,True
+401858272,8,Stanford,NC State,True,5,1,88,37,DOWNS,8,51,False
+401858272,8,NC State,Stanford,False,6,2,63,19,PUNT,3,6,False
+401858272,8,Stanford,NC State,True,7,2,81,30,PUNT,4,11,False
+401858272,8,NC State,Stanford,False,8,2,74,3,TD,7,74,True
+401858272,8,Stanford,NC State,True,9,2,82,40,PUNT,3,-6,False
+401858272,8,NC State,Stanford,False,10,2,60,10,PUNT,6,11,False
+401858272,8,Stanford,NC State,True,11,2,90,0,TD,7,90,True
+401858272,8,NC State,Stanford,False,12,2,79,76,END OF HALF,1,3,False
+401858272,8,NC State,Stanford,False,13,3,75,16,PUNT,4,18,False
+401858272,8,Stanford,NC State,True,14,3,84,3,TD,8,84,True
+401858272,8,NC State,Stanford,False,15,3,86,3,TD,18,86,True
+401858272,8,Stanford,NC State,True,16,4,65,65,FG,12,52,True
+401858272,8,NC State,Stanford,False,17,4,75,13,PUNT,3,-12,False
+401858272,8,Stanford,NC State,True,18,4,65,11,PUNT,6,19,False
+401858272,8,NC State,Stanford,False,19,4,89,0,TD,14,89,True
+401858272,8,Stanford,NC State,True,20,4,44,43,END OF GAME,3,1,False
+401858273,8,Georgia Tech,Boston College,True,1,1,79,0,TD,8,79,True
+401858273,8,Boston College,Georgia Tech,False,2,1,51,30,MISSED FG,8,21,False
+401858273,8,Georgia Tech,Boston College,True,3,1,70,65,FG,9,56,True
+401858273,8,Boston College,Georgia Tech,False,4,1,87,0,TD,7,87,True
+401858273,8,Georgia Tech,Boston College,True,5,2,78,50,PUNT,3,9,False
+401858273,8,Boston College,Georgia Tech,False,6,2,50,0,TD,4,50,True
+401858273,8,Georgia Tech,Boston College,True,7,2,72,20,PUNT,4,11,False
+401858273,8,Boston College,Georgia Tech,False,8,2,80,50,PUNT,3,2,False
+401858273,8,Georgia Tech,Boston College,True,9,2,50,1,PUNT,3,8,False
+401858273,8,Boston College,Georgia Tech,False,10,2,99,39,PUNT,6,27,False
+401858273,8,Georgia Tech,Boston College,True,11,2,61,65,FG,9,59,True
+401858273,8,Boston College,Georgia Tech,False,12,2,75,77,END OF HALF,1,-2,False
+401858273,8,Boston College,Georgia Tech,False,13,3,75,0,TD,5,75,True
+401858273,8,Georgia Tech,Boston College,True,14,3,75,61,INT,4,22,False
+401858273,8,Boston College,Georgia Tech,False,15,3,39,0,TD,5,39,True
+401858273,8,Georgia Tech,Boston College,True,16,3,73,20,PUNT,5,18,False
+401858273,8,Boston College,Georgia Tech,False,17,3,80,65,FG,11,75,True
+401858273,8,Georgia Tech,Boston College,True,18,4,70,0,TD,3,70,True
+401858273,8,Boston College,Georgia Tech,False,19,4,75,0,TD,6,75,True
+401858273,8,Georgia Tech,Boston College,True,20,4,72,100,INT TD,3,-1,True
+401858273,8,Georgia Tech,Boston College,True,21,4,78,0,TD,8,78,True
+401858273,8,Boston College,Georgia Tech,False,22,4,45,0,TD,6,45,True
+401858273,8,Georgia Tech,Boston College,True,23,4,67,64,DOWNS,4,3,False
+401858273,8,Boston College,Georgia Tech,False,24,4,36,25,END OF GAME,4,11,False
+401858274,8,Pittsburgh,Miami,False,1,1,75,57,PUNT,3,-10,False
+401858274,8,Miami,Pittsburgh,True,2,1,43,65,FG,12,21,True
+401858274,8,Pittsburgh,Miami,False,3,1,75,59,PUNT,3,-1,False
+401858274,8,Miami,Pittsburgh,True,4,1,41,0,TD,9,41,True
+401858274,8,Pittsburgh,Miami,False,5,1,75,22,PUNT,3,7,False
+401858274,8,Miami,Pittsburgh,True,6,1,78,0,TD,8,78,True
+401858274,8,Pittsburgh,Miami,False,7,2,75,22,PUNT,3,2,False
+401858274,8,Miami,Pittsburgh,True,8,2,78,45,DOWNS,6,33,False
+401858274,8,Pittsburgh,Miami,False,9,2,55,0,TD,6,55,True
+401858274,8,Miami,Pittsburgh,True,10,2,75,0,TD,6,75,True
+401858274,8,Pittsburgh,Miami,False,11,2,75,68,FUMBLE,1,8,False
+401858274,8,Miami,Pittsburgh,True,12,2,33,0,TD,5,33,True
+401858274,8,Pittsburgh,Miami,False,13,2,75,1,END OF HALF,5,74,False
+401858274,8,Miami,Pittsburgh,True,14,3,50,0,TD,4,50,True
+401858274,8,Pittsburgh,Miami,False,15,3,75,0,TD,6,75,True
+401858274,8,Miami,Pittsburgh,True,16,3,75,0,TD,11,75,True
+401858274,8,Pittsburgh,Miami,False,17,3,75,45,DOWNS,8,30,False
+401858274,8,Miami,Pittsburgh,True,18,3,55,6,PUNT,3,1,False
+401858274,8,Pittsburgh,Miami,False,19,3,94,54,PUNT,3,3,False
+401858274,8,Miami,Pittsburgh,True,20,4,46,0,TD,4,46,True
+401858274,8,Pittsburgh,Miami,False,21,4,75,1,DOWNS,13,74,False
+401858274,8,Miami,Pittsburgh,True,22,4,99,0,SF,3,-1,True
+401858274,8,Pittsburgh,Miami,False,23,4,68,2,PUNT,3,7,False
+401858274,8,Miami,Pittsburgh,True,24,4,98,27,PUNT,5,22,False
+401858274,8,Pittsburgh,Miami,False,25,4,73,0,TD,4,73,True
+401858274,8,Miami,Pittsburgh,True,26,4,75,72,END OF GAME,1,3,False
+401858275,8,North Carolina,Syracuse,True,1,1,83,3,TD,7,83,True
+401858275,8,Syracuse,North Carolina,False,2,1,79,36,PUNT,6,15,False
+401858275,8,North Carolina,Syracuse,True,3,1,69,9,FG,13,60,True
+401858275,8,Syracuse,North Carolina,False,4,1,88,56,TD,16,88,True
+401858275,8,North Carolina,Syracuse,True,5,2,75,20,PUNT,3,4,False
+401858275,8,Syracuse,North Carolina,False,6,2,80,24,PUNT,3,4,False
+401858275,8,North Carolina,Syracuse,True,7,2,62,65,FG,11,41,True
+401858275,8,Syracuse,North Carolina,False,8,2,70,19,FG,10,58,True
+401858275,8,Syracuse,North Carolina,False,9,3,75,30,PUNT,5,2,False
+401858275,8,North Carolina,Syracuse,True,10,3,70,3,TD,10,70,True
+401858275,8,Syracuse,North Carolina,False,11,3,76,55,DOWNS,10,31,False
+401858275,8,North Carolina,Syracuse,True,12,3,55,20,PUNT,3,-9,False
+401858275,8,Syracuse,North Carolina,False,13,3,80,61,DOWNS,9,42,False
+401858275,8,North Carolina,Syracuse,True,14,4,62,41,PUNT,3,3,False
+401858275,8,Syracuse,North Carolina,False,15,4,76,0,TD,1,76,True
+401858275,8,North Carolina,Syracuse,True,16,4,75,4,FG,9,71,True
+401858275,8,Syracuse,North Carolina,False,17,4,75,0,TD,11,75,True
+401858275,8,North Carolina,Syracuse,True,18,4,75,41,DOWNS,7,34,False
+401858275,8,Syracuse,North Carolina,False,19,4,59,100,DOWNS,6,9,False
+401858275,8,North Carolina,Syracuse,True,20,5,25,0,TD,6,25,True
+401858275,8,Syracuse,North Carolina,False,21,5,25,0,TD,7,25,True
+401858276,8,Virginia Tech,Clemson,False,1,1,75,41,PUNT,3,4,False
+401858276,8,Clemson,Virginia Tech,True,2,1,59,18,PUNT,6,9,False
+401858276,8,Virginia Tech,Clemson,False,3,1,82,40,PUNT,3,4,False
+401858276,8,Clemson,Virginia Tech,True,4,1,60,35,DOWNS,6,25,False
+401858276,8,Virginia Tech,Clemson,False,5,1,65,65,FG,13,46,True
+401858276,8,Clemson,Virginia Tech,True,6,1,75,65,FG,10,59,True
+401858276,8,Virginia Tech,Clemson,False,7,2,75,69,DOWNS,4,6,False
+401858276,8,Clemson,Virginia Tech,True,8,2,31,13,PUNT,3,-8,False
+401858276,8,Virginia Tech,Clemson,False,9,2,87,0,TD,17,87,True
+401858276,8,Clemson,Virginia Tech,True,10,2,75,3,PUNT,3,9,False
+401858276,8,Virginia Tech,Clemson,False,11,2,97,98,END OF HALF,1,-1,False
+401858276,8,Clemson,Virginia Tech,True,12,3,75,65,FG,9,44,True
+401858276,8,Virginia Tech,Clemson,False,13,3,90,65,PUNT,3,-9,False
+401858276,8,Clemson,Virginia Tech,True,14,3,65,0,TD,6,65,True
+401858276,8,Virginia Tech,Clemson,False,15,3,75,20,PUNT,3,0,False
+401858276,8,Clemson,Virginia Tech,True,16,3,55,65,FG,7,37,True
+401858276,8,Virginia Tech,Clemson,False,17,3,75,65,FG,8,46,True
+401858276,8,Clemson,Virginia Tech,True,18,4,75,39,PUNT,5,15,False
+401858276,8,Virginia Tech,Clemson,False,19,4,61,7,PUNT,4,10,False
+401858276,8,Clemson,Virginia Tech,True,20,4,93,31,PUNT,3,8,False
+401858276,8,Virginia Tech,Clemson,False,21,4,69,0,TD,11,69,True
+401858276,8,Clemson,Virginia Tech,True,22,4,84,59,DOWNS,7,25,False
+401858276,8,Virginia Tech,Clemson,False,23,4,41,44,END OF GAME,2,-3,False
+401858495,8,Oregon,Illinois,False,1,1,75,0,TD,11,75,True
+401858495,8,Illinois,Oregon,True,2,1,75,28,PUNT,6,9,False
+401858495,8,Oregon,Illinois,False,3,1,72,16,PUNT,3,8,False
+401858495,8,Illinois,Oregon,True,4,1,84,20,PUNT,5,32,False
+401858495,8,Oregon,Illinois,False,5,1,80,75,PUNT,3,5,False
+401858495,8,Illinois,Oregon,True,6,1,80,38,PUNT,3,0,False
+401858495,8,Oregon,Illinois,False,7,1,62,70,FUMBLE,3,-8,False
+401858495,8,Illinois,Oregon,True,8,1,30,49,FUMBLE,1,-16,False
+401858495,8,Oregon,Illinois,False,9,1,51,34,MISSED FG,7,17,False
+401858495,8,Illinois,Oregon,True,10,2,66,9,PUNT,6,13,False
+401858495,8,Oregon,Illinois,False,11,2,91,65,FG,9,89,True
+401858495,8,Illinois,Oregon,True,12,2,75,0,TD,1,75,True
+401858495,8,Oregon,Illinois,False,13,2,75,18,PUNT,3,9,False
+401858495,8,Illinois,Oregon,True,14,2,82,30,PUNT,3,9,False
+401858495,8,Oregon,Illinois,False,15,2,70,40,END OF HALF,4,30,False
+401858495,8,Illinois,Oregon,True,16,3,70,0,TD,9,70,True
+401858495,8,Oregon,Illinois,False,17,3,75,20,PUNT,3,8,False
+401858495,8,Illinois,Oregon,True,18,3,80,9,PUNT,6,27,False
+401858495,8,Oregon,Illinois,False,19,3,91,93,PUNT,8,37,False
+401858495,8,Illinois,Oregon,True,20,4,93,19,PUNT,9,29,False
+401858495,8,Oregon,Illinois,False,21,4,81,34,MISSED FG,11,48,False
+401858495,8,Illinois,Oregon,True,22,4,66,0,TD,6,66,True
+401858495,8,Oregon,Illinois,False,23,4,75,28,MISSED FG,9,47,False
+401858495,8,Illinois,Oregon,True,24,4,71,36,PUNT,3,0,False
+401858495,8,Oregon,Illinois,False,25,4,64,13,Uncategorized,3,51,False
+401858496,8,Indiana,Michigan,False,1,1,75,5,PUNT,8,26,False
+401858496,8,Michigan,Indiana,True,2,1,95,40,PUNT,5,15,False
+401858496,8,Indiana,Michigan,False,3,1,60,16,PUNT,3,2,False
+401858496,8,Michigan,Indiana,True,4,1,84,72,FUMBLE,3,12,False
+401858496,8,Indiana,Michigan,False,5,1,28,65,FG,7,24,True
+401858496,8,Michigan,Indiana,True,6,1,75,13,PUNT,6,15,False
+401858496,8,Indiana,Michigan,False,7,1,87,87,PUNT,5,32,False
+401858496,8,Michigan,Indiana,True,8,2,80,79,INT,3,3,False
+401858496,8,Indiana,Michigan,False,9,2,21,65,FG,4,5,True
+401858496,8,Michigan,Indiana,True,10,2,75,12,PUNT,6,18,False
+401858496,8,Indiana,Michigan,False,11,2,88,24,PUNT,7,17,False
+401858496,8,Michigan,Indiana,True,12,2,76,35,MISSED FG,9,41,False
+401858496,8,Indiana,Michigan,False,13,2,65,38,MISSED FG,3,27,False
+401858496,8,Michigan,Indiana,True,14,2,62,53,END OF HALF,1,9,False
+401858496,8,Michigan,Indiana,True,15,3,75,14,MISSED FG,14,61,False
+401858496,8,Indiana,Michigan,False,16,3,80,87,INT,6,18,False
+401858496,8,Michigan,Indiana,True,17,3,13,65,FG,4,2,True
+401858496,8,Indiana,Michigan,False,18,3,75,25,PUNT,5,14,False
+401858496,8,Michigan,Indiana,True,19,4,75,36,Uncategorized,3,-3,False
+401858496,8,Indiana,Michigan,False,20,4,64,19,PUNT,3,9,False
+401858496,8,Michigan,Indiana,True,21,4,81,22,PUNT,3,16,False
+401858496,8,Indiana,Michigan,False,22,4,78,39,PUNT,3,8,False
+401858496,8,Michigan,Indiana,True,23,4,61,0,FG,13,53,True
+401858496,8,Indiana,Michigan,False,24,5,25,0,TD,2,25,True
+401858496,8,Michigan,Indiana,True,25,5,25,13,DOWNS,8,12,False
+401858497,8,Iowa,Minnesota,False,1,1,75,87,PUNT,3,4,False
+401858497,8,Minnesota,Iowa,True,2,1,13,65,FG,4,1,True
+401858497,8,Iowa,Minnesota,False,3,1,75,2,INT,12,65,False
+401858497,8,Minnesota,Iowa,True,4,1,98,51,PUNT,3,2,False
+401858497,8,Iowa,Minnesota,False,5,1,49,15,PUNT,3,0,False
+401858497,8,Minnesota,Iowa,True,6,1,85,18,PUNT,9,31,False
+401858497,8,Iowa,Minnesota,False,7,2,82,30,PUNT,9,19,False
+401858497,8,Minnesota,Iowa,True,8,2,70,100,INT,3,-3,False
+401858497,8,Iowa,Minnesota,False,9,2,11,65,FG,4,-3,True
+401858497,8,Minnesota,Iowa,True,10,2,75,29,PUNT,4,21,False
+401858497,8,Iowa,Minnesota,False,11,2,71,3,PUNT,5,20,False
+401858497,8,Minnesota,Iowa,True,12,2,97,56,PUNT,5,12,False
+401858497,8,Iowa,Minnesota,False,13,2,44,37,INT,6,11,False
+401858497,8,Minnesota,Iowa,True,14,2,63,58,END OF HALF,2,5,False
+401858497,8,Minnesota,Iowa,True,15,3,71,0,TD,10,71,True
+401858497,8,Iowa,Minnesota,False,16,3,75,20,PUNT,5,30,False
+401858497,8,Minnesota,Iowa,True,17,3,80,26,PUNT,5,18,False
+401858497,8,Iowa,Minnesota,False,18,3,74,11,PUNT,5,24,False
+401858497,8,Minnesota,Iowa,True,19,4,89,53,PUNT,3,-4,False
+401858497,8,Iowa,Minnesota,False,20,4,47,43,FUMBLE,3,4,False
+401858497,8,Minnesota,Iowa,True,21,4,57,23,PUNT,3,-1,False
+401858497,8,Iowa,Minnesota,False,22,4,77,54,INT,6,17,False
+401858497,8,Minnesota,Iowa,True,23,4,46,2,PUNT,3,2,False
+401858497,8,Iowa,Minnesota,False,24,4,98,0,TD,4,98,True
+401858497,8,Minnesota,Iowa,True,25,4,75,19,PUNT,3,-10,False
+401858497,8,Iowa,Minnesota,False,26,4,68,27,PUNT,3,4,False
+401858497,8,Minnesota,Iowa,True,27,4,73,65,FG,7,44,True
+401858498,8,Northwestern,Rutgers,True,1,1,75,0,TD,10,75,True
+401858498,8,Rutgers,Northwestern,False,2,1,75,65,FG,12,50,True
+401858498,8,Northwestern,Rutgers,True,3,1,75,0,TD,5,75,True
+401858498,8,Rutgers,Northwestern,False,4,1,75,94,FUMBLE,1,-17,False
+401858498,8,Northwestern,Rutgers,True,5,1,6,0,TD,2,6,True
+401858498,8,Rutgers,Northwestern,False,6,1,75,29,PUNT,3,-6,False
+401858498,8,Northwestern,Rutgers,True,7,2,71,29,MISSED FG,6,42,False
+401858498,8,Rutgers,Northwestern,False,8,2,71,27,PUNT,3,2,False
+401858498,8,Northwestern,Rutgers,True,9,2,73,6,PUNT,5,37,False
+401858498,8,Rutgers,Northwestern,False,10,2,94,39,PUNT,6,24,False
+401858498,8,Northwestern,Rutgers,True,11,2,61,0,TD,5,61,True
+401858498,8,Rutgers,Northwestern,False,12,2,75,72,FG,12,58,True
+401858498,8,Rutgers,Northwestern,False,13,3,71,22,INT,8,38,False
+401858498,8,Northwestern,Rutgers,True,14,3,78,9,PUNT,7,30,False
+401858498,8,Rutgers,Northwestern,False,15,3,91,16,DOWNS,8,75,False
+401858498,8,Northwestern,Rutgers,True,16,3,84,52,INT,6,30,False
+401858498,8,Rutgers,Northwestern,False,17,3,48,0,TD,2,48,True
+401858498,8,Northwestern,Rutgers,True,18,3,68,0,TD,10,68,True
+401858498,8,Rutgers,Northwestern,False,19,4,80,39,DOWNS,8,41,False
+401858498,8,Northwestern,Rutgers,True,20,4,61,0,TD,7,61,True
+401858498,8,Rutgers,Northwestern,False,21,4,75,24,INT,5,41,False
+401858498,8,Northwestern,Rutgers,True,22,4,76,64,END OF GAME,4,12,False
+401858499,8,Michigan State,UCLA,False,1,1,85,20,PUNT,10,47,False
+401858499,8,UCLA,Michigan State,True,2,1,80,85,FUMBLE,8,51,False
+401858499,8,Michigan State,UCLA,False,3,1,15,0,TD,2,15,True
+401858499,8,UCLA,Michigan State,True,4,1,76,24,PUNT,3,5,False
+401858499,8,Michigan State,UCLA,False,5,1,76,18,PUNT,3,8,False
+401858499,8,UCLA,Michigan State,True,6,1,82,29,PUNT,5,10,False
+401858499,8,Michigan State,UCLA,False,7,2,71,81,FUMBLE,2,-10,False
+401858499,8,UCLA,Michigan State,True,8,2,19,8,TD,5,19,True
+401858499,8,Michigan State,UCLA,False,9,2,75,77,PUNT,3,14,False
+401858499,8,UCLA,Michigan State,True,10,2,77,19,FUMBLE,7,52,False
+401858499,8,Michigan State,UCLA,False,11,2,19,79,INT,2,0,False
+401858499,8,UCLA,Michigan State,True,12,2,21,0,TD,5,21,True
+401858499,8,Michigan State,UCLA,False,13,2,75,27,PUNT,4,11,False
+401858499,8,UCLA,Michigan State,True,14,2,73,15,PUNT,8,26,False
+401858499,8,Michigan State,UCLA,False,15,2,85,86,END OF HALF,1,-1,False
+401858499,8,UCLA,Michigan State,True,16,3,75,0,TD,4,75,True
+401858499,8,Michigan State,UCLA,False,17,3,75,30,PUNT,3,5,False
+401858499,8,UCLA,Michigan State,True,18,3,70,0,TD,10,70,True
+401858499,8,Michigan State,UCLA,False,19,3,75,33,PUNT,3,-10,False
+401858499,8,UCLA,Michigan State,True,20,3,67,2,PUNT,7,16,False
+401858499,8,Michigan State,UCLA,False,21,3,98,37,PUNT,5,18,False
+401858499,8,UCLA,Michigan State,True,22,4,63,3,DOWNS,6,60,False
+401858499,8,Michigan State,UCLA,False,23,4,97,65,FG,15,69,True
+401858499,8,UCLA,Michigan State,True,24,4,42,36,MISSED FG,4,6,False
+401858499,8,Michigan State,UCLA,False,25,4,64,26,INT,2,10,False
+401858499,8,UCLA,Michigan State,True,26,4,74,8,END OF GAME,8,66,False
+401858500,8,USC,Wisconsin,False,1,1,75,21,PUNT,3,9,False
+401858500,8,Wisconsin,USC,True,2,1,79,18,PUNT,7,19,False
+401858500,8,USC,Wisconsin,False,3,1,82,83,INT,3,0,False
+401858500,8,Wisconsin,USC,True,4,1,17,65,FG,4,2,True
+401858500,8,USC,Wisconsin,False,5,1,75,65,INT,8,33,False
+401858500,8,Wisconsin,USC,True,6,1,35,67,MISSED FG,4,2,False
+401858500,8,USC,Wisconsin,False,7,1,67,0,TD,15,67,True
+401858500,8,Wisconsin,USC,True,8,2,75,0,TD,13,75,True
+401858500,8,USC,Wisconsin,False,9,2,93,90,END OF HALF,5,3,False
+401858500,8,Wisconsin,USC,True,10,3,75,0,TD,10,75,True
+401858500,8,USC,Wisconsin,False,11,3,75,27,MISSED FG,14,48,False
+401858500,8,Wisconsin,USC,True,12,3,73,39,PUNT,3,1,False
+401858500,8,USC,Wisconsin,False,13,3,61,0,MISSED FG,10,20,False
+401858500,8,Wisconsin,USC,True,14,4,59,0,TD,13,59,True
+401858500,8,USC,Wisconsin,False,15,4,82,75,DOWNS,6,7,False
+401858500,8,Wisconsin,USC,True,16,4,25,22,DOWNS,4,3,False
+401858500,8,USC,Wisconsin,False,17,4,78,10,DOWNS,13,68,False
+401858500,8,Wisconsin,USC,True,18,4,90,91,END OF GAME,1,-1,False
+401860905,8,Colorado State,San Diego State,True,1,1,75,0,TD,10,75,True
+401860905,8,San Diego State,Colorado State,False,2,1,75,0,TD,6,75,True
+401860905,8,Colorado State,San Diego State,True,3,1,75,17,PUNT,4,19,False
+401860905,8,San Diego State,Colorado State,False,4,1,83,0,TD,7,83,True
+401860905,8,Colorado State,San Diego State,True,5,1,38,0,TD,3,38,True
+401860905,8,San Diego State,Colorado State,False,6,1,65,65,FG,10,47,True
+401860905,8,Colorado State,San Diego State,True,7,2,75,3,TD,6,75,True
+401860905,8,San Diego State,Colorado State,False,8,2,76,0,TD,4,76,True
+401860905,8,Colorado State,San Diego State,True,9,2,75,3,TD,8,75,True
+401860905,8,San Diego State,Colorado State,False,10,2,83,25,PUNT,5,16,False
+401860905,8,Colorado State,San Diego State,True,11,2,75,40,INT,4,17,False
+401860905,8,San Diego State,Colorado State,False,12,2,60,100,INT TD,2,-8,True
+401860905,8,San Diego State,Colorado State,False,13,2,77,75,PUNT,3,-3,False
+401860905,8,Colorado State,San Diego State,True,14,2,54,56,END OF HALF,1,-2,False
+401860905,8,San Diego State,Colorado State,False,15,3,47,65,FG,7,19,True
+401860905,8,Colorado State,San Diego State,True,16,3,75,3,TD,12,75,True
+401860905,8,San Diego State,Colorado State,False,17,3,73,3,TD,5,73,True
+401860905,8,Colorado State,San Diego State,True,18,3,75,0,TD,10,75,True
+401860905,8,San Diego State,Colorado State,False,19,4,78,0,TD,6,78,True
+401860905,8,Colorado State,San Diego State,True,20,4,75,3,TD,9,75,True
+401860905,8,San Diego State,Colorado State,False,21,4,58,97,INT,1,0,False
+401860905,8,Colorado State,San Diego State,True,22,4,3,1,FUMBLE,1,2,False
+401860905,8,San Diego State,Colorado State,False,23,4,99,3,TD,16,99,True
+401860905,8,Colorado State,San Diego State,True,24,4,44,29,END OF HALF,5,15,False
+401860906,8,Utah State,Texas State,False,1,1,75,25,FG,8,50,True
+401860906,8,Utah State,Texas State,False,2,1,65,100,TD,0,0,True
+401860906,8,Utah State,Texas State,False,3,1,75,65,FG,12,45,True
+401860906,8,Texas State,Utah State,True,4,1,84,11,PUNT,3,-5,False
+401860906,8,Utah State,Texas State,False,5,1,45,59,PUNT,3,4,False
+401860906,8,Texas State,Utah State,True,6,1,94,50,PUNT,3,9,False
+401860906,8,Utah State,Texas State,False,7,1,50,9,FG,10,41,True
+401860906,8,Texas State,Utah State,True,8,2,82,32,PUNT,4,14,False
+401860906,8,Utah State,Texas State,False,9,2,73,47,PUNT,6,9,False
+401860906,8,Texas State,Utah State,True,10,2,53,21,PUNT,3,-10,False
+401860906,8,Utah State,Texas State,False,11,2,79,15,PUNT,5,10,False
+401860906,8,Texas State,Utah State,True,12,2,85,74,MISSED FG,13,54,False
+401860906,8,Texas State,Utah State,True,13,3,78,3,TD,12,66,True
+401860906,8,Utah State,Texas State,False,14,3,79,69,PUNT,3,-3,False
+401860906,8,Texas State,Utah State,True,15,3,69,60,PUNT,9,29,False
+401860906,8,Utah State,Texas State,False,16,3,88,27,PUNT,3,9,False
+401860906,8,Texas State,Utah State,True,17,3,73,33,FG,11,40,True
+401860906,8,Utah State,Texas State,False,18,4,75,3,TD,10,75,True
+401860906,8,Texas State,Utah State,True,19,4,70,65,FG,13,51,True
+401860906,8,Utah State,Texas State,False,20,4,75,30,MISSED FG,13,45,False
+401860907,8,Boise State,Washington State,False,1,1,75,20,PUNT,5,3,False
+401860907,8,Washington State,Boise State,True,2,1,80,26,PUNT,6,15,False
+401860907,8,Boise State,Washington State,False,3,1,74,0,TD,7,74,True
+401860907,8,Washington State,Boise State,True,4,1,75,7,PUNT,9,17,False
+401860907,8,Boise State,Washington State,False,5,2,93,10,PUNT,8,47,False
+401860907,8,Washington State,Boise State,True,6,2,90,35,PUNT,3,9,False
+401860907,8,Boise State,Washington State,False,7,2,65,27,PUNT,3,1,False
+401860907,8,Washington State,Boise State,True,8,2,73,0,TD,16,73,True
+401860907,8,Boise State,Washington State,False,9,2,65,65,FG,8,54,True
+401860907,8,Washington State,Boise State,True,10,3,75,20,PUNT,6,16,False
+401860907,8,Boise State,Washington State,False,11,3,80,41,PUNT,3,6,False
+401860907,8,Washington State,Boise State,True,12,3,59,65,FG,8,31,True
+401860907,8,Boise State,Washington State,False,13,3,70,0,TD,15,70,True
+401860907,8,Washington State,Boise State,True,14,4,75,67,INT,4,16,False
+401860907,8,Boise State,Washington State,False,15,4,33,0,TD,2,33,True
+401860907,8,Washington State,Boise State,True,16,4,75,10,PUNT,9,20,False
+401860907,8,Boise State,Washington State,False,17,4,90,0,TD,3,90,True
+401860907,8,Washington State,Boise State,True,18,4,75,3,DOWNS,13,72,False
+401860907,8,Boise State,Washington State,False,19,4,97,78,END OF HALF,8,19,False
+401861965,8,Massachusetts,UConn,False,1,1,75,65,FG,13,69,True
+401861965,8,UConn,Massachusetts,True,2,1,75,0,TD,13,75,True
+401861965,8,Massachusetts,UConn,False,3,1,75,35,PUNT,3,5,False
+401861965,8,UConn,Massachusetts,True,4,2,65,12,PUNT,3,4,False
+401861965,8,Massachusetts,UConn,False,5,2,88,44,PUNT,3,5,False
+401861965,8,UConn,Massachusetts,True,6,2,56,39,DOWNS,7,17,False
+401861965,8,Massachusetts,UConn,False,7,2,61,18,PUNT,3,-9,False
+401861965,8,UConn,Massachusetts,True,8,2,82,100,PUNT,5,40,False
+401861965,8,Massachusetts,UConn,False,9,2,99,55,PUNT,3,2,False
+401861965,8,UConn,Massachusetts,True,10,2,45,0,TD,4,45,True
+401861965,8,Massachusetts,UConn,False,11,2,75,30,PUNT,3,2,False
+401861965,8,UConn,Massachusetts,True,12,2,70,0,TD,1,70,True
+401861965,8,Massachusetts,UConn,False,13,2,80,38,DOWNS,8,42,False
+401861965,8,UConn,Massachusetts,True,14,2,62,20,END OF HALF,1,42,False
+401861965,8,UConn,Massachusetts,True,15,3,79,38,PUNT,3,8,False
+401861965,8,Massachusetts,UConn,False,16,3,62,34,PUNT,4,-18,False
+401861965,8,UConn,Massachusetts,True,17,3,66,21,PUNT,3,-3,False
+401861965,8,Massachusetts,UConn,False,18,3,79,100,PUNT TD,3,3,True
+401861965,8,Massachusetts,UConn,False,19,3,75,24,PUNT,3,3,False
+401861965,8,UConn,Massachusetts,True,20,3,76,29,MISSED FG,9,47,False
+401861965,8,Massachusetts,UConn,False,21,3,71,0,TD,6,71,True
+401861965,8,UConn,Massachusetts,True,22,4,75,100,PUNT,6,27,False
+401861965,8,Massachusetts,UConn,False,23,4,90,29,DOWNS,6,31,False
+401861965,8,UConn,Massachusetts,True,24,4,41,0,TD,9,41,True
+401861965,8,Massachusetts,UConn,False,25,4,57,0,TD,9,57,True
+401861965,8,UConn,Massachusetts,True,26,4,75,70,END OF HALF,2,5,False
+401862807,8,East Carolina,Memphis,False,1,1,75,20,PUNT,3,5,False
+401862807,8,Memphis,East Carolina,True,2,1,80,54,PUNT,3,1,False
+401862807,8,East Carolina,Memphis,False,3,1,46,65,FG,8,42,True
+401862807,8,Memphis,East Carolina,True,4,1,75,66,PUNT,3,9,False
+401862807,8,East Carolina,Memphis,False,5,1,80,0,TD,12,80,True
+401862807,8,Memphis,East Carolina,True,6,1,75,15,PUNT,5,14,False
+401862807,8,East Carolina,Memphis,False,7,1,85,49,PUNT,3,6,False
+401862807,8,Memphis,East Carolina,True,8,2,51,65,FG,8,38,True
+401862807,8,East Carolina,Memphis,False,9,2,75,35,INT,2,4,False
+401862807,8,Memphis,East Carolina,True,10,2,65,33,PUNT,3,0,False
+401862807,8,East Carolina,Memphis,False,11,2,67,65,FG,7,55,True
+401862807,8,Memphis,East Carolina,True,12,2,84,12,PUNT,6,37,False
+401862807,8,East Carolina,Memphis,False,13,2,88,52,PUNT,3,2,False
+401862807,8,Memphis,East Carolina,True,14,2,48,10,PUNT,3,3,False
+401862807,8,East Carolina,Memphis,False,15,2,90,45,PUNT,3,7,False
+401862807,8,East Carolina,Memphis,False,16,2,46,63,FG,4,15,True
+401862807,8,Memphis,East Carolina,True,17,3,75,0,TD,4,75,True
+401862807,8,East Carolina,Memphis,False,18,3,75,0,TD,9,75,True
+401862807,8,Memphis,East Carolina,True,19,3,75,0,TD,10,75,True
+401862807,8,East Carolina,Memphis,False,20,3,75,32,PUNT,2,-4,False
+401862807,8,Memphis,East Carolina,True,21,3,68,65,FG,9,52,True
+401862807,8,East Carolina,Memphis,False,22,3,75,65,FG,8,53,True
+401862807,8,Memphis,East Carolina,True,23,4,75,28,PUNT,3,6,False
+401862807,8,Memphis,East Carolina,True,24,4,28,0,TD,4,28,True
+401862807,8,East Carolina,Memphis,False,25,4,75,20,PUNT,4,17,False
+401862807,8,Memphis,East Carolina,True,26,4,80,0,TD,13,80,True
+401862807,8,East Carolina,Memphis,False,27,4,75,0,TD,8,75,True
+401862807,8,Memphis,East Carolina,True,28,4,75,0,END OF HALF,6,20,False
+401862807,8,Memphis,East Carolina,True,29,5,25,0,TD,2,25,True
+401862807,8,East Carolina,Memphis,False,30,5,25,100,INT,5,21,False
+401862808,8,Army,Tulsa,False,1,1,71,3,TD,9,71,True
+401862808,8,Tulsa,Army,True,2,1,81,3,TD,7,81,True
+401862808,8,Army,Tulsa,False,3,1,75,34,FG,5,41,True
+401862808,8,Tulsa,Army,True,4,1,79,40,PUNT,3,5,False
+401862808,8,Army,Tulsa,False,5,1,60,38,DOWNS,5,22,False
+401862808,8,Tulsa,Army,True,6,1,62,3,TD,8,62,True
+401862808,8,Army,Tulsa,False,7,2,75,3,TD,15,75,True
+401862808,8,Tulsa,Army,True,8,2,75,40,INT,4,15,False
+401862808,8,Army,Tulsa,False,9,2,57,65,FG,7,41,True
+401862808,8,Army,Tulsa,False,10,2,65,37,END OF HALF,0,0,False
+401862808,8,Tulsa,Army,True,11,3,84,15,PUNT,3,-1,False
+401862808,8,Army,Tulsa,False,12,3,70,3,TD,2,70,True
+401862808,8,Tulsa,Army,True,13,3,45,3,TD,9,45,True
+401862808,8,Army,Tulsa,False,14,3,75,72,PUNT,3,2,False
+401862808,8,Tulsa,Army,True,15,3,72,0,TD,3,72,True
+401862808,8,Army,Tulsa,False,16,3,75,50,PUNT,3,5,False
+401862808,8,Tulsa,Army,True,17,3,50,0,TD,10,50,True
+401862808,8,Army,Tulsa,False,18,4,75,24,PUNT,3,1,False
+401862808,8,Tulsa,Army,True,19,4,76,78,MISSED FG,8,54,False
+401862808,8,Army,Tulsa,False,20,4,78,27,PUNT,3,-7,False
+401862808,8,Tulsa,Army,True,21,4,73,71,PUNT,3,2,False
+401862808,8,Army,Tulsa,False,22,4,13,0,TD,5,13,True
+401862808,8,Tulsa,Army,True,23,4,75,37,PUNT,3,0,False
+401862808,8,Army,Tulsa,False,24,4,63,36,FG,7,27,True
+401862809,8,Rice,Florida Atlantic,False,1,1,75,0,TD,3,75,True
+401862809,8,Florida Atlantic,Rice,True,2,1,75,23,PUNT,6,11,False
+401862809,8,Rice,Florida Atlantic,False,3,1,77,0,TD,7,77,True
+401862809,8,Florida Atlantic,Rice,True,4,1,75,46,PUNT,3,-8,False
+401862809,8,Rice,Florida Atlantic,False,5,1,54,47,FUMBLE,5,7,False
+401862809,8,Florida Atlantic,Rice,True,6,1,53,0,TD,6,53,True
+401862809,8,Rice,Florida Atlantic,False,7,1,85,88,PUNT,3,-3,True
+401862809,8,Florida Atlantic,Rice,True,8,2,75,0,TD,11,75,True
+401862809,8,Rice,Florida Atlantic,False,9,2,75,66,DOWNS,4,9,False
+401862809,8,Florida Atlantic,Rice,True,10,2,34,0,TD,5,34,True
+401862809,8,Rice,Florida Atlantic,False,11,2,75,0,TD,2,75,True
+401862809,8,Florida Atlantic,Rice,True,12,2,75,22,INT,10,39,False
+401862809,8,Rice,Florida Atlantic,False,13,2,78,75,END OF HALF,1,3,False
+401862809,8,Florida Atlantic,Rice,True,14,3,75,0,TD,9,75,True
+401862809,8,Rice,Florida Atlantic,False,15,3,75,0,TD,2,75,True
+401862809,8,Florida Atlantic,Rice,True,16,3,67,41,TD,3,67,True
+401862809,8,Rice,Florida Atlantic,False,17,3,75,0,TD,8,75,True
+401862809,8,Florida Atlantic,Rice,True,18,3,90,0,TD,11,90,True
+401862809,8,Rice,Florida Atlantic,False,19,3,75,0,TD,2,75,True
+401862809,8,Florida Atlantic,Rice,True,20,3,75,7,PUNT,9,31,False
+401862809,8,Rice,Florida Atlantic,False,21,4,93,26,PUNT,9,29,False
+401862809,8,Florida Atlantic,Rice,True,22,4,74,33,PUNT,3,2,False
+401862809,8,Rice,Florida Atlantic,False,23,4,67,100,PUNT TD,3,-1,True
+401862809,8,Rice,Florida Atlantic,False,24,4,75,42,TD,2,75,True
+401862809,8,Florida Atlantic,Rice,True,25,4,75,31,PUNT,3,5,False
+401862809,8,Rice,Florida Atlantic,False,26,4,69,37,MISSED FG,8,32,False
+401862809,8,Florida Atlantic,Rice,True,27,4,63,66,END OF GAME,2,-3,False
+401862810,8,Navy,North Texas,True,1,1,75,37,DOWNS,6,23,False
+401862810,8,North Texas,Navy,False,2,1,48,0,TD,4,48,True
+401862810,8,Navy,North Texas,True,3,1,75,65,FG,11,61,True
+401862810,8,North Texas,Navy,False,4,1,75,0,TD,7,75,True
+401862810,8,Navy,North Texas,True,5,1,75,0,TD,7,75,True
+401862810,8,North Texas,Navy,False,6,2,78,0,TD,5,78,True
+401862810,8,Navy,North Texas,True,7,2,84,35,PUNT,3,6,False
+401862810,8,North Texas,Navy,False,8,2,65,19,PUNT,3,4,False
+401862810,8,Navy,North Texas,True,9,2,81,100,PUNT TD,4,8,True
+401862810,8,Navy,North Texas,True,10,2,75,0,TD,13,75,True
+401862810,8,North Texas,Navy,False,11,2,75,77,END OF HALF,1,-2,False
+401862810,8,North Texas,Navy,False,12,3,75,20,PUNT,7,31,False
+401862810,8,Navy,North Texas,True,13,3,80,100,FUMBLE RETURN TD,7,43,True
+401862810,8,Navy,North Texas,True,14,3,75,0,TD,5,75,True
+401862810,8,North Texas,Navy,False,15,3,75,0,TD,4,75,True
+401862810,8,Navy,North Texas,True,16,3,75,25,DOWNS,5,50,False
+401862810,8,North Texas,Navy,False,17,3,75,50,INT,1,0,False
+401862810,8,Navy,North Texas,True,18,3,50,0,TD,4,50,True
+401862810,8,North Texas,Navy,False,19,3,75,17,PUNT,5,17,False
+401862810,8,Navy,North Texas,True,20,4,83,8,TD,7,83,True
+401862810,8,North Texas,Navy,False,21,4,75,0,TD,3,75,True
+401862810,8,Navy,North Texas,True,22,4,75,17,PUNT,6,22,False
+401862810,8,North Texas,Navy,False,23,4,83,22,END OF HALF,12,61,False
+401862811,8,UTSA,Tulane,False,1,1,75,100,INT TD,1,0,True
+401862811,8,UTSA,Tulane,False,2,1,75,21,PUNT,3,2,False
+401862811,8,Tulane,UTSA,True,3,1,79,29,PUNT,3,5,False
+401862811,8,UTSA,Tulane,False,4,1,56,0,TD,8,56,True
+401862811,8,Tulane,UTSA,True,5,1,75,27,FUMBLE,10,31,False
+401862811,8,UTSA,Tulane,False,6,1,56,0,TD,6,56,True
+401862811,8,Tulane,UTSA,True,7,1,75,100,FUMBLE,7,75,False
+401862811,8,UTSA,Tulane,False,8,2,80,43,PUNT,3,8,False
+401862811,8,Tulane,UTSA,True,9,2,57,54,FUMBLE,4,3,False
+401862811,8,UTSA,Tulane,False,10,2,46,0,TD,8,46,True
+401862811,8,Tulane,UTSA,True,11,2,71,65,FG,9,51,True
+401862811,8,UTSA,Tulane,False,12,2,75,31,INT,3,29,False
+401862811,8,Tulane,UTSA,True,13,2,69,65,FG,7,54,True
+401862811,8,Tulane,UTSA,True,14,3,75,28,PUNT,4,15,False
+401862811,8,UTSA,Tulane,False,15,3,72,0,TD,7,72,True
+401862811,8,Tulane,UTSA,True,16,3,75,37,PUNT,3,-10,False
+401862811,8,UTSA,Tulane,False,17,3,63,0,TD,13,63,True
+401862811,8,Tulane,UTSA,True,18,3,75,17,INT,7,29,False
+401862811,8,UTSA,Tulane,False,19,3,83,17,PUNT,5,16,False
+401862811,8,UTSA,Tulane,False,20,4,17,3,FUMBLE,4,14,False
+401862811,8,Tulane,UTSA,True,21,4,97,0,TD,5,97,True
+401862811,8,UTSA,Tulane,False,22,4,75,72,PUNT,3,5,False
+401862811,8,Tulane,UTSA,True,23,4,72,41,INT,5,2,False
+401862811,8,UTSA,Tulane,False,24,4,41,3,TD,4,41,True
+401862811,8,Tulane,UTSA,True,25,4,75,78,DOWNS,4,-3,False
+401862811,8,UTSA,Tulane,False,26,4,22,24,END OF GAME,2,-2,False
+401864525,8,Wyoming,Air Force,True,1,1,75,0,TD,2,75,True
+401864525,8,Air Force,Wyoming,False,2,1,75,56,FUMBLE,6,19,False
+401864525,8,Wyoming,Air Force,True,3,1,44,20,MISSED FG,8,24,False
+401864525,8,Air Force,Wyoming,False,4,1,80,65,FG,14,60,True
+401864525,8,Wyoming,Air Force,True,5,2,75,0,TD,11,75,True
+401864525,8,Air Force,Wyoming,False,6,2,75,65,FG,9,46,True
+401864525,8,Wyoming,Air Force,True,7,2,75,0,TD,7,75,True
+401864525,8,Air Force,Wyoming,False,8,2,75,67,END OF HALF,2,8,False
+401864525,8,Air Force,Wyoming,False,9,3,75,0,TD,15,75,True
+401864525,8,Wyoming,Air Force,True,10,3,75,28,PUNT,3,-6,False
+401864525,8,Air Force,Wyoming,False,11,3,72,19,FUMBLE,15,53,False
+401864525,8,Wyoming,Air Force,True,12,4,81,35,PUNT,3,-1,False
+401864525,8,Air Force,Wyoming,False,13,4,65,55,FUMBLE,4,14,False
+401864525,8,Wyoming,Air Force,True,14,4,49,0,TD,8,49,True
+401864525,8,Air Force,Wyoming,False,15,4,78,87,END OF GAME,15,62,False
+401864526,8,Hawai'i,Northern Illinois,False,1,1,75,8,TD,12,75,True
+401864526,8,Northern Illinois,Hawai'i,True,2,1,77,3,TD,5,77,True
+401864526,8,Hawai'i,Northern Illinois,False,3,1,75,3,TD,6,75,True
+401864526,8,Northern Illinois,Hawai'i,True,4,1,75,11,PUNT,3,4,False
+401864526,8,Hawai'i,Northern Illinois,False,5,1,91,61,PUNT,3,-4,False
+401864526,8,Northern Illinois,Hawai'i,True,6,1,39,8,TD,4,39,True
+401864526,8,Hawai'i,Northern Illinois,False,7,2,75,3,TD,5,75,True
+401864526,8,Northern Illinois,Hawai'i,True,8,2,75,7,PUNT,3,8,False
+401864526,8,Hawai'i,Northern Illinois,False,9,2,93,0,TD,10,93,True
+401864526,8,Northern Illinois,Hawai'i,True,10,2,75,33,INT,7,13,False
+401864526,8,Hawai'i,Northern Illinois,False,11,2,67,0,TD,5,67,True
+401864526,8,Northern Illinois,Hawai'i,True,12,2,83,74,END OF HALF,1,9,False
+401864526,8,Northern Illinois,Hawai'i,True,13,3,75,50,FUMBLE,4,25,False
+401864526,8,Hawai'i,Northern Illinois,False,14,3,50,51,PUNT,3,1,False
+401864526,8,Northern Illinois,Hawai'i,True,15,3,96,65,PUNT,3,3,False
+401864526,8,Hawai'i,Northern Illinois,False,16,3,35,3,TD,5,35,True
+401864526,8,Northern Illinois,Hawai'i,True,17,3,75,20,PUNT,3,2,False
+401864526,8,Hawai'i,Northern Illinois,False,18,3,80,0,TD,11,80,True
+401864526,8,Northern Illinois,Hawai'i,True,19,3,75,42,FUMBLE,6,33,False
+401864526,8,Hawai'i,Northern Illinois,False,20,4,58,49,INT,3,4,False
+401864526,8,Northern Illinois,Hawai'i,True,21,4,51,0,TD,8,51,True
+401864526,8,Hawai'i,Northern Illinois,False,22,4,75,18,PUNT,3,9,False
+401864526,8,Hawai'i,Northern Illinois,False,23,4,18,3,TD,5,18,True
+401864526,8,Northern Illinois,Hawai'i,True,24,4,75,12,INT,3,12,False
+401864526,8,Hawai'i,Northern Illinois,False,25,4,88,82,END OF GAME,5,6,False
+401864527,8,New Mexico,North Dakota State,True,1,1,75,0,TD,6,75,True
+401864527,8,North Dakota State,New Mexico,False,2,1,65,70,INT,3,-1,False
+401864527,8,New Mexico,North Dakota State,True,3,1,30,30,INT,3,2,False
+401864527,8,North Dakota State,New Mexico,False,4,1,70,65,FG,9,61,True
+401864527,8,New Mexico,North Dakota State,True,5,1,65,31,PUNT,3,1,False
+401864527,8,North Dakota State,New Mexico,False,6,1,69,19,PUNT,6,13,False
+401864527,8,New Mexico,North Dakota State,True,7,2,81,37,PUNT,5,19,False
+401864527,8,North Dakota State,New Mexico,False,8,2,63,18,PUNT,3,3,False
+401864527,8,New Mexico,North Dakota State,True,9,2,82,47,PUNT,5,15,False
+401864527,8,North Dakota State,New Mexico,False,10,2,53,9,PUNT,3,3,False
+401864527,8,New Mexico,North Dakota State,True,11,2,91,52,PUNT,3,0,False
+401864527,8,North Dakota State,New Mexico,False,12,2,48,54,PUNT,3,-13,False
+401864527,8,New Mexico,North Dakota State,True,13,2,46,0,TD,7,46,True
+401864527,8,North Dakota State,New Mexico,False,14,2,80,82,END OF HALF,1,-2,False
+401864527,8,North Dakota State,New Mexico,False,15,3,75,33,PUNT,3,4,False
+401864527,8,New Mexico,North Dakota State,True,16,3,67,36,MISSED FG,6,30,False
+401864527,8,North Dakota State,New Mexico,False,17,3,63,0,TD,8,63,True
+401864527,8,New Mexico,North Dakota State,True,18,3,75,14,PUNT,4,10,False
+401864527,8,North Dakota State,New Mexico,False,19,3,86,20,PUNT,8,35,False
+401864527,8,New Mexico,North Dakota State,True,20,3,80,25,MISSED FG,8,55,False
+401864527,8,North Dakota State,New Mexico,False,21,4,75,44,INT TD,3,5,True
+401864527,8,North Dakota State,New Mexico,False,22,4,75,0,TD,10,75,True
+401864527,8,New Mexico,North Dakota State,True,23,4,75,9,PUNT,7,24,False
+401864527,8,North Dakota State,New Mexico,False,24,4,91,88,DOWNS,4,4,False
+401864527,8,New Mexico,North Dakota State,True,25,4,13,16,END OF GAME,3,-3,False
+401864528,8,San José State,Nevada,False,1,1,75,28,PUNT,3,2,False
+401864528,8,Nevada,San José State,True,2,1,72,8,TD,16,72,True
+401864528,8,San José State,Nevada,False,3,1,75,85,PUNT,3,0,False
+401864528,8,Nevada,San José State,True,4,1,85,43,PUNT,3,4,False
+401864528,8,San José State,Nevada,False,5,1,57,3,PUNT,3,0,False
+401864528,8,Nevada,San José State,True,6,1,97,63,INT,4,18,False
+401864528,8,San José State,Nevada,False,7,2,37,9,PUNT,3,-9,False
+401864528,8,Nevada,San José State,True,8,2,91,41,PUNT,3,-1,False
+401864528,8,San José State,Nevada,False,9,2,59,32,PUNT,3,-16,False
+401864528,8,Nevada,San José State,True,10,2,68,24,PUNT,3,4,False
+401864528,8,San José State,Nevada,False,11,2,76,27,PUNT,3,4,False
+401864528,8,Nevada,San José State,True,12,2,73,52,DOWNS,6,21,False
+401864528,8,San José State,Nevada,False,13,2,48,65,FG,8,28,True
+401864528,8,Nevada,San José State,True,14,2,75,77,END OF HALF,1,-2,False
+401864528,8,Nevada,San José State,True,15,3,75,38,PUNT,3,-7,False
+401864528,8,San José State,Nevada,False,16,3,62,7,PUNT,3,7,False
+401864528,8,Nevada,San José State,True,17,3,78,41,PUNT,3,-2,False
+401864528,8,San José State,Nevada,False,18,3,59,16,PUNT,3,3,False
+401864528,8,Nevada,San José State,True,19,3,84,0,TD,9,84,True
+401864528,8,San José State,Nevada,False,20,3,73,15,PUNT,5,23,False
+401864528,8,Nevada,San José State,True,21,3,85,16,PUNT,6,12,False
+401864528,8,San José State,Nevada,False,22,3,84,28,PUNT,3,9,False
+401864528,8,Nevada,San José State,True,23,4,72,18,PUNT,4,9,False
+401864528,8,San José State,Nevada,False,24,4,82,30,PUNT,3,2,False
+401864528,8,Nevada,San José State,True,25,4,55,0,TD,4,55,True
+401864528,8,San José State,Nevada,False,26,4,75,0,TD,4,75,True
+401864528,8,Nevada,San José State,True,27,4,4,0,TD,1,4,True
+401864528,8,San José State,Nevada,False,28,4,75,65,FG,11,51,True
+401864528,8,Nevada,San José State,True,29,4,41,22,END OF HALF,8,19,False
+401866446,8,Kent State,Akron,True,1,1,92,9,PUNT,8,41,False
+401866446,8,Akron,Kent State,False,2,1,91,0,TD,10,91,True
+401866446,8,Kent State,Akron,True,3,1,75,11,DOWNS,14,64,False
+401866446,8,Akron,Kent State,False,4,2,89,20,PUNT,6,33,False
+401866446,8,Kent State,Akron,True,5,2,80,15,MISSED FG,8,65,False
+401866446,8,Akron,Kent State,False,6,2,80,23,MISSED FG,10,57,False
+401866446,8,Kent State,Akron,True,7,2,77,0,TD,8,77,True
+401866446,8,Akron,Kent State,False,8,2,67,59,END OF HALF,1,8,False
+401866446,8,Akron,Kent State,False,9,3,77,0,TD,12,77,True
+401866446,8,Kent State,Akron,True,10,3,67,0,TD,5,67,True
+401866446,8,Akron,Kent State,False,11,3,70,65,FG,9,48,True
+401866446,8,Kent State,Akron,True,12,3,75,0,TD,4,75,True
+401866446,8,Akron,Kent State,False,13,3,80,40,PUNT,5,10,False
+401866446,8,Kent State,Akron,True,14,4,60,18,FUMBLE,2,42,False
+401866446,8,Akron,Kent State,False,15,4,82,53,INT,4,24,False
+401866446,8,Kent State,Akron,True,16,4,48,20,PUNT,3,7,False
+401866446,8,Akron,Kent State,False,17,4,80,78,DOWNS,4,2,False
+401866446,8,Kent State,Akron,True,18,4,22,0,TD,3,22,True
+401866446,8,Kent State,Akron,True,19,4,65,0,TD,3,13,True
+401866446,8,Akron,Kent State,False,20,4,84,65,FG,13,52,True
+401866446,8,Kent State,Akron,True,21,4,39,41,END OF GAME,2,-2,False
+401866447,8,Ball State,Sacramento State,True,1,1,88,8,PUNT,8,40,False
+401866447,8,Sacramento State,Ball State,False,2,1,92,12,PUNT,3,4,False
+401866447,8,Ball State,Sacramento State,True,3,1,59,24,INT,8,15,False
+401866447,8,Sacramento State,Ball State,False,4,1,76,65,FG,9,47,True
+401866447,8,Ball State,Sacramento State,True,5,1,75,12,PUNT,5,14,False
+401866447,8,Sacramento State,Ball State,False,6,2,88,17,PUNT,6,30,False
+401866447,8,Ball State,Sacramento State,True,7,2,83,3,TD,6,83,True
+401866447,8,Sacramento State,Ball State,False,8,2,78,3,TD,5,78,True
+401866447,8,Ball State,Sacramento State,True,9,2,57,0,TD,2,57,True
+401866447,8,Sacramento State,Ball State,False,10,2,75,9,PUNT,5,23,False
+401866447,8,Ball State,Sacramento State,True,11,2,91,15,PUNT,3,6,False
+401866447,8,Sacramento State,Ball State,False,12,2,85,74,FUMBLE,4,11,False
+401866447,8,Ball State,Sacramento State,True,13,2,26,1,TD,3,26,True
+401866447,8,Sacramento State,Ball State,False,14,2,75,76,END OF HALF,1,-1,False
+401866447,8,Sacramento State,Ball State,False,15,3,75,55,PUNT,3,-6,False
+401866447,8,Ball State,Sacramento State,True,16,3,45,3,TD,5,45,True
+401866447,8,Sacramento State,Ball State,False,17,3,81,0,TD,11,81,True
+401866447,8,Ball State,Sacramento State,True,18,3,75,92,INT,11,67,False
+401866447,8,Sacramento State,Ball State,False,19,3,76,27,PUNT,3,-4,False
+401866447,8,Ball State,Sacramento State,True,20,4,73,3,TD,9,73,True
+401866447,8,Sacramento State,Ball State,False,21,4,75,30,PUNT,3,3,False
+401866447,8,Ball State,Sacramento State,True,22,4,70,11,PUNT,5,11,False
+401866447,8,Sacramento State,Ball State,False,23,4,89,68,DOWNS,6,21,False
+401866447,8,Ball State,Sacramento State,True,24,4,32,23,END OF GAME,5,9,False
+401866448,8,Buffalo,Bowling Green,True,1,1,75,17,PUNT,3,9,False
+401866448,8,Bowling Green,Buffalo,False,2,1,83,33,PUNT,3,9,False
+401866448,8,Buffalo,Bowling Green,True,3,1,67,0,TD,8,67,True
+401866448,8,Bowling Green,Buffalo,False,4,1,71,0,TD,13,71,True
+401866448,8,Buffalo,Bowling Green,True,5,1,75,25,PUNT,3,6,False
+401866448,8,Bowling Green,Buffalo,False,6,2,75,0,TD,9,75,True
+401866448,8,Buffalo,Bowling Green,True,7,2,65,10,PUNT,6,17,False
+401866448,8,Bowling Green,Buffalo,False,8,2,90,37,PUNT,7,24,False
+401866448,8,Buffalo,Bowling Green,True,9,2,63,0,TD,8,63,True
+401866448,8,Bowling Green,Buffalo,False,10,2,75,66,END OF HALF,1,9,False
+401866448,8,Bowling Green,Buffalo,False,11,3,75,46,INT,5,33,False
+401866448,8,Buffalo,Bowling Green,True,12,3,0,30,FUMBLE,3,-11,False
+401866448,8,Bowling Green,Buffalo,False,13,3,30,0,TD,4,30,True
+401866448,8,Buffalo,Bowling Green,True,14,3,75,0,TD,6,75,True
+401866448,8,Bowling Green,Buffalo,False,15,3,75,37,PUNT,3,-9,False
+401866448,8,Buffalo,Bowling Green,True,16,3,63,65,FG,13,50,True
+401866448,8,Bowling Green,Buffalo,False,17,4,75,27,PUNT,3,9,False
+401866448,8,Buffalo,Bowling Green,True,18,4,73,0,TD,1,73,True
+401866448,8,Bowling Green,Buffalo,False,19,4,75,62,INT,3,4,False
+401866448,8,Buffalo,Bowling Green,True,20,4,38,29,MISSED FG,6,9,False
+401866448,8,Bowling Green,Buffalo,False,21,4,71,65,FG,9,63,True
+401866448,8,Buffalo,Bowling Green,True,22,4,75,38,DOWNS,7,37,False
+401866448,8,Bowling Green,Buffalo,False,23,4,62,39,END OF GAME,4,23,False
+401866449,8,Eastern Michigan,Ohio,False,1,1,75,35,PUNT,3,0,False
+401866449,8,Ohio,Eastern Michigan,True,2,1,65,37,PUNT,3,2,False
+401866449,8,Eastern Michigan,Ohio,False,3,1,85,20,PUNT,9,18,False
+401866449,8,Ohio,Eastern Michigan,True,4,1,80,0,TD,2,80,True
+401866449,8,Eastern Michigan,Ohio,False,5,1,75,3,PUNT,6,31,False
+401866449,8,Ohio,Eastern Michigan,True,6,1,97,27,PUNT,4,27,False
+401866449,8,Eastern Michigan,Ohio,False,7,1,73,29,INT,3,15,False
+401866449,8,Ohio,Eastern Michigan,True,8,2,71,100,FUMBLE TD,3,-4,True
+401866449,8,Ohio,Eastern Michigan,True,9,2,65,69,DOWNS,7,34,False
+401866449,8,Eastern Michigan,Ohio,False,10,2,69,30,PUNT,3,4,False
+401866449,8,Eastern Michigan,Ohio,False,11,2,32,13,FG,6,19,True
+401866449,8,Ohio,Eastern Michigan,True,12,2,75,65,FG,8,42,True
+401866449,8,Eastern Michigan,Ohio,False,13,2,75,65,FG,7,52,True
+401866449,8,Ohio,Eastern Michigan,True,14,3,75,28,DOWNS,9,47,False
+401866449,8,Eastern Michigan,Ohio,False,15,3,72,48,PUNT,5,20,False
+401866449,8,Ohio,Eastern Michigan,True,16,3,97,11,PUNT,4,8,False
+401866449,8,Eastern Michigan,Ohio,False,17,3,61,35,PUNT,3,-4,False
+401866449,8,Ohio,Eastern Michigan,True,18,3,78,0,TD,6,78,True
+401866449,8,Eastern Michigan,Ohio,False,19,3,75,8,PUNT,3,5,False
+401866449,8,Ohio,Eastern Michigan,True,20,4,92,2,PUNT,9,47,False
+401866449,8,Eastern Michigan,Ohio,False,21,4,98,0,TD,8,98,True
+401866449,8,Eastern Michigan,Ohio,False,22,4,65,100,TD,1,100,True
+401866449,8,Eastern Michigan,Ohio,False,23,4,65,96,DOWNS,13,49,False
+401866450,8,Toledo,Western Michigan,True,1,1,75,40,INT,5,32,False
+401866450,8,Western Michigan,Toledo,False,2,1,60,68,FUMBLE,1,-8,False
+401866450,8,Toledo,Western Michigan,True,3,1,32,0,TD,6,32,True
+401866450,8,Western Michigan,Toledo,False,4,1,63,8,PUNT,3,4,False
+401866450,8,Toledo,Western Michigan,True,5,1,92,0,TD,9,92,True
+401866450,8,Western Michigan,Toledo,False,6,1,79,54,PUNT,3,2,False
+401866450,8,Toledo,Western Michigan,True,7,1,46,35,FUMBLE,2,11,False
+401866450,8,Western Michigan,Toledo,False,8,1,65,63,INT,3,4,False
+401866450,8,Toledo,Western Michigan,True,9,1,37,65,FG,7,32,True
+401866450,8,Western Michigan,Toledo,False,10,2,74,0,TD,10,74,True
+401866450,8,Toledo,Western Michigan,True,11,2,75,0,TD,5,75,True
+401866450,8,Western Michigan,Toledo,False,12,2,75,39,PUNT,3,-8,False
+401866450,8,Toledo,Western Michigan,True,13,2,61,20,PUNT,5,6,False
+401866450,8,Western Michigan,Toledo,False,14,2,80,0,TD,5,80,True
+401866450,8,Toledo,Western Michigan,True,15,2,82,0,TD,10,82,True
+401866450,8,Western Michigan,Toledo,False,16,2,75,70,END OF HALF,2,5,False
+401866450,8,Toledo,Western Michigan,True,17,3,65,100,TD,1,92,True
+401866450,8,Toledo,Western Michigan,True,18,3,83,45,PUNT,5,20,False
+401866450,8,Western Michigan,Toledo,False,19,3,55,0,TD,11,55,True
+401866450,8,Toledo,Western Michigan,True,20,3,75,0,TD,8,75,True
+401866450,8,Western Michigan,Toledo,False,21,3,70,0,TD,5,70,True
+401866450,8,Toledo,Western Michigan,True,22,3,75,33,DOWNS,9,42,False
+401866450,8,Western Michigan,Toledo,False,23,4,67,65,FG,11,61,True
+401866450,8,Toledo,Western Michigan,True,24,4,75,0,TD,10,75,True
+401866450,8,Western Michigan,Toledo,False,25,4,75,20,PUNT,3,0,False
+401866450,8,Toledo,Western Michigan,True,26,4,80,23,PUNT,5,18,False
+401866450,8,Western Michigan,Toledo,False,27,4,77,62,INT,3,12,False
+401866450,8,Toledo,Western Michigan,True,28,4,38,28,END OF GAME,3,10,False
+401866476,8,Central Michigan,Miami (OH),True,1,1,75,6,FG,11,69,True
+401866476,8,Miami (OH),Central Michigan,False,2,1,74,32,PUNT,3,6,False
+401866476,8,Central Michigan,Miami (OH),True,3,1,80,25,PUNT,3,5,False
+401866476,8,Miami (OH),Central Michigan,False,4,1,70,0,TD,13,70,True
+401866476,8,Central Michigan,Miami (OH),True,5,1,75,34,PUNT,3,9,False
+401866476,8,Miami (OH),Central Michigan,False,6,2,66,63,INT,2,37,False
+401866476,8,Central Michigan,Miami (OH),True,7,2,37,56,PUNT,3,-7,False
+401866476,8,Miami (OH),Central Michigan,False,8,2,80,12,PUNT,6,39,False
+401866476,8,Central Michigan,Miami (OH),True,9,2,88,0,TD,10,88,True
+401866476,8,Miami (OH),Central Michigan,False,10,2,75,0,TD,9,75,True
+401866476,8,Central Michigan,Miami (OH),True,11,2,78,74,END OF HALF,1,4,False
+401866476,8,Miami (OH),Central Michigan,False,12,3,81,29,INT TD,3,3,True
+401866476,8,Miami (OH),Central Michigan,False,13,3,75,3,TD,11,75,True
+401866476,8,Central Michigan,Miami (OH),True,14,3,75,48,PUNT,2,3,False
+401866476,8,Miami (OH),Central Michigan,False,15,3,52,43,DOWNS,4,9,False
+401866476,8,Central Michigan,Miami (OH),True,16,3,57,0,TD,9,57,True
+401866476,8,Miami (OH),Central Michigan,False,17,3,79,43,PUNT,3,-6,False
+401866476,8,Central Michigan,Miami (OH),True,18,4,57,46,PUNT,3,3,False
+401866476,8,Miami (OH),Central Michigan,False,19,4,80,33,PUNT,3,-5,False
+401866476,8,Central Michigan,Miami (OH),True,20,4,33,65,FG,13,29,True
+401866476,8,Miami (OH),Central Michigan,False,21,4,75,0,TD,8,75,True
+401866476,8,Central Michigan,Miami (OH),True,22,4,65,71,DOWNS,4,-6,False
+401866476,8,Miami (OH),Central Michigan,False,23,4,29,20,Uncategorized,4,10,False
+401866670,8,UAlbany,Rhode Island,False,1,1,78,0,TD,10,78,True
+401866670,8,Rhode Island,UAlbany,True,2,1,75,66,INT,3,-5,False
+401866670,8,UAlbany,Rhode Island,False,3,1,34,20,MISSED FG,6,14,False
+401866670,8,Rhode Island,UAlbany,True,4,1,80,20,PUNT,7,32,False
+401866670,8,UAlbany,Rhode Island,False,5,1,80,10,PUNT,11,34,False
+401866670,8,Rhode Island,UAlbany,True,6,2,90,11,PUNT,11,54,False
+401866670,8,UAlbany,Rhode Island,False,7,2,89,0,TD,11,89,True
+401866670,8,Rhode Island,UAlbany,True,8,2,75,76,END OF HALF,1,-1,False
+401866670,8,Rhode Island,UAlbany,True,9,3,75,0,TD,12,75,True
+401866670,8,UAlbany,Rhode Island,False,10,3,75,0,TD,6,75,True
+401866670,8,Rhode Island,UAlbany,True,11,3,75,0,TD,15,75,True
+401866670,8,UAlbany,Rhode Island,False,12,4,76,0,TD,4,76,True
+401866670,8,Rhode Island,UAlbany,True,13,4,65,0,TD,6,65,True
+401866670,8,UAlbany,Rhode Island,False,14,4,75,65,FG,11,60,True
+401866670,8,Rhode Island,UAlbany,True,15,4,75,79,DOWNS,4,-4,False
+401866670,8,UAlbany,Rhode Island,False,16,4,21,0,TD,5,21,True
+401866670,8,Rhode Island,UAlbany,True,17,4,75,26,DOWNS,8,49,False
+401866670,8,UAlbany,Rhode Island,False,18,4,74,75,END OF GAME,1,-1,False
+401866671,8,Campbell,Maine,False,1,1,75,25,PUNT,3,4,False
+401866671,8,Maine,Campbell,True,2,1,75,20,PUNT,3,1,False
+401866671,8,Campbell,Maine,False,3,1,80,31,PUNT,4,14,False
+401866671,8,Maine,Campbell,True,4,1,69,30,PUNT,4,4,False
+401866671,8,Campbell,Maine,False,5,1,70,0,TD,2,70,True
+401866671,8,Maine,Campbell,True,6,1,65,20,MISSED FG,9,45,False
+401866671,8,Campbell,Maine,False,7,1,80,19,PUNT,5,23,False
+401866671,8,Maine,Campbell,True,8,1,81,33,PUNT,3,1,False
+401866671,8,Campbell,Maine,False,9,1,67,73,INT,3,7,False
+401866671,8,Maine,Campbell,True,10,2,27,0,TD,4,27,True
+401866671,8,Campbell,Maine,False,11,2,64,12,DOWNS,8,52,False
+401866671,8,Maine,Campbell,True,12,2,88,12,PUNT,3,0,False
+401866671,8,Campbell,Maine,False,13,2,60,11,MISSED FG,10,49,False
+401866671,8,Maine,Campbell,True,14,2,80,39,PUNT,3,9,False
+401866671,8,Campbell,Maine,False,15,2,61,0,TD,4,61,True
+401866671,8,Maine,Campbell,True,16,2,48,14,PUNT,3,0,False
+401866671,8,Campbell,Maine,False,17,2,86,65,END OF HALF,6,21,False
+401866671,8,Maine,Campbell,True,18,3,74,11,PUNT,4,16,False
+401866671,8,Campbell,Maine,False,19,3,89,0,TD,10,89,True
+401866671,8,Maine,Campbell,True,20,3,71,26,PUNT,6,16,False
+401866671,8,Campbell,Maine,False,21,3,74,0,TD,10,74,True
+401866671,8,Maine,Campbell,True,22,3,75,41,DOWNS,8,34,False
+401866671,8,Campbell,Maine,False,23,4,59,0,TD,1,59,True
+401866671,8,Maine,Campbell,True,24,4,75,0,INT,16,61,False
+401866671,8,Campbell,Maine,False,25,4,80,40,PUNT,6,24,False
+401866671,8,Maine,Campbell,True,26,4,60,25,INT,5,46,False
+401866671,8,Campbell,Maine,False,27,4,75,65,END OF GAME,2,10,False
+401866672,8,Bryant,Stony Brook,True,1,1,71,25,PUNT,3,5,False
+401866672,8,Stony Brook,Bryant,False,2,1,75,0,TD,5,75,True
+401866672,8,Bryant,Stony Brook,True,3,1,75,44,INT,9,47,False
+401866672,8,Stony Brook,Bryant,False,4,1,56,65,FG,8,49,True
+401866672,8,Bryant,Stony Brook,True,5,1,71,14,PUNT,9,27,False
+401866672,8,Stony Brook,Bryant,False,6,1,86,25,PUNT,5,24,False
+401866672,8,Bryant,Stony Brook,True,7,2,75,0,TD,12,75,True
+401866672,8,Stony Brook,Bryant,False,8,2,56,0,TD,8,56,True
+401866672,8,Bryant,Stony Brook,True,9,2,75,5,FUMBLE,7,70,False
+401866672,8,Stony Brook,Bryant,False,10,2,95,81,END OF HALF,3,14,False
+401866672,8,Stony Brook,Bryant,False,11,3,75,0,TD,3,75,True
+401866672,8,Bryant,Stony Brook,True,12,3,80,65,FG,11,66,True
+401866672,8,Stony Brook,Bryant,False,13,3,80,20,PUNT,6,37,False
+401866672,8,Bryant,Stony Brook,True,14,3,80,8,PUNT,6,28,False
+401866672,8,Stony Brook,Bryant,False,15,3,92,92,FUMBLE,1,4,False
+401866672,8,Bryant,Stony Brook,True,16,3,12,0,TD,2,12,True
+401866672,8,Stony Brook,Bryant,False,17,3,68,84,PUNT,3,7,False
+401866672,8,Bryant,Stony Brook,True,18,4,84,24,PUNT,6,1,False
+401866672,8,Stony Brook,Bryant,False,19,4,76,53,PUNT,3,-7,False
+401866672,8,Bryant,Stony Brook,True,20,4,47,17,PUNT,3,7,False
+401866672,8,Stony Brook,Bryant,False,21,4,83,82,FUMBLE,3,1,False
+401866672,8,Bryant,Stony Brook,True,22,4,18,14,DOWNS,4,4,False
+401866672,8,Stony Brook,Bryant,False,23,4,86,65,FG,9,61,True
+401866672,8,Bryant,Stony Brook,True,24,4,71,16,FUMBLE,6,55,False
+401866672,8,Stony Brook,Bryant,False,25,4,84,89,END OF GAME,2,-5,False
+401866673,8,Monmouth,Hampton,False,1,1,65,38,DOWNS,5,27,False
+401866673,8,Hampton,Monmouth,True,2,1,62,56,PUNT,3,1,False
+401866673,8,Monmouth,Hampton,False,3,1,44,14,DOWNS,8,30,False
+401866673,8,Hampton,Monmouth,True,4,1,86,1,PUNT,12,49,False
+401866673,8,Monmouth,Hampton,False,5,1,99,5,TD,18,99,True
+401866673,8,Hampton,Monmouth,True,6,2,79,0,TD,4,79,True
+401866673,8,Monmouth,Hampton,False,7,2,69,20,PUNT,3,1,False
+401866673,8,Hampton,Monmouth,True,8,2,80,40,PUNT,3,7,False
+401866673,8,Monmouth,Hampton,False,9,2,60,0,TD,10,60,True
+401866673,8,Hampton,Monmouth,True,10,2,66,45,END OF HALF,4,10,False
+401866673,8,Hampton,Monmouth,True,11,3,80,16,PUNT,3,7,False
+401866673,8,Monmouth,Hampton,False,12,3,84,0,TD,10,84,True
+401866673,8,Hampton,Monmouth,True,13,3,94,65,PUNT,3,-2,False
+401866673,8,Monmouth,Hampton,False,14,3,35,0,TD,6,35,True
+401866673,8,Hampton,Monmouth,True,15,3,75,31,PUNT,3,3,False
+401866673,8,Monmouth,Hampton,False,16,3,69,0,TD,10,69,True
+401866673,8,Hampton,Monmouth,True,17,4,75,23,PUNT,5,17,False
+401866673,8,Monmouth,Hampton,False,18,4,77,0,TD,2,77,True
+401866673,8,Hampton,Monmouth,True,19,4,75,0,TD,6,75,True
+401866673,8,Monmouth,Hampton,False,20,4,73,0,TD,10,73,True
+401866673,8,Hampton,Monmouth,True,21,4,65,1,PUNT,4,18,False
+401866673,8,Monmouth,Hampton,False,22,4,99,1,END OF GAME,1,0,False
+401866674,8,New Hampshire,Merrimack,False,1,1,70,65,FG,7,65,True
+401866674,8,Merrimack,New Hampshire,True,2,1,75,16,MISSED FG,14,59,False
+401866674,8,New Hampshire,Merrimack,False,3,1,80,0,TD,4,80,True
+401866674,8,Merrimack,New Hampshire,True,4,1,77,45,PUNT,3,8,False
+401866674,8,New Hampshire,Merrimack,False,5,2,55,47,INT,3,-1,False
+401866674,8,Merrimack,New Hampshire,True,6,2,53,7,MISSED FG,8,46,False
+401866674,8,New Hampshire,Merrimack,False,7,2,80,48,DOWNS,6,32,False
+401866674,8,Merrimack,New Hampshire,True,8,2,52,0,TD,7,52,True
+401866674,8,New Hampshire,Merrimack,False,9,2,75,25,PUNT,3,2,False
+401866674,8,Merrimack,New Hampshire,True,10,2,75,65,FG,8,56,True
+401866674,8,Merrimack,New Hampshire,True,11,3,75,10,PUNT,5,21,False
+401866674,8,New Hampshire,Merrimack,False,12,3,90,30,PUNT,5,4,False
+401866674,8,Merrimack,New Hampshire,True,13,3,30,0,TD,1,30,True
+401866674,8,New Hampshire,Merrimack,False,14,3,80,0,TD,10,80,True
+401866674,8,Merrimack,New Hampshire,True,15,3,79,35,PUNT,5,12,False
+401866674,8,New Hampshire,Merrimack,False,16,3,65,20,PUNT,7,30,False
+401866674,8,Merrimack,New Hampshire,True,17,4,80,0,TD,9,80,True
+401866674,8,New Hampshire,Merrimack,False,18,4,75,30,PUNT,3,-1,False
+401866674,8,Merrimack,New Hampshire,True,19,4,70,11,PUNT,6,33,False
+401866674,8,New Hampshire,Merrimack,False,20,4,89,18,DOWNS,14,71,False
+401866674,8,Merrimack,New Hampshire,True,21,4,82,83,END OF GAME,1,-1,False
+401867689,8,Chicago State,Lindenwood,False,1,1,68,44,PUNT,3,-4,False
+401867689,8,Lindenwood,Chicago State,True,2,1,56,0,TD,7,56,True
+401867689,8,Chicago State,Lindenwood,False,3,1,75,100,FUMBLE,9,75,False
+401867689,8,Lindenwood,Chicago State,True,4,1,80,53,DOWNS,5,27,False
+401867689,8,Chicago State,Lindenwood,False,5,1,47,65,FG,8,31,True
+401867689,8,Lindenwood,Chicago State,True,6,2,75,0,TD,3,75,True
+401867689,8,Chicago State,Lindenwood,False,7,2,75,78,INT,6,17,False
+401867689,8,Lindenwood,Chicago State,True,8,2,22,65,FG,4,3,True
+401867689,8,Chicago State,Lindenwood,False,9,2,77,34,PUNT,5,21,False
+401867689,8,Lindenwood,Chicago State,True,10,2,66,0,TD,4,66,True
+401867689,8,Chicago State,Lindenwood,False,11,2,56,15,PUNT,3,7,False
+401867689,8,Lindenwood,Chicago State,True,12,2,85,22,PUNT,4,30,False
+401867689,8,Chicago State,Lindenwood,False,13,2,78,82,PUNT,4,12,False
+401867689,8,Lindenwood,Chicago State,True,14,2,18,0,TD,2,18,True
+401867689,8,Chicago State,Lindenwood,False,15,2,71,73,END OF HALF,1,-2,False
+401867689,8,Lindenwood,Chicago State,True,16,3,47,26,FUMBLE,5,21,False
+401867689,8,Chicago State,Lindenwood,False,17,3,74,43,PUNT,3,0,False
+401867689,8,Lindenwood,Chicago State,True,18,3,57,65,FG,7,51,True
+401867689,8,Chicago State,Lindenwood,False,19,3,75,19,PUNT,6,30,False
+401867689,8,Lindenwood,Chicago State,True,20,3,81,0,TD,1,81,True
+401867689,8,Chicago State,Lindenwood,False,21,3,74,65,FG,14,54,True
+401867689,8,Lindenwood,Chicago State,True,22,4,71,38,PUNT,3,9,False
+401867689,8,Chicago State,Lindenwood,False,23,4,62,43,PUNT,3,7,False
+401867689,8,Lindenwood,Chicago State,True,24,4,57,18,FUMBLE,2,39,False
+401867689,8,Chicago State,Lindenwood,False,25,4,82,74,INT,5,14,False
+401867689,8,Lindenwood,Chicago State,True,26,4,26,65,FG,6,14,True
+401867689,8,Chicago State,Lindenwood,False,27,4,82,65,FG,11,73,True
+401867689,8,Lindenwood,Chicago State,True,28,4,94,15,END OF GAME,4,79,False
+401867808,8,Brown,Cornell,True,1,1,76,26,PUNT,3,5,False
+401867808,8,Cornell,Brown,False,2,1,74,70,DOWNS,9,44,False
+401867808,8,Brown,Cornell,True,3,1,70,0,TD,13,70,True
+401867808,8,Cornell,Brown,False,4,1,85,40,TD,11,85,True
+401867808,8,Brown,Cornell,True,5,2,75,3,PUNT,3,-22,False
+401867808,8,Cornell,Brown,False,6,2,44,83,MISSED FG,6,27,False
+401867808,8,Brown,Cornell,True,7,2,80,65,INT,2,15,False
+401867808,8,Cornell,Brown,False,8,2,35,0,TD,4,35,True
+401867808,8,Brown,Cornell,True,9,2,75,66,FUMBLE,1,9,False
+401867808,8,Cornell,Brown,False,10,2,34,0,TD,5,34,True
+401867808,8,Brown,Cornell,True,11,2,75,26,PUNT,8,30,False
+401867808,8,Cornell,Brown,False,12,2,74,27,PUNT,3,8,False
+401867808,8,Brown,Cornell,True,13,2,73,65,FG,8,63,True
+401867808,8,Cornell,Brown,False,14,2,79,81,END OF HALF,1,-2,False
+401867808,8,Cornell,Brown,False,15,3,70,39,PUNT,3,9,False
+401867808,8,Brown,Cornell,True,16,3,85,60,PUNT,3,-2,False
+401867808,8,Cornell,Brown,False,17,3,40,10,FG,6,30,True
+401867808,8,Brown,Cornell,True,18,3,75,34,PUNT,6,20,False
+401867808,8,Cornell,Brown,False,19,3,66,82,INT,1,0,False
+401867808,8,Brown,Cornell,True,20,3,18,0,TD,3,18,True
+401867808,8,Cornell,Brown,False,21,3,75,0,TD,7,75,True
+401867808,8,Brown,Cornell,True,22,3,75,39,PUNT,3,1,False
+401867808,8,Cornell,Brown,False,23,3,61,99,INT,2,24,False
+401867808,8,Brown,Cornell,True,24,3,99,0,TD,7,99,True
+401867808,8,Cornell,Brown,False,25,4,75,22,PUNT,5,-3,False
+401867808,8,Brown,Cornell,True,26,4,57,67,INT,7,24,False
+401867808,8,Cornell,Brown,False,27,4,91,46,PUNT,6,10,False
+401867808,8,Brown,Cornell,True,28,4,54,43,FUMBLE,2,11,False
+401867808,8,Cornell,Brown,False,29,4,57,16,PUNT,3,7,False
+401867808,8,Brown,Cornell,True,30,4,84,0,TD,18,84,True
+401867808,8,Brown,Cornell,True,31,5,25,0,TD,1,25,True
+401867808,8,Cornell,Brown,False,32,5,25,18,DOWNS,4,7,False
+401867822,8,Dartmouth,Columbia,False,1,1,75,0,TD,11,75,True
+401867822,8,Columbia,Dartmouth,True,2,1,75,20,PUNT,5,23,False
+401867822,8,Dartmouth,Columbia,False,3,1,80,57,PUNT,3,3,False
+401867822,8,Columbia,Dartmouth,True,4,1,57,65,FG,10,53,True
+401867822,8,Dartmouth,Columbia,False,5,1,75,30,PUNT,3,1,False
+401867822,8,Columbia,Dartmouth,True,6,1,70,39,DOWNS,7,31,False
+401867822,8,Dartmouth,Columbia,False,7,2,61,0,TD,6,61,True
+401867822,8,Columbia,Dartmouth,True,8,2,75,0,TD,10,75,True
+401867822,8,Dartmouth,Columbia,False,9,2,75,35,PUNT,3,6,False
+401867822,8,Columbia,Dartmouth,True,10,2,65,20,PUNT,3,8,False
+401867822,8,Dartmouth,Columbia,False,11,2,80,0,TD,10,80,True
+401867822,8,Columbia,Dartmouth,True,12,2,81,21,PUNT,3,9,False
+401867822,8,Dartmouth,Columbia,False,13,2,79,80,END OF HALF,1,-1,False
+401867822,8,Columbia,Dartmouth,True,14,3,98,17,PUNT,7,35,False
+401867822,8,Dartmouth,Columbia,False,15,3,83,0,TD,15,83,True
+401867822,8,Columbia,Dartmouth,True,16,3,75,14,TD,8,75,True
+401867822,8,Dartmouth,Columbia,False,17,4,75,18,PUNT,3,0,False
+401867822,8,Columbia,Dartmouth,True,18,4,82,80,INT,1,0,False
+401867822,8,Dartmouth,Columbia,False,19,4,20,65,FG,7,-3,True
+401867822,8,Columbia,Dartmouth,True,20,4,80,61,INT,6,34,False
+401867822,8,Dartmouth,Columbia,False,21,4,39,37,MISSED FG,5,2,False
+401867822,8,Columbia,Dartmouth,True,22,4,63,0,INT,11,35,False
+401867822,8,Dartmouth,Columbia,False,23,4,80,0,TD,5,80,True
+401867822,8,Columbia,Dartmouth,True,24,4,75,58,END OF GAME,3,17,False
+401867842,8,Princeton,Harvard,False,1,1,75,20,PUNT,6,18,False
+401867842,8,Harvard,Princeton,True,2,1,80,65,FG,18,74,True
+401867842,8,Princeton,Harvard,False,3,1,75,31,DOWNS,11,44,False
+401867842,8,Harvard,Princeton,True,4,2,69,0,TD,3,69,True
+401867842,8,Princeton,Harvard,False,5,2,75,25,DOWNS,6,50,False
+401867842,8,Harvard,Princeton,True,6,2,75,65,FG,14,61,True
+401867842,8,Princeton,Harvard,False,7,2,75,20,PUNT,6,14,False
+401867842,8,Harvard,Princeton,True,8,2,80,70,END OF HALF,3,10,False
+401867842,8,Harvard,Princeton,True,9,3,75,0,TD,9,75,True
+401867842,8,Princeton,Harvard,False,10,3,75,0,TD,20,75,True
+401867842,8,Harvard,Princeton,True,11,3,75,3,TD,7,75,True
+401867842,8,Princeton,Harvard,False,12,4,75,68,FUMBLE TD,6,7,True
+401867842,8,Princeton,Harvard,False,13,4,75,10,PUNT,4,19,False
+401867842,8,Harvard,Princeton,True,14,4,90,53,PUNT,4,1,False
+401867842,8,Princeton,Harvard,False,15,4,47,17,INT,4,17,False
+401867842,8,Harvard,Princeton,True,16,4,83,67,END OF GAME,6,16,False
+401867850,8,Indiana State,Illinois State,False,1,1,75,25,PUNT,3,4,False
+401867850,8,Illinois State,Indiana State,True,2,1,75,28,PUNT,3,3,False
+401867850,8,Indiana State,Illinois State,False,3,1,77,0,TD,10,77,True
+401867850,8,Illinois State,Indiana State,True,4,1,75,65,FG,13,70,True
+401867850,8,Indiana State,Illinois State,False,5,1,75,17,PUNT,4,19,False
+401867850,8,Illinois State,Indiana State,True,6,1,83,0,TD,15,83,True
+401867850,8,Indiana State,Illinois State,False,7,2,75,100,INT TD,5,21,True
+401867850,8,Indiana State,Illinois State,False,8,2,75,28,PUNT,6,16,False
+401867850,8,Indiana State,Illinois State,False,9,2,28,12,MISSED FG,5,16,False
+401867850,8,Illinois State,Indiana State,True,10,2,80,49,INT,8,31,False
+401867850,8,Indiana State,Illinois State,False,11,2,51,61,FUMBLE,4,-3,False
+401867850,8,Illinois State,Indiana State,True,12,2,39,20,PUNT,3,0,False
+401867850,8,Indiana State,Illinois State,False,13,2,80,81,END OF HALF,1,-1,False
+401867850,8,Illinois State,Indiana State,True,14,3,75,31,PUNT,3,-2,False
+401867850,8,Indiana State,Illinois State,False,15,3,69,11,FUMBLE,4,69,False
+401867850,8,Illinois State,Indiana State,True,16,3,80,37,DOWNS,10,43,False
+401867850,8,Indiana State,Illinois State,False,17,3,63,19,DOWNS,7,44,False
+401867850,8,Illinois State,Indiana State,True,18,3,81,16,PUNT,7,30,False
+401867850,8,Indiana State,Illinois State,False,19,3,84,36,PUNT,3,8,False
+401867850,8,Illinois State,Indiana State,True,20,4,64,40,INT,5,18,False
+401867850,8,Indiana State,Illinois State,False,21,4,60,65,FG,12,55,True
+401867850,8,Illinois State,Indiana State,True,22,4,75,13,PUNT,5,6,False
+401867850,8,Indiana State,Illinois State,False,23,4,87,20,DOWNS,11,67,False
+401867850,8,Illinois State,Indiana State,True,24,4,80,0,END OF GAME,2,-2,False
+401867871,8,South Dakota State,Murray State,True,1,1,75,23,PUNT,3,8,False
+401867871,8,Murray State,South Dakota State,False,2,1,77,45,PUNT,7,22,False
+401867871,8,South Dakota State,Murray State,True,3,1,84,0,TD,9,84,True
+401867871,8,Murray State,South Dakota State,False,4,1,65,21,PUNT,3,-8,False
+401867871,8,South Dakota State,Murray State,True,5,1,79,0,TD,7,79,True
+401867871,8,Murray State,South Dakota State,False,6,1,65,19,PUNT,3,5,False
+401867871,8,Murray State,South Dakota State,False,7,2,19,65,FG,4,5,True
+401867871,8,South Dakota State,Murray State,True,8,2,59,65,FG,7,32,True
+401867871,8,Murray State,South Dakota State,False,9,2,75,78,FUMBLE,2,-3,False
+401867871,8,South Dakota State,Murray State,True,10,2,22,5,FG,6,17,True
+401867871,8,Murray State,South Dakota State,False,11,2,75,65,FG,10,63,True
+401867871,8,South Dakota State,Murray State,True,12,2,57,0,TD,7,57,True
+401867871,8,Murray State,South Dakota State,False,13,2,75,64,FG,5,42,True
+401867871,8,Murray State,South Dakota State,False,14,3,75,41,PUNT,3,0,False
+401867871,8,South Dakota State,Murray State,True,15,3,59,53,PUNT,7,12,False
+401867871,8,Murray State,South Dakota State,False,16,3,80,86,MISSED FG,9,66,False
+401867871,8,South Dakota State,Murray State,True,17,3,80,0,TD,14,80,True
+401867871,8,Murray State,South Dakota State,False,18,3,75,29,DOWNS,9,46,False
+401867871,8,South Dakota State,Murray State,True,19,4,71,0,TD,12,71,True
+401867871,8,Murray State,South Dakota State,False,20,4,76,22,PUNT,4,10,False
+401867871,8,South Dakota State,Murray State,True,21,4,78,29,PUNT,3,0,False
+401867871,8,Murray State,South Dakota State,False,22,4,71,35,DOWNS,9,36,False
+401867871,8,South Dakota State,Murray State,True,23,4,65,56,END OF GAME,2,9,False
+401867879,8,South Dakota,North Dakota,True,1,1,75,65,FG,9,46,True
+401867879,8,North Dakota,South Dakota,False,2,1,75,13,PUNT,5,18,False
+401867879,8,South Dakota,North Dakota,True,3,1,87,0,TD,8,87,True
+401867879,8,North Dakota,South Dakota,False,4,1,75,80,FUMBLE,3,-5,False
+401867879,8,South Dakota,North Dakota,True,5,1,20,0,TD,4,20,True
+401867879,8,North Dakota,South Dakota,False,6,1,75,65,FG,9,46,True
+401867879,8,South Dakota,North Dakota,True,7,2,94,36,PUNT,3,0,False
+401867879,8,North Dakota,South Dakota,False,8,2,64,10,PUNT,5,16,False
+401867879,8,South Dakota,North Dakota,True,9,2,90,65,FG,10,62,True
+401867879,8,North Dakota,South Dakota,False,10,2,75,59,FUMBLE,2,22,False
+401867879,8,South Dakota,North Dakota,True,11,2,41,9,PUNT,3,-8,False
+401867879,8,North Dakota,South Dakota,False,12,2,91,18,PUNT,5,32,False
+401867879,8,South Dakota,North Dakota,True,13,2,82,83,END OF HALF,1,-1,False
+401867879,8,North Dakota,South Dakota,False,14,3,78,0,TD,15,78,True
+401867879,8,South Dakota,North Dakota,True,15,3,81,27,PUNT,6,6,False
+401867879,8,North Dakota,South Dakota,False,16,3,73,17,PUNT,3,5,False
+401867879,8,South Dakota,North Dakota,True,17,3,83,33,PUNT,6,21,False
+401867879,8,North Dakota,South Dakota,False,18,4,67,18,PUNT,3,7,False
+401867879,8,South Dakota,North Dakota,True,19,4,82,37,PUNT,3,-4,False
+401867879,8,North Dakota,South Dakota,False,20,4,63,74,PUNT,3,-9,False
+401867879,8,South Dakota,North Dakota,True,21,4,74,13,PUNT,3,9,False
+401867879,8,North Dakota,South Dakota,False,22,4,87,0,TD,10,87,True
+401867879,8,South Dakota,North Dakota,True,23,4,75,15,PUNT,6,20,False
+401867879,8,North Dakota,South Dakota,False,24,4,85,65,FG,9,57,True
+401867879,8,South Dakota,North Dakota,True,25,4,75,0,END OF HALF,5,15,False
+401867879,8,North Dakota,South Dakota,False,26,5,25,65,FG,5,4,True
+401867879,8,South Dakota,North Dakota,True,27,5,25,0,TD,2,25,True
+401867892,8,Southern Illinois,Northern Iowa,True,1,1,75,27,DOWNS,5,48,False
+401867892,8,Northern Iowa,Southern Illinois,False,2,1,73,17,MISSED FG,8,56,False
+401867892,8,Southern Illinois,Northern Iowa,True,3,1,80,50,INT,1,0,False
+401867892,8,Northern Iowa,Southern Illinois,False,4,1,65,0,TD,11,65,True
+401867892,8,Southern Illinois,Northern Iowa,True,5,1,75,19,PUNT,3,8,False
+401867892,8,Northern Iowa,Southern Illinois,False,6,1,81,22,PUNT,3,0,False
+401867892,8,Southern Illinois,Northern Iowa,True,7,2,78,21,PUNT,4,17,False
+401867892,8,Northern Iowa,Southern Illinois,False,8,2,79,29,PUNT,3,-12,False
+401867892,8,Southern Illinois,Northern Iowa,True,9,2,29,5,TD,3,29,True
+401867892,8,Northern Iowa,Southern Illinois,False,10,2,81,12,PUNT,9,23,False
+401867892,8,Southern Illinois,Northern Iowa,True,11,2,88,20,DOWNS,11,68,False
+401867892,8,Northern Iowa,Southern Illinois,False,12,2,80,88,INT,7,13,False
+401867892,8,Southern Illinois,Northern Iowa,True,13,2,12,65,FG,5,9,True
+401867892,8,Northern Iowa,Southern Illinois,False,14,3,77,65,FG,15,62,True
+401867892,8,Southern Illinois,Northern Iowa,True,15,3,75,0,TD,12,75,True
+401867892,8,Northern Iowa,Southern Illinois,False,16,3,75,42,DOWNS,9,33,False
+401867892,8,Southern Illinois,Northern Iowa,True,17,4,58,10,PUNT,4,5,False
+401867892,8,Northern Iowa,Southern Illinois,False,18,4,87,0,TD,13,87,True
+401867892,8,Southern Illinois,Northern Iowa,True,19,4,65,16,FG,9,52,True
+401867902,8,Central Connecticut,New Haven,True,1,1,65,0,TD,6,65,True
+401867902,8,New Haven,Central Connecticut,False,2,1,83,65,FG,9,66,True
+401867902,8,Central Connecticut,New Haven,True,3,1,90,34,PUNT,3,4,False
+401867902,8,New Haven,Central Connecticut,False,4,1,66,33,PUNT,5,14,False
+401867902,8,Central Connecticut,New Haven,True,5,1,67,65,FUMBLE,1,2,False
+401867902,8,New Haven,Central Connecticut,False,6,1,35,65,FG,7,11,True
+401867902,8,Central Connecticut,New Haven,True,7,1,73,34,MISSED FG,10,38,False
+401867902,8,New Haven,Central Connecticut,False,8,2,65,58,PUNT,3,0,False
+401867902,8,Central Connecticut,New Haven,True,9,2,42,0,TD,3,42,True
+401867902,8,New Haven,Central Connecticut,False,10,2,54,20,PUNT,6,8,False
+401867902,8,Central Connecticut,New Haven,True,11,2,80,0,TD,10,80,True
+401867902,8,New Haven,Central Connecticut,False,12,2,77,79,END OF HALF,1,-2,False
+401867902,8,New Haven,Central Connecticut,False,13,3,90,24,MISSED FG,12,71,False
+401867902,8,Central Connecticut,New Haven,True,14,3,76,0,TD,6,76,True
+401867902,8,New Haven,Central Connecticut,False,15,3,64,0,TD,6,64,True
+401867902,8,Central Connecticut,New Haven,True,16,3,78,45,PUNT,3,-4,False
+401867902,8,Central Connecticut,New Haven,True,17,3,45,40,INT,3,3,False
+401867902,8,New Haven,Central Connecticut,False,18,3,60,78,FUMBLE,1,-18,False
+401867902,8,Central Connecticut,New Haven,True,19,3,22,0,TD,1,22,True
+401867902,8,New Haven,Central Connecticut,False,20,3,86,0,TD,11,86,True
+401867902,8,Central Connecticut,New Haven,True,21,4,84,15,PUNT,8,23,False
+401867902,8,New Haven,Central Connecticut,False,22,4,85,68,DOWNS,5,17,False
+401867902,8,Central Connecticut,New Haven,True,23,4,33,0,TD,5,33,True
+401867902,8,New Haven,Central Connecticut,False,24,4,65,57,INT,4,3,False
+401867902,8,Central Connecticut,New Haven,True,25,4,43,37,END OF GAME,2,6,False
+401867913,8,Long Island University,Stonehill,True,1,1,85,0,SF,2,-15,True
+401867913,8,Stonehill,Long Island University,False,2,1,42,65,FG,5,30,True
+401867913,8,Long Island University,Stonehill,True,3,1,75,30,PUNT,4,7,False
+401867913,8,Stonehill,Long Island University,False,4,1,70,24,PUNT,3,1,False
+401867913,8,Long Island University,Stonehill,True,5,1,76,36,PUNT,3,5,False
+401867913,8,Stonehill,Long Island University,False,6,1,64,4,PUNT,3,-1,False
+401867913,8,Long Island University,Stonehill,True,7,1,96,53,PUNT,5,20,False
+401867913,8,Stonehill,Long Island University,False,8,1,47,48,INT,3,6,False
+401867913,8,Long Island University,Stonehill,True,9,1,52,2,DOWNS,11,50,False
+401867913,8,Stonehill,Long Island University,False,10,2,98,10,MISSED FG,14,88,False
+401867913,8,Long Island University,Stonehill,True,11,2,80,22,PUNT,3,8,False
+401867913,8,Stonehill,Long Island University,False,12,2,78,10,PUNT,4,23,False
+401867913,8,Long Island University,Stonehill,True,13,2,90,87,DOWNS,4,3,False
+401867913,8,Stonehill,Long Island University,False,14,3,56,18,MISSED FG,9,38,False
+401867913,8,Stonehill,Long Island University,False,15,3,58,0,TD,10,58,True
+401867913,8,Long Island University,Stonehill,True,16,3,66,38,PUNT,3,-1,False
+401867913,8,Stonehill,Long Island University,False,17,3,62,35,PUNT,3,-2,False
+401867913,8,Long Island University,Stonehill,True,18,3,65,17,PUNT,5,4,False
+401867913,8,Stonehill,Long Island University,False,19,4,83,15,PUNT,4,15,False
+401867913,8,Long Island University,Stonehill,True,20,4,85,59,PUNT,3,-6,False
+401867913,8,Stonehill,Long Island University,False,21,4,41,49,DOWNS,4,-8,False
+401867913,8,Long Island University,Stonehill,True,22,4,51,0,TD,10,51,True
+401867913,8,Stonehill,Long Island University,False,23,4,60,71,INT,2,3,False
+401867913,8,Long Island University,Stonehill,True,24,4,29,32,DOWNS,4,-3,False
+401867913,8,Stonehill,Long Island University,False,25,4,68,0,TD,7,68,True
+401867913,8,Long Island University,Stonehill,True,26,4,75,68,END OF GAME,1,7,False
+401867921,8,Robert Morris,Mercyhurst,True,1,1,61,3,TD,5,61,True
+401867921,8,Mercyhurst,Robert Morris,False,2,1,75,25,PUNT,5,6,False
+401867921,8,Robert Morris,Mercyhurst,True,3,1,75,94,MISSED FG,12,69,False
+401867921,8,Mercyhurst,Robert Morris,False,4,1,80,16,PUNT,4,25,False
+401867921,8,Robert Morris,Mercyhurst,True,5,1,84,34,PUNT,6,18,False
+401867921,8,Mercyhurst,Robert Morris,False,6,2,66,61,INT,7,17,False
+401867921,8,Robert Morris,Mercyhurst,True,7,2,39,10,DOWNS,5,29,False
+401867921,8,Mercyhurst,Robert Morris,False,8,2,90,60,PUNT,3,-4,False
+401867921,8,Robert Morris,Mercyhurst,True,9,2,40,12,INT,2,2,False
+401867921,8,Mercyhurst,Robert Morris,False,10,2,88,0,TD,6,88,True
+401867921,8,Robert Morris,Mercyhurst,True,11,2,65,20,PUNT,3,-9,False
+401867921,8,Mercyhurst,Robert Morris,False,12,2,80,55,FUMBLE,5,25,False
+401867921,8,Robert Morris,Mercyhurst,True,13,2,45,0,TD,2,45,True
+401867921,8,Mercyhurst,Robert Morris,False,14,2,67,77,END OF HALF,1,-10,False
+401867921,8,Mercyhurst,Robert Morris,False,15,3,53,32,INT,3,12,False
+401867921,8,Robert Morris,Mercyhurst,True,16,3,68,12,PUNT,5,12,False
+401867921,8,Mercyhurst,Robert Morris,False,17,3,88,33,PUNT,3,7,False
+401867921,8,Robert Morris,Mercyhurst,True,18,3,67,21,PUNT,3,7,False
+401867921,8,Mercyhurst,Robert Morris,False,19,3,79,20,PUNT,13,35,False
+401867921,8,Robert Morris,Mercyhurst,True,20,3,80,0,TD,8,80,True
+401867921,8,Mercyhurst,Robert Morris,False,21,4,65,100,INT TD,4,37,True
+401867921,8,Mercyhurst,Robert Morris,False,22,4,90,8,TD,11,90,True
+401867921,8,Robert Morris,Mercyhurst,True,23,4,75,38,PUNT,3,7,False
+401867921,8,Mercyhurst,Robert Morris,False,24,4,62,15,DOWNS,13,47,False
+401867921,8,Robert Morris,Mercyhurst,True,25,4,85,80,END OF GAME,4,5,False
+401867931,8,Wagner,Duquesne,False,1,1,75,35,PUNT,2,-1,False
+401867931,8,Duquesne,Wagner,True,2,1,65,3,TD,10,65,True
+401867931,8,Wagner,Duquesne,False,3,1,70,3,TD,8,70,True
+401867931,8,Duquesne,Wagner,True,4,1,69,24,FG,7,45,True
+401867931,8,Wagner,Duquesne,False,5,1,75,3,TD,11,75,True
+401867931,8,Duquesne,Wagner,True,6,2,85,49,PUNT,5,6,False
+401867931,8,Wagner,Duquesne,False,7,2,51,0,TD,5,51,True
+401867931,8,Duquesne,Wagner,True,8,2,73,59,FUMBLE,4,14,False
+401867931,8,Wagner,Duquesne,False,9,2,41,20,MISSED FG,10,24,False
+401867931,8,Duquesne,Wagner,True,10,2,80,0,TD,4,80,True
+401867931,8,Wagner,Duquesne,False,11,2,69,72,END OF HALF,1,-3,False
+401867931,8,Duquesne,Wagner,True,12,3,75,0,INT,7,62,False
+401867931,8,Wagner,Duquesne,False,13,3,80,95,FUMBLE,16,76,False
+401867931,8,Duquesne,Wagner,True,14,3,96,0,TD,7,96,True
+401867931,8,Wagner,Duquesne,False,15,4,75,21,PUNT,3,-4,False
+401867931,8,Duquesne,Wagner,True,16,4,58,0,TD,4,58,True
+401867931,8,Wagner,Duquesne,False,17,4,75,31,DOWNS,4,6,False
+401867931,8,Duquesne,Wagner,True,18,4,31,0,TD,3,31,True
+401867931,8,Wagner,Duquesne,False,19,4,75,100,INT TD,9,26,True
+401867931,8,Wagner,Duquesne,False,20,4,75,30,FUMBLE TD,6,45,True
+401867931,8,Wagner,Duquesne,False,21,4,63,41,DOWNS,4,22,False
+401867931,8,Duquesne,Wagner,True,22,4,59,61,END OF GAME,2,-2,False
+401867955,8,Delaware State,North Carolina Central,True,1,1,58,26,INT,2,1,False
+401867955,8,Delaware State,North Carolina Central,True,2,1,26,0,TD,1,26,True
+401867955,8,North Carolina Central,Delaware State,False,3,1,75,20,PUNT,8,38,False
+401867955,8,Delaware State,North Carolina Central,True,4,1,80,36,PUNT,3,2,False
+401867955,8,North Carolina Central,Delaware State,False,5,1,64,0,TD,8,64,True
+401867955,8,Delaware State,North Carolina Central,True,6,1,85,3,PUNT,4,46,False
+401867955,8,North Carolina Central,Delaware State,False,7,1,97,34,PUNT,6,17,False
+401867955,8,Delaware State,North Carolina Central,True,8,2,66,25,PUNT,6,21,False
+401867955,8,North Carolina Central,Delaware State,False,9,2,85,65,FG,15,77,True
+401867955,8,Delaware State,North Carolina Central,True,10,2,60,5,INT,5,10,False
+401867955,8,North Carolina Central,Delaware State,False,11,2,95,53,END OF HALF,5,42,False
+401867955,8,North Carolina Central,Delaware State,False,12,3,75,0,TD,16,75,True
+401867955,8,Delaware State,North Carolina Central,True,13,3,75,29,MISSED FG,8,46,False
+401867955,8,North Carolina Central,Delaware State,False,14,3,71,0,TD,7,71,True
+401867955,8,Delaware State,North Carolina Central,True,15,4,88,11,PUNT,6,24,False
+401867955,8,North Carolina Central,Delaware State,False,16,4,89,17,PUNT,5,14,False
+401867955,8,Delaware State,North Carolina Central,True,17,4,83,81,PUNT,5,-9,False
+401867955,8,North Carolina Central,Delaware State,False,18,4,19,2,TD,2,19,True
+401867955,8,Delaware State,North Carolina Central,True,19,4,55,0,TD,7,55,True
+401867962,8,Morgan State,Howard,True,1,1,71,7,PUNT,6,32,False
+401867962,8,Howard,Morgan State,False,2,1,93,97,PUNT,3,-4,False
+401867962,8,Morgan State,Howard,True,3,1,27,65,FG,4,2,True
+401867962,8,Howard,Morgan State,False,4,1,70,61,DOWNS,4,9,False
+401867962,8,Morgan State,Howard,True,5,1,39,65,FG,10,28,True
+401867962,8,Howard,Morgan State,False,6,1,30,65,FG,7,10,True
+401867962,8,Morgan State,Howard,True,7,2,63,25,PUNT,3,6,False
+401867962,8,Howard,Morgan State,False,8,2,75,29,PUNT,4,4,False
+401867962,8,Morgan State,Howard,True,9,2,71,24,PUNT,8,20,False
+401867962,8,Howard,Morgan State,False,10,2,76,65,FG,12,67,True
+401867962,8,Morgan State,Howard,True,11,2,74,73,END OF HALF,2,1,False
+401867962,8,Howard,Morgan State,False,12,3,80,45,PUNT,3,7,False
+401867962,8,Morgan State,Howard,True,13,3,55,26,MISSED FG,6,29,False
+401867962,8,Howard,Morgan State,False,14,3,74,50,PUNT,3,-8,False
+401867962,8,Morgan State,Howard,True,15,3,50,25,TD,5,50,True
+401867962,8,Howard,Morgan State,False,16,3,60,33,PUNT,3,-4,False
+401867962,8,Morgan State,Howard,True,17,3,67,0,TD,8,67,True
+401867962,8,Howard,Morgan State,False,18,4,58,15,PUNT,3,3,False
+401867962,8,Morgan State,Howard,True,19,4,85,42,PUNT,3,9,False
+401867962,8,Howard,Morgan State,False,20,4,43,0,TD,7,43,True
+401867962,8,Morgan State,Howard,True,21,4,69,26,PUNT,3,2,False
+401867962,8,Howard,Morgan State,False,22,4,59,0,TD,7,59,True
+401867962,8,Morgan State,Howard,True,23,4,74,31,PUNT,3,2,False
+401867962,8,Howard,Morgan State,False,24,4,69,0,END OF HALF,6,38,False
+401867962,8,Morgan State,Howard,True,25,5,25,100,INT TD,4,-9,True
+401867975,8,South Carolina State,Norfolk State,True,1,1,80,0,TD,13,80,True
+401867975,8,Norfolk State,South Carolina State,False,2,1,75,20,PUNT,6,38,False
+401867975,8,South Carolina State,Norfolk State,True,3,1,80,65,FG,8,70,True
+401867975,8,Norfolk State,South Carolina State,False,4,1,75,30,PUNT,5,9,False
+401867975,8,South Carolina State,Norfolk State,True,5,1,70,19,PUNT,3,7,False
+401867975,8,Norfolk State,South Carolina State,False,6,2,81,66,INT,11,53,False
+401867975,8,South Carolina State,Norfolk State,True,7,2,34,0,TD,6,34,True
+401867975,8,Norfolk State,South Carolina State,False,8,2,78,72,INT,1,0,False
+401867975,8,South Carolina State,Norfolk State,True,9,2,30,65,FG,4,0,True
+401867975,8,Norfolk State,South Carolina State,False,10,2,75,19,PUNT,7,18,False
+401867975,8,South Carolina State,Norfolk State,True,11,2,81,31,PUNT,6,16,False
+401867975,8,Norfolk State,South Carolina State,False,12,2,69,66,END OF HALF,1,3,False
+401867975,8,Norfolk State,South Carolina State,False,13,3,74,7,PUNT,8,25,False
+401867975,8,South Carolina State,Norfolk State,True,14,3,93,100,PUNT TD,3,-1,True
+401867975,8,South Carolina State,Norfolk State,True,15,3,88,43,PUNT,6,12,False
+401867975,8,Norfolk State,South Carolina State,False,16,3,57,17,FUMBLE,5,40,False
+401867975,8,South Carolina State,Norfolk State,True,17,3,83,16,PUNT,11,42,False
+401867975,8,Norfolk State,South Carolina State,False,18,4,84,27,PUNT,5,11,False
+401867975,8,South Carolina State,Norfolk State,True,19,4,73,65,FG,8,57,True
+401867975,8,Norfolk State,South Carolina State,False,20,4,75,41,DOWNS,7,34,False
+401867975,8,South Carolina State,Norfolk State,True,21,4,59,40,PUNT,3,4,False
+401867975,8,Norfolk State,South Carolina State,False,22,4,60,37,DOWNS,8,23,False
+401867975,8,South Carolina State,Norfolk State,True,23,4,63,53,END OF HALF,3,10,False
+401867994,8,Bucknell,Holy Cross,False,1,1,75,65,FG,8,65,True
+401867994,8,Holy Cross,Bucknell,True,2,1,65,0,TD,2,65,True
+401867994,8,Bucknell,Holy Cross,False,3,1,73,22,PUNT,3,9,False
+401867994,8,Holy Cross,Bucknell,True,4,1,78,24,MISSED FG,10,50,False
+401867994,8,Bucknell,Holy Cross,False,5,1,76,100,INT TD,3,5,True
+401867994,8,Bucknell,Holy Cross,False,6,1,80,40,PUNT,7,15,False
+401867994,8,Holy Cross,Bucknell,True,7,2,60,35,INT,6,5,False
+401867994,8,Bucknell,Holy Cross,False,8,2,65,65,INT,4,9,False
+401867994,8,Holy Cross,Bucknell,True,9,2,35,0,TD,1,35,True
+401867994,8,Bucknell,Holy Cross,False,10,2,71,2,PUNT,6,34,False
+401867994,8,Holy Cross,Bucknell,True,11,2,98,1,PUNT,7,48,False
+401867994,8,Bucknell,Holy Cross,False,12,2,99,2,END OF HALF,2,7,False
+401867994,8,Holy Cross,Bucknell,True,13,3,75,20,PUNT,8,31,False
+401867994,8,Bucknell,Holy Cross,False,14,3,80,80,DOWNS,6,0,False
+401867994,8,Holy Cross,Bucknell,True,15,3,20,0,TD,5,20,True
+401867994,8,Bucknell,Holy Cross,False,16,3,73,33,PUNT,6,8,False
+401867994,8,Holy Cross,Bucknell,True,17,3,67,18,PUNT,6,20,False
+401867994,8,Bucknell,Holy Cross,False,18,4,82,68,PUNT,3,9,False
+401867994,8,Holy Cross,Bucknell,True,19,4,32,0,TD,6,32,True
+401867994,8,Bucknell,Holy Cross,False,20,4,80,15,INT,7,60,False
+401867994,8,Holy Cross,Bucknell,True,21,4,85,19,END OF GAME,8,66,False
+401868003,8,Richmond,Colgate,True,1,1,75,21,MISSED FG,8,54,False
+401868003,8,Colgate,Richmond,False,2,1,79,36,INT,10,36,False
+401868003,8,Richmond,Colgate,True,3,1,64,12,PUNT,3,0,False
+401868003,8,Colgate,Richmond,False,4,1,88,65,FG,9,70,True
+401868003,8,Richmond,Colgate,True,5,1,75,65,FG,8,53,True
+401868003,8,Colgate,Richmond,False,6,1,87,65,FG,9,76,True
+401868003,8,Richmond,Colgate,True,7,2,75,31,PUNT,3,9,False
+401868003,8,Colgate,Richmond,False,8,2,69,85,PUNT,4,9,False
+401868003,8,Richmond,Colgate,True,9,2,85,0,TD,4,85,True
+401868003,8,Colgate,Richmond,False,10,2,80,20,PUNT,8,33,False
+401868003,8,Richmond,Colgate,True,11,2,80,23,PUNT,3,4,False
+401868003,8,Richmond,Colgate,True,12,2,23,23,FG,1,0,True
+401868003,8,Colgate,Richmond,False,13,3,75,53,PUNT,5,8,False
+401868003,8,Richmond,Colgate,True,14,3,53,28,INT,6,19,False
+401868003,8,Colgate,Richmond,False,15,3,72,20,PUNT,6,26,False
+401868003,8,Richmond,Colgate,True,16,3,80,12,PUNT,4,18,False
+401868003,8,Colgate,Richmond,False,17,3,88,16,PUNT,10,34,False
+401868003,8,Richmond,Colgate,True,18,4,84,45,PUNT,3,-5,False
+401868003,8,Colgate,Richmond,False,19,4,55,27,INT,6,15,False
+401868003,8,Richmond,Colgate,True,20,4,73,21,PUNT,4,15,False
+401868003,8,Colgate,Richmond,False,21,4,79,35,INT,9,14,False
+401868003,8,Richmond,Colgate,True,22,4,35,29,END OF GAME,3,6,False
+401868013,8,Lafayette,Fordham,False,1,1,65,7,PUNT,3,9,False
+401868013,8,Fordham,Lafayette,True,2,1,93,23,PUNT,6,16,False
+401868013,8,Lafayette,Fordham,False,3,1,63,36,PUNT,3,-1,False
+401868013,8,Fordham,Lafayette,True,4,1,70,0,TD,6,70,True
+401868013,8,Lafayette,Fordham,False,5,1,65,0,TD,6,65,True
+401868013,8,Fordham,Lafayette,True,6,1,71,3,TD,10,71,True
+401868013,8,Lafayette,Fordham,False,7,2,63,3,TD,10,63,True
+401868013,8,Fordham,Lafayette,True,8,2,75,65,FG,14,72,True
+401868013,8,Fordham,Lafayette,True,9,3,63,43,DOWNS,6,20,False
+401868013,8,Lafayette,Fordham,False,10,3,57,3,TD,4,57,True
+401868013,8,Fordham,Lafayette,True,11,3,70,65,PUNT,10,35,False
+401868013,8,Lafayette,Fordham,False,12,3,90,3,TD,11,90,True
+401868013,8,Fordham,Lafayette,True,13,4,87,66,DOWNS,16,53,False
+401868013,8,Lafayette,Fordham,False,14,4,66,65,FG,7,57,True
+401868013,8,Fordham,Lafayette,True,15,4,75,70,DOWNS,8,45,False
+401868013,8,Lafayette,Fordham,False,16,4,70,73,END OF GAME,3,-3,False
+401868019,8,William & Mary,Georgetown,True,1,1,68,0,TD,1,68,True
+401868019,8,Georgetown,William & Mary,False,2,1,75,0,TD,10,75,True
+401868019,8,William & Mary,Georgetown,True,3,1,68,40,PUNT,3,-10,False
+401868019,8,Georgetown,William & Mary,False,4,1,60,38,DOWNS,5,22,False
+401868019,8,William & Mary,Georgetown,True,5,1,62,2,PUNT,5,25,False
+401868019,8,Georgetown,William & Mary,False,6,1,98,56,PUNT,3,9,False
+401868019,8,William & Mary,Georgetown,True,7,1,44,36,INT,3,13,False
+401868019,8,Georgetown,William & Mary,False,8,1,64,0,TD,3,64,True
+401868019,8,William & Mary,Georgetown,True,9,1,72,36,PUNT,4,12,False
+401868019,8,Georgetown,William & Mary,False,10,2,64,0,INT,8,60,False
+401868019,8,William & Mary,Georgetown,True,11,2,80,0,TD,13,80,True
+401868019,8,Georgetown,William & Mary,False,12,2,75,47,PUNT,3,-4,False
+401868019,8,William & Mary,Georgetown,True,13,2,53,10,PUNT,3,3,False
+401868019,8,Georgetown,William & Mary,False,14,2,90,58,END OF HALF,11,32,False
+401868019,8,Georgetown,William & Mary,False,15,3,75,0,TD,7,75,True
+401868019,8,William & Mary,Georgetown,True,16,3,65,0,TD,6,65,True
+401868019,8,Georgetown,William & Mary,False,17,3,76,66,PUNT,3,4,False
+401868019,8,William & Mary,Georgetown,True,18,3,66,29,INT,4,20,False
+401868019,8,Georgetown,William & Mary,False,19,3,71,26,PUNT,4,8,False
+401868019,8,William & Mary,Georgetown,True,20,3,59,65,FG,10,45,True
+401868019,8,Georgetown,William & Mary,False,21,4,75,48,PUNT,3,1,False
+401868019,8,William & Mary,Georgetown,True,22,4,52,65,FG,13,48,True
+401868019,8,Georgetown,William & Mary,False,23,4,75,20,DOWNS,11,55,False
+401868019,8,William & Mary,Georgetown,True,24,4,80,50,PUNT,3,-3,False
+401868019,8,Georgetown,William & Mary,False,25,4,50,0,TD,7,48,True
+401868019,8,William & Mary,Georgetown,True,26,4,65,60,INT,1,0,False
+401868019,8,Georgetown,William & Mary,False,27,4,40,42,END OF GAME,1,-2,False
+401868035,8,Villanova,Lehigh,True,1,1,75,0,TD,16,75,True
+401868035,8,Lehigh,Villanova,False,2,1,84,16,PUNT,5,26,False
+401868035,8,Villanova,Lehigh,True,3,1,84,14,PUNT,4,27,False
+401868035,8,Lehigh,Villanova,False,4,1,86,35,PUNT,3,7,False
+401868035,8,Villanova,Lehigh,True,5,1,65,24,PUNT,3,2,False
+401868035,8,Lehigh,Villanova,False,6,2,76,7,PUNT,8,33,False
+401868035,8,Villanova,Lehigh,True,7,2,93,0,TD,5,93,True
+401868035,8,Lehigh,Villanova,False,8,2,75,67,DOWNS,4,8,False
+401868035,8,Villanova,Lehigh,True,9,2,33,0,TD,6,33,True
+401868035,8,Lehigh,Villanova,False,10,2,82,6,PUNT,5,28,False
+401868035,8,Villanova,Lehigh,True,11,2,94,33,END OF HALF,2,27,False
+401868035,8,Lehigh,Villanova,False,12,3,75,0,TD,11,75,True
+401868035,8,Villanova,Lehigh,True,13,3,65,35,PUNT,3,-5,False
+401868035,8,Lehigh,Villanova,False,14,3,65,65,FG,11,49,True
+401868035,8,Villanova,Lehigh,True,15,3,81,20,PUNT,6,36,False
+401868035,8,Lehigh,Villanova,False,16,4,80,0,TD,10,80,True
+401868035,8,Villanova,Lehigh,True,17,4,75,65,FG,11,65,True
+401868035,8,Lehigh,Villanova,False,18,4,95,10,END OF GAME,20,85,False
+401868067,8,Austin Peay,North Alabama,False,1,1,75,4,PUNT,8,21,False
+401868067,8,North Alabama,Austin Peay,True,2,1,96,90,INT,2,0,False
+401868067,8,Austin Peay,North Alabama,False,3,1,10,0,TD,1,10,True
+401868067,8,North Alabama,Austin Peay,True,4,1,75,43,PUNT,6,18,False
+401868067,8,Austin Peay,North Alabama,False,5,1,90,45,PUNT,4,9,False
+401868067,8,North Alabama,Austin Peay,True,6,1,55,36,PUNT,3,1,False
+401868067,8,Austin Peay,North Alabama,False,7,1,64,32,PUNT,3,-2,False
+401868067,8,North Alabama,Austin Peay,True,8,1,68,3,TD,8,68,True
+401868067,8,Austin Peay,North Alabama,False,9,2,73,61,PUNT,7,34,False
+401868067,8,North Alabama,Austin Peay,True,10,2,84,25,MISSED FG,21,59,False
+401868067,8,Austin Peay,North Alabama,False,11,2,75,76,END OF HALF,1,-1,False
+401868067,8,North Alabama,Austin Peay,True,12,3,75,0,TD,9,75,True
+401868067,8,Austin Peay,North Alabama,False,13,3,75,65,FG,12,50,True
+401868067,8,North Alabama,Austin Peay,True,14,3,75,21,PUNT,3,-2,False
+401868067,8,Austin Peay,North Alabama,False,15,3,79,0,TD,4,79,True
+401868067,8,North Alabama,Austin Peay,True,16,3,75,74,TD,3,75,True
+401868067,8,Austin Peay,North Alabama,False,17,3,65,0,TD,2,65,True
+401868067,8,North Alabama,Austin Peay,True,18,3,75,22,PUNT,3,0,False
+401868067,8,Austin Peay,North Alabama,False,19,4,78,22,PUNT,3,0,False
+401868067,8,North Alabama,Austin Peay,True,20,4,62,58,PUNT,7,20,False
+401868067,8,Austin Peay,North Alabama,False,21,4,90,65,FG,14,77,True
+401868067,8,North Alabama,Austin Peay,True,22,4,75,53,FUMBLE,3,22,False
+401868067,8,Austin Peay,North Alabama,False,23,4,47,54,END OF HALF,6,-7,False
+401868080,8,Cal Poly,Utah Tech,True,1,1,75,19,PUNT,5,19,False
+401868080,8,Cal Poly,Utah Tech,True,2,1,19,0,TD,3,19,True
+401868080,8,Utah Tech,Cal Poly,False,3,1,79,0,TD,8,79,True
+401868080,8,Cal Poly,Utah Tech,True,4,1,75,26,PUNT,5,3,False
+401868080,8,Utah Tech,Cal Poly,False,5,1,74,0,TD,8,74,True
+401868080,8,Cal Poly,Utah Tech,True,6,1,69,32,DOWNS,8,37,False
+401868080,8,Utah Tech,Cal Poly,False,7,2,68,65,FG,9,36,True
+401868080,8,Cal Poly,Utah Tech,True,8,2,70,65,FG,10,57,True
+401868080,8,Utah Tech,Cal Poly,False,9,2,80,28,MISSED FG,10,52,False
+401868080,8,Cal Poly,Utah Tech,True,10,2,72,30,INT,2,10,False
+401868080,8,Utah Tech,Cal Poly,False,11,2,70,89,FG,10,59,True
+401868080,8,Utah Tech,Cal Poly,False,12,3,82,30,PUNT,3,6,False
+401868080,8,Cal Poly,Utah Tech,True,13,3,70,17,PUNT,8,12,False
+401868080,8,Utah Tech,Cal Poly,False,14,3,83,24,PUNT,4,14,False
+401868080,8,Cal Poly,Utah Tech,True,15,3,76,96,INT,1,0,False
+401868080,8,Utah Tech,Cal Poly,False,16,3,4,0,TD,1,4,True
+401868080,8,Cal Poly,Utah Tech,True,17,3,84,0,TD,9,84,True
+401868080,8,Utah Tech,Cal Poly,False,18,3,75,12,PUNT,4,19,False
+401868080,8,Cal Poly,Utah Tech,True,19,3,88,77,INT,3,8,False
+401868080,8,Utah Tech,Cal Poly,False,20,3,23,65,FG,4,6,True
+401868080,8,Cal Poly,Utah Tech,True,21,4,74,91,FUMBLE,5,39,False
+401868080,8,Utah Tech,Cal Poly,False,22,4,9,0,TD,3,9,True
+401868080,8,Cal Poly,Utah Tech,True,23,4,75,0,INT,10,57,False
+401868080,8,Utah Tech,Cal Poly,False,24,4,80,24,PUNT,3,-4,False
+401868080,8,Utah Tech,Cal Poly,False,25,4,24,5,TD,6,24,True
+401868080,8,Cal Poly,Utah Tech,True,26,4,68,0,TD,4,68,True
+401868080,8,Utah Tech,Cal Poly,False,27,4,44,45,END OF HALF,1,-1,False
+401868097,8,Idaho,Southern Utah,True,1,1,75,47,PUNT,4,7,False
+401868097,8,Southern Utah,Idaho,False,2,1,53,61,INT,1,0,False
+401868097,8,Idaho,Southern Utah,True,3,1,39,65,FG,7,22,True
+401868097,8,Southern Utah,Idaho,False,4,1,75,52,PUNT,3,-6,False
+401868097,8,Idaho,Southern Utah,True,5,1,48,10,INT,5,24,False
+401868097,8,Southern Utah,Idaho,False,6,1,90,36,PUNT,3,2,False
+401868097,8,Idaho,Southern Utah,True,7,1,64,14,PUNT,3,8,False
+401868097,8,Southern Utah,Idaho,False,8,1,86,22,PUNT,4,27,False
+401868097,8,Idaho,Southern Utah,True,9,2,78,20,PUNT,3,2,False
+401868097,8,Southern Utah,Idaho,False,10,2,80,0,TD,6,80,True
+401868097,8,Idaho,Southern Utah,True,11,2,75,0,TD,5,75,True
+401868097,8,Southern Utah,Idaho,False,12,2,75,65,FG,7,50,True
+401868097,8,Idaho,Southern Utah,True,13,2,75,1,TD,6,75,True
+401868097,8,Southern Utah,Idaho,False,14,2,75,11,PUNT,5,22,False
+401868097,8,Idaho,Southern Utah,True,15,2,89,90,END OF HALF,1,-1,False
+401868097,8,Southern Utah,Idaho,False,16,3,86,0,TD,5,86,True
+401868097,8,Idaho,Southern Utah,True,17,3,75,53,PUNT,5,22,False
+401868097,8,Southern Utah,Idaho,False,18,3,99,43,PUNT,7,39,False
+401868097,8,Idaho,Southern Utah,True,19,3,57,65,FG,8,50,True
+401868097,8,Southern Utah,Idaho,False,20,3,75,15,PUNT,5,15,False
+401868097,8,Idaho,Southern Utah,True,21,3,85,0,TD,9,85,True
+401868097,8,Southern Utah,Idaho,False,22,4,75,65,FG,11,60,True
+401868097,8,Idaho,Southern Utah,True,23,4,75,34,PUNT,3,0,False
+401868097,8,Southern Utah,Idaho,False,24,4,66,43,DOWNS,7,23,False
+401868097,8,Idaho,Southern Utah,True,25,4,57,52,FUMBLE,2,14,False
+401868097,8,Southern Utah,Idaho,False,26,4,57,0,TD,4,57,True
+401868097,8,Idaho,Southern Utah,True,27,4,75,65,FG,6,40,True
+401868106,8,Idaho State,Portland State,True,1,1,75,37,DOWNS,9,38,False
+401868106,8,Portland State,Idaho State,False,2,1,63,34,PUNT,3,-3,False
+401868106,8,Idaho State,Portland State,True,3,1,67,65,FG,10,42,True
+401868106,8,Portland State,Idaho State,False,4,1,75,33,PUNT,3,8,False
+401868106,8,Idaho State,Portland State,True,5,1,67,0,TD,2,67,True
+401868106,8,Portland State,Idaho State,False,6,1,75,25,PUNT,3,7,False
+401868106,8,Idaho State,Portland State,True,7,1,75,0,TD,8,75,True
+401868106,8,Portland State,Idaho State,False,8,2,79,10,PUNT,5,30,False
+401868106,8,Idaho State,Portland State,True,9,2,90,38,DOWNS,10,52,False
+401868106,8,Portland State,Idaho State,False,10,2,62,55,FUMBLE,5,7,False
+401868106,8,Idaho State,Portland State,True,11,2,45,0,TD,4,45,True
+401868106,8,Portland State,Idaho State,False,12,2,75,6,PUNT,4,33,False
+401868106,8,Idaho State,Portland State,True,13,2,94,25,PUNT,10,27,False
+401868106,8,Portland State,Idaho State,False,14,2,75,35,PUNT,3,-5,False
+401868106,8,Idaho State,Portland State,True,15,2,65,35,INT,1,0,False
+401868106,8,Portland State,Idaho State,False,16,2,50,50,END OF HALF,1,0,False
+401868106,8,Portland State,Idaho State,False,17,3,75,0,TD,12,75,True
+401868106,8,Idaho State,Portland State,True,18,3,83,22,PUNT,3,6,False
+401868106,8,Portland State,Idaho State,False,19,3,78,1,PUNT,7,37,False
+401868106,8,Idaho State,Portland State,True,20,3,99,99,SF,1,-1,True
+401868106,8,Portland State,Idaho State,False,21,3,55,8,FUMBLE,5,47,False
+401868106,8,Idaho State,Portland State,True,22,3,92,45,PUNT,3,7,False
+401868106,8,Portland State,Idaho State,False,23,4,55,47,DOWNS,4,8,False
+401868106,8,Idaho State,Portland State,True,24,4,53,4,TD,10,53,True
+401868106,8,Portland State,Idaho State,False,25,4,81,28,DOWNS,8,53,False
+401868106,8,Idaho State,Portland State,True,26,4,72,0,TD,5,72,True
+401868106,8,Portland State,Idaho State,False,27,4,84,85,END OF HALF,1,-1,False
+401868121,8,Montana State,Weber State,True,1,1,75,20,PUNT,7,33,False
+401868121,8,Weber State,Montana State,False,2,1,80,65,FG,6,77,True
+401868121,8,Montana State,Weber State,True,3,1,73,0,TD,5,73,True
+401868121,8,Weber State,Montana State,False,4,1,75,0,TD,13,75,True
+401868121,8,Montana State,Weber State,True,5,1,72,0,TD,17,72,True
+401868121,8,Weber State,Montana State,False,6,2,22,22,FG,0,0,True
+401868121,8,Montana State,Weber State,True,7,2,76,65,FG,9,65,True
+401868121,8,Weber State,Montana State,False,8,2,78,0,TD,8,78,True
+401868121,8,Weber State,Montana State,False,9,2,65,65,FG,4,2,True
+401868121,8,Montana State,Weber State,True,10,2,75,100,MISSED FG,8,56,False
+401868121,8,Weber State,Montana State,False,11,3,75,48,FUMBLE,5,24,False
+401868121,8,Montana State,Weber State,True,12,3,49,0,TD,11,49,True
+401868121,8,Weber State,Montana State,False,13,3,76,55,FUMBLE,4,21,False
+401868121,8,Montana State,Weber State,True,14,3,45,18,FUMBLE,7,27,False
+401868121,8,Weber State,Montana State,False,15,3,82,45,PUNT,3,0,False
+401868121,8,Montana State,Weber State,True,16,3,55,0,TD,7,55,True
+401868121,8,Weber State,Montana State,False,17,4,75,47,PUNT,4,6,False
+401868121,8,Montana State,Weber State,True,18,4,53,22,PUNT,3,-3,False
+401868121,8,Weber State,Montana State,False,19,4,78,12,PUNT,6,5,False
+401868121,8,Montana State,Weber State,True,20,4,88,0,TD,11,88,True
+401868121,8,Weber State,Montana State,False,21,4,72,0,TD,12,72,True
+401868121,8,Montana State,Weber State,True,22,4,0,0,END OF GAME,1,0,False
+401868132,8,Northern Colorado,UC Davis,False,1,1,75,60,PUNT,3,8,False
+401868132,8,UC Davis,Northern Colorado,True,2,1,40,0,TD,5,40,True
+401868132,8,Northern Colorado,UC Davis,False,3,1,75,5,PUNT,9,36,False
+401868132,8,UC Davis,Northern Colorado,True,4,1,95,0,TD,15,95,True
+401868132,8,Northern Colorado,UC Davis,False,5,1,83,53,INT,7,30,False
+401868132,8,UC Davis,Northern Colorado,True,6,2,47,10,PUNT,3,5,False
+401868132,8,Northern Colorado,UC Davis,False,7,2,90,26,MISSED FG,14,64,False
+401868132,8,UC Davis,Northern Colorado,True,8,2,74,65,FG,6,60,True
+401868132,8,Northern Colorado,UC Davis,False,9,2,65,35,INT,4,27,False
+401868132,8,UC Davis,Northern Colorado,True,10,2,65,65,END OF HALF,1,0,False
+401868132,8,UC Davis,Northern Colorado,True,11,3,75,0,TD,11,75,True
+401868132,8,Northern Colorado,UC Davis,False,12,3,78,8,DOWNS,8,70,False
+401868132,8,UC Davis,Northern Colorado,True,13,3,92,65,FG,9,84,True
+401868132,8,Northern Colorado,UC Davis,False,14,3,78,0,TD,8,78,True
+401868132,8,UC Davis,Northern Colorado,True,15,4,75,0,TD,10,75,True
+401868132,8,Northern Colorado,UC Davis,False,16,4,65,1,DOWNS,10,64,False
+401868132,8,UC Davis,Northern Colorado,True,17,4,99,45,PUNT,6,6,False
+401868132,8,Northern Colorado,UC Davis,False,18,4,55,19,DOWNS,7,36,False
+401868132,8,UC Davis,Northern Colorado,True,19,4,81,82,END OF HALF,1,-1,False
+401868135,8,Central Arkansas,UT Rio Grande Valley,True,1,1,75,16,DOWNS,9,59,False
+401868135,8,UT Rio Grande Valley,Central Arkansas,False,2,1,84,0,TD,8,84,True
+401868135,8,Central Arkansas,UT Rio Grande Valley,True,3,1,75,0,TD,10,75,True
+401868135,8,UT Rio Grande Valley,Central Arkansas,False,4,1,75,6,MISSED FG,14,69,False
+401868135,8,Central Arkansas,UT Rio Grande Valley,True,5,2,80,0,TD,5,80,True
+401868135,8,UT Rio Grande Valley,Central Arkansas,False,6,2,75,0,TD,8,75,True
+401868135,8,Central Arkansas,UT Rio Grande Valley,True,7,2,82,50,PUNT,6,-4,False
+401868135,8,UT Rio Grande Valley,Central Arkansas,False,8,2,50,20,PUNT,4,7,False
+401868135,8,Central Arkansas,UT Rio Grande Valley,True,9,2,80,65,END OF HALF,4,15,False
+401868135,8,UT Rio Grande Valley,Central Arkansas,False,10,3,75,33,PUNT,3,-9,False
+401868135,8,Central Arkansas,UT Rio Grande Valley,True,11,3,67,40,PUNT,3,-12,False
+401868135,8,UT Rio Grande Valley,Central Arkansas,False,12,3,60,0,TD,7,60,True
+401868135,8,Central Arkansas,UT Rio Grande Valley,True,13,3,80,22,MISSED FG,12,58,False
+401868135,8,UT Rio Grande Valley,Central Arkansas,False,14,3,78,70,INT,1,0,False
+401868135,8,Central Arkansas,UT Rio Grande Valley,True,15,3,30,0,TD,4,30,True
+401868135,8,UT Rio Grande Valley,Central Arkansas,False,16,3,75,38,PUNT,3,2,False
+401868135,8,Central Arkansas,UT Rio Grande Valley,True,17,3,62,46,INT,2,-2,False
+401868135,8,UT Rio Grande Valley,Central Arkansas,False,18,3,54,25,MISSED FG,9,29,False
+401868135,8,Central Arkansas,UT Rio Grande Valley,True,19,4,75,16,MISSED FG,10,59,False
+401868135,8,UT Rio Grande Valley,Central Arkansas,False,20,4,80,65,FG,12,73,True
+401868135,8,Central Arkansas,UT Rio Grande Valley,True,21,4,75,65,FG,9,55,True
+401868135,8,UT Rio Grande Valley,Central Arkansas,False,22,4,69,0,END OF HALF,2,18,False
+401868135,8,Central Arkansas,UT Rio Grande Valley,True,23,5,25,65,FG,7,19,True
+401868135,8,UT Rio Grande Valley,Central Arkansas,False,24,5,69,0,TD,1,25,True
+401868146,8,West Florida,Eastern Kentucky,False,1,1,75,46,PUNT,3,-2,False
+401868146,8,Eastern Kentucky,West Florida,True,2,1,54,0,TD,4,54,True
+401868146,8,West Florida,Eastern Kentucky,False,3,1,75,36,PUNT,3,4,False
+401868146,8,Eastern Kentucky,West Florida,True,4,1,64,6,PUNT,5,27,False
+401868146,8,West Florida,Eastern Kentucky,False,5,1,94,77,PUNT,6,16,False
+401868146,8,Eastern Kentucky,West Florida,True,6,1,23,16,MISSED FG,4,7,False
+401868146,8,West Florida,Eastern Kentucky,False,7,1,80,48,PUNT,3,4,False
+401868146,8,Eastern Kentucky,West Florida,True,8,1,52,65,FG,8,35,True
+401868146,8,West Florida,Eastern Kentucky,False,9,2,65,29,MISSED FG,8,36,False
+401868146,8,Eastern Kentucky,West Florida,True,10,2,71,19,MISSED FG,9,52,False
+401868146,8,West Florida,Eastern Kentucky,False,11,2,80,0,TD,9,80,True
+401868146,8,Eastern Kentucky,West Florida,True,12,2,84,44,PUNT,3,1,False
+401868146,8,West Florida,Eastern Kentucky,False,13,2,56,65,FG,2,30,True
+401868146,8,Eastern Kentucky,West Florida,True,14,3,75,70,FUMBLE,3,5,False
+401868146,8,West Florida,Eastern Kentucky,False,15,3,30,65,FG,5,9,True
+401868146,8,Eastern Kentucky,West Florida,True,16,3,75,12,PUNT,4,24,False
+401868146,8,West Florida,Eastern Kentucky,False,17,3,88,27,PUNT,3,9,False
+401868146,8,Eastern Kentucky,West Florida,True,18,3,73,27,PUNT,3,0,False
+401868146,8,Eastern Kentucky,West Florida,True,19,3,27,65,FG,4,8,True
+401868146,8,West Florida,Eastern Kentucky,False,20,3,75,28,PUNT,3,4,False
+401868146,8,Eastern Kentucky,West Florida,True,21,3,72,11,PUNT,5,5,False
+401868146,8,West Florida,Eastern Kentucky,False,22,3,89,20,PUNT,6,36,False
+401868146,8,Eastern Kentucky,West Florida,True,23,4,80,33,PUNT,3,4,False
+401868146,8,West Florida,Eastern Kentucky,False,24,4,67,68,FUMBLE,1,-1,False
+401868146,8,Eastern Kentucky,West Florida,True,25,4,32,65,FG,5,16,True
+401868146,8,West Florida,Eastern Kentucky,False,26,4,68,20,PUNT,6,18,False
+401868146,8,Eastern Kentucky,West Florida,True,27,4,80,62,END OF GAME,9,18,False
+401868174,8,Tennessee State,Charleston Southern,True,1,1,83,10,PUNT,7,22,False
+401868174,8,Charleston Southern,Tennessee State,False,2,1,90,15,MISSED FG,14,75,False
+401868174,8,Tennessee State,Charleston Southern,True,3,1,80,57,PUNT,5,1,False
+401868174,8,Charleston Southern,Tennessee State,False,4,1,57,0,TD,7,57,True
+401868174,8,Tennessee State,Charleston Southern,True,5,2,75,100,INT TD,3,3,True
+401868174,8,Tennessee State,Charleston Southern,True,6,2,75,77,PUNT,3,2,False
+401868174,8,Charleston Southern,Tennessee State,False,7,2,23,22,MISSED FG,4,1,False
+401868174,8,Tennessee State,Charleston Southern,True,8,2,78,29,INT,3,0,False
+401868174,8,Charleston Southern,Tennessee State,False,9,2,71,65,FG,10,43,True
+401868174,8,Tennessee State,Charleston Southern,True,10,2,75,70,END OF HALF,2,11,False
+401868174,8,Charleston Southern,Tennessee State,False,11,3,90,36,PUNT,5,15,False
+401868174,8,Tennessee State,Charleston Southern,True,12,3,64,25,PUNT,6,7,False
+401868174,8,Charleston Southern,Tennessee State,False,13,3,75,40,PUNT,3,2,False
+401868174,8,Tennessee State,Charleston Southern,True,14,3,60,52,FUMBLE,3,8,False
+401868174,8,Charleston Southern,Tennessee State,False,15,3,48,65,FG,12,40,True
+401868174,8,Tennessee State,Charleston Southern,True,16,3,71,0,TD,12,71,True
+401868174,8,Charleston Southern,Tennessee State,False,17,4,71,84,FUMBLE,2,-13,False
+401868174,8,Tennessee State,Charleston Southern,True,18,4,16,20,MISSED FG,4,-4,False
+401868174,8,Charleston Southern,Tennessee State,False,19,4,80,24,PUNT,8,23,False
+401868174,8,Tennessee State,Charleston Southern,True,20,4,76,65,DOWNS,7,11,False
+401868174,8,Charleston Southern,Tennessee State,False,21,4,35,41,END OF GAME,3,-6,False
+401868182,8,Eastern Illinois,Southeast Missouri State,True,1,1,75,24,PUNT,5,20,False
+401868182,8,Southeast Missouri State,Eastern Illinois,False,2,1,76,3,PUNT,4,37,False
+401868182,8,Eastern Illinois,Southeast Missouri State,True,3,1,97,45,PUNT,3,5,False
+401868182,8,Southeast Missouri State,Eastern Illinois,False,4,1,55,26,FG,7,29,True
+401868182,8,Eastern Illinois,Southeast Missouri State,True,5,1,75,65,FG,10,63,True
+401868182,8,Southeast Missouri State,Eastern Illinois,False,6,1,85,65,INT,2,11,False
+401868182,8,Eastern Illinois,Southeast Missouri State,True,7,2,35,0,TD,5,35,True
+401868182,8,Southeast Missouri State,Eastern Illinois,False,8,2,75,11,FG,16,64,True
+401868182,8,Eastern Illinois,Southeast Missouri State,True,9,2,75,21,PUNT,3,7,False
+401868182,8,Southeast Missouri State,Eastern Illinois,False,10,2,79,11,TD,10,79,True
+401868182,8,Southeast Missouri State,Eastern Illinois,False,11,3,26,3,TD,2,26,True
+401868182,8,Eastern Illinois,Southeast Missouri State,True,12,3,75,62,PUNT,6,37,False
+401868182,8,Southeast Missouri State,Eastern Illinois,False,13,3,80,51,PUNT,9,31,False
+401868182,8,Eastern Illinois,Southeast Missouri State,True,14,3,99,8,PUNT,6,41,False
+401868182,8,Southeast Missouri State,Eastern Illinois,False,15,3,92,30,PUNT,5,22,False
+401868182,8,Eastern Illinois,Southeast Missouri State,True,16,4,69,36,PUNT,3,-5,False
+401868182,8,Southeast Missouri State,Eastern Illinois,False,17,4,64,52,PUNT,3,16,False
+401868182,8,Eastern Illinois,Southeast Missouri State,True,18,4,75,35,PUNT,4,10,False
+401868182,8,Southeast Missouri State,Eastern Illinois,False,19,4,75,74,PUNT,4,15,False
+401868182,8,Eastern Illinois,Southeast Missouri State,True,20,4,26,16,INT,1,0,False
+401868182,8,Southeast Missouri State,Eastern Illinois,False,21,4,90,5,PUNT,11,52,False
+401868182,8,Eastern Illinois,Southeast Missouri State,True,22,4,80,31,DOWNS,6,11,False
+401868182,8,Southeast Missouri State,Eastern Illinois,False,23,4,31,30,MISSED FG,4,1,False
+401868182,8,Eastern Illinois,Southeast Missouri State,True,24,4,70,43,END OF GAME,4,17,False
+401868201,8,UT Martin,Western Illinois,False,1,1,70,20,PUNT,3,2,False
+401868201,8,Western Illinois,UT Martin,True,2,1,80,0,TD,14,80,True
+401868201,8,UT Martin,Western Illinois,False,3,1,70,36,DOWNS,8,34,False
+401868201,8,Western Illinois,UT Martin,True,4,1,64,30,MISSED FG,9,34,False
+401868201,8,UT Martin,Western Illinois,False,5,2,70,65,FG,9,66,True
+401868201,8,Western Illinois,UT Martin,True,6,2,75,21,PUNT,3,0,False
+401868201,8,UT Martin,Western Illinois,False,7,2,79,54,INT,2,23,False
+401868201,8,Western Illinois,UT Martin,True,8,2,46,0,TD,3,46,True
+401868201,8,UT Martin,Western Illinois,False,9,2,75,0,TD,16,75,True
+401868201,8,Western Illinois,UT Martin,True,10,2,25,0,TD,1,25,True
+401868201,8,UT Martin,Western Illinois,False,11,2,75,35,DOWNS,6,40,False
+401868201,8,Western Illinois,UT Martin,True,12,2,65,70,END OF HALF,1,-5,False
+401868201,8,Western Illinois,UT Martin,True,13,3,75,0,TD,4,75,True
+401868201,8,UT Martin,Western Illinois,False,14,3,89,0,TD,3,89,True
+401868201,8,Western Illinois,UT Martin,True,15,3,75,0,TD,4,75,True
+401868201,8,UT Martin,Western Illinois,False,16,3,65,43,INT,5,29,False
+401868201,8,Western Illinois,UT Martin,True,17,3,57,65,FG,8,46,True
+401868201,8,UT Martin,Western Illinois,False,18,3,75,34,PUNT,3,1,False
+401868201,8,Western Illinois,UT Martin,True,19,3,66,56,INT,1,0,False
+401868201,8,UT Martin,Western Illinois,False,20,3,44,0,TD,5,44,True
+401868201,8,Western Illinois,UT Martin,True,21,4,75,65,FG,5,42,True
+401868201,8,UT Martin,Western Illinois,False,22,4,88,51,PUNT,4,-3,False
+401868201,8,Western Illinois,UT Martin,True,23,4,49,0,TD,8,49,True
+401868201,8,UT Martin,Western Illinois,False,24,4,75,38,PUNT,3,5,False
+401868201,8,Western Illinois,UT Martin,True,25,4,62,0,TD,3,62,True
+401868201,8,UT Martin,Western Illinois,False,26,4,75,74,FUMBLE,4,1,False
+401868201,8,Western Illinois,UT Martin,True,27,4,26,28,END OF HALF,2,-2,False
+401868214,8,Drake,Butler,True,1,1,75,0,TD,9,75,True
+401868214,8,Butler,Drake,False,2,1,65,65,FG,10,45,True
+401868214,8,Drake,Butler,True,3,1,75,0,TD,8,75,True
+401868214,8,Butler,Drake,False,4,1,65,0,TD,7,65,True
+401868214,8,Drake,Butler,True,5,1,75,20,PUNT,5,13,False
+401868214,8,Butler,Drake,False,6,2,80,0,TD,8,80,True
+401868214,8,Drake,Butler,True,7,2,86,16,PUNT,3,-1,False
+401868214,8,Butler,Drake,False,8,2,84,54,PUNT,3,-5,False
+401868214,8,Drake,Butler,True,9,2,46,27,DOWNS,6,19,False
+401868214,8,Butler,Drake,False,10,2,73,34,PUNT,3,4,False
+401868214,8,Drake,Butler,True,11,2,66,0,TD,10,66,True
+401868214,8,Butler,Drake,False,12,2,75,78,END OF HALF,1,-3,False
+401868214,8,Butler,Drake,False,13,3,75,31,PUNT,4,14,False
+401868214,8,Drake,Butler,True,14,3,69,14,PUNT,3,6,False
+401868214,8,Butler,Drake,False,15,3,86,0,INT,11,69,False
+401868214,8,Drake,Butler,True,16,3,80,86,FUMBLE,3,-6,False
+401868214,8,Butler,Drake,False,17,3,14,65,FG,4,4,True
+401868214,8,Drake,Butler,True,18,3,72,20,PUNT,5,14,False
+401868214,8,Butler,Drake,False,19,3,80,26,PUNT,7,28,False
+401868214,8,Drake,Butler,True,20,4,74,65,DOWNS,4,9,False
+401868214,8,Butler,Drake,False,21,4,35,0,TD,3,35,True
+401868214,8,Drake,Butler,True,22,4,75,98,INT,1,0,False
+401868214,8,Butler,Drake,False,23,4,2,0,TD,2,2,True
+401868214,8,Drake,Butler,True,24,4,75,28,DOWNS,10,47,False
+401868214,8,Butler,Drake,False,25,4,72,30,END OF HALF,8,42,False
+401868230,8,San Diego,Dayton,False,1,1,85,65,FG,14,73,True
+401868230,8,Dayton,San Diego,True,2,1,78,40,PUNT,3,4,False
+401868230,8,San Diego,Dayton,False,3,1,60,0,TD,5,60,True
+401868230,8,San Diego,Dayton,False,4,1,65,100,TD,0,0,True
+401868230,8,San Diego,Dayton,False,5,1,65,15,PUNT,3,6,False
+401868230,8,Dayton,San Diego,True,6,1,85,0,TD,8,85,True
+401868230,8,San Diego,Dayton,False,7,2,75,33,PUNT,3,-1,False
+401868230,8,Dayton,San Diego,True,8,2,67,20,PUNT,3,9,False
+401868230,8,San Diego,Dayton,False,9,2,80,18,PUNT,7,30,False
+401868230,8,Dayton,San Diego,True,10,2,82,7,PUNT,7,25,False
+401868230,8,San Diego,Dayton,False,11,2,93,90,PUNT,6,15,False
+401868230,8,Dayton,San Diego,True,12,2,10,0,TD,1,10,True
+401868230,8,San Diego,Dayton,False,13,2,75,14,PUNT,4,17,False
+401868230,8,Dayton,San Diego,True,14,2,86,82,END OF HALF,1,4,False
+401868230,8,Dayton,San Diego,True,15,3,65,0,TD,3,65,True
+401868230,8,San Diego,Dayton,False,16,3,75,0,TD,6,75,True
+401868230,8,Dayton,San Diego,True,17,3,73,33,FUMBLE,6,40,False
+401868230,8,San Diego,Dayton,False,18,3,67,18,PUNT,4,13,False
+401868230,8,Dayton,San Diego,True,19,3,82,65,FG,10,66,True
+401868230,8,San Diego,Dayton,False,20,3,82,7,PUNT,7,29,False
+401868230,8,Dayton,San Diego,True,21,4,93,30,PUNT,6,19,False
+401868230,8,San Diego,Dayton,False,22,4,70,0,TD,10,70,True
+401868230,8,San Diego,Dayton,False,23,4,65,0,MISSED FG,4,0,False
+401868230,8,Dayton,San Diego,True,24,4,78,6,PUNT,6,25,False
+401868230,8,San Diego,Dayton,False,25,4,94,0,TD,8,94,True
+401868230,8,Dayton,San Diego,True,26,4,65,0,TD,3,65,True
+401868230,8,San Diego,Dayton,False,27,4,75,30,END OF GAME,7,45,False
+401868238,8,West Georgia,Tarleton State,True,1,1,65,19,PUNT,3,-1,False
+401868238,8,Tarleton State,West Georgia,False,2,1,81,0,TD,5,81,True
+401868238,8,West Georgia,Tarleton State,True,3,1,75,65,FG,8,50,True
+401868238,8,Tarleton State,West Georgia,False,4,1,92,25,PUNT,3,9,False
+401868238,8,West Georgia,Tarleton State,True,5,1,75,7,PUNT,4,17,False
+401868238,8,Tarleton State,West Georgia,False,6,1,93,47,PUNT,3,9,False
+401868238,8,West Georgia,Tarleton State,True,7,1,53,65,FG,6,45,True
+401868238,8,Tarleton State,West Georgia,False,8,1,64,63,PUNT,3,1,False
+401868238,8,West Georgia,Tarleton State,True,9,2,89,20,PUNT,7,34,False
+401868238,8,Tarleton State,West Georgia,False,10,2,80,31,PUNT,5,14,False
+401868238,8,West Georgia,Tarleton State,True,11,2,69,22,PUNT,3,4,False
+401868238,8,Tarleton State,West Georgia,False,12,2,78,0,TD,10,78,True
+401868238,8,West Georgia,Tarleton State,True,13,2,75,35,PUNT,5,10,False
+401868238,8,Tarleton State,West Georgia,False,14,2,65,0,TD,3,65,True
+401868238,8,West Georgia,Tarleton State,True,15,2,75,73,END OF HALF,1,2,False
+401868238,8,Tarleton State,West Georgia,False,16,3,68,1,PUNT,4,20,False
+401868238,8,West Georgia,Tarleton State,True,17,3,99,88,FUMBLE,4,11,False
+401868238,8,Tarleton State,West Georgia,False,18,3,12,9,TD,3,12,True
+401868238,8,West Georgia,Tarleton State,True,19,3,75,52,FUMBLE,7,23,False
+401868238,8,Tarleton State,West Georgia,False,20,3,48,0,TD,5,48,True
+401868238,8,West Georgia,Tarleton State,True,21,3,70,42,INT,9,26,False
+401868238,8,Tarleton State,West Georgia,False,22,4,56,0,TD,4,58,True
+401868238,8,West Georgia,Tarleton State,True,23,4,75,47,DOWNS,6,28,False
+401868238,8,Tarleton State,West Georgia,False,24,4,53,20,PUNT,3,6,False
+401868238,8,West Georgia,Tarleton State,True,25,4,80,35,PUNT,6,11,False
+401868238,8,Tarleton State,West Georgia,False,26,4,65,0,TD,5,65,True
+401868238,8,West Georgia,Tarleton State,True,27,4,75,58,END OF GAME,3,17,False
+401868266,8,Marist,St. Thomas (MN),True,1,1,75,1,PUNT,7,35,False
+401868266,8,St. Thomas (MN),Marist,False,2,1,99,47,INT,6,31,False
+401868266,8,Marist,St. Thomas (MN),True,3,1,53,0,TD,5,53,True
+401868266,8,St. Thomas (MN),Marist,False,4,1,72,0,TD,12,72,True
+401868266,8,Marist,St. Thomas (MN),True,5,2,77,73,FUMBLE,2,4,False
+401868266,8,St. Thomas (MN),Marist,False,6,2,27,8,TD,4,27,True
+401868266,8,Marist,St. Thomas (MN),True,7,2,75,35,PUNT,5,15,False
+401868266,8,Marist,St. Thomas (MN),True,8,2,35,65,FG,8,16,True
+401868266,8,St. Thomas (MN),Marist,False,9,2,80,0,TD,15,80,True
+401868266,8,Marist,St. Thomas (MN),True,10,2,65,67,END OF HALF,1,-2,False
+401868266,8,St. Thomas (MN),Marist,False,11,3,75,53,DOWNS,6,22,False
+401868266,8,Marist,St. Thomas (MN),True,12,3,47,25,FUMBLE,2,22,False
+401868266,8,St. Thomas (MN),Marist,False,13,3,75,15,PUNT,9,25,False
+401868266,8,Marist,St. Thomas (MN),True,14,3,85,24,PUNT,6,26,False
+401868266,8,St. Thomas (MN),Marist,False,15,3,76,0,TD,7,76,True
+401868266,8,Marist,St. Thomas (MN),True,16,4,75,42,DOWNS,6,33,False
+401868266,8,St. Thomas (MN),Marist,False,17,4,58,71,DOWNS,9,29,False
+401868266,8,Marist,St. Thomas (MN),True,18,4,71,65,FG,5,43,True
+401868266,8,St. Thomas (MN),Marist,False,19,4,44,0,TD,4,44,True
+401868266,8,Marist,St. Thomas (MN),True,20,4,75,20,INT,8,44,False
+401868266,8,St. Thomas (MN),Marist,False,21,4,80,84,END OF GAME,2,-4,False
+401868271,8,Stetson,Morehead State,False,1,1,75,23,PUNT,3,4,False
+401868271,8,Morehead State,Stetson,True,2,1,77,0,TD,8,77,True
+401868271,8,Stetson,Morehead State,False,3,1,75,20,PUNT,5,17,False
+401868271,8,Morehead State,Stetson,True,4,1,80,51,PUNT,3,3,False
+401868271,8,Stetson,Morehead State,False,5,1,49,0,TD,4,49,True
+401868271,8,Morehead State,Stetson,True,6,1,45,0,TD,7,45,True
+401868271,8,Stetson,Morehead State,False,7,1,62,44,DOWNS,8,18,False
+401868271,8,Morehead State,Stetson,True,8,2,56,1,PUNT,3,7,False
+401868271,8,Stetson,Morehead State,False,9,2,99,0,TD,9,99,True
+401868271,8,Morehead State,Stetson,True,10,2,53,69,PUNT,3,2,False
+401868271,8,Stetson,Morehead State,False,11,2,31,0,TD,5,31,True
+401868271,8,Morehead State,Stetson,True,12,2,71,5,DOWNS,9,66,False
+401868271,8,Stetson,Morehead State,False,13,2,95,92,END OF HALF,1,3,False
+401868271,8,Morehead State,Stetson,True,14,3,69,65,FG,6,45,True
+401868271,8,Stetson,Morehead State,False,15,3,65,65,FG,9,57,True
+401868271,8,Morehead State,Stetson,True,16,3,65,0,TD,7,65,True
+401868271,8,Stetson,Morehead State,False,17,3,75,1,PUNT,6,35,False
+401868271,8,Morehead State,Stetson,True,18,3,99,57,PUNT,3,4,False
+401868271,8,Stetson,Morehead State,False,19,3,43,0,INT,5,11,False
+401868271,8,Morehead State,Stetson,True,20,4,80,0,TD,11,80,True
+401868271,8,Stetson,Morehead State,False,21,4,72,44,DOWNS,8,28,False
+401868271,8,Morehead State,Stetson,True,22,4,56,0,TD,8,56,True
+401868271,8,Stetson,Morehead State,False,23,4,74,0,TD,6,74,True
+401868271,8,Morehead State,Stetson,True,24,4,35,63,END OF GAME,3,-7,False
+401868278,8,Presbyterian,Valparaiso,False,1,1,75,85,PUNT,3,-1,False
+401868278,8,Valparaiso,Presbyterian,True,2,1,15,0,TD,3,15,True
+401868278,8,Presbyterian,Valparaiso,False,3,1,85,48,PUNT,4,15,False
+401868278,8,Valparaiso,Presbyterian,True,4,1,52,9,PUNT,3,7,False
+401868278,8,Presbyterian,Valparaiso,False,5,1,91,4,PUNT,7,57,False
+401868278,8,Valparaiso,Presbyterian,True,6,1,96,28,PUNT,6,34,False
+401868278,8,Presbyterian,Valparaiso,False,7,1,72,10,PUNT,5,22,False
+401868278,8,Valparaiso,Presbyterian,True,8,2,90,0,TD,5,90,True
+401868278,8,Presbyterian,Valparaiso,False,9,2,75,19,DOWNS,11,56,False
+401868278,8,Valparaiso,Presbyterian,True,10,2,81,9,FUMBLE,6,72,False
+401868278,8,Presbyterian,Valparaiso,False,11,2,91,0,TD,14,91,True
+401868278,8,Valparaiso,Presbyterian,True,12,2,70,76,MISSED FG,6,59,False
+401868278,8,Valparaiso,Presbyterian,True,13,3,89,31,PUNT,9,31,False
+401868278,8,Presbyterian,Valparaiso,False,14,3,69,41,PUNT,3,-14,False
+401868278,8,Valparaiso,Presbyterian,True,15,3,59,51,FUMBLE,3,8,False
+401868278,8,Presbyterian,Valparaiso,False,16,3,49,50,INT,5,12,False
+401868278,8,Valparaiso,Presbyterian,True,17,3,50,28,DOWNS,7,22,False
+401868278,8,Presbyterian,Valparaiso,False,18,3,72,86,PUNT,4,12,False
+401868278,8,Valparaiso,Presbyterian,True,19,3,14,0,TD,5,14,True
+401868278,8,Presbyterian,Valparaiso,False,20,4,75,41,DOWNS,12,34,False
+401868278,8,Valparaiso,Presbyterian,True,21,4,59,65,FG,7,29,True
+401868278,8,Presbyterian,Valparaiso,False,22,4,76,28,DOWNS,14,48,False
+401868278,8,Valparaiso,Presbyterian,True,23,4,72,61,END OF GAME,3,11,False
+401868311,8,Stephen F. Austin,SE Louisiana,True,1,1,60,0,TD,6,60,True
+401868311,8,SE Louisiana,Stephen F. Austin,False,2,1,75,27,PUNT,3,-9,False
+401868311,8,Stephen F. Austin,SE Louisiana,True,3,1,73,0,TD,8,73,True
+401868311,8,SE Louisiana,Stephen F. Austin,False,4,1,75,6,PUNT,8,33,False
+401868311,8,Stephen F. Austin,SE Louisiana,True,5,1,94,94,FUMBLE,4,1,False
+401868311,8,SE Louisiana,Stephen F. Austin,False,6,1,6,0,TD,3,6,True
+401868311,8,Stephen F. Austin,SE Louisiana,True,7,1,58,0,TD,4,58,True
+401868311,8,SE Louisiana,Stephen F. Austin,False,8,2,75,0,TD,6,75,True
+401868311,8,Stephen F. Austin,SE Louisiana,True,9,2,91,18,PUNT,9,43,False
+401868311,8,SE Louisiana,Stephen F. Austin,False,10,2,82,13,PUNT,6,28,False
+401868311,8,Stephen F. Austin,SE Louisiana,True,11,2,87,43,PUNT,3,5,False
+401868311,8,SE Louisiana,Stephen F. Austin,False,12,2,57,38,MISSED FG,5,22,False
+401868311,8,SE Louisiana,Stephen F. Austin,False,13,3,75,26,PUNT,3,0,False
+401868311,8,SE Louisiana,Stephen F. Austin,False,14,3,26,65,FG,7,20,True
+401868311,8,Stephen F. Austin,SE Louisiana,True,15,3,75,39,PUNT,3,-4,False
+401868311,8,SE Louisiana,Stephen F. Austin,False,16,3,61,12,PUNT,6,19,False
+401868311,8,Stephen F. Austin,SE Louisiana,True,17,3,88,0,TD,2,88,True
+401868311,8,SE Louisiana,Stephen F. Austin,False,18,3,73,100,INT TD,2,-2,True
+401868311,8,SE Louisiana,Stephen F. Austin,False,19,3,78,73,INT,3,3,False
+401868311,8,Stephen F. Austin,SE Louisiana,True,20,3,27,0,TD,5,27,True
+401868311,8,SE Louisiana,Stephen F. Austin,False,21,3,55,11,DOWNS,9,44,False
+401868311,8,Stephen F. Austin,SE Louisiana,True,22,4,89,65,FG,12,79,True
+401868311,8,SE Louisiana,Stephen F. Austin,False,23,4,75,73,TD,2,75,True
+401868311,8,Stephen F. Austin,SE Louisiana,True,24,4,75,45,PUNT,3,3,False
+401868311,8,SE Louisiana,Stephen F. Austin,False,25,4,55,46,DOWNS,4,9,False
+401868311,8,Stephen F. Austin,SE Louisiana,True,26,4,54,0,END OF HALF,4,11,False
+401868341,8,Western Carolina,Chattanooga,True,1,1,48,20,PUNT,9,13,False
+401868341,8,Chattanooga,Western Carolina,False,2,1,80,35,PUNT,6,8,False
+401868341,8,Western Carolina,Chattanooga,True,3,1,65,65,FG,11,55,True
+401868341,8,Chattanooga,Western Carolina,False,4,1,75,9,PUNT,7,29,False
+401868341,8,Western Carolina,Chattanooga,True,5,2,91,11,PUNT,7,41,False
+401868341,8,Chattanooga,Western Carolina,False,6,2,89,0,TD,9,89,True
+401868341,8,Western Carolina,Chattanooga,True,7,2,75,34,PUNT,3,0,False
+401868341,8,Chattanooga,Western Carolina,False,8,2,66,100,PUNT TD,3,-2,True
+401868341,8,Chattanooga,Western Carolina,False,9,2,75,65,FG,9,36,True
+401868341,8,Chattanooga,Western Carolina,False,10,2,65,26,END OF HALF,0,-5,False
+401868341,8,Chattanooga,Western Carolina,False,11,3,75,0,TD,4,75,True
+401868341,8,Western Carolina,Chattanooga,True,12,3,86,1,PUNT,9,44,False
+401868341,8,Chattanooga,Western Carolina,False,13,3,99,94,PUNT,11,48,False
+401868341,8,Western Carolina,Chattanooga,True,14,3,87,40,PUNT,3,-1,False
+401868341,8,Chattanooga,Western Carolina,False,15,3,60,65,FG,8,47,True
+401868341,8,Western Carolina,Chattanooga,True,16,4,75,99,INT,3,17,False
+401868341,8,Chattanooga,Western Carolina,False,17,4,1,0,TD,1,1,True
+401868341,8,Western Carolina,Chattanooga,True,18,4,75,75,INT,2,1,False
+401868341,8,Chattanooga,Western Carolina,False,19,4,25,0,TD,6,25,True
+401868341,8,Western Carolina,Chattanooga,True,20,4,88,0,TD,14,88,True
+401868341,8,Chattanooga,Western Carolina,False,21,4,42,0,TD,2,42,True
+401868341,8,Western Carolina,Chattanooga,True,22,4,75,20,END OF GAME,8,55,False
+401868348,8,East Tennessee State,VMI,False,1,1,75,10,PUNT,5,20,False
+401868348,8,VMI,East Tennessee State,True,2,1,90,18,PUNT,6,21,False
+401868348,8,East Tennessee State,VMI,False,3,1,82,47,PUNT,7,29,False
+401868348,8,VMI,East Tennessee State,True,4,1,90,41,PUNT,3,3,False
+401868348,8,East Tennessee State,VMI,False,5,1,59,0,TD,8,59,True
+401868348,8,VMI,East Tennessee State,True,6,1,75,56,PUNT,7,31,False
+401868348,8,East Tennessee State,VMI,False,7,2,80,20,FG,10,60,True
+401868348,8,VMI,East Tennessee State,True,8,2,81,65,PUNT,3,1,False
+401868348,8,East Tennessee State,VMI,False,9,2,35,0,TD,5,35,True
+401868348,8,VMI,East Tennessee State,True,10,2,75,23,PUNT,6,17,False
+401868348,8,East Tennessee State,VMI,False,11,2,77,63,END OF HALF,2,14,False
+401868348,8,VMI,East Tennessee State,True,12,3,75,28,PUNT,6,3,False
+401868348,8,East Tennessee State,VMI,False,13,3,66,0,TD,8,66,True
+401868348,8,VMI,East Tennessee State,True,14,3,75,14,PUNT,3,4,False
+401868348,8,East Tennessee State,VMI,False,15,3,86,0,TD,14,86,True
+401868348,8,VMI,East Tennessee State,True,16,4,75,22,PUNT,3,7,False
+401868348,8,East Tennessee State,VMI,False,17,4,78,0,TD,11,78,True
+401868348,8,VMI,East Tennessee State,True,18,4,75,71,MISSED FG,6,46,False
+401868348,8,East Tennessee State,VMI,False,19,4,73,28,END OF GAME,9,45,False
+401868377,8,Samford,Furman,False,1,1,75,5,FG,11,70,True
+401868377,8,Furman,Samford,True,2,1,70,37,PUNT,3,7,False
+401868377,8,Samford,Furman,False,3,1,76,13,PUNT,5,26,False
+401868377,8,Furman,Samford,True,4,1,87,19,PUNT,3,6,False
+401868377,8,Samford,Furman,False,5,1,55,65,FG,6,30,True
+401868377,8,Furman,Samford,True,6,1,64,30,INT,6,42,False
+401868377,8,Samford,Furman,False,7,2,70,33,DOWNS,8,37,False
+401868377,8,Furman,Samford,True,8,2,67,50,PUNT,5,17,False
+401868377,8,Samford,Furman,False,9,2,83,34,PUNT,6,17,False
+401868377,8,Furman,Samford,True,10,2,70,52,INT,9,24,False
+401868377,8,Samford,Furman,False,11,2,48,30,END OF HALF,6,18,False
+401868377,8,Furman,Samford,True,12,3,98,7,PUNT,3,5,False
+401868377,8,Samford,Furman,False,13,3,38,13,MISSED FG,6,25,False
+401868377,8,Furman,Samford,True,14,3,80,7,FG,12,73,True
+401868377,8,Samford,Furman,False,15,3,75,20,PUNT,5,31,False
+401868377,8,Furman,Samford,True,16,3,80,19,FG,10,61,True
+401868377,8,Samford,Furman,False,17,4,75,52,PUNT,4,27,False
+401868377,8,Furman,Samford,True,18,4,92,88,FUMBLE,3,3,False
+401868377,8,Samford,Furman,False,19,4,11,3,TD,3,11,True
+401868377,8,Furman,Samford,True,20,4,60,10,PUNT,4,21,False
+401868377,8,Samford,Furman,False,21,4,90,41,PUNT,3,-11,False
+401868377,8,Furman,Samford,True,22,4,41,16,DOWNS,7,25,False
+401868377,8,Samford,Furman,False,23,4,84,86,END OF GAME,2,-2,False
+401868392,8,Tennessee Tech,The Citadel,False,1,1,75,23,PUNT,6,18,False
+401868392,8,The Citadel,Tennessee Tech,True,2,1,77,65,FG,12,42,True
+401868392,8,Tennessee Tech,The Citadel,False,3,1,73,14,TD,9,73,True
+401868392,8,The Citadel,Tennessee Tech,True,4,2,73,30,PUNT,5,19,False
+401868392,8,Tennessee Tech,The Citadel,False,5,2,70,3,FUMBLE TD,6,48,True
+401868392,8,Tennessee Tech,The Citadel,False,6,2,63,0,TD,3,63,True
+401868392,8,The Citadel,Tennessee Tech,True,7,2,87,34,PUNT,3,9,False
+401868392,8,Tennessee Tech,The Citadel,False,8,2,66,23,FUMBLE,7,43,False
+401868392,8,The Citadel,Tennessee Tech,True,9,2,77,78,END OF HALF,1,-1,False
+401868392,8,The Citadel,Tennessee Tech,True,10,3,75,91,FUMBLE,3,-3,False
+401868392,8,Tennessee Tech,The Citadel,False,11,3,9,0,TD,1,9,True
+401868392,8,The Citadel,Tennessee Tech,True,12,3,75,25,PUNT,3,3,False
+401868392,8,Tennessee Tech,The Citadel,False,13,3,75,15,PUNT,6,18,False
+401868392,8,The Citadel,Tennessee Tech,True,14,3,85,31,PUNT,9,24,False
+401868392,8,Tennessee Tech,The Citadel,False,15,3,69,3,PUNT,7,21,False
+401868392,8,The Citadel,Tennessee Tech,True,16,4,97,65,FG,11,82,True
+401868392,8,Tennessee Tech,The Citadel,False,17,4,73,0,TD,7,73,True
+401868392,8,The Citadel,Tennessee Tech,True,18,4,75,55,DOWNS,6,20,False
+401868392,8,Tennessee Tech,The Citadel,False,19,4,45,49,END OF GAME,2,-4,False
+401868937,8,Florida A&M,Arkansas-Pine Bluff,True,1,1,75,60,PUNT,4,-11,False
+401868937,8,Arkansas-Pine Bluff,Florida A&M,False,2,1,40,0,TD,7,40,True
+401868937,8,Florida A&M,Arkansas-Pine Bluff,True,3,1,71,65,FG,14,65,True
+401868937,8,Arkansas-Pine Bluff,Florida A&M,False,4,1,70,72,PUNT,3,2,False
+401868937,8,Florida A&M,Arkansas-Pine Bluff,True,5,1,28,65,FG,6,9,True
+401868937,8,Arkansas-Pine Bluff,Florida A&M,False,6,2,56,15,PUNT,3,6,False
+401868937,8,Florida A&M,Arkansas-Pine Bluff,True,7,2,85,8,TD,5,85,True
+401868937,8,Arkansas-Pine Bluff,Florida A&M,False,8,2,75,23,PUNT,3,7,False
+401868937,8,Florida A&M,Arkansas-Pine Bluff,True,9,2,77,23,PUNT,3,6,False
+401868937,8,Arkansas-Pine Bluff,Florida A&M,False,10,2,77,0,TD,10,77,True
+401868937,8,Florida A&M,Arkansas-Pine Bluff,True,11,2,75,31,MISSED FG,9,44,False
+401868937,8,Florida A&M,Arkansas-Pine Bluff,True,12,3,65,0,TD,2,17,True
+401868937,8,Arkansas-Pine Bluff,Florida A&M,False,13,3,84,0,TD,11,84,True
+401868937,8,Florida A&M,Arkansas-Pine Bluff,True,14,3,75,50,PUNT,3,-12,False
+401868937,8,Arkansas-Pine Bluff,Florida A&M,False,15,3,50,0,TD,7,50,True
+401868937,8,Florida A&M,Arkansas-Pine Bluff,True,16,3,75,36,DOWNS,8,39,False
+401868937,8,Arkansas-Pine Bluff,Florida A&M,False,17,3,64,40,PUNT,3,3,False
+401868937,8,Florida A&M,Arkansas-Pine Bluff,True,18,4,60,65,FG,6,34,True
+401868937,8,Arkansas-Pine Bluff,Florida A&M,False,19,4,75,45,PUNT,3,3,False
+401868937,8,Florida A&M,Arkansas-Pine Bluff,True,20,4,55,33,DOWNS,5,22,False
+401868937,8,Arkansas-Pine Bluff,Florida A&M,False,21,4,67,65,FG,9,56,True
+401868937,8,Florida A&M,Arkansas-Pine Bluff,True,22,4,61,0,TD,1,61,True
+401868937,8,Arkansas-Pine Bluff,Florida A&M,False,23,4,75,52,END OF GAME,7,23,False
+401868944,8,Bethune-Cookman,Jackson State,True,1,1,79,31,PUNT,3,3,False
+401868944,8,Jackson State,Bethune-Cookman,False,2,1,69,24,MISSED FG,10,45,False
+401868944,8,Bethune-Cookman,Jackson State,True,3,1,76,24,PUNT,3,6,False
+401868944,8,Jackson State,Bethune-Cookman,False,4,1,76,79,DOWNS,4,-3,False
+401868944,8,Bethune-Cookman,Jackson State,True,5,1,21,0,TD,1,21,True
+401868944,8,Jackson State,Bethune-Cookman,False,6,1,65,35,PUNT,3,-12,False
+401868944,8,Bethune-Cookman,Jackson State,True,7,1,65,0,TD,8,65,True
+401868944,8,Jackson State,Bethune-Cookman,False,8,1,82,64,FUMBLE,7,18,False
+401868944,8,Bethune-Cookman,Jackson State,True,9,2,36,13,PUNT,3,-9,False
+401868944,8,Jackson State,Bethune-Cookman,False,10,2,87,45,PUNT,5,20,False
+401868944,8,Bethune-Cookman,Jackson State,True,11,2,55,25,PUNT,3,2,False
+401868944,8,Jackson State,Bethune-Cookman,False,12,2,75,0,TD,6,75,True
+401868944,8,Bethune-Cookman,Jackson State,True,13,2,53,65,FG,7,48,True
+401868944,8,Jackson State,Bethune-Cookman,False,14,2,75,76,END OF HALF,1,-1,False
+401868944,8,Jackson State,Bethune-Cookman,False,15,3,69,1,PUNT,5,18,False
+401868944,8,Bethune-Cookman,Jackson State,True,16,3,99,53,PUNT,3,9,False
+401868944,8,Jackson State,Bethune-Cookman,False,17,3,47,0,TD,5,47,True
+401868944,8,Bethune-Cookman,Jackson State,True,18,3,83,28,PUNT,3,-1,False
+401868944,8,Jackson State,Bethune-Cookman,False,19,3,72,33,PUNT,3,2,False
+401868944,8,Bethune-Cookman,Jackson State,True,20,3,67,16,DOWNS,9,51,False
+401868944,8,Jackson State,Bethune-Cookman,False,21,3,84,38,PUNT,3,1,False
+401868944,8,Bethune-Cookman,Jackson State,True,22,4,62,20,PUNT,7,18,False
+401868944,8,Jackson State,Bethune-Cookman,False,23,4,80,12,PUNT,6,34,False
+401868944,8,Bethune-Cookman,Jackson State,True,24,4,88,100,DOWNS,7,-11,False
+401868944,8,Jackson State,Bethune-Cookman,False,25,4,1,0,TD,1,1,True
+401868944,8,Bethune-Cookman,Jackson State,True,26,4,75,0,TD,8,75,True
+401868944,8,Jackson State,Bethune-Cookman,False,27,4,66,32,MISSED FG,7,34,False
+401868969,8,East Texas A&M,Prairie View A&M,True,1,1,75,65,FG,13,66,True
+401868969,8,Prairie View A&M,East Texas A&M,False,2,1,44,57,PUNT,3,1,False
+401868969,8,East Texas A&M,Prairie View A&M,True,3,1,80,8,FG,13,72,True
+401868969,8,Prairie View A&M,East Texas A&M,False,4,1,65,3,TD,8,65,True
+401868969,8,East Texas A&M,Prairie View A&M,True,5,2,51,2,PUNT,3,-2,False
+401868969,8,Prairie View A&M,East Texas A&M,False,6,2,98,41,FUMBLE,8,32,False
+401868969,8,East Texas A&M,Prairie View A&M,True,7,2,34,29,FUMBLE,7,5,False
+401868969,8,Prairie View A&M,East Texas A&M,False,8,2,71,0,TD,6,71,True
+401868969,8,East Texas A&M,Prairie View A&M,True,9,2,74,45,END OF HALF,6,44,False
+401868969,8,Prairie View A&M,East Texas A&M,False,10,3,65,65,FG,7,37,True
+401868969,8,East Texas A&M,Prairie View A&M,True,11,3,88,21,PUNT,3,9,False
+401868969,8,Prairie View A&M,East Texas A&M,False,12,3,55,52,PUNT,6,7,False
+401868969,8,East Texas A&M,Prairie View A&M,True,13,3,83,22,PUNT,3,5,False
+401868969,8,Prairie View A&M,East Texas A&M,False,14,3,68,3,TD,10,68,True
+401868969,8,East Texas A&M,Prairie View A&M,True,15,4,69,0,TD,12,69,True
+401868969,8,East Texas A&M,Prairie View A&M,True,16,4,65,0,TD,1,24,True
+401868969,8,Prairie View A&M,East Texas A&M,False,17,4,59,0,TD,2,59,True
+401868969,8,East Texas A&M,Prairie View A&M,True,18,4,75,36,DOWNS,9,39,False
+401868969,8,Prairie View A&M,East Texas A&M,False,19,4,64,9,PUNT,9,24,False
+401868969,8,East Texas A&M,Prairie View A&M,True,20,4,91,41,END OF HALF,10,50,False
+401868972,8,Texas Southern,Southern,True,1,1,59,19,PUNT,3,6,False
+401868972,8,Southern,Texas Southern,False,2,1,81,0,TD,10,81,True
+401868972,8,Texas Southern,Southern,True,3,1,51,29,PUNT,3,0,False
+401868972,8,Southern,Texas Southern,False,4,1,71,19,PUNT,4,13,False
+401868972,8,Texas Southern,Southern,True,5,1,81,55,PUNT,3,-4,False
+401868972,8,Southern,Texas Southern,False,6,1,45,35,MISSED FG,5,25,False
+401868972,8,Texas Southern,Southern,True,7,1,53,0,TD,10,53,True
+401868972,8,Southern,Texas Southern,False,8,2,79,55,PUNT,3,8,False
+401868972,8,Texas Southern,Southern,True,9,2,55,0,TD,2,55,True
+401868972,8,Southern,Texas Southern,False,10,2,65,76,DOWNS,15,41,False
+401868972,8,Texas Southern,Southern,True,11,2,76,58,END OF HALF,5,18,False
+401868972,8,Southern,Texas Southern,False,12,3,80,57,FUMBLE,5,23,False
+401868972,8,Texas Southern,Southern,True,13,3,43,0,TD,3,43,True
+401868972,8,Southern,Texas Southern,False,14,3,75,0,TD,9,75,True
+401868972,8,Texas Southern,Southern,True,15,3,60,5,PUNT,6,19,False
+401868972,8,Southern,Texas Southern,False,16,3,95,61,PUNT,11,56,False
+401868972,8,Texas Southern,Southern,True,17,4,96,55,PUNT,7,11,False
+401868972,8,Southern,Texas Southern,False,18,4,45,0,TD,5,45,True
+401868972,8,Texas Southern,Southern,True,19,4,65,68,FG,10,36,True
+401869133,8,Northwestern State,Nicholls,True,1,1,87,0,TD,3,87,True
+401869133,8,Nicholls,Northwestern State,False,2,1,75,20,PUNT,6,18,False
+401869133,8,Northwestern State,Nicholls,True,3,1,80,36,PUNT,3,6,False
+401869133,8,Nicholls,Northwestern State,False,4,1,64,3,PUNT,3,6,False
+401869133,8,Northwestern State,Nicholls,True,5,1,97,34,PUNT,5,17,False
+401869133,8,Nicholls,Northwestern State,False,6,1,66,20,PUNT,6,23,False
+401869133,8,Northwestern State,Nicholls,True,7,1,80,62,PUNT,3,1,False
+401869133,8,Nicholls,Northwestern State,False,8,1,38,65,FG,10,29,True
+401869133,8,Northwestern State,Nicholls,True,9,2,52,0,MISSED FG,10,35,False
+401869133,8,Nicholls,Northwestern State,False,10,2,80,0,TD,6,80,True
+401869133,8,Northwestern State,Nicholls,True,11,2,75,0,TD,15,75,True
+401869133,8,Nicholls,Northwestern State,False,12,2,75,54,END OF HALF,10,21,False
+401869133,8,Nicholls,Northwestern State,False,13,3,68,0,TD,6,68,True
+401869133,8,Northwestern State,Nicholls,True,14,3,75,0,TD,11,75,True
+401869133,8,Nicholls,Northwestern State,False,15,3,67,0,TD,6,67,True
+401869133,8,Northwestern State,Nicholls,True,16,3,65,39,DOWNS,10,26,False
+401869133,8,Nicholls,Northwestern State,False,17,4,61,0,TD,6,61,True
+401869133,8,Northwestern State,Nicholls,True,18,4,75,13,PUNT,9,19,False
+401869133,8,Nicholls,Northwestern State,False,19,4,87,35,PUNT,3,6,False
+401869133,8,Northwestern State,Nicholls,True,20,4,65,0,TD,6,65,True
+401869133,8,Nicholls,Northwestern State,False,21,4,63,14,PUNT,6,11,False
+401869133,8,Northwestern State,Nicholls,True,22,4,86,85,END OF GAME,13,71,False
+401869138,8,McNeese,Incarnate Word,False,1,1,73,73,FUMBLE,3,0,False
+401869138,8,Incarnate Word,McNeese,True,2,1,27,0,TD,1,27,True
+401869138,8,McNeese,Incarnate Word,False,3,1,75,20,PUNT,6,26,False
+401869138,8,Incarnate Word,McNeese,True,4,1,80,35,DOWNS,10,45,False
+401869138,8,McNeese,Incarnate Word,False,5,1,65,10,PUNT,3,2,False
+401869138,8,Incarnate Word,McNeese,True,6,1,90,15,PUNT,6,48,False
+401869138,8,McNeese,Incarnate Word,False,7,1,85,71,INT,9,32,False
+401869138,8,Incarnate Word,McNeese,True,8,1,71,21,MISSED FG,8,50,False
+401869138,8,McNeese,Incarnate Word,False,9,2,79,34,PUNT,3,9,False
+401869138,8,Incarnate Word,McNeese,True,10,2,66,56,PUNT,3,-4,False
+401869138,8,McNeese,Incarnate Word,False,11,2,44,28,DOWNS,6,16,False
+401869138,8,Incarnate Word,McNeese,True,12,2,72,0,TD,8,72,True
+401869138,8,McNeese,Incarnate Word,False,13,2,75,44,PUNT,3,-4,False
+401869138,8,Incarnate Word,McNeese,True,14,2,56,0,TD,1,56,True
+401869138,8,McNeese,Incarnate Word,False,15,2,75,0,TD,2,75,True
+401869138,8,Incarnate Word,McNeese,True,16,2,75,0,TD,6,75,True
+401869138,8,McNeese,Incarnate Word,False,17,2,75,77,END OF HALF,1,-2,False
+401869138,8,Incarnate Word,McNeese,True,18,3,75,11,PUNT,4,17,False
+401869138,8,McNeese,Incarnate Word,False,19,3,89,27,DOWNS,12,62,False
+401869138,8,Incarnate Word,McNeese,True,20,3,73,22,PUNT,3,9,False
+401869138,8,McNeese,Incarnate Word,False,21,3,78,30,PUNT,3,7,False
+401869138,8,Incarnate Word,McNeese,True,22,3,70,25,PUNT,3,1,False
+401869138,8,McNeese,Incarnate Word,False,23,3,75,28,PUNT,3,-2,False
+401869138,8,Incarnate Word,McNeese,True,24,3,72,0,TD,6,72,True
+401869138,8,McNeese,Incarnate Word,False,25,4,75,54,PUNT,3,2,False
+401869138,8,Incarnate Word,McNeese,True,26,4,46,65,FG,9,36,True
+401869138,8,McNeese,Incarnate Word,False,27,4,75,19,PUNT,3,8,False
+401869138,8,Incarnate Word,McNeese,True,28,4,81,30,PUNT,4,18,False
+401869138,8,McNeese,Incarnate Word,False,29,4,70,8,END OF GAME,6,62,False
+401869145,8,Lamar,Houston Christian,True,1,1,75,67,PUNT,3,4,False
+401869145,8,Houston Christian,Lamar,False,2,1,33,20,PUNT,3,-12,False
+401869145,8,Lamar,Houston Christian,True,3,1,80,30,MISSED FG,9,50,False
+401869145,8,Houston Christian,Lamar,False,4,1,70,65,FG,13,62,True
+401869145,8,Lamar,Houston Christian,True,5,1,75,0,TD,7,75,True
+401869145,8,Houston Christian,Lamar,False,6,2,63,36,PUNT,3,-1,False
+401869145,8,Lamar,Houston Christian,True,7,2,64,20,PUNT,6,15,False
+401869145,8,Houston Christian,Lamar,False,8,2,80,89,FUMBLE,3,-9,False
+401869145,8,Lamar,Houston Christian,True,9,2,11,0,TD,4,11,True
+401869145,8,Houston Christian,Lamar,False,10,2,75,10,PUNT,8,24,False
+401869145,8,Lamar,Houston Christian,True,11,2,90,100,INT TD,7,33,True
+401869145,8,Lamar,Houston Christian,True,12,2,24,22,END OF HALF,1,2,False
+401869145,8,Houston Christian,Lamar,False,13,3,85,68,FUMBLE,3,20,False
+401869145,8,Lamar,Houston Christian,True,14,3,32,8,TD,5,32,True
+401869145,8,Houston Christian,Lamar,False,15,3,53,8,PUNT,3,1,False
+401869145,8,Lamar,Houston Christian,True,16,3,92,0,TD,11,92,True
+401869145,8,Houston Christian,Lamar,False,17,3,69,23,INT,6,30,False
+401869145,8,Lamar,Houston Christian,True,18,3,46,0,TD,6,46,True
+401869145,8,Houston Christian,Lamar,False,19,4,75,23,MISSED FG,11,52,False
+401869145,8,Lamar,Houston Christian,True,20,4,77,8,PUNT,6,31,False
+401869145,8,Houston Christian,Lamar,False,21,4,92,46,PUNT,3,8,False
+401869145,8,Lamar,Houston Christian,True,22,4,54,16,END OF GAME,7,38,False
+401869845,8,James Madison,App State,False,1,1,75,0,TD,8,75,True
+401869845,8,App State,James Madison,True,2,1,75,27,PUNT,3,2,False
+401869845,8,James Madison,App State,False,3,1,67,23,PUNT,3,4,False
+401869845,8,App State,James Madison,True,4,1,77,20,PUNT,6,-3,False
+401869845,8,James Madison,App State,False,5,1,49,90,PUNT,3,14,False
+401869845,8,App State,James Madison,True,6,1,90,45,PUNT,4,16,False
+401869845,8,James Madison,App State,False,7,1,55,11,PUNT,3,4,False
+401869845,8,App State,James Madison,True,8,1,89,38,PUNT,3,5,False
+401869845,8,James Madison,App State,False,9,1,62,20,PUNT,3,-3,False
+401869845,8,App State,James Madison,True,10,1,80,30,FG,6,50,True
+401869845,8,James Madison,App State,False,11,2,75,55,PUNT,5,30,False
+401869845,8,App State,James Madison,True,12,2,98,62,PUNT,3,1,False
+401869845,8,James Madison,App State,False,13,2,38,100,MISSED FG,4,8,False
+401869845,8,App State,James Madison,True,14,2,70,19,PUNT,3,-11,False
+401869845,8,James Madison,App State,False,15,2,70,0,TD,1,70,True
+401869845,8,App State,James Madison,True,16,2,75,0,TD,10,75,True
+401869845,8,James Madison,App State,False,17,2,75,66,END OF HALF,2,9,False
+401869845,8,App State,James Madison,True,18,3,75,9,FG,11,66,True
+401869845,8,James Madison,App State,False,19,3,75,47,PUNT,5,22,False
+401869845,8,App State,James Madison,True,20,3,79,29,PUNT,5,13,False
+401869845,8,James Madison,App State,False,21,3,67,3,TD,11,67,True
+401869845,8,App State,James Madison,True,22,3,75,3,TD,10,75,True
+401869845,8,James Madison,App State,False,23,4,75,28,FG,8,47,True
+401869845,8,App State,James Madison,True,24,4,75,18,FG,7,57,True
+401869845,8,James Madison,App State,False,25,4,75,65,INT,1,0,False
+401869845,8,App State,James Madison,True,26,4,14,0,TD,1,14,True
+401869845,8,James Madison,App State,False,27,4,75,30,PUNT,3,-11,False
+401869845,8,App State,James Madison,True,28,4,70,29,PUNT,3,-7,False
+401869845,8,James Madison,App State,False,29,4,71,0,TD,15,71,True
+401869845,8,App State,James Madison,True,30,4,75,0,END OF HALF,1,-1,False
+401869845,8,James Madison,App State,False,31,5,25,29,MISSED FG,4,-4,False
+401869845,8,App State,James Madison,True,32,5,25,35,FG,3,3,True
+401869935,8,Georgia State,Arkansas State,False,1,1,75,60,PUNT,3,-16,False
+401869935,8,Arkansas State,Georgia State,True,2,1,40,0,TD,3,40,True
+401869935,8,Georgia State,Arkansas State,False,3,1,75,31,MISSED FG,12,44,False
+401869935,8,Arkansas State,Georgia State,True,4,1,69,24,PUNT,3,9,False
+401869935,8,Georgia State,Arkansas State,False,5,1,76,21,PUNT,3,9,False
+401869935,8,Arkansas State,Georgia State,True,6,1,79,26,MISSED FG,11,53,False
+401869935,8,Georgia State,Arkansas State,False,7,2,74,0,TD,9,74,True
+401869935,8,Arkansas State,Georgia State,True,8,2,75,0,TD,8,75,True
+401869935,8,Georgia State,Arkansas State,False,9,2,75,0,TD,8,75,True
+401869935,8,Arkansas State,Georgia State,True,10,2,75,77,END OF HALF,1,-2,False
+401869935,8,Arkansas State,Georgia State,True,11,3,70,25,MISSED FG,8,45,False
+401869935,8,Georgia State,Arkansas State,False,12,3,75,27,INT,2,2,False
+401869935,8,Arkansas State,Georgia State,True,13,3,54,3,TD,1,54,True
+401869935,8,Georgia State,Arkansas State,False,14,3,90,0,TD,3,90,True
+401869935,8,Arkansas State,Georgia State,True,15,3,62,0,TD,6,62,True
+401869935,8,Georgia State,Arkansas State,False,16,3,75,32,PUNT,3,5,False
+401869935,8,Arkansas State,Georgia State,True,17,3,68,3,TD,12,68,True
+401869935,8,Georgia State,Arkansas State,False,18,4,81,24,PUNT,3,5,False
+401869935,8,Arkansas State,Georgia State,True,19,4,58,9,FG,6,49,True
+401869935,8,Georgia State,Arkansas State,False,20,4,75,0,TD,4,75,True
+401869935,8,Arkansas State,Georgia State,True,21,4,75,45,PUNT,3,0,False
+401869935,8,Georgia State,Arkansas State,False,22,4,55,65,FG,5,40,True
+401869935,8,Arkansas State,Georgia State,True,23,4,75,13,PUNT,6,28,False
+401869935,8,Georgia State,Arkansas State,False,24,4,87,6,INT,7,46,False
+401869935,8,Arkansas State,Georgia State,True,25,4,94,96,END OF GAME,1,-2,False
+401869967,8,Louisiana,Southern Miss,False,1,1,75,3,TD,13,75,True
+401869967,8,Southern Miss,Louisiana,True,2,1,82,12,PUNT,3,-6,False
+401869967,8,Louisiana,Southern Miss,False,3,1,35,67,DOWNS,4,2,False
+401869967,8,Southern Miss,Louisiana,True,4,1,67,0,TD,7,67,True
+401869967,8,Louisiana,Southern Miss,False,5,1,75,50,PUNT,3,-1,False
+401869967,8,Southern Miss,Louisiana,True,6,1,50,3,TD,10,50,True
+401869967,8,Louisiana,Southern Miss,False,7,2,65,23,PUNT,3,-12,False
+401869967,8,Southern Miss,Louisiana,True,8,2,67,58,DOWNS,4,9,False
+401869967,8,Louisiana,Southern Miss,False,9,2,42,3,TD,1,42,True
+401869967,8,Southern Miss,Louisiana,True,10,2,75,63,FUMBLE,4,12,False
+401869967,8,Louisiana,Southern Miss,False,11,2,37,33,MISSED FG,4,3,False
+401869967,8,Southern Miss,Louisiana,True,12,2,66,15,PUNT,4,18,False
+401869967,8,Louisiana,Southern Miss,False,13,2,85,34,PUNT,3,6,False
+401869967,8,Southern Miss,Louisiana,True,14,2,66,0,TD,10,66,True
+401869967,8,Louisiana,Southern Miss,False,15,2,83,0,TD,6,83,True
+401869967,8,Southern Miss,Louisiana,True,16,2,88,72,END OF HALF,3,16,False
+401869967,8,Southern Miss,Louisiana,True,17,3,92,36,PUNT,4,28,False
+401869967,8,Louisiana,Southern Miss,False,18,3,78,67,DOWNS,6,45,False
+401869967,8,Southern Miss,Louisiana,True,19,3,67,34,DOWNS,5,33,False
+401869967,8,Louisiana,Southern Miss,False,20,3,66,39,PUNT,3,5,False
+401869967,8,Southern Miss,Louisiana,True,21,3,80,24,MISSED FG,7,56,False
+401869967,8,Louisiana,Southern Miss,False,22,3,76,0,TD,8,76,True
+401869967,8,Southern Miss,Louisiana,True,23,3,75,77,DOWNS,7,52,False
+401869967,8,Louisiana,Southern Miss,False,24,3,77,23,PUNT,3,0,False
+401869967,8,Southern Miss,Louisiana,True,25,4,50,8,PUNT,5,7,False
+401869967,8,Louisiana,Southern Miss,False,26,4,92,70,INT TD,5,17,True
+401869967,8,Louisiana,Southern Miss,False,27,4,79,65,FG,17,74,True
+401869967,8,Southern Miss,Louisiana,True,28,4,75,0,TD,8,75,True
+401869967,8,Louisiana,Southern Miss,False,29,4,54,53,DOWNS,4,1,False
+401869967,8,Southern Miss,Louisiana,True,30,4,47,51,END OF HALF,1,-4,False
+401870841,8,Pennsylvania,Yale,True,1,1,83,43,PUNT,3,7,False
+401870841,8,Yale,Pennsylvania,False,2,1,57,0,TD,4,57,True
+401870841,8,Pennsylvania,Yale,True,3,1,75,0,TD,8,75,True
+401870841,8,Yale,Pennsylvania,False,4,1,88,80,DOWNS,4,8,False
+401870841,8,Pennsylvania,Yale,True,5,1,20,0,TD,4,20,True
+401870841,8,Yale,Pennsylvania,False,6,1,80,28,PUNT,6,16,False
+401870841,8,Pennsylvania,Yale,True,7,1,72,36,DOWNS,7,36,False
+401870841,8,Yale,Pennsylvania,False,8,2,64,2,INT,8,32,False
+401870841,8,Pennsylvania,Yale,True,9,2,98,65,PUNT,3,5,False
+401870841,8,Yale,Pennsylvania,False,10,2,35,15,TD,2,35,True
+401870841,8,Pennsylvania,Yale,True,11,2,83,12,PUNT,3,8,False
+401870841,8,Yale,Pennsylvania,False,12,2,88,38,PUNT,3,7,False
+401870841,8,Pennsylvania,Yale,True,13,2,62,30,PUNT,3,4,False
+401870841,8,Yale,Pennsylvania,False,14,2,70,0,TD,7,70,True
+401870841,8,Pennsylvania,Yale,True,15,2,75,66,END OF HALF,2,9,False
+401870841,8,Yale,Pennsylvania,False,16,3,81,20,PUNT,4,29,False
+401870841,8,Pennsylvania,Yale,True,17,3,80,64,PUNT,3,9,False
+401870841,8,Yale,Pennsylvania,False,18,3,36,0,INT,5,30,False
+401870841,8,Pennsylvania,Yale,True,19,3,80,10,PUNT,7,34,False
+401870841,8,Yale,Pennsylvania,False,20,3,90,57,INT,4,19,False
+401870841,8,Pennsylvania,Yale,True,21,3,43,65,FG,7,18,True
+401870841,8,Yale,Pennsylvania,False,22,4,93,44,PUNT,6,7,False
+401870841,8,Pennsylvania,Yale,True,23,4,56,0,TD,9,56,True
+401870841,8,Yale,Pennsylvania,False,24,4,75,33,PUNT,3,2,False
+401870841,8,Pennsylvania,Yale,True,25,4,67,23,PUNT,5,12,False
+401870841,8,Yale,Pennsylvania,False,26,4,77,20,INT,5,25,False
+401870841,8,Pennsylvania,Yale,True,27,4,80,47,PUNT,3,2,False
+401870841,8,Yale,Pennsylvania,False,28,4,53,31,MISSED FG,5,22,False
+401870841,8,Pennsylvania,Yale,True,29,4,69,86,END OF HALF,1,-17,False
+401871055,8,Florida International,Middle Tennessee,True,1,1,78,25,PUNT,4,19,False
+401871055,8,Middle Tennessee,Florida International,False,2,1,75,49,PUNT,3,7,False
+401871055,8,Florida International,Middle Tennessee,True,3,1,49,1,TD,0,48,True
+401871055,8,Middle Tennessee,Florida International,False,4,1,72,3,TD,1,49,True
+401871055,8,Florida International,Middle Tennessee,True,5,1,75,68,INT,2,1,False
+401871055,8,Middle Tennessee,Florida International,False,6,1,32,1,DOWNS,6,31,False
+401871055,8,Florida International,Middle Tennessee,True,7,1,99,50,PUNT,3,8,False
+401871055,8,Middle Tennessee,Florida International,False,8,1,50,65,FG,5,17,True
+401871055,8,Florida International,Middle Tennessee,True,9,2,45,9,PUNT,3,2,False
+401871055,8,Middle Tennessee,Florida International,False,10,2,91,27,PUNT,4,24,False
+401871055,8,Florida International,Middle Tennessee,True,11,2,73,42,DOWNS,6,31,False
+401871055,8,Middle Tennessee,Florida International,False,12,2,58,9,PUNT,3,8,False
+401871055,8,Florida International,Middle Tennessee,True,13,2,91,50,PUNT,5,23,False
+401871055,8,Middle Tennessee,Florida International,False,14,2,50,65,FG,9,29,True
+401871055,8,Florida International,Middle Tennessee,True,15,2,73,20,MISSED FG,7,44,False
+401871055,8,Middle Tennessee,Florida International,False,16,3,90,53,PUNT,3,4,False
+401871055,8,Florida International,Middle Tennessee,True,17,3,47,43,DOWNS,4,4,False
+401871055,8,Middle Tennessee,Florida International,False,18,3,57,65,FG,5,25,True
+401871055,8,Florida International,Middle Tennessee,True,19,3,75,0,TD,12,75,True
+401871055,8,Middle Tennessee,Florida International,False,20,3,75,0,TD,4,75,True
+401871055,8,Florida International,Middle Tennessee,True,21,3,65,11,PUNT,4,16,False
+401871055,8,Middle Tennessee,Florida International,False,22,4,89,65,FG,9,79,True
+401871055,8,Florida International,Middle Tennessee,True,23,4,75,0,TD,8,75,True
+401871055,8,Middle Tennessee,Florida International,False,24,4,75,4,END OF GAME,11,71,False
+401871056,8,Kennesaw State,Liberty,True,1,1,68,15,PUNT,4,24,False
+401871056,8,Liberty,Kennesaw State,False,2,1,85,0,TD,11,85,True
+401871056,8,Kennesaw State,Liberty,True,3,1,75,24,PUNT,3,9,False
+401871056,8,Liberty,Kennesaw State,False,4,1,76,40,PUNT,3,-4,False
+401871056,8,Kennesaw State,Liberty,True,5,1,60,28,DOWNS,6,32,False
+401871056,8,Liberty,Kennesaw State,False,6,1,72,0,TD,3,72,True
+401871056,8,Kennesaw State,Liberty,True,7,1,84,38,PUNT,3,0,False
+401871056,8,Liberty,Kennesaw State,False,8,2,62,11,PUNT,5,3,False
+401871056,8,Kennesaw State,Liberty,True,9,2,89,25,PUNT,5,25,False
+401871056,8,Liberty,Kennesaw State,False,10,2,75,15,PUNT,6,24,False
+401871056,8,Kennesaw State,Liberty,True,11,2,85,65,FG,12,65,True
+401871056,8,Liberty,Kennesaw State,False,12,2,75,76,END OF HALF,1,-1,False
+401871056,8,Liberty,Kennesaw State,False,13,3,75,9,PUNT,7,27,False
+401871056,8,Kennesaw State,Liberty,True,14,3,91,88,INT,1,0,False
+401871056,8,Liberty,Kennesaw State,False,15,3,12,65,FG,4,0,True
+401871056,8,Kennesaw State,Liberty,True,16,3,77,37,INT,14,44,False
+401871056,8,Liberty,Kennesaw State,False,17,3,63,0,TD,7,63,True
+401871056,8,Kennesaw State,Liberty,True,18,3,85,24,DOWNS,4,9,False
+401871056,8,Liberty,Kennesaw State,False,19,3,24,65,FG,4,-7,True
+401871056,8,Kennesaw State,Liberty,True,20,4,95,30,PUNT,6,19,False
+401871056,8,Liberty,Kennesaw State,False,21,4,70,0,TD,11,70,True
+401871056,8,Kennesaw State,Liberty,True,22,4,75,65,FG,12,65,True
+401871056,8,Liberty,Kennesaw State,False,23,4,75,63,END OF HALF,2,12,False
+401871069,8,Missouri State,Delaware,False,1,1,75,32,MISSED FG,7,43,False
+401871069,8,Delaware,Missouri State,True,2,1,68,0,TD,8,68,True
+401871069,8,Missouri State,Delaware,False,3,1,75,0,TD,10,75,True
+401871069,8,Delaware,Missouri State,True,4,1,80,53,INT TD,9,27,True
+401871069,8,Delaware,Missouri State,True,5,1,65,0,TD,7,65,True
+401871069,8,Missouri State,Delaware,False,6,2,75,38,PUNT,3,-4,False
+401871069,8,Delaware,Missouri State,True,7,2,62,0,TD,5,62,True
+401871069,8,Missouri State,Delaware,False,8,2,82,0,TD,9,82,True
+401871069,8,Delaware,Missouri State,True,9,2,70,65,FG,6,55,True
+401871069,8,Missouri State,Delaware,False,10,2,78,0,TD,8,78,True
+401871069,8,Delaware,Missouri State,True,11,2,0,0,END OF HALF,1,0,False
+401871069,8,Delaware,Missouri State,True,12,3,34,0,TD,4,34,True
+401871069,8,Missouri State,Delaware,False,13,3,82,0,TD,5,82,True
+401871069,8,Delaware,Missouri State,True,14,3,33,0,TD,5,33,True
+401871069,8,Missouri State,Delaware,False,15,3,55,96,FUMBLE,4,18,False
+401871069,8,Delaware,Missouri State,True,16,3,4,0,TD,4,4,True
+401871069,8,Missouri State,Delaware,False,17,3,66,34,INT,2,-5,False
+401871069,8,Delaware,Missouri State,True,18,3,66,0,TD,10,66,True
+401871069,8,Missouri State,Delaware,False,19,4,75,77,INT,2,-5,False
+401871069,8,Delaware,Missouri State,True,20,4,23,0,TD,4,23,True
+401871069,8,Missouri State,Delaware,False,21,4,75,59,PUNT,3,-2,False
+401871069,8,Delaware,Missouri State,True,22,4,41,65,FG,6,34,True
+401871069,8,Missouri State,Delaware,False,23,4,75,65,FG,7,64,True
+401871069,8,Delaware,Missouri State,True,24,4,75,0,END OF GAME,8,46,False
+401871070,8,New Mexico State,Sam Houston,False,1,1,75,100,PUNT TD,3,-3,True
+401871070,8,New Mexico State,Sam Houston,False,2,1,75,29,PUNT,3,9,False
+401871070,8,Sam Houston,New Mexico State,True,3,1,71,18,PUNT,3,9,False
+401871070,8,New Mexico State,Sam Houston,False,4,1,82,100,DOWNS,6,27,False
+401871070,8,Sam Houston,New Mexico State,True,5,1,45,7,PUNT,5,6,False
+401871070,8,New Mexico State,Sam Houston,False,6,1,93,26,PUNT,8,23,False
+401871070,8,Sam Houston,New Mexico State,True,7,2,74,30,PUNT,3,1,False
+401871070,8,New Mexico State,Sam Houston,False,8,2,70,9,PUNT,6,17,False
+401871070,8,Sam Houston,New Mexico State,True,9,2,91,99,INT,1,0,False
+401871070,8,New Mexico State,Sam Houston,False,10,2,1,0,TD,1,1,True
+401871070,8,Sam Houston,New Mexico State,True,11,2,79,24,PUNT,3,3,False
+401871070,8,New Mexico State,Sam Houston,False,12,2,76,80,FUMBLE,2,-4,False
+401871070,8,Sam Houston,New Mexico State,True,13,2,20,65,FG,4,0,True
+401871070,8,New Mexico State,Sam Houston,False,14,2,84,40,PUNT,3,7,False
+401871070,8,Sam Houston,New Mexico State,True,15,2,60,15,PUNT,3,7,False
+401871070,8,New Mexico State,Sam Houston,False,16,2,85,36,DOWNS,8,49,False
+401871070,8,Sam Houston,New Mexico State,True,17,2,64,57,PUNT,3,-16,False
+401871070,8,New Mexico State,Sam Houston,False,18,2,43,0,TD,2,43,True
+401871070,8,Sam Houston,New Mexico State,True,19,2,73,75,END OF HALF,1,-2,False
+401871070,8,Sam Houston,New Mexico State,True,20,3,81,0,TD,1,81,True
+401871070,8,New Mexico State,Sam Houston,False,21,3,60,0,TD,7,60,True
+401871070,8,Sam Houston,New Mexico State,True,22,3,82,18,PUNT,3,9,False
+401871070,8,New Mexico State,Sam Houston,False,23,3,82,13,PUNT,4,34,False
+401871070,8,Sam Houston,New Mexico State,True,24,3,87,65,PUNT,3,-10,False
+401871070,8,New Mexico State,Sam Houston,False,25,3,35,65,FG,8,27,True
+401871070,8,Sam Houston,New Mexico State,True,26,3,72,73,FUMBLE,2,-1,False
+401871070,8,New Mexico State,Sam Houston,False,27,3,27,0,TD,2,27,True
+401871070,8,Sam Houston,New Mexico State,True,28,3,87,9,DOWNS,11,78,False
+401871070,8,New Mexico State,Sam Houston,False,29,4,91,68,INT,3,10,False
+401871070,8,Sam Houston,New Mexico State,True,30,4,32,0,TD,8,32,True
+401871070,8,New Mexico State,Sam Houston,False,31,4,75,0,END OF GAME,6,44,False
+401871092,8,Marshall,South Alabama,True,1,1,65,10,PUNT,3,3,False
+401871092,8,South Alabama,Marshall,False,2,1,90,28,PUNT,4,18,False
+401871092,8,Marshall,South Alabama,True,3,1,58,69,MISSED FG,6,27,False
+401871092,8,South Alabama,Marshall,False,4,1,69,33,PUNT,3,-3,False
+401871092,8,Marshall,South Alabama,True,5,1,67,32,PUNT,3,-1,False
+401871092,8,South Alabama,Marshall,False,6,1,81,65,FG,9,70,True
+401871092,8,Marshall,South Alabama,True,7,1,75,29,FG,12,46,True
+401871092,8,South Alabama,Marshall,False,8,2,69,47,PUNT,4,16,False
+401871092,8,Marshall,South Alabama,True,9,2,81,49,PUNT,9,30,False
+401871092,8,South Alabama,Marshall,False,10,2,94,49,PUNT,3,5,False
+401871092,8,Marshall,South Alabama,True,11,2,51,65,FG,7,21,True
+401871092,8,South Alabama,Marshall,False,12,2,55,24,FG,12,31,True
+401871092,8,South Alabama,Marshall,False,13,3,75,60,PUNT,14,35,False
+401871092,8,Marshall,South Alabama,True,14,3,90,14,PUNT,3,4,False
+401871092,8,South Alabama,Marshall,False,15,3,56,45,INT,4,13,False
+401871092,8,Marshall,South Alabama,True,16,3,55,3,TD,6,55,True
+401871092,8,South Alabama,Marshall,False,17,3,75,27,MISSED FG,6,48,False
+401871092,8,Marshall,South Alabama,True,18,3,73,91,MISSED FG,12,64,False
+401871092,8,South Alabama,Marshall,False,19,4,80,3,TD,13,80,True
+401871092,8,Marshall,South Alabama,True,20,4,75,0,TD,8,75,True
+401871092,8,South Alabama,Marshall,False,21,4,84,66,DOWNS,6,18,False
+401871092,8,Marshall,South Alabama,True,22,4,34,30,END OF GAME,1,4,False
+401871093,8,Louisiana Tech,Old Dominion,True,1,1,75,0,TD,15,75,True
+401871093,8,Old Dominion,Louisiana Tech,False,2,1,89,34,PUNT,7,16,False
+401871093,8,Louisiana Tech,Old Dominion,True,3,1,66,0,TD,5,66,True
+401871093,8,Old Dominion,Louisiana Tech,False,4,1,75,14,PUNT,6,17,False
+401871093,8,Louisiana Tech,Old Dominion,True,5,1,86,65,FG,12,55,True
+401871093,8,Old Dominion,Louisiana Tech,False,6,2,75,75,PUNT,6,28,False
+401871093,8,Louisiana Tech,Old Dominion,True,7,2,75,10,DOWNS,15,65,False
+401871093,8,Old Dominion,Louisiana Tech,False,8,2,90,94,END OF HALF,2,-4,False
+401871093,8,Old Dominion,Louisiana Tech,False,9,3,75,39,PUNT,3,8,False
+401871093,8,Louisiana Tech,Old Dominion,True,10,3,61,1,TD,11,61,True
+401871093,8,Old Dominion,Louisiana Tech,False,11,3,85,78,MISSED FG,10,63,False
+401871093,8,Louisiana Tech,Old Dominion,True,12,3,78,4,PUNT,8,35,False
+401871093,8,Old Dominion,Louisiana Tech,False,13,4,96,62,DOWNS,10,34,False
+401871093,8,Louisiana Tech,Old Dominion,True,14,4,38,65,FG,7,31,True
+401871093,8,Old Dominion,Louisiana Tech,False,15,4,75,41,INT,2,-3,False
+401871093,8,Louisiana Tech,Old Dominion,True,16,4,59,10,PUNT,3,9,False
+401871093,8,Old Dominion,Louisiana Tech,False,17,4,90,62,PUNT,3,-8,False
+401871093,8,Louisiana Tech,Old Dominion,True,18,4,38,67,MISSED FG,4,5,False
+401871093,8,Old Dominion,Louisiana Tech,False,19,4,67,61,DOWNS,6,6,False
+401871093,8,Louisiana Tech,Old Dominion,True,20,4,39,20,PUNT,3,1,False
+401871093,8,Old Dominion,Louisiana Tech,False,21,4,80,71,END OF HALF,2,9,False
+401871094,8,UL Monroe,Troy,False,1,1,75,23,PUNT,3,6,False
+401871094,8,Troy,UL Monroe,True,2,1,77,3,TD,17,77,True
+401871094,8,UL Monroe,Troy,False,3,1,75,17,FG,10,58,True
+401871094,8,Troy,UL Monroe,True,4,2,75,31,PUNT,3,8,False
+401871094,8,UL Monroe,Troy,False,5,2,69,25,PUNT,3,-6,False
+401871094,8,Troy,UL Monroe,True,6,2,71,21,PUNT,3,2,False
+401871094,8,Troy,UL Monroe,True,7,2,21,79,INT,1,0,False
+401871094,8,UL Monroe,Troy,False,8,2,80,36,PUNT,3,-2,False
+401871094,8,Troy,UL Monroe,True,9,2,64,22,PUNT,3,5,False
+401871094,8,UL Monroe,Troy,False,10,2,78,32,PUNT,3,3,False
+401871094,8,Troy,UL Monroe,True,11,2,68,10,PUNT,4,16,False
+401871094,8,UL Monroe,Troy,False,12,2,90,61,PUNT,6,3,False
+401871094,8,Troy,UL Monroe,True,13,2,39,45,MISSED FG,3,2,False
+401871094,8,Troy,UL Monroe,True,14,3,80,45,PUNT,5,18,False
+401871094,8,UL Monroe,Troy,False,15,3,55,62,PUNT,6,17,False
+401871094,8,Troy,UL Monroe,True,16,3,95,45,PUNT,3,8,False
+401871094,8,UL Monroe,Troy,False,17,3,55,53,PUNT,3,8,False
+401871094,8,Troy,UL Monroe,True,18,3,90,40,PUNT,3,1,False
+401871094,8,UL Monroe,Troy,False,19,3,60,56,PUNT,6,16,False
+401871094,8,Troy,UL Monroe,True,20,4,93,26,PUNT,5,27,False
+401871094,8,UL Monroe,Troy,False,21,4,74,39,PUNT,3,4,False
+401871094,8,Troy,UL Monroe,True,22,4,61,3,TD,10,61,True
+401871094,8,UL Monroe,Troy,False,23,4,75,0,TD,10,75,True
+401871094,8,Troy,UL Monroe,True,24,4,75,15,PUNT,3,5,False
+401871094,8,UL Monroe,Troy,False,25,4,86,16,TD,6,86,True
+401871094,8,Troy,UL Monroe,True,26,4,75,20,FUMBLE RETURN TD,3,-25,True
