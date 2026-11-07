@@ -1,98 +1,98 @@
 {
-  "sigma": 15.0,
+  "sigma": 14.75,
   "market_weight": 1.1,
   "model_tilt": 0.35,
-  "games": 1571,
-  "fitted": "2026-10-28T01:41+00:00",
+  "games": 1693,
+  "fitted": "2026-11-07T19:44+00:00",
   "backtest": {
     "all": {
-      "bets": 436,
-      "won": 125,
-      "win_pct": 28.7,
-      "median_odds": 261,
-      "units": 12.6,
-      "roi": 2.9
+      "bets": 367,
+      "won": 117,
+      "win_pct": 31.9,
+      "median_odds": 230,
+      "units": 19.3,
+      "roi": 5.3
     },
     "by_season": {
       "2025": {
-        "bets": 230,
-        "won": 61,
-        "win_pct": 26.5,
-        "median_odds": 320,
-        "units": 5.6,
-        "roi": 2.4
+        "bets": 106,
+        "won": 37,
+        "win_pct": 34.9,
+        "median_odds": 230,
+        "units": 19.4,
+        "roi": 18.3
       },
       "2026": {
-        "bets": 206,
-        "won": 64,
-        "win_pct": 31.1,
+        "bets": 261,
+        "won": 80,
+        "win_pct": 30.7,
         "median_odds": 225,
-        "units": 7.0,
-        "roi": 3.4
+        "units": -0.1,
+        "roi": -0.0
       }
     },
     "every_dog": {
-      "bets": 1525,
-      "won": 394,
-      "win_pct": 25.8,
-      "median_odds": 261,
-      "units": -154.7,
-      "roi": -10.1
+      "bets": 1643,
+      "won": 420,
+      "win_pct": 25.6,
+      "median_odds": 260,
+      "units": -191.4,
+      "roi": -11.6
     },
     "by_line": [
       {
         "label": "+1 to +2.5",
-        "bets": 47,
-        "won": 21,
-        "win_pct": 44.7,
+        "bets": 51,
+        "won": 22,
+        "win_pct": 43.1,
         "median_odds": 116,
-        "units": -1.2,
-        "roi": -2.6
+        "units": -3.0,
+        "roi": -5.8
       },
       {
         "label": "+3 to +5",
-        "bets": 68,
-        "won": 24,
-        "win_pct": 35.3,
+        "bets": 62,
+        "won": 25,
+        "win_pct": 40.3,
         "median_odds": 145,
-        "units": -9.4,
-        "roi": -13.8
+        "units": -1.2,
+        "roi": -1.9
       },
       {
         "label": "+5.5 to +7",
-        "bets": 70,
-        "won": 32,
-        "win_pct": 45.7,
-        "median_odds": 188,
-        "units": 23.7,
-        "roi": 33.9
+        "bets": 72,
+        "won": 34,
+        "win_pct": 47.2,
+        "median_odds": 185,
+        "units": 26.8,
+        "roi": 37.2
       },
       {
         "label": "+7.5 to +10",
-        "bets": 63,
-        "won": 18,
-        "win_pct": 28.6,
-        "median_odds": 269,
-        "units": 2.1,
-        "roi": 3.3
+        "bets": 55,
+        "won": 15,
+        "win_pct": 27.3,
+        "median_odds": 270,
+        "units": -0.8,
+        "roi": -1.5
       },
       {
         "label": "+10.5 to +14",
-        "bets": 64,
-        "won": 16,
-        "win_pct": 25.0,
-        "median_odds": 361,
-        "units": 8.5,
-        "roi": 13.3
+        "bets": 47,
+        "won": 13,
+        "win_pct": 27.7,
+        "median_odds": 360,
+        "units": 12.1,
+        "roi": 25.7
       },
       {
         "label": "+14.5 or more",
-        "bets": 121,
-        "won": 11,
-        "win_pct": 9.1,
-        "median_odds": 830,
-        "units": -21.4,
-        "roi": -17.7
+        "bets": 77,
+        "won": 5,
+        "win_pct": 6.5,
+        "median_odds": 890,
+        "units": -24.9,
+        "roi": -32.4
       }
     ]
   }
