@@ -2301,29 +2301,251 @@ gameId,week,team,conference,opponent,homeAway,points,totalYards,rushingYards,net
 401869139,9,McNeese,Southland,Nicholls,home,16,202.0,162.0,40.0,46.0,16.0,4.0,16.0,1.0
 401866677,9,Stony Brook,Coastal Athletic,Sacred Heart,home,31,432.0,99.0,333.0,28.0,41.0,5.0,12.0,1.0
 401866677,9,Sacred Heart,Coastal Athletic,Stony Brook,away,32,490.0,181.0,309.0,37.0,43.0,10.0,17.0,1.0
+401867824,10,Columbia,Ivy,Harvard,away,0,261.0,206.0,55.0,47.0,24.0,3.0,13.0,2.0
+401867824,10,Harvard,Ivy,Columbia,home,37,434.0,222.0,212.0,37.0,24.0,7.0,12.0,1.0
+401868090,10,Eastern Washington,Big Sky,Idaho,away,31,298.0,50.0,248.0,28.0,34.0,5.0,14.0,1.0
+401868090,10,Idaho,Big Sky,Eastern Washington,home,62,650.0,335.0,315.0,42.0,33.0,8.0,11.0,1.0
+401871098,10,Troy,Sun Belt,Louisiana Tech,home,17,262.0,47.0,215.0,32.0,33.0,3.0,15.0,5.0
+401871098,10,Louisiana Tech,Sun Belt,Troy,away,41,351.0,106.0,245.0,38.0,29.0,4.0,13.0,2.0
+401856854,10,Kansas State,Big 12,Oklahoma State,home,28,327.0,127.0,200.0,39.0,34.0,8.0,18.0,3.0
+401856854,10,Oklahoma State,Big 12,Kansas State,away,66,565.0,223.0,342.0,34.0,30.0,4.0,8.0,2.0
+401856853,10,Iowa State,Big 12,Baylor,away,31,472.0,216.0,256.0,42.0,38.0,8.0,17.0,1.0
+401856853,10,Baylor,Big 12,Iowa State,home,42,423.0,194.0,229.0,35.0,28.0,4.0,11.0,0.0
+401856856,10,West Virginia,Big 12,Texas Tech,away,48,582.0,279.0,303.0,59.0,16.0,7.0,15.0,0.0
+401856856,10,Texas Tech,Big 12,West Virginia,home,53,638.0,276.0,362.0,53.0,28.0,8.0,16.0,0.0
+401856850,10,UCF,Big 12,Kansas,away,33,358.0,107.0,251.0,37.0,31.0,4.0,12.0,2.0
+401856850,10,Kansas,Big 12,UCF,home,32,404.0,194.0,210.0,39.0,32.0,6.0,14.0,2.0
+401860911,10,Colorado State,Pac-12,Boise State,home,38,513.0,207.0,306.0,32.0,33.0,4.0,13.0,0.0
+401860911,10,Boise State,Pac-12,Colorado State,away,64,669.0,352.0,317.0,44.0,19.0,5.0,7.0,0.0
+401860913,10,Utah State,Pac-12,Fresno State,home,17,269.0,152.0,117.0,41.0,14.0,5.0,13.0,0.0
+401860913,10,Fresno State,Pac-12,Utah State,away,10,278.0,16.0,262.0,27.0,39.0,5.0,15.0,0.0
+401864534,10,San José State,Mountain West,Northern Illinois,home,30,316.0,85.0,231.0,33.0,27.0,3.0,15.0,0.0
+401864534,10,Northern Illinois,Mountain West,San José State,away,19,400.0,141.0,259.0,38.0,36.0,4.0,12.0,2.0
 401866457,10,Toledo,Mid-American,Sacramento State,away,20,290.0,230.0,60.0,49.0,17.0,5.0,15.0,1.0
 401866457,10,Sacramento State,Mid-American,Toledo,home,17,224.0,8.0,216.0,31.0,33.0,4.0,15.0,1.0
 401856855,10,Arizona,Big 12,TCU,home,29,441.0,128.0,313.0,33.0,37.0,5.0,14.0,1.0
 401856855,10,TCU,Big 12,Arizona,away,28,281.0,49.0,232.0,21.0,41.0,6.0,12.0,2.0
+401860912,10,Oregon State,Pac-12,Texas State,home,21,347.0,80.0,267.0,26.0,43.0,5.0,12.0,2.0
+401860912,10,Texas State,Pac-12,Oregon State,away,42,600.0,386.0,214.0,62.0,20.0,10.0,15.0,2.0
+401864532,10,Hawai'i,Mountain West,UTEP,away,17,424.0,121.0,303.0,38.0,40.0,8.0,15.0,2.0
+401864532,10,UTEP,Mountain West,Hawai'i,home,14,288.0,179.0,109.0,31.0,18.0,2.0,10.0,1.0
+401868153,10,Northern Colorado,Big Sky,Southern Utah,away,24,353.0,204.0,149.0,28.0,35.0,1.0,9.0,3.0
+401868153,10,Southern Utah,Big Sky,Northern Colorado,home,31,358.0,157.0,201.0,40.0,29.0,8.0,15.0,0.0
+401868393,10,VMI,Southern,Tennessee Tech,away,14,173.0,109.0,64.0,39.0,11.0,4.0,13.0,3.0
+401868393,10,Tennessee Tech,Southern,VMI,home,66,522.0,194.0,328.0,37.0,30.0,7.0,11.0,0.0
+401868166,10,UC Davis,Big Sky,Utah Tech,home,24,267.0,123.0,144.0,32.0,34.0,10.0,18.0,1.0
+401868166,10,Utah Tech,Big Sky,UC Davis,away,17,247.0,91.0,156.0,40.0,30.0,6.0,14.0,3.0
+401868038,10,Richmond,Patriot,Villanova,away,0,140.0,80.0,60.0,25.0,21.0,3.0,13.0,0.0
+401868038,10,Villanova,Patriot,Richmond,home,30,417.0,238.0,179.0,49.0,18.0,5.0,12.0,0.0
+401868031,10,Lafayette,Patriot,William & Mary,away,19,401.0,251.0,150.0,49.0,24.0,5.0,14.0,1.0
+401868031,10,William & Mary,Patriot,Lafayette,home,14,275.0,143.0,132.0,30.0,25.0,3.0,13.0,0.0
+401868152,10,North Alabama,UAC,West Florida,home,28,438.0,244.0,194.0,39.0,19.0,7.0,12.0,2.0
+401868152,10,West Florida,UAC,North Alabama,away,21,413.0,105.0,308.0,33.0,35.0,7.0,14.0,1.0
+401867904,10,Central Connecticut,NEC,Stonehill,away,31,462.0,176.0,286.0,36.0,27.0,6.0,12.0,0.0
+401867904,10,Stonehill,NEC,Central Connecticut,home,7,199.0,88.0,111.0,19.0,28.0,2.0,10.0,2.0
+401867872,10,Youngstown State,MVFC,Murray State,away,62,589.0,154.0,435.0,29.0,38.0,6.0,9.0,0.0
+401867872,10,Murray State,MVFC,Youngstown State,home,35,536.0,185.0,351.0,36.0,39.0,9.0,13.0,0.0
+401868057,10,Tarleton State,UAC,Abilene Christian,home,40,419.0,206.0,213.0,25.0,9.0,1.0,4.0,0.0
+401868057,10,Abilene Christian,UAC,Tarleton State,away,27,427.0,212.0,215.0,49.0,30.0,6.0,15.0,1.0
+401868068,10,Eastern Kentucky,UAC,Austin Peay,away,31,334.0,32.0,302.0,27.0,33.0,5.0,14.0,1.0
+401868068,10,Austin Peay,UAC,Eastern Kentucky,home,55,503.0,309.0,194.0,38.0,21.0,3.0,7.0,1.0
+401868137,10,West Georgia,UAC,Central Arkansas,away,14,324.0,137.0,187.0,28.0,27.0,1.0,12.0,2.0
+401868137,10,Central Arkansas,UAC,West Georgia,home,35,512.0,262.0,250.0,51.0,34.0,8.0,15.0,1.0
+401868302,10,Prairie View A&M,SWAC,Alabama A&M,home,31,437.0,145.0,292.0,35.0,35.0,10.0,16.0,2.0
+401868302,10,Alabama A&M,SWAC,Prairie View A&M,away,10,231.0,107.0,124.0,27.0,32.0,4.0,13.0,2.0
+401871076,10,Middle Tennessee,Conference USA,Western Kentucky,home,51,513.0,201.0,312.0,30.0,42.0,7.0,13.0,0.0
+401871076,10,Western Kentucky,Conference USA,Middle Tennessee,away,42,497.0,238.0,259.0,32.0,36.0,7.0,15.0,1.0
+401871074,10,Missouri State,Conference USA,Florida International,away,20,312.0,87.0,225.0,32.0,35.0,6.0,16.0,1.0
+401871074,10,Florida International,Conference USA,Missouri State,home,23,494.0,276.0,218.0,44.0,27.0,5.0,15.0,2.0
+401868331,10,Texas Southern,SWAC,Alabama State,home,31,317.0,204.0,113.0,39.0,20.0,5.0,12.0,2.0
+401868331,10,Alabama State,SWAC,Texas Southern,away,34,486.0,277.0,209.0,39.0,17.0,4.0,9.0,0.0
+401868939,10,Grambling,SWAC,Arkansas-Pine Bluff,home,32,408.0,175.0,233.0,40.0,35.0,5.0,16.0,1.0
+401868939,10,Arkansas-Pine Bluff,SWAC,Grambling,away,35,406.0,198.0,208.0,37.0,19.0,4.0,11.0,1.0
+401868961,10,Mississippi Valley State,SWAC,Jackson State,away,7,171.0,92.0,79.0,43.0,17.0,3.0,15.0,2.0
+401868961,10,Jackson State,SWAC,Mississippi Valley State,home,38,418.0,119.0,299.0,26.0,33.0,3.0,11.0,2.0
 401869964,10,Southern Miss,Sun Belt,James Madison,home,23,354.0,88.0,266.0,37.0,35.0,3.0,14.0,0.0
 401869964,10,James Madison,Sun Belt,Southern Miss,away,54,498.0,175.0,323.0,36.0,31.0,4.0,11.0,0.0
+401869951,10,Georgia Southern,Sun Belt,Marshall,home,49,454.0,167.0,287.0,33.0,30.0,5.0,12.0,0.0
+401869951,10,Marshall,Sun Belt,Georgia Southern,away,13,412.0,250.0,162.0,39.0,29.0,4.0,13.0,2.0
+401868945,10,Bethune-Cookman,SWAC,Southern,away,17,290.0,146.0,144.0,38.0,31.0,4.0,14.0,1.0
+401868945,10,Southern,SWAC,Bethune-Cookman,home,45,492.0,381.0,111.0,44.0,13.0,5.0,10.0,1.0
+401869945,10,Coastal Carolina,Sun Belt,Old Dominion,home,8,263.0,20.0,243.0,27.0,40.0,2.0,15.0,6.0
+401869945,10,Old Dominion,Sun Belt,Coastal Carolina,away,21,264.0,69.0,195.0,35.0,34.0,7.0,16.0,1.0
+401869927,10,Georgia State,Sun Belt,App State,away,39,380.0,265.0,115.0,52.0,17.0,7.0,15.0,0.0
+401869927,10,App State,Sun Belt,Georgia State,home,23,356.0,59.0,297.0,25.0,35.0,3.0,10.0,3.0
+401869968,10,Louisiana,Sun Belt,South Alabama,home,28,459.0,312.0,147.0,44.0,14.0,8.0,13.0,1.0
+401869968,10,South Alabama,Sun Belt,Louisiana,away,26,369.0,159.0,210.0,35.0,22.0,4.0,12.0,1.0
+401869936,10,UL Monroe,Sun Belt,Arkansas State,away,19,389.0,268.0,121.0,49.0,19.0,9.0,14.0,2.0
+401869936,10,Arkansas State,Sun Belt,UL Monroe,home,17,313.0,120.0,193.0,25.0,29.0,7.0,12.0,2.0
 401866455,10,Ball State,Mid-American,Massachusetts,away,30,350.0,168.0,182.0,37.0,27.0,6.0,14.0,0.0
 401866455,10,Massachusetts,Mid-American,Ball State,home,31,455.0,153.0,302.0,39.0,25.0,4.0,10.0,2.0
+401871073,10,Kennesaw State,Conference USA,Delaware,home,42,446.0,137.0,309.0,31.0,45.0,11.0,21.0,2.0
+401871073,10,Delaware,Conference USA,Kennesaw State,away,40,493.0,85.0,408.0,31.0,54.0,6.0,16.0,1.0
+401868252,10,Northwestern State,Southland,UT Rio Grande Valley,home,7,293.0,49.0,244.0,26.0,50.0,7.0,17.0,4.0
+401868252,10,UT Rio Grande Valley,Southland,Northwestern State,away,52,418.0,225.0,193.0,30.0,21.0,4.0,8.0,0.0
+401867914,10,Long Island University,NEC,New Haven,away,10,248.0,118.0,130.0,49.0,20.0,6.0,17.0,1.0
+401867914,10,New Haven,NEC,Long Island University,home,17,282.0,55.0,227.0,23.0,27.0,1.0,10.0,0.0
+401867996,10,Fordham,Patriot,Bucknell,away,38,420.0,339.0,81.0,51.0,17.0,8.0,14.0,1.0
+401867996,10,Bucknell,Patriot,Fordham,home,13,211.0,65.0,146.0,23.0,32.0,4.0,13.0,2.0
+401868005,10,Lehigh,Patriot,Colgate,home,33,526.0,305.0,221.0,46.0,24.0,7.0,14.0,0.0
+401868005,10,Colgate,Patriot,Lehigh,away,7,230.0,77.0,153.0,26.0,27.0,5.0,13.0,2.0
+401868020,10,Georgetown,Patriot,Holy Cross,home,24,341.0,176.0,165.0,45.0,25.0,9.0,17.0,2.0
+401868020,10,Holy Cross,Patriot,Georgetown,away,27,290.0,133.0,157.0,34.0,29.0,6.0,12.0,1.0
+401868313,10,Stephen F. Austin,Southland,Lamar,away,28,493.0,105.0,388.0,22.0,38.0,4.0,12.0,4.0
+401868313,10,Lamar,Southland,Stephen F. Austin,home,45,488.0,181.0,307.0,42.0,29.0,7.0,15.0,0.0
+401858292,10,North Carolina,ACC,UConn,away,38,419.0,164.0,255.0,36.0,38.0,9.0,16.0,1.0
+401858292,10,UConn,FBS Independents,North Carolina,home,21,368.0,123.0,245.0,31.0,35.0,7.0,16.0,3.0
+401868363,10,Florida A&M,SWAC,Alcorn State,away,20,342.0,59.0,283.0,27.0,36.0,2.0,12.0,1.0
+401868363,10,Alcorn State,SWAC,Florida A&M,home,38,546.0,232.0,314.0,45.0,23.0,8.0,13.0,2.0
+401868216,10,St. Thomas (MN),Pioneer,Butler,away,14,276.0,77.0,199.0,37.0,32.0,4.0,15.0,3.0
+401868216,10,Butler,Pioneer,St. Thomas (MN),home,41,388.0,253.0,135.0,36.0,23.0,4.0,13.0,0.0
+401868082,10,Northern Arizona,Big Sky,Cal Poly,away,38,368.0,238.0,130.0,37.0,29.0,10.0,16.0,0.0
+401868082,10,Cal Poly,Big Sky,Northern Arizona,home,10,249.0,103.0,146.0,32.0,28.0,5.0,14.0,2.0
+401856849,10,Utah,Big 12,BYU,home,28,330.0,124.0,206.0,35.0,27.0,7.0,15.0,2.0
+401856849,10,BYU,Big 12,Utah,away,20,391.0,119.0,272.0,28.0,36.0,8.0,15.0,4.0
+401856851,10,Houston,Big 12,Cincinnati,home,31,468.0,241.0,227.0,35.0,24.0,4.0,8.0,0.0
+401856851,10,Cincinnati,Big 12,Houston,away,24,379.0,162.0,217.0,41.0,30.0,9.0,14.0,1.0
+401867852,10,North Dakota,MVFC,Illinois State,home,49,437.0,144.0,293.0,38.0,27.0,3.0,11.0,1.0
+401867852,10,Illinois State,MVFC,North Dakota,away,21,308.0,69.0,239.0,29.0,43.0,5.0,13.0,2.0
+401872617,10,South Dakota State,MVFC,Northern Iowa,away,41,467.0,259.0,208.0,35.0,22.0,3.0,8.0,0.0
+401872617,10,Northern Iowa,MVFC,South Dakota State,home,15,260.0,74.0,186.0,31.0,41.0,5.0,16.0,0.0
+401867862,10,Indiana State,MVFC,Southern Illinois,home,20,282.0,137.0,145.0,25.0,24.0,2.0,13.0,3.0
+401867862,10,Southern Illinois,MVFC,Indiana State,away,37,392.0,176.0,216.0,48.0,30.0,7.0,20.0,0.0
+401867933,10,Mercyhurst,NEC,Wagner,home,28,208.0,13.0,195.0,14.0,27.0,3.0,9.0,2.0
+401867933,10,Wagner,NEC,Mercyhurst,away,33,462.0,220.0,242.0,48.0,39.0,9.0,18.0,0.0
+401867957,10,Morgan State,MEAC,Delaware State,away,14,191.0,55.0,136.0,24.0,31.0,2.0,13.0,1.0
+401867957,10,Delaware State,MEAC,Morgan State,home,24,280.0,111.0,169.0,37.0,27.0,7.0,16.0,2.0
 401867964,10,South Carolina State,MEAC,Howard,away,35,479.0,226.0,253.0,34.0,35.0,2.0,12.0,0.0
 401867964,10,Howard,MEAC,South Carolina State,home,28,382.0,149.0,233.0,32.0,37.0,4.0,14.0,1.0
-401862817,10,UTSA,American Athletic,Florida Atlantic,away,29,419.0,147.0,272.0,37.0,37.0,5.0,16.0,2.0
+401867976,10,North Carolina Central,MEAC,Norfolk State,away,29,377.0,221.0,156.0,34.0,30.0,6.0,11.0,3.0
+401867976,10,Norfolk State,MEAC,North Carolina Central,home,28,391.0,113.0,278.0,39.0,26.0,4.0,10.0,1.0
+401867922,10,Robert Morris,NEC,Duquesne,away,13,301.0,84.0,217.0,34.0,30.0,6.0,15.0,2.0
+401867922,10,Duquesne,NEC,Robert Morris,home,10,258.0,144.0,114.0,36.0,20.0,4.0,11.0,2.0
+401862819,10,Charlotte,American Athletic,UAB,away,12,234.0,59.0,175.0,31.0,31.0,4.0,17.0,0.0
+401862819,10,UAB,American Athletic,Charlotte,home,23,319.0,178.0,141.0,42.0,29.0,5.0,11.0,4.0
+401862817,10,UTSA,American Athletic,Florida Atlantic,away,29,425.0,153.0,272.0,37.0,37.0,5.0,16.0,2.0
 401862817,10,Florida Atlantic,American Athletic,UTSA,home,60,563.0,339.0,224.0,49.0,26.0,7.0,16.0,0.0
+401862821,10,Rice,American Athletic,North Texas,away,23,433.0,261.0,172.0,48.0,17.0,4.0,11.0,2.0
+401862821,10,North Texas,American Athletic,Rice,home,52,495.0,192.0,303.0,33.0,31.0,6.0,11.0,0.0
+401871075,10,Sam Houston,Conference USA,Jacksonville State,away,14,254.0,65.0,189.0,23.0,28.0,1.0,11.0,0.0
+401871075,10,Jacksonville State,Conference USA,Sam Houston,home,47,479.0,197.0,282.0,33.0,30.0,2.0,9.0,0.0
+401870795,10,New Mexico State,Conference USA,Liberty,home,14,300.0,44.0,256.0,22.0,29.0,6.0,11.0,3.0
+401870795,10,Liberty,Conference USA,New Mexico State,away,30,399.0,147.0,252.0,44.0,28.0,6.0,13.0,0.0
+401869153,10,Nicholls,Southland,East Texas A&M,home,32,356.0,221.0,135.0,45.0,26.0,4.0,13.0,2.0
+401869153,10,East Texas A&M,Southland,Nicholls,away,31,377.0,25.0,352.0,24.0,44.0,7.0,17.0,3.0
+401868350,10,Samford,Southern,East Tennessee State,away,37,323.0,99.0,224.0,31.0,39.0,6.0,17.0,0.0
+401868350,10,East Tennessee State,Southern,Samford,home,35,367.0,196.0,171.0,38.0,27.0,4.0,13.0,1.0
+401868343,10,Chattanooga,Southern,Mercer,home,7,264.0,223.0,41.0,43.0,9.0,5.0,14.0,3.0
+401868343,10,Mercer,Southern,Chattanooga,away,14,340.0,187.0,153.0,45.0,27.0,8.0,16.0,1.0
+401869140,10,McNeese,Southland,Houston Christian,away,10,335.0,160.0,175.0,33.0,36.0,6.0,18.0,1.0
+401869140,10,Houston Christian,Southland,McNeese,home,0,197.0,70.0,127.0,39.0,24.0,2.0,15.0,1.0
+401868321,10,SE Louisiana,Southland,Incarnate Word,home,16,255.0,107.0,148.0,33.0,26.0,2.0,12.0,1.0
+401868321,10,Incarnate Word,Southland,SE Louisiana,away,35,546.0,252.0,294.0,47.0,25.0,5.0,10.0,1.0
+401862823,10,Air Force,Mountain West,Army,away,24,344.0,260.0,84.0,52.0,8.0,5.0,11.0,0.0
+401862823,10,Army,American Athletic,Air Force,home,21,220.0,182.0,38.0,44.0,10.0,4.0,11.0,1.0
 401858288,10,Virginia Tech,ACC,SMU,away,28,417.0,126.0,291.0,28.0,38.0,7.0,12.0,2.0
 401858288,10,SMU,ACC,Virginia Tech,home,51,569.0,219.0,350.0,36.0,32.0,8.0,12.0,1.0
+401856852,10,Colorado,Big 12,Arizona State,away,10,312.0,64.0,248.0,34.0,31.0,4.0,13.0,1.0
+401856852,10,Arizona State,Big 12,Colorado,home,20,304.0,108.0,196.0,42.0,22.0,4.0,15.0,0.0
+401858512,10,Minnesota,Big Ten,UCLA,home,20,296.0,91.0,205.0,29.0,37.0,4.0,15.0,1.0
+401858512,10,UCLA,Big Ten,Minnesota,away,34,466.0,163.0,303.0,39.0,16.0,6.0,13.0,2.0
+401858513,10,Iowa,Big Ten,Northwestern,away,24,296.0,170.0,126.0,33.0,21.0,7.0,13.0,2.0
+401858513,10,Northwestern,Big Ten,Iowa,home,10,286.0,105.0,181.0,37.0,32.0,1.0,11.0,0.0
+401858515,10,Purdue,Big Ten,Maryland,home,29,425.0,129.0,296.0,42.0,38.0,7.0,17.0,1.0
+401858515,10,Maryland,Big Ten,Purdue,away,34,390.0,137.0,253.0,27.0,18.0,5.0,10.0,1.0
+401858511,10,Michigan,Big Ten,Michigan State,home,6,192.0,54.0,138.0,26.0,26.0,2.0,10.0,4.0
+401858511,10,Michigan State,Big Ten,Michigan,away,15,298.0,110.0,188.0,43.0,32.0,9.0,20.0,0.0
 401858510,10,Illinois,Big Ten,Nebraska,home,24,376.0,84.0,292.0,29.0,36.0,8.0,15.0,0.0
 401858510,10,Nebraska,Big Ten,Illinois,away,13,426.0,142.0,284.0,31.0,43.0,6.0,14.0,0.0
+401858517,10,Wisconsin,Big Ten,Rutgers,home,31,363.0,122.0,241.0,29.0,24.0,4.0,10.0,1.0
+401858517,10,Rutgers,Big Ten,Wisconsin,away,10,255.0,94.0,161.0,36.0,24.0,4.0,13.0,0.0
+401858514,10,Oregon,Big Ten,Ohio State,away,41,395.0,108.0,287.0,33.0,41.0,8.0,17.0,0.0
+401858514,10,Ohio State,Big Ten,Oregon,home,28,413.0,53.0,360.0,21.0,50.0,6.0,14.0,1.0
+401858516,10,Washington,Big Ten,Penn State,home,25,306.0,134.0,172.0,25.0,33.0,4.0,12.0,1.0
+401858516,10,Penn State,Big Ten,Washington,away,28,414.0,174.0,240.0,37.0,27.0,7.0,15.0,0.0
 401866454,10,Buffalo,Mid-American,Miami (OH),away,34,459.0,101.0,358.0,33.0,46.0,6.0,14.0,2.0
 401866454,10,Miami (OH),Mid-American,Buffalo,home,31,350.0,196.0,154.0,48.0,23.0,5.0,15.0,0.0
 401866453,10,Akron,Mid-American,Ohio,home,20,392.0,160.0,232.0,44.0,35.0,5.0,12.0,2.0
 401866453,10,Ohio,Mid-American,Akron,away,28,358.0,161.0,197.0,26.0,20.0,3.0,9.0,1.0
 401866456,10,Eastern Michigan,Mid-American,Central Michigan,home,7,177.0,74.0,103.0,21.0,23.0,1.0,10.0,1.0
 401866456,10,Central Michigan,Mid-American,Eastern Michigan,away,35,418.0,235.0,183.0,53.0,22.0,7.0,15.0,0.0
+401856738,10,Arkansas,SEC,Auburn,away,23,352.0,172.0,180.0,44.0,30.0,8.0,18.0,2.0
+401856738,10,Auburn,SEC,Arkansas,home,26,363.0,183.0,180.0,40.0,34.0,4.0,15.0,0.0
+401856739,10,Oklahoma,SEC,Florida,away,23,351.0,144.0,207.0,40.0,33.0,10.0,18.0,0.0
+401856739,10,Florida,SEC,Oklahoma,home,7,203.0,70.0,133.0,25.0,22.0,2.0,9.0,2.0
+401856741,10,Ole Miss,SEC,Georgia,home,7,252.0,66.0,186.0,31.0,38.0,6.0,16.0,2.0
+401856741,10,Georgia,SEC,Ole Miss,away,42,481.0,295.0,186.0,48.0,15.0,7.0,12.0,0.0
+401856745,10,Tennessee,SEC,Kentucky,home,34,389.0,240.0,149.0,37.0,15.0,5.0,12.0,0.0
+401856745,10,Kentucky,SEC,Tennessee,away,6,361.0,137.0,224.0,37.0,34.0,6.0,14.0,3.0
+401856740,10,Alabama,SEC,LSU,away,31,285.0,79.0,206.0,29.0,24.0,3.0,11.0,0.0
+401856740,10,LSU,SEC,Alabama,home,13,457.0,77.0,380.0,33.0,48.0,5.0,14.0,2.0
+401856743,10,Texas,SEC,Missouri,away,34,401.0,104.0,297.0,31.0,38.0,6.0,13.0,2.0
+401856743,10,Missouri,SEC,Texas,home,20,336.0,84.0,252.0,24.0,44.0,3.0,16.0,1.0
+401856742,10,Mississippi State,SEC,Vanderbilt,home,23,297.0,43.0,254.0,19.0,36.0,5.0,14.0,1.0
+401856742,10,Vanderbilt,SEC,Mississippi State,away,25,328.0,160.0,168.0,52.0,27.0,4.0,17.0,1.0
+401856744,10,South Carolina,SEC,Texas A&M,home,17,360.0,109.0,251.0,27.0,31.0,4.0,12.0,1.0
+401856744,10,Texas A&M,SEC,South Carolina,away,9,457.0,206.0,251.0,43.0,43.0,9.0,19.0,0.0
+401858290,10,Wake Forest,ACC,Merrimack,home,77,730.0,184.0,546.0,28.0,33.0,4.0,7.0,0.0
+401858290,10,Merrimack,FCS Independents,Wake Forest,away,0,202.0,102.0,100.0,38.0,35.0,3.0,19.0,2.0
+401866683,10,UAlbany,Coastal Athletic,Bryant,away,7,245.0,105.0,140.0,28.0,27.0,3.0,11.0,2.0
+401866683,10,Bryant,Coastal Athletic,UAlbany,home,31,396.0,142.0,254.0,49.0,18.0,12.0,17.0,0.0
+401858291,10,Miami,ACC,Notre Dame,away,24,377.0,101.0,276.0,28.0,43.0,6.0,14.0,2.0
+401858291,10,Notre Dame,FBS Independents,Miami,home,31,412.0,93.0,319.0,29.0,40.0,5.0,14.0,0.0
 401862818,10,East Carolina,American Athletic,South Florida,home,20,361.0,138.0,223.0,33.0,39.0,6.0,15.0,1.0
 401862818,10,South Florida,American Athletic,East Carolina,away,17,329.0,150.0,179.0,37.0,22.0,1.0,10.0,0.0
+401862822,10,Tulane,American Athletic,Tulsa,home,10,204.0,92.0,112.0,40.0,25.0,2.0,12.0,2.0
+401862822,10,Tulsa,American Athletic,Tulane,away,60,562.0,224.0,338.0,42.0,34.0,5.0,10.0,0.0
+401862820,10,Navy,American Athletic,Temple,home,42,495.0,317.0,178.0,68.0,11.0,4.0,14.0,2.0
+401862820,10,Temple,American Athletic,Navy,away,35,218.0,45.0,173.0,21.0,27.0,4.0,12.0,2.0
+401858289,10,Boston College,ACC,Florida State,home,24,320.0,148.0,172.0,30.0,31.0,8.0,14.0,2.0
+401858289,10,Florida State,ACC,Boston College,away,31,380.0,202.0,178.0,45.0,26.0,8.0,14.0,1.0
+401858287,10,Louisville,ACC,Georgia Tech,away,44,456.0,251.0,205.0,36.0,26.0,2.0,9.0,1.0
+401858287,10,Georgia Tech,ACC,Louisville,home,17,350.0,109.0,241.0,32.0,45.0,4.0,17.0,1.0
+401858286,10,NC State,ACC,Duke,home,3,217.0,32.0,185.0,25.0,31.0,3.0,14.0,0.0
+401858286,10,Duke,ACC,NC State,away,41,461.0,238.0,223.0,35.0,35.0,3.0,11.0,0.0
+401858285,10,Clemson,ACC,Syracuse,away,18,359.0,162.0,197.0,34.0,29.0,4.0,16.0,2.0
+401858285,10,Syracuse,ACC,Clemson,home,13,380.0,117.0,263.0,33.0,40.0,6.0,17.0,2.0
 401864533,10,Nevada,Mountain West,New Mexico,home,3,97.0,-9.0,106.0,18.0,31.0,2.0,15.0,1.0
 401864533,10,New Mexico,Mountain West,Nevada,away,31,374.0,213.0,161.0,45.0,22.0,9.0,16.0,0.0
+401864535,10,Wyoming,Mountain West,UNLV,away,41,483.0,351.0,132.0,56.0,15.0,5.0,14.0,2.0
+401864535,10,UNLV,Mountain West,Wyoming,home,35,304.0,163.0,141.0,39.0,23.0,7.0,14.0,2.0
+401867810,10,Yale,Ivy,Brown,home,20,321.0,135.0,186.0,47.0,40.0,12.0,23.0,0.0
+401867810,10,Brown,Ivy,Yale,away,24,326.0,53.0,273.0,27.0,28.0,2.0,10.0,1.0
+401866684,10,Stony Brook,Coastal Athletic,Campbell,away,35,553.0,180.0,373.0,31.0,46.0,7.0,13.0,1.0
+401866684,10,Campbell,Coastal Athletic,Stony Brook,home,48,524.0,128.0,396.0,28.0,46.0,7.0,13.0,0.0
+401868176,10,UT Martin,OVC,Charleston Southern,away,20,245.0,157.0,88.0,44.0,16.0,4.0,12.0,1.0
+401868176,10,Charleston Southern,OVC,UT Martin,home,10,248.0,57.0,191.0,23.0,37.0,2.0,13.0,1.0
+401867832,10,Pennsylvania,Ivy,Cornell,away,14,258.0,38.0,220.0,28.0,39.0,5.0,15.0,0.0
+401867832,10,Cornell,Ivy,Pennsylvania,home,13,239.0,158.0,81.0,38.0,26.0,5.0,15.0,0.0
+401867839,10,Princeton,Ivy,Dartmouth,home,21,352.0,164.0,188.0,36.0,20.0,6.0,11.0,1.0
+401867839,10,Dartmouth,Ivy,Princeton,away,14,368.0,106.0,262.0,39.0,31.0,5.0,15.0,2.0
+401868224,10,Stetson,Pioneer,Davidson,away,14,368.0,26.0,342.0,19.0,45.0,7.0,15.0,2.0
+401868224,10,Davidson,Pioneer,Stetson,home,33,490.0,133.0,357.0,40.0,36.0,7.0,14.0,1.0
+401868232,10,Valparaiso,Pioneer,Dayton,away,20,224.0,45.0,179.0,27.0,35.0,5.0,15.0,2.0
+401868232,10,Dayton,Pioneer,Valparaiso,home,31,393.0,102.0,291.0,35.0,32.0,9.0,14.0,3.0
+401868259,10,San Diego,Pioneer,Drake,away,40,453.0,305.0,148.0,62.0,17.0,8.0,17.0,1.0
+401868259,10,Drake,Pioneer,San Diego,home,17,263.0,74.0,189.0,28.0,47.0,4.0,14.0,1.0
+401868184,10,Western Illinois,OVC,Eastern Illinois,away,44,430.0,216.0,214.0,52.0,15.0,5.0,12.0,1.0
+401868184,10,Eastern Illinois,OVC,Western Illinois,home,23,241.0,44.0,197.0,20.0,27.0,1.0,10.0,2.0
+401866685,10,Hampton,Coastal Athletic,Elon,away,6,229.0,75.0,154.0,29.0,27.0,5.0,13.0,2.0
+401866685,10,Elon,Coastal Athletic,Hampton,home,24,399.0,195.0,204.0,38.0,26.0,6.0,10.0,4.0
+401868379,10,The Citadel,Southern,Furman,home,14,361.0,241.0,120.0,57.0,20.0,7.0,16.0,1.0
+401868379,10,Furman,Southern,The Citadel,away,24,237.0,110.0,127.0,34.0,24.0,4.0,13.0,0.0
+401868191,10,Lindenwood,OVC,Gardner-Webb,away,34,309.0,172.0,137.0,65.0,19.0,6.0,19.0,3.0
+401868191,10,Gardner-Webb,OVC,Lindenwood,home,21,298.0,52.0,246.0,20.0,37.0,5.0,14.0,4.0
+401868108,10,Montana State,Big Sky,Idaho State,away,28,332.0,123.0,209.0,31.0,37.0,4.0,16.0,0.0
+401868108,10,Idaho State,Big Sky,Montana State,home,26,410.0,92.0,318.0,30.0,53.0,9.0,18.0,2.0
+401868268,10,Morehead State,Pioneer,Marist,away,13,292.0,32.0,260.0,32.0,29.0,5.0,13.0,3.0
+401868268,10,Marist,Pioneer,Morehead State,home,14,290.0,235.0,55.0,41.0,24.0,10.0,16.0,2.0
+401866681,10,North Carolina A&T,Coastal Athletic,Monmouth,away,17,358.0,117.0,241.0,36.0,30.0,4.0,15.0,1.0
+401866681,10,Monmouth,Coastal Athletic,North Carolina A&T,home,21,374.0,169.0,205.0,41.0,30.0,7.0,17.0,0.0
+401868116,10,Portland State,Big Sky,Montana,away,24,357.0,152.0,205.0,35.0,37.0,9.0,16.0,0.0
+401868116,10,Montana,Big Sky,Portland State,home,57,644.0,363.0,281.0,30.0,30.0,10.0,12.0,0.0
+401866686,10,Rhode Island,Coastal Athletic,New Hampshire,away,21,319.0,177.0,142.0,37.0,24.0,4.0,13.0,0.0
+401866686,10,New Hampshire,Coastal Athletic,Rhode Island,home,24,390.0,112.0,278.0,32.0,38.0,7.0,17.0,1.0
+401866682,10,Towson,Coastal Athletic,Sacred Heart,away,43,452.0,201.0,251.0,34.0,35.0,7.0,14.0,2.0
+401866682,10,Sacred Heart,Coastal Athletic,Towson,home,40,438.0,177.0,261.0,43.0,33.0,7.0,15.0,1.0
+401868200,10,Tennessee State,OVC,Southeast Missouri State,home,14,324.0,47.0,277.0,13.0,37.0,1.0,9.0,2.0
+401868200,10,Southeast Missouri State,OVC,Tennessee State,away,33,420.0,362.0,58.0,59.0,14.0,5.0,12.0,2.0
+401868399,10,Wofford,Southern,Western Carolina,away,10,264.0,146.0,118.0,49.0,31.0,4.0,16.0,1.0
+401868399,10,Western Carolina,Southern,Wofford,home,26,332.0,95.0,237.0,36.0,35.0,4.0,13.0,2.0

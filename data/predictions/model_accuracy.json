@@ -1,12 +1,12 @@
 {
   "Model": {
-    "margin_MAE": 12.83,
-    "winner_pct": 74.9,
-    "games": 2500
+    "margin_MAE": 12.8,
+    "winner_pct": 74.6,
+    "games": 2611
   },
   "Vegas": {
-    "margin_MAE": 11.93,
-    "winner_pct": 76.8,
-    "games": 2500
+    "margin_MAE": 11.94,
+    "winner_pct": 76.6,
+    "games": 2611
   }
 }

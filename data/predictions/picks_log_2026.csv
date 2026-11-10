@@ -1138,7 +1138,66 @@ gameId,week,startDate,homeTeam,awayTeam,spread,model_spread,edge,tier,pick_side,
 401866455,10.0,2026-11-05T00:00:00.000Z,Massachusetts,Ball State,-2.5,-3.2,0.7,pass,home,Massachusetts,Massachusetts -2.5,live,2026-11-07 19:44 UTC
 401866456,10.0,2026-11-05T00:30:00.000Z,Eastern Michigan,Central Michigan,2.5,-0.8,3.3,lean,home,Eastern Michigan,Eastern Michigan +2.5,live,2026-11-07 19:44 UTC
 401866457,10.0,2026-11-05T00:00:00.000Z,Sacramento State,Toledo,25.5,19.1,6.4,lean,home,Sacramento State,Sacramento State +25.5,live,2026-11-07 19:44 UTC
+401866681,10.0,2026-11-07T17:00:00.000Z,Monmouth,North Carolina A&T,-20.5,-17.9,-2.6,pass,away,North Carolina A&T,North Carolina A&T +20.5,backtest,backtest
+401866682,10.0,2026-11-07T17:00:00.000Z,Sacred Heart,Towson,1.5,0.2,1.3,pass,home,Sacred Heart,Sacred Heart +1.5,backtest,backtest
+401866683,10.0,2026-11-07T18:00:00.000Z,Bryant,UAlbany,10.5,8.6,1.9,pass,home,Bryant,Bryant +10.5,backtest,backtest
+401866684,10.0,2026-11-07T18:00:00.000Z,Campbell,Stony Brook,-7.0,-8.2,1.2,pass,home,Campbell,Campbell -7.0,backtest,backtest
+401866685,10.0,2026-11-07T19:00:00.000Z,Elon,Hampton,-22.5,-19.0,-3.5,lean,away,Hampton,Hampton +22.5,backtest,backtest
+401866686,10.0,2026-11-07T18:00:00.000Z,New Hampshire,Rhode Island,7.0,4.2,2.8,pass,home,New Hampshire,New Hampshire +7.0,backtest,backtest
+401867810,10.0,2026-11-07T17:00:00.000Z,Yale,Brown,-7.0,-5.9,-1.1,pass,away,Brown,Brown +7.0,backtest,backtest
+401867824,10.0,2026-11-07T18:00:00.000Z,Harvard,Columbia,-21.5,-17.3,-4.2,lean,away,Columbia,Columbia +21.5,backtest,backtest
+401867832,10.0,2026-11-07T18:00:00.000Z,Cornell,Pennsylvania,-6.5,-8.1,1.6,pass,home,Cornell,Cornell -6.5,backtest,backtest
+401867839,10.0,2026-11-07T17:00:00.000Z,Princeton,Dartmouth,1.5,-0.8,2.3,pass,home,Princeton,Princeton +1.5,backtest,backtest
+401867852,10.0,2026-11-07T19:00:00.000Z,North Dakota,Illinois State,-6.5,-7.0,0.5,pass,home,North Dakota,North Dakota -6.5,backtest,backtest
+401867862,10.0,2026-11-07T23:00:00.000Z,Indiana State,Southern Illinois,5.5,2.1,3.4,lean,home,Indiana State,Indiana State +5.5,backtest,backtest
+401867872,10.0,2026-11-07T19:00:00.000Z,Murray State,Youngstown State,31.5,23.6,7.9,lean,home,Murray State,Murray State +31.5,backtest,backtest
+401867904,10.0,2026-11-07T18:00:00.000Z,Stonehill,Central Connecticut,6.5,2.2,4.3,lean,home,Stonehill,Stonehill +6.5,backtest,backtest
+401867914,10.0,2026-11-07T17:00:00.000Z,New Haven,Long Island University,4.5,1.2,3.3,lean,home,New Haven,New Haven +4.5,backtest,backtest
+401867922,10.0,2026-11-07T17:00:00.000Z,Duquesne,Robert Morris,-10.0,-10.8,0.8,pass,home,Duquesne,Duquesne -10.0,backtest,backtest
+401867933,10.0,2026-11-07T17:00:00.000Z,Mercyhurst,Wagner,-8.5,-8.4,-0.1,pass,away,Wagner,Wagner +8.5,backtest,backtest
+401867957,10.0,2026-11-07T18:00:00.000Z,Delaware State,Morgan State,-3.5,-5.5,2.0,pass,home,Delaware State,Delaware State -3.5,backtest,backtest
 401867964,10.0,2026-11-06T00:30:00.000Z,Howard,South Carolina State,21.5,18.3,3.2,lean,home,Howard,Howard +21.5,backtest,backtest
+401867976,10.0,2026-11-07T17:00:00.000Z,Norfolk State,North Carolina Central,4.0,-1.8,5.8,lean,home,Norfolk State,Norfolk State +4.0,backtest,backtest
+401867996,10.0,2026-11-07T18:00:00.000Z,Bucknell,Fordham,1.5,1.0,0.5,pass,home,Bucknell,Bucknell +1.5,backtest,backtest
+401868005,10.0,2026-11-07T17:00:00.000Z,Lehigh,Colgate,-4.5,-0.3,-4.2,lean,away,Colgate,Colgate +4.5,backtest,backtest
+401868020,10.0,2026-11-07T17:30:00.000Z,Georgetown,Holy Cross,7.0,4.8,2.2,pass,home,Georgetown,Georgetown +7.0,backtest,backtest
+401868031,10.0,2026-11-07T18:00:00.000Z,William & Mary,Lafayette,2.5,3.9,-1.4,pass,away,Lafayette,Lafayette -2.5,backtest,backtest
+401868038,10.0,2026-11-07T18:00:00.000Z,Villanova,Richmond,-8.5,-7.4,-1.1,pass,away,Richmond,Richmond +8.5,backtest,backtest
+401868057,10.0,2026-11-08T00:00:00.000Z,Tarleton State,Abilene Christian,-10.0,-3.1,-6.9,lean,away,Abilene Christian,Abilene Christian +10.0,backtest,backtest
+401868068,10.0,2026-11-07T21:00:00.000Z,Austin Peay,Eastern Kentucky,-19.5,-12.4,-7.1,lean,away,Eastern Kentucky,Eastern Kentucky +19.5,backtest,backtest
+401868082,10.0,2026-11-07T22:00:00.000Z,Cal Poly,Northern Arizona,13.5,9.0,4.5,lean,home,Cal Poly,Cal Poly +13.5,backtest,backtest
+401868090,10.0,2026-11-07T22:00:00.000Z,Idaho,Eastern Washington,-9.5,-9.8,0.3,pass,home,Idaho,Idaho -9.5,backtest,backtest
+401868108,10.0,2026-11-07T23:00:00.000Z,Idaho State,Montana State,15.5,10.7,4.8,lean,home,Idaho State,Idaho State +15.5,backtest,backtest
+401868116,10.0,2026-11-07T20:00:00.000Z,Montana,Portland State,-24.5,-17.8,-6.7,lean,away,Portland State,Portland State +24.5,backtest,backtest
+401868137,10.0,2026-11-07T22:00:00.000Z,Central Arkansas,West Georgia,-13.5,-11.9,-1.6,pass,away,West Georgia,West Georgia +13.5,backtest,backtest
+401868152,10.0,2026-11-08T00:00:00.000Z,North Alabama,West Florida,-5.5,-4.6,-0.9,pass,away,West Florida,West Florida +5.5,backtest,backtest
+401868153,10.0,2026-11-07T20:00:00.000Z,Southern Utah,Northern Colorado,-9.5,-9.0,-0.5,pass,away,Northern Colorado,Northern Colorado +9.5,backtest,backtest
+401868166,10.0,2026-11-08T00:00:00.000Z,UC Davis,Utah Tech,-17.5,-7.7,-9.8,lean,away,Utah Tech,Utah Tech +17.5,backtest,backtest
+401868176,10.0,2026-11-07T19:00:00.000Z,Charleston Southern,UT Martin,-4.5,-7.9,3.4,fav_value,home,Charleston Southern,Charleston Southern -4.5,backtest,backtest
+401868184,10.0,2026-11-07T20:00:00.000Z,Eastern Illinois,Western Illinois,4.5,9.9,-5.4,fav_value,away,Western Illinois,Western Illinois -4.5,backtest,backtest
+401868191,10.0,2026-11-07T18:30:00.000Z,Gardner-Webb,Lindenwood,-5.5,-9.1,3.6,fav_value,home,Gardner-Webb,Gardner-Webb -5.5,backtest,backtest
+401868200,10.0,2026-11-07T20:30:00.000Z,Tennessee State,Southeast Missouri State,11.5,9.9,1.6,pass,home,Tennessee State,Tennessee State +11.5,backtest,backtest
+401868216,10.0,2026-11-07T18:00:00.000Z,Butler,St. Thomas (MN),-1.5,-0.7,-0.8,pass,away,St. Thomas (MN),St. Thomas (MN) +1.5,backtest,backtest
+401868224,10.0,2026-11-07T18:00:00.000Z,Davidson,Stetson,-1.5,3.2,-4.7,lean,away,Stetson,Stetson +1.5,backtest,backtest
+401868232,10.0,2026-11-07T17:00:00.000Z,Dayton,Valparaiso,-8.5,-7.5,-1.0,pass,away,Valparaiso,Valparaiso +8.5,backtest,backtest
+401868252,10.0,2026-11-07T19:00:00.000Z,Northwestern State,UT Rio Grande Valley,20.5,13.7,6.8,lean,home,Northwestern State,Northwestern State +20.5,backtest,backtest
+401868259,10.0,2026-11-07T18:00:00.000Z,Drake,San Diego,1.5,1.9,-0.4,pass,away,San Diego,San Diego -1.5,backtest,backtest
+401868268,10.0,2026-11-07T17:00:00.000Z,Marist,Morehead State,-16.5,-13.6,-2.9,pass,away,Morehead State,Morehead State +16.5,backtest,backtest
+401868302,10.0,2026-11-07T20:00:00.000Z,Prairie View A&M,Alabama A&M,1.5,4.2,-2.7,pass,away,Alabama A&M,Alabama A&M -1.5,backtest,backtest
+401868313,10.0,2026-11-07T21:00:00.000Z,Lamar,Stephen F. Austin,7.0,3.3,3.7,lean,home,Lamar,Lamar +7.0,backtest,backtest
+401868321,10.0,2026-11-08T00:00:00.000Z,SE Louisiana,Incarnate Word,4.0,7.9,-3.9,fav_value,away,Incarnate Word,Incarnate Word -4.0,backtest,backtest
+401868331,10.0,2026-11-07T20:00:00.000Z,Texas Southern,Alabama State,6.5,4.8,1.7,pass,home,Texas Southern,Texas Southern +6.5,backtest,backtest
+401868343,10.0,2026-11-07T18:00:00.000Z,Chattanooga,Mercer,2.5,2.0,0.5,pass,home,Chattanooga,Chattanooga +2.5,backtest,backtest
+401868350,10.0,2026-11-07T18:00:00.000Z,East Tennessee State,Samford,-13.5,-10.8,-2.7,pass,away,Samford,Samford +13.5,backtest,backtest
+401868363,10.0,2026-11-07T20:00:00.000Z,Alcorn State,Florida A&M,-10.0,-15.7,5.7,fav_value,home,Alcorn State,Alcorn State -10.0,backtest,backtest
+401868379,10.0,2026-11-07T19:00:00.000Z,The Citadel,Furman,3.0,-2.6,5.6,lean,home,The Citadel,The Citadel +3.0,backtest,backtest
+401868393,10.0,2026-11-07T19:30:00.000Z,Tennessee Tech,VMI,-39.5,-35.6,-3.9,lean,away,VMI,VMI +39.5,backtest,backtest
+401868399,10.0,2026-11-07T18:00:00.000Z,Western Carolina,Wofford,-4.5,-1.4,-3.1,lean,away,Wofford,Wofford +4.5,backtest,backtest
+401868939,10.0,2026-11-07T20:00:00.000Z,Grambling,Arkansas-Pine Bluff,1.5,3.4,-1.9,pass,away,Arkansas-Pine Bluff,Arkansas-Pine Bluff -1.5,backtest,backtest
+401868945,10.0,2026-11-07T20:00:00.000Z,Southern,Bethune-Cookman,-3.0,-2.0,-1.0,pass,away,Bethune-Cookman,Bethune-Cookman +3.0,backtest,backtest
+401868961,10.0,2026-11-07T20:00:00.000Z,Jackson State,Mississippi Valley State,-24.5,-19.7,-4.8,lean,away,Mississippi Valley State,Mississippi Valley State +24.5,backtest,backtest
+401869140,10.0,2026-11-07T22:00:00.000Z,Houston Christian,McNeese,-3.0,-6.5,3.5,lean,home,Houston Christian,Houston Christian -3.0,backtest,backtest
+401869153,10.0,2026-11-07T21:00:00.000Z,Nicholls,East Texas A&M,3.0,7.5,-4.5,lean,away,East Texas A&M,East Texas A&M -3.0,backtest,backtest
 401869927,10.0,2026-11-07T19:30:00.000Z,App State,Georgia State,-6.5,-1.2,-5.3,lean,away,Georgia State,Georgia State +6.5,live,2026-11-07 19:44 UTC
 401869936,10.0,2026-11-07T20:00:00.000Z,Arkansas State,UL Monroe,-14.5,-13.1,-1.4,pass,away,UL Monroe,UL Monroe +14.5,live,2026-11-07 19:44 UTC
 401869945,10.0,2026-11-07T18:00:00.000Z,Coastal Carolina,Old Dominion,-6.5,-7.2,0.7,pass,home,Coastal Carolina,Coastal Carolina -6.5,live,2026-11-07 19:44 UTC
@@ -1151,3 +1210,71 @@ gameId,week,startDate,homeTeam,awayTeam,spread,model_spread,edge,tier,pick_side,
 401871075,10.0,2026-11-08T00:00:00.000Z,Jacksonville State,Sam Houston,-16.5,-14.2,-2.3,pass,away,Sam Houston,Sam Houston +16.5,live,2026-11-07 19:44 UTC
 401871076,10.0,2026-11-07T20:30:00.000Z,Middle Tennessee,Western Kentucky,2.5,-0.0,2.5,pass,home,Middle Tennessee,Middle Tennessee +2.5,live,2026-11-07 19:44 UTC
 401871098,10.0,2026-11-07T21:00:00.000Z,Troy,Louisiana Tech,7.0,7.9,-0.9,pass,away,Louisiana Tech,Louisiana Tech -7.0,live,2026-11-07 19:44 UTC
+401872617,10.0,2026-11-07T19:00:00.000Z,Northern Iowa,South Dakota State,15.5,13.1,2.4,pass,home,Northern Iowa,Northern Iowa +15.5,backtest,backtest
+401856857,11.0,2026-11-14T20:30:00.000Z,UCF,Arizona State,-3.5,-1.2,-2.3,pass,away,Arizona State,Arizona State +3.5,live,2026-11-10 03:05 UTC
+401856858,11.0,2026-11-14T20:30:00.000Z,BYU,Baylor,-7.5,-1.3,-6.2,lean,away,Baylor,Baylor +7.5,live,2026-11-10 03:05 UTC
+401856859,11.0,2026-11-14T17:00:00.000Z,Iowa State,Cincinnati,-3.0,-1.1,-1.9,pass,away,Cincinnati,Cincinnati +3.0,live,2026-11-10 03:05 UTC
+401856860,11.0,2026-11-14T03:15:00.000Z,Colorado,Houston,10.5,11.5,-1.0,pass,away,Houston,Houston -10.5,live,2026-11-10 03:05 UTC
+401856861,11.0,2026-11-14T22:30:00.000Z,West Virginia,Kansas,-3.0,3.1,-6.1,lean,away,Kansas,Kansas +3.0,live,2026-11-10 03:05 UTC
+401856862,11.0,2026-11-14T19:00:00.000Z,TCU,Kansas State,-9.0,-7.3,-1.7,pass,away,Kansas State,Kansas State +9.0,live,2026-11-10 03:05 UTC
+401856863,11.0,2026-11-15T02:30:00.000Z,Oklahoma State,Texas Tech,-3.5,-6.1,2.6,pass,home,Oklahoma State,Oklahoma State -3.5,live,2026-11-10 03:05 UTC
+401856864,11.0,2026-11-15T00:30:00.000Z,Arizona,Utah,2.5,3.8,-1.3,pass,away,Utah,Utah -2.5,live,2026-11-10 03:05 UTC
+401856882,11.0,2026-11-15T00:45:00.000Z,Arkansas,South Carolina,7.5,9.8,-2.3,pass,away,South Carolina,South Carolina -7.5,live,2026-11-10 03:05 UTC
+401856883,11.0,2026-11-14T20:30:00.000Z,Georgia,Missouri,-15.5,-12.4,-3.1,lean,away,Missouri,Missouri +15.5,live,2026-11-10 03:05 UTC
+401856884,11.0,2026-11-14T23:15:00.000Z,Kentucky,Florida,-3.5,-1.4,-2.1,pass,away,Florida,Florida +3.5,live,2026-11-10 03:05 UTC
+401856885,11.0,2026-11-15T00:30:00.000Z,LSU,Texas,-3.5,-4.2,0.7,pass,home,LSU,LSU -3.5,live,2026-11-10 03:05 UTC
+401856886,11.0,2026-11-14T17:00:00.000Z,Mississippi State,Auburn,2.5,-3.8,6.3,lean,home,Mississippi State,Mississippi State +2.5,live,2026-11-10 03:05 UTC
+401856887,11.0,2026-11-14T21:15:00.000Z,Oklahoma,Ole Miss,1.5,0.2,1.3,pass,home,Oklahoma,Oklahoma +1.5,live,2026-11-10 03:05 UTC
+401856888,11.0,2026-11-14T20:00:00.000Z,Texas A&M,Tennessee,2.5,3.2,-0.7,pass,away,Tennessee,Tennessee -2.5,live,2026-11-10 03:05 UTC
+401856889,11.0,2026-11-14T17:45:00.000Z,Vanderbilt,Alabama,15.5,17.6,-2.1,pass,away,Alabama,Alabama -15.5,live,2026-11-10 03:05 UTC
+401858293,11.0,2026-11-14T00:00:00.000Z,Pittsburgh,Florida State,-3.5,-5.8,2.3,pass,home,Pittsburgh,Pittsburgh -3.5,live,2026-11-10 03:05 UTC
+401858294,11.0,2026-11-14T20:30:00.000Z,Notre Dame,Boston College,-29.5,-31.0,1.5,pass,home,Notre Dame,Notre Dame -29.5,live,2026-11-10 03:05 UTC
+401858295,11.0,2026-11-14T20:30:00.000Z,Virginia,California,-10.0,-10.1,0.1,pass,home,Virginia,Virginia -10.0,live,2026-11-10 03:05 UTC
+401858296,11.0,2026-11-14T17:00:00.000Z,Miami,Duke,-13.5,-10.8,-2.7,pass,away,Duke,Duke +13.5,live,2026-11-10 03:05 UTC
+401858297,11.0,2026-11-14T17:30:00.000Z,Clemson,Georgia Tech,-13.5,-10.5,-3.0,lean,away,Georgia Tech,Georgia Tech +13.5,live,2026-11-10 03:05 UTC
+401858298,11.0,2026-11-15T00:00:00.000Z,North Carolina,Louisville,3.5,4.3,-0.8,pass,away,Louisville,Louisville -3.5,live,2026-11-10 03:05 UTC
+401858299,11.0,2026-11-15T00:30:00.000Z,Virginia Tech,Stanford,-15.5,-12.7,-2.8,pass,away,Stanford,Stanford +15.5,live,2026-11-10 03:05 UTC
+401858300,11.0,2026-11-14T17:00:00.000Z,NC State,Syracuse,3.0,3.8,-0.8,pass,away,Syracuse,Syracuse -3.0,live,2026-11-10 03:05 UTC
+401858301,11.0,2026-11-14T17:00:00.000Z,SMU,Wake Forest,1.5,6.2,-4.7,lean,away,Wake Forest,Wake Forest -1.5,live,2026-11-10 03:05 UTC
+401858518,11.0,2026-11-14T20:30:00.000Z,Indiana,USC,-7.5,-5.5,-2.0,pass,away,USC,USC +7.5,live,2026-11-10 03:05 UTC
+401858519,11.0,2026-11-15T00:30:00.000Z,Iowa,Purdue,-16.5,-15.9,-0.6,pass,away,Purdue,Purdue +16.5,live,2026-11-10 03:05 UTC
+401858520,11.0,2026-11-14T17:00:00.000Z,Maryland,Wisconsin,8.5,6.2,2.3,pass,home,Maryland,Maryland +8.5,live,2026-11-10 03:05 UTC
+401858521,11.0,2026-11-14T21:15:00.000Z,Michigan State,Washington,4.5,-0.5,5.0,lean,home,Michigan State,Michigan State +4.5,live,2026-11-10 03:05 UTC
+401858522,11.0,2026-11-14T17:00:00.000Z,Ohio State,Northwestern,-12.5,-10.1,-2.4,pass,away,Northwestern,Northwestern +12.5,live,2026-11-10 03:05 UTC
+401858523,11.0,2026-11-14T20:30:00.000Z,Oregon,Michigan,-10.5,-9.2,-1.3,pass,away,Michigan,Michigan +10.5,live,2026-11-10 03:05 UTC
+401858524,11.0,2026-11-15T00:00:00.000Z,Penn State,Minnesota,-9.5,-8.5,-1.0,pass,away,Minnesota,Minnesota +9.5,live,2026-11-10 03:05 UTC
+401858525,11.0,2026-11-14T17:30:00.000Z,Rutgers,Nebraska,13.5,15.3,-1.8,pass,away,Nebraska,Nebraska -13.5,live,2026-11-10 03:05 UTC
+401858526,11.0,2026-11-14T02:00:00.000Z,UCLA,Illinois,-10.0,-10.6,0.6,pass,home,UCLA,UCLA -10.0,live,2026-11-10 03:05 UTC
+401860914,11.0,2026-11-14T23:00:00.000Z,Boise State,Oregon State,-13.5,-8.1,-5.4,lean,away,Oregon State,Oregon State +13.5,live,2026-11-10 03:05 UTC
+401860915,11.0,2026-11-15T02:30:00.000Z,San Diego State,Utah State,2.5,7.4,-4.9,lean,away,Utah State,Utah State -2.5,live,2026-11-10 03:05 UTC
+401860916,11.0,2026-11-14T21:00:00.000Z,Texas State,Fresno State,-10.0,-9.9,-0.1,pass,away,Fresno State,Fresno State +10.0,live,2026-11-10 03:05 UTC
+401860917,11.0,2026-11-15T03:30:00.000Z,Washington State,Colorado State,-9.5,-4.2,-5.3,lean,away,Colorado State,Colorado State +9.5,live,2026-11-10 03:05 UTC
+401861967,11.0,2026-11-14T17:00:00.000Z,UConn,James Madison,4.0,2.4,1.6,pass,home,UConn,UConn +4.0,live,2026-11-10 03:05 UTC
+401862824,11.0,2026-11-13T01:00:00.000Z,South Florida,Memphis,4.0,5.9,-1.9,pass,away,Memphis,Memphis -4.0,live,2026-11-10 03:05 UTC
+401862825,11.0,2026-11-14T18:00:00.000Z,Charlotte,East Carolina,11.5,15.1,-3.6,fav_value,away,East Carolina,East Carolina -11.5,live,2026-11-10 03:05 UTC
+401862826,11.0,2026-11-14T20:30:00.000Z,Tulsa,Florida Atlantic,-5.5,-4.9,-0.6,pass,away,Florida Atlantic,Florida Atlantic +5.5,live,2026-11-10 03:05 UTC
+401862827,11.0,2026-11-15T02:00:00.000Z,UTSA,North Texas,2.5,7.7,-5.2,lean,away,North Texas,North Texas -2.5,live,2026-11-10 03:05 UTC
+401862828,11.0,2026-11-14T19:00:00.000Z,Rice,Tulane,-2.5,-5.0,2.5,pass,home,Rice,Rice -2.5,live,2026-11-10 03:05 UTC
+401862829,11.0,2026-11-14T18:00:00.000Z,Temple,UAB,-2.5,0.4,-2.9,pass,away,UAB,UAB +2.5,live,2026-11-10 03:05 UTC
+401864536,11.0,2026-11-14T20:30:00.000Z,Northern Illinois,Nevada,7.0,8.4,-1.4,pass,away,Nevada,Nevada -7.0,live,2026-11-10 03:05 UTC
+401864537,11.0,2026-11-15T04:00:00.000Z,Hawai'i,North Dakota State,6.5,7.3,-0.8,pass,away,North Dakota State,North Dakota State -6.5,live,2026-11-10 03:05 UTC
+401864538,11.0,2026-11-15T00:00:00.000Z,Air Force,San José State,-12.5,-12.0,-0.5,pass,away,San José State,San José State +12.5,live,2026-11-10 03:05 UTC
+401864539,11.0,2026-11-15T00:30:00.000Z,New Mexico,UNLV,-14.0,-14.9,0.9,pass,home,New Mexico,New Mexico -14.0,live,2026-11-10 03:05 UTC
+401864540,11.0,2026-11-15T03:00:00.000Z,UTEP,Wyoming,7.5,10.0,-2.5,pass,away,Wyoming,Wyoming -7.5,live,2026-11-10 03:05 UTC
+401866458,11.0,2026-11-11T00:00:00.000Z,Akron,Western Michigan,14.0,8.5,5.5,lean,home,Akron,Akron +14.0,live,2026-11-10 03:05 UTC
+401866459,11.0,2026-11-11T00:00:00.000Z,Bowling Green,Kent State,-5.5,-4.6,-0.9,pass,away,Kent State,Kent State +5.5,live,2026-11-10 03:05 UTC
+401866460,11.0,2026-11-11T01:00:00.000Z,Miami (OH),Ohio,1.5,2.6,-1.1,pass,away,Ohio,Ohio -1.5,live,2026-11-10 03:05 UTC
+401866461,11.0,2026-11-12T00:30:00.000Z,Ball State,Buffalo,2.5,-0.2,2.7,pass,home,Ball State,Ball State +2.5,live,2026-11-10 03:05 UTC
+401866462,11.0,2026-11-12T00:30:00.000Z,Central Michigan,Sacramento State,-18.5,-10.0,-8.5,lean,away,Sacramento State,Sacramento State +18.5,live,2026-11-10 03:05 UTC
+401866463,11.0,2026-11-12T00:30:00.000Z,Toledo,Massachusetts,-14.5,-12.8,-1.7,pass,away,Massachusetts,Massachusetts +14.5,live,2026-11-10 03:05 UTC
+401869928,11.0,2026-11-14T23:00:00.000Z,Marshall,App State,1.5,2.1,-0.6,pass,away,App State,App State -1.5,live,2026-11-10 03:05 UTC
+401869937,11.0,2026-11-14T18:00:00.000Z,Coastal Carolina,Arkansas State,-1.5,-0.2,-1.3,pass,away,Arkansas State,Arkansas State +1.5,live,2026-11-10 03:05 UTC
+401869952,11.0,2026-11-14T20:30:00.000Z,Georgia State,Georgia Southern,5.5,3.2,2.3,pass,home,Georgia State,Georgia State +5.5,live,2026-11-10 03:05 UTC
+401869969,11.0,2026-11-13T02:00:00.000Z,UL Monroe,Louisiana,11.5,10.8,0.7,pass,home,UL Monroe,UL Monroe +11.5,live,2026-11-10 03:05 UTC
+401870752,11.0,2026-11-14T20:30:00.000Z,Western Kentucky,Jacksonville State,7.5,11.1,-3.6,fav_value,away,Jacksonville State,Jacksonville State -7.5,live,2026-11-10 03:05 UTC
+401870769,11.0,2026-11-14T19:00:00.000Z,Sam Houston,Kennesaw State,7.5,5.8,1.7,pass,home,Sam Houston,Sam Houston +7.5,live,2026-11-10 03:05 UTC
+401870796,11.0,2026-11-14T20:00:00.000Z,Missouri State,New Mexico State,-2.5,0.5,-3.0,pass,away,New Mexico State,New Mexico State +2.5,live,2026-11-10 03:05 UTC
+401871060,11.0,2026-11-14T20:00:00.000Z,Delaware,Florida International,-5.5,-3.6,-1.9,pass,away,Florida International,Florida International +5.5,live,2026-11-10 03:05 UTC
+401871061,11.0,2026-11-14T20:30:00.000Z,Liberty,Middle Tennessee,-20.5,-21.7,1.2,pass,home,Liberty,Liberty -20.5,live,2026-11-10 03:05 UTC
+401871099,11.0,2026-11-14T22:00:00.000Z,Louisiana Tech,Southern Miss,-17.5,-15.3,-2.2,pass,away,Southern Miss,Southern Miss +17.5,live,2026-11-10 03:05 UTC
+401871100,11.0,2026-11-15T00:00:00.000Z,South Alabama,Troy,-3.0,-1.4,-1.6,pass,away,Troy,Troy +3.0,live,2026-11-10 03:05 UTC

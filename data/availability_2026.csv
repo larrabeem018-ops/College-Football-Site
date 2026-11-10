@@ -58,16 +58,16 @@ season,conference,team,opponent,game_date,number,player,statuses,latest,game_day
 2026,ACC,Boston College,at Duke,2026-10-31,48,Zeke Moore,Questionable > Questionable > Questionable > Game Time Decision,Game Time Decision,Game Time Decision
 2026,ACC,Boston College,at Duke,2026-10-31,75,Pape Abdoulaye Sy,Out > Out > Out > Out,Out,Out
 2026,ACC,Boston College,at Duke,2026-10-31,80,Reed Swanson,Out > Out > Out > Out,Out,Out
-2026,ACC,Boston College,vs. Florida State,2026-11-07,8,Onye Nwosisi,Out > Out > Out,Out,
-2026,ACC,Boston College,vs. Florida State,2026-11-07,16,Isaiah Farris,Out > Out > Out,Out,
-2026,ACC,Boston College,vs. Florida State,2026-11-07,20,Justin Medlock,Out > Out > Out,Out,
-2026,ACC,Boston College,vs. Florida State,2026-11-07,23,Evan Dickens,Out > Out > Out,Out,
-2026,ACC,Boston College,vs. Florida State,2026-11-07,26,Sedric Addison,Out > Out > Out,Out,
-2026,ACC,Boston College,vs. Florida State,2026-11-07,51,Amir Johnson,Available > Available > Out,Out,
-2026,ACC,Boston College,vs. Florida State,2026-11-07,53,Trevon Humphrey,Out > Out > Out,Out,
-2026,ACC,Boston College,vs. Florida State,2026-11-07,77,Michael Crounse,Out > Out > Out,Out,
-2026,ACC,Boston College,vs. Florida State,2026-11-07,80,Reed Swanson,Out > Out > Out,Out,
-2026,ACC,Boston College,vs. Florida State,2026-11-07,86,Danny Edgehille,Questionable > Available > Available,Available,
+2026,ACC,Boston College,vs. Florida State,2026-11-07,8,Onye Nwosisi,Out > Out > Out > Out,Out,Out
+2026,ACC,Boston College,vs. Florida State,2026-11-07,16,Isaiah Farris,Out > Out > Out > Out,Out,Out
+2026,ACC,Boston College,vs. Florida State,2026-11-07,20,Justin Medlock,Out > Out > Out > Out,Out,Out
+2026,ACC,Boston College,vs. Florida State,2026-11-07,23,Evan Dickens,Out > Out > Out > Out,Out,Out
+2026,ACC,Boston College,vs. Florida State,2026-11-07,26,Sedric Addison,Out > Out > Out > Out,Out,Out
+2026,ACC,Boston College,vs. Florida State,2026-11-07,51,Amir Johnson,Available > Available > Out > Out,Out,Out
+2026,ACC,Boston College,vs. Florida State,2026-11-07,53,Trevon Humphrey,Out > Out > Out > Out,Out,Out
+2026,ACC,Boston College,vs. Florida State,2026-11-07,77,Michael Crounse,Out > Out > Out > Out,Out,Out
+2026,ACC,Boston College,vs. Florida State,2026-11-07,80,Reed Swanson,Out > Out > Out > Out,Out,Out
+2026,ACC,Boston College,vs. Florida State,2026-11-07,86,Danny Edgehille,Questionable > Available > Available > Available,Available,Available
 2026,ACC,California,at Syracuse,2026-09-12,1,Carter Vargas,Doubtful > Doubtful > Doubtful > Out,Out,Out
 2026,ACC,California,at Syracuse,2026-09-12,4,Justin Beadles,Questionable > Doubtful > Doubtful > Out,Out,Out
 2026,ACC,California,at Syracuse,2026-09-12,8,Rico Walker,Questionable > Doubtful > Doubtful > Out,Out,Out
@@ -183,20 +183,20 @@ season,conference,team,opponent,game_date,number,player,statuses,latest,game_day
 2026,ACC,Clemson,at Florida State,2026-10-31,24,David Eziomume,Out > Out > Out > Out,Out,Out
 2026,ACC,Clemson,at Florida State,2026-10-31,76,Mason Wade,Out > Out > Out > Out,Out,Out
 2026,ACC,Clemson,at Florida State,2026-10-31,99,Markus Strong,Out > Out > Out > Out,Out,Out
-2026,ACC,Clemson,at Syracuse,2026-11-07,6,Tyler Brown,Questionable > Questionable > Out,Out,
-2026,ACC,Clemson,at Syracuse,2026-11-07,8,Gideon Davidson,Out > Out > Out,Out,
-2026,ACC,Clemson,at Syracuse,2026-11-07,8,Corian Gipson,Out > Out > Out,Out,
-2026,ACC,Clemson,at Syracuse,2026-11-07,11,Polo Anderson,Out > Out > Out,Out,
-2026,ACC,Clemson,at Syracuse,2026-11-07,12,Shavar Young Jr.,Out > Out > Out,Out,
-2026,ACC,Clemson,at Syracuse,2026-11-07,19,Gordon Sellars III,Questionable > Questionable > Out,Out,
-2026,ACC,Clemson,at Syracuse,2026-11-07,21,Kobe McCloud,Out > Out > Out,Out,
-2026,ACC,Clemson,at Syracuse,2026-11-07,22,Cole Turner,Out > Out > Out,Out,
-2026,ACC,Clemson,at Syracuse,2026-11-07,24,David Eziomume,Out > Out > Out,Out,
-2026,ACC,Clemson,at Syracuse,2026-11-07,52,Elyjah Thurmon,Out > Out > Out,Out,
-2026,ACC,Clemson,at Syracuse,2026-11-07,55,Harris Sewell,Out > Out > Out,Out,
-2026,ACC,Clemson,at Syracuse,2026-11-07,76,Mason Wade,Out > Out > Out,Out,
-2026,ACC,Clemson,at Syracuse,2026-11-07,79,Braden Wilmes,Out > Out > Out,Out,
-2026,ACC,Clemson,at Syracuse,2026-11-07,99,Markus Strong,Out > Out > Out,Out,
+2026,ACC,Clemson,at Syracuse,2026-11-07,6,Tyler Brown,Questionable > Questionable > Out > Out,Out,Out
+2026,ACC,Clemson,at Syracuse,2026-11-07,8,Gideon Davidson,Out > Out > Out > Out,Out,Out
+2026,ACC,Clemson,at Syracuse,2026-11-07,8,Corian Gipson,Out > Out > Out > Out,Out,Out
+2026,ACC,Clemson,at Syracuse,2026-11-07,11,Polo Anderson,Out > Out > Out > Out,Out,Out
+2026,ACC,Clemson,at Syracuse,2026-11-07,12,Shavar Young Jr.,Out > Out > Out > Out,Out,Out
+2026,ACC,Clemson,at Syracuse,2026-11-07,19,Gordon Sellars III,Questionable > Questionable > Out > Out,Out,Out
+2026,ACC,Clemson,at Syracuse,2026-11-07,21,Kobe McCloud,Out > Out > Out > Out,Out,Out
+2026,ACC,Clemson,at Syracuse,2026-11-07,22,Cole Turner,Out > Out > Out > Out,Out,Out
+2026,ACC,Clemson,at Syracuse,2026-11-07,24,David Eziomume,Out > Out > Out > Out,Out,Out
+2026,ACC,Clemson,at Syracuse,2026-11-07,52,Elyjah Thurmon,Out > Out > Out > Out,Out,Out
+2026,ACC,Clemson,at Syracuse,2026-11-07,55,Harris Sewell,Out > Out > Out > Out,Out,Out
+2026,ACC,Clemson,at Syracuse,2026-11-07,76,Mason Wade,Out > Out > Out > Out,Out,Out
+2026,ACC,Clemson,at Syracuse,2026-11-07,79,Braden Wilmes,Out > Out > Out > Out,Out,Out
+2026,ACC,Clemson,at Syracuse,2026-11-07,99,Markus Strong,Out > Out > Out > Out,Out,Out
 2026,ACC,Duke,vs. Stanford,2026-09-19,5,Kimari Robinson,Doubtful > Doubtful > Doubtful > Game Time Decision,Game Time Decision,Game Time Decision
 2026,ACC,Duke,vs. Stanford,2026-09-19,5,Javen Nicholas,Probable > Probable > Probable > Available,Available,Available
 2026,ACC,Duke,vs. Stanford,2026-09-19,8,DaShawn Stone,Questionable > Questionable > Questionable > Available,Available,Available
@@ -263,21 +263,21 @@ season,conference,team,opponent,game_date,number,player,statuses,latest,game_day
 2026,ACC,Duke,vs. Boston College,2026-10-31,74,Reagan McCranie,Out > Out > Out > Out,Out,Out
 2026,ACC,Duke,vs. Boston College,2026-10-31,79,Roman Fina,Out > Out > Out > Out,Out,Out
 2026,ACC,Duke,vs. Boston College,2026-10-31,85,Jeremiah Hasley,Questionable > Questionable > Probable > Available,Available,Available
-2026,ACC,Duke,at NC State,2026-11-07,1,Jamien Little,Out > Out > Out,Out,
-2026,ACC,Duke,at NC State,2026-11-07,1,Kyon Loud,Questionable > Probable > Available,Available,
-2026,ACC,Duke,at NC State,2026-11-07,5,Kimari Robinson,Out > Out > Out,Out,
-2026,ACC,Duke,at NC State,2026-11-07,7,Kavon Simmons,Out > Out > Out,Out,
-2026,ACC,Duke,at NC State,2026-11-07,21,Qeanu Johnson,Out > Out > Out,Out,
-2026,ACC,Duke,at NC State,2026-11-07,23,Kolbe Harmon,Probable > Probable > Available,Available,
-2026,ACC,Duke,at NC State,2026-11-07,31,Elliott Schaper,Out > Out > Out,Out,
-2026,ACC,Duke,at NC State,2026-11-07,35,Andrew Pellicciotta,Probable > Probable > Available,Available,
-2026,ACC,Duke,at NC State,2026-11-07,39,Cosme Salas,Out > Out > Out,Out,
-2026,ACC,Duke,at NC State,2026-11-07,44,David Anderson,Out > Out > Out,Out,
-2026,ACC,Duke,at NC State,2026-11-07,63,Bradley Smith,Questionable > Probable > Available,Available,
-2026,ACC,Duke,at NC State,2026-11-07,65,Kai Jacobowitz,Out > Out > Out,Out,
-2026,ACC,Duke,at NC State,2026-11-07,74,Reagan McCranie,Out > Out > Out,Out,
-2026,ACC,Duke,at NC State,2026-11-07,79,Roman Fina,Out > Out > Out,Out,
-2026,ACC,Duke,at NC State,2026-11-07,85,Jeremiah Hasley,Questionable > Probable > Available,Available,
+2026,ACC,Duke,at NC State,2026-11-07,1,Jamien Little,Out > Out > Out > Out,Out,Out
+2026,ACC,Duke,at NC State,2026-11-07,1,Kyon Loud,Questionable > Probable > Available > Available,Available,Available
+2026,ACC,Duke,at NC State,2026-11-07,5,Kimari Robinson,Out > Out > Out > Out,Out,Out
+2026,ACC,Duke,at NC State,2026-11-07,7,Kavon Simmons,Out > Out > Out > Out,Out,Out
+2026,ACC,Duke,at NC State,2026-11-07,21,Qeanu Johnson,Out > Out > Out > Out,Out,Out
+2026,ACC,Duke,at NC State,2026-11-07,23,Kolbe Harmon,Probable > Probable > Available > Available,Available,Available
+2026,ACC,Duke,at NC State,2026-11-07,31,Elliott Schaper,Out > Out > Out > Out,Out,Out
+2026,ACC,Duke,at NC State,2026-11-07,35,Andrew Pellicciotta,Probable > Probable > Available > Available,Available,Available
+2026,ACC,Duke,at NC State,2026-11-07,39,Cosme Salas,Out > Out > Out > Out,Out,Out
+2026,ACC,Duke,at NC State,2026-11-07,44,David Anderson,Out > Out > Out > Out,Out,Out
+2026,ACC,Duke,at NC State,2026-11-07,63,Bradley Smith,Questionable > Probable > Available > Available,Available,Available
+2026,ACC,Duke,at NC State,2026-11-07,65,Kai Jacobowitz,Out > Out > Out > Out,Out,Out
+2026,ACC,Duke,at NC State,2026-11-07,74,Reagan McCranie,Out > Out > Out > Out,Out,Out
+2026,ACC,Duke,at NC State,2026-11-07,79,Roman Fina,Out > Out > Out > Out,Out,Out
+2026,ACC,Duke,at NC State,2026-11-07,85,Jeremiah Hasley,Questionable > Probable > Available > Available,Available,Available
 2026,ACC,Florida State,vs. SMU,2026-09-07,0,Quindarrius Jones,Probable > Probable > Probable > Available,Available,Available
 2026,ACC,Florida State,vs. SMU,2026-09-07,1,Darryll Desir,Probable > Questionable > Doubtful > Out,Out,Out
 2026,ACC,Florida State,vs. SMU,2026-09-07,7,Ashlynd Barker,Probable > Probable > Probable > Available,Available,Available
@@ -357,24 +357,24 @@ season,conference,team,opponent,game_date,number,player,statuses,latest,game_day
 2026,ACC,Florida State,vs. Clemson,2026-10-31,38,Daylen Green,Out > Out > Out > Out,Out,Out
 2026,ACC,Florida State,vs. Clemson,2026-10-31,45,Noah LaVallee,Out > Out > Out > Out,Out,Out
 2026,ACC,Florida State,vs. Clemson,2026-10-31,93,Conor McAneney,Available > Available > Questionable > Out,Out,Out
-2026,ACC,Florida State,at Boston College,2026-11-07,0,Quindarrius Jones,Out > Out > Out,Out,
-2026,ACC,Florida State,at Boston College,2026-11-07,0,Duce Robinson,Out > Out > Out,Out,
-2026,ACC,Florida State,at Boston College,2026-11-07,3,Samuel Singleton Jr.,Out > Out > Out,Out,
-2026,ACC,Florida State,at Boston College,2026-11-07,5,Quintrevion Wisner,Questionable > Questionable > Probable,Probable,
-2026,ACC,Florida State,at Boston College,2026-11-07,6,Ja’Bril Rawls,Probable > Probable > Available,Available,
-2026,ACC,Florida State,at Boston College,2026-11-07,8,Deante McCray,Out > Out > Out,Out,
-2026,ACC,Florida State,at Boston College,2026-11-07,16,Karson Hobbs,Out > Out > Out,Out,
-2026,ACC,Florida State,at Boston College,2026-11-07,18,Jamari Howard,Out > Out > Out,Out,
-2026,ACC,Florida State,at Boston College,2026-11-07,20,Blake Nichelson,Out > Out > Out,Out,
-2026,ACC,Florida State,at Boston College,2026-11-07,24,K.J. Kirkland,Questionable > Questionable > Questionable,Questionable,
-2026,ACC,Florida State,at Boston College,2026-11-07,29,Caleb LaVallee,Probable > Probable > Available,Available,
-2026,ACC,Florida State,at Boston College,2026-11-07,30,Izayia Williams,Out > Out > Out,Out,
-2026,ACC,Florida State,at Boston College,2026-11-07,32,Ousmane Kromah,Out > Out > Out,Out,
-2026,ACC,Florida State,at Boston College,2026-11-07,38,Daylen Green,Out > Out > Out,Out,
-2026,ACC,Florida State,at Boston College,2026-11-07,45,Noah LaVallee,Out > Out > Out,Out,
-2026,ACC,Florida State,at Boston College,2026-11-07,55,Kevin Wynn,Out > Out > Out,Out,
-2026,ACC,Florida State,at Boston College,2026-11-07,91,Cam Brooks,Questionable > Questionable > Probable,Probable,
-2026,ACC,Florida State,at Boston College,2026-11-07,93,Conor McAneney,Questionable > Out > Out,Out,
+2026,ACC,Florida State,at Boston College,2026-11-07,0,Quindarrius Jones,Out > Out > Out > Out,Out,Out
+2026,ACC,Florida State,at Boston College,2026-11-07,0,Duce Robinson,Out > Out > Out > Out,Out,Out
+2026,ACC,Florida State,at Boston College,2026-11-07,3,Samuel Singleton Jr.,Out > Out > Out > Out,Out,Out
+2026,ACC,Florida State,at Boston College,2026-11-07,5,Quintrevion Wisner,Questionable > Questionable > Probable > Available,Available,Available
+2026,ACC,Florida State,at Boston College,2026-11-07,6,Ja’Bril Rawls,Probable > Probable > Available > Available,Available,Available
+2026,ACC,Florida State,at Boston College,2026-11-07,8,Deante McCray,Out > Out > Out > Out,Out,Out
+2026,ACC,Florida State,at Boston College,2026-11-07,16,Karson Hobbs,Out > Out > Out > Out,Out,Out
+2026,ACC,Florida State,at Boston College,2026-11-07,18,Jamari Howard,Out > Out > Out > Out,Out,Out
+2026,ACC,Florida State,at Boston College,2026-11-07,20,Blake Nichelson,Out > Out > Out > Out,Out,Out
+2026,ACC,Florida State,at Boston College,2026-11-07,24,K.J. Kirkland,Questionable > Questionable > Questionable > Game Time Decision,Game Time Decision,Game Time Decision
+2026,ACC,Florida State,at Boston College,2026-11-07,29,Caleb LaVallee,Probable > Probable > Available > Available,Available,Available
+2026,ACC,Florida State,at Boston College,2026-11-07,30,Izayia Williams,Out > Out > Out > Out,Out,Out
+2026,ACC,Florida State,at Boston College,2026-11-07,32,Ousmane Kromah,Out > Out > Out > Out,Out,Out
+2026,ACC,Florida State,at Boston College,2026-11-07,38,Daylen Green,Out > Out > Out > Out,Out,Out
+2026,ACC,Florida State,at Boston College,2026-11-07,45,Noah LaVallee,Out > Out > Out > Out,Out,Out
+2026,ACC,Florida State,at Boston College,2026-11-07,55,Kevin Wynn,Out > Out > Out > Out,Out,Out
+2026,ACC,Florida State,at Boston College,2026-11-07,91,Cam Brooks,Questionable > Questionable > Probable > Available,Available,Available
+2026,ACC,Florida State,at Boston College,2026-11-07,93,Conor McAneney,Questionable > Out > Out > Out,Out,Out
 2026,ACC,Georgia Tech,at Stanford,2026-09-26,0,Malachi Hosley,Questionable > Questionable > Questionable > Out,Out,Out
 2026,ACC,Georgia Tech,at Stanford,2026-09-26,3,Jaylen Mbakwe,Questionable > Questionable > Questionable > Out,Out,Out
 2026,ACC,Georgia Tech,at Stanford,2026-09-26,10,Jordan Walker,Out > Out > Out > Out,Out,Out
@@ -469,23 +469,23 @@ season,conference,team,opponent,game_date,number,player,statuses,latest,game_day
 2026,ACC,Georgia Tech,at Pittsburgh,2026-10-31,89,Chris Elko,Questionable > Questionable > Questionable > Available,Available,Available
 2026,ACC,Georgia Tech,at Pittsburgh,2026-10-31,96,Shymeik Jones,Out > Out > Out > Out,Out,Out
 2026,ACC,Georgia Tech,at Pittsburgh,2026-10-31,97,Landen Marshall,Out > Out > Out > Out,Out,Out
-2026,ACC,Georgia Tech,vs. Louisville,2026-11-07,0,Malachi Hosley,Out > Out > Out,Out,
-2026,ACC,Georgia Tech,vs. Louisville,2026-11-07,3,Rahkeem Smith,Out > Out > Out,Out,
-2026,ACC,Georgia Tech,vs. Louisville,2026-11-07,6,Kelvin Hill,Out > Out > Out,Out,
-2026,ACC,Georgia Tech,vs. Louisville,2026-11-07,8,Jordan Boyd,Available > Doubtful > Out,Out,
-2026,ACC,Georgia Tech,vs. Louisville,2026-11-07,13,Savion Riley,Out > Out > Out,Out,
-2026,ACC,Georgia Tech,vs. Louisville,2026-11-07,24,Shane Marshall,Available > Available > Questionable,Questionable,
-2026,ACC,Georgia Tech,vs. Louisville,2026-11-07,31,Fenix Felton,Out > Out > Out,Out,
-2026,ACC,Georgia Tech,vs. Louisville,2026-11-07,39,Will Kiker,Out > Out > Out,Out,
-2026,ACC,Georgia Tech,vs. Louisville,2026-11-07,44,Kyle Efford,Out > Out > Out,Out,
-2026,ACC,Georgia Tech,vs. Louisville,2026-11-07,52,"Kevin Peay, Jr.",Out > Out > Out,Out,
-2026,ACC,Georgia Tech,vs. Louisville,2026-11-07,65,Courtney Heard,Out > Out > Out,Out,
-2026,ACC,Georgia Tech,vs. Louisville,2026-11-07,71,Markell Samuel,Out > Out > Out,Out,
-2026,ACC,Georgia Tech,vs. Louisville,2026-11-07,78,Ethan Mackenny,Out > Out > Out,Out,
-2026,ACC,Georgia Tech,vs. Louisville,2026-11-07,82,Kentrell Davis,Out > Out > Out,Out,
-2026,ACC,Georgia Tech,vs. Louisville,2026-11-07,88,A.J. Hoffler,Out > Out > Out,Out,
-2026,ACC,Georgia Tech,vs. Louisville,2026-11-07,96,Shymeik Jones,Out > Out > Out,Out,
-2026,ACC,Georgia Tech,vs. Louisville,2026-11-07,97,Landen Marshall,Out > Out > Out,Out,
+2026,ACC,Georgia Tech,vs. Louisville,2026-11-07,0,Malachi Hosley,Out > Out > Out > Out,Out,Out
+2026,ACC,Georgia Tech,vs. Louisville,2026-11-07,3,Rahkeem Smith,Out > Out > Out > Out,Out,Out
+2026,ACC,Georgia Tech,vs. Louisville,2026-11-07,6,Kelvin Hill,Out > Out > Out > Out,Out,Out
+2026,ACC,Georgia Tech,vs. Louisville,2026-11-07,8,Jordan Boyd,Available > Doubtful > Out > Out,Out,Out
+2026,ACC,Georgia Tech,vs. Louisville,2026-11-07,13,Savion Riley,Out > Out > Out > Out,Out,Out
+2026,ACC,Georgia Tech,vs. Louisville,2026-11-07,24,Shane Marshall,Available > Available > Questionable > Game Time Decision,Game Time Decision,Game Time Decision
+2026,ACC,Georgia Tech,vs. Louisville,2026-11-07,31,Fenix Felton,Out > Out > Out > Out,Out,Out
+2026,ACC,Georgia Tech,vs. Louisville,2026-11-07,39,Will Kiker,Out > Out > Out > Out,Out,Out
+2026,ACC,Georgia Tech,vs. Louisville,2026-11-07,44,Kyle Efford,Out > Out > Out > Out,Out,Out
+2026,ACC,Georgia Tech,vs. Louisville,2026-11-07,52,"Kevin Peay, Jr.",Out > Out > Out > Out,Out,Out
+2026,ACC,Georgia Tech,vs. Louisville,2026-11-07,65,Courtney Heard,Out > Out > Out > Out,Out,Out
+2026,ACC,Georgia Tech,vs. Louisville,2026-11-07,71,Markell Samuel,Out > Out > Out > Out,Out,Out
+2026,ACC,Georgia Tech,vs. Louisville,2026-11-07,78,Ethan Mackenny,Out > Out > Out > Out,Out,Out
+2026,ACC,Georgia Tech,vs. Louisville,2026-11-07,82,Kentrell Davis,Out > Out > Out > Out,Out,Out
+2026,ACC,Georgia Tech,vs. Louisville,2026-11-07,88,A.J. Hoffler,Out > Out > Out > Out,Out,Out
+2026,ACC,Georgia Tech,vs. Louisville,2026-11-07,96,Shymeik Jones,Out > Out > Out > Out,Out,Out
+2026,ACC,Georgia Tech,vs. Louisville,2026-11-07,97,Landen Marshall,Out > Out > Out > Out,Out,Out
 2026,ACC,Louisville,vs. SMU,2026-09-19,1,Isaac Brown,Probable > Probable > Probable > Available,Available,Available
 2026,ACC,Louisville,vs. SMU,2026-09-19,2,Demeco Kennedy,Questionable > Questionable > Questionable > Available,Available,Available
 2026,ACC,Louisville,vs. SMU,2026-09-19,28,Santana Wilson,Probable > Probable > Probable > Available,Available,Available
@@ -588,23 +588,23 @@ season,conference,team,opponent,game_date,number,player,statuses,latest,game_day
 2026,ACC,Louisville,vs. Stanford,2026-10-31,90,Daylen Russell,Questionable > Questionable > Out > Out,Out,Out
 2026,ACC,Louisville,vs. Stanford,2026-10-31,98,Sam Dawson,Out > Out > Out > Out,Out,Out
 2026,ACC,Louisville,vs. Stanford,2026-10-31,99,Jerod Smith II,Questionable > Questionable > Probable > Available,Available,Available
-2026,ACC,Louisville,at Georgia Tech,2026-11-07,0,Tre Richardson,Probable > Available > Available,Available,
-2026,ACC,Louisville,at Georgia Tech,2026-11-07,1,Isaac Brown,Probable > Probable > Questionable,Questionable,
-2026,ACC,Louisville,at Georgia Tech,2026-11-07,7,Lawayne McCoy,Questionable > Questionable > Out,Out,
-2026,ACC,Louisville,at Georgia Tech,2026-11-07,9,Antonio Watts,Out > Out > Out,Out,
-2026,ACC,Louisville,at Georgia Tech,2026-11-07,21,Jaydin Broadnax,Probable > Probable > Available,Available,
-2026,ACC,Louisville,at Georgia Tech,2026-11-07,27,Myles Norwood,Questionable > Available > Available,Available,
-2026,ACC,Louisville,at Georgia Tech,2026-11-07,44,Travis Egan,Probable > Probable > Available,Available,
-2026,ACC,Louisville,at Georgia Tech,2026-11-07,48,Jacob Baker,Out > Out > Out,Out,
-2026,ACC,Louisville,at Georgia Tech,2026-11-07,56,Eryx Daugherty,Probable > Probable > Available,Available,
-2026,ACC,Louisville,at Georgia Tech,2026-11-07,58,Evan Wibberley,Probable > Probable > Available,Available,
-2026,ACC,Louisville,at Georgia Tech,2026-11-07,63,Bryten Close,Out > Out > Out,Out,
-2026,ACC,Louisville,at Georgia Tech,2026-11-07,67,James Glover-Tyson,Out > Out > Out,Out,
-2026,ACC,Louisville,at Georgia Tech,2026-11-07,70,Anwar O'neal,Out > Out > Out,Out,
-2026,ACC,Louisville,at Georgia Tech,2026-11-07,84,Payton Cook,Out > Out > Out,Out,
-2026,ACC,Louisville,at Georgia Tech,2026-11-07,90,Hamilton Atkins,Out > Out > Out,Out,
-2026,ACC,Louisville,at Georgia Tech,2026-11-07,90,Daylen Russell,Probable > Probable > Available,Available,
-2026,ACC,Louisville,at Georgia Tech,2026-11-07,98,Sam Dawson,Out > Out > Out,Out,
+2026,ACC,Louisville,at Georgia Tech,2026-11-07,0,Tre Richardson,Probable > Available > Available > Available,Available,Available
+2026,ACC,Louisville,at Georgia Tech,2026-11-07,1,Isaac Brown,Probable > Probable > Questionable > Game Time Decision,Game Time Decision,Game Time Decision
+2026,ACC,Louisville,at Georgia Tech,2026-11-07,7,Lawayne McCoy,Questionable > Questionable > Out > Out,Out,Out
+2026,ACC,Louisville,at Georgia Tech,2026-11-07,9,Antonio Watts,Out > Out > Out > Out,Out,Out
+2026,ACC,Louisville,at Georgia Tech,2026-11-07,21,Jaydin Broadnax,Probable > Probable > Available > Available,Available,Available
+2026,ACC,Louisville,at Georgia Tech,2026-11-07,27,Myles Norwood,Questionable > Available > Available > Available,Available,Available
+2026,ACC,Louisville,at Georgia Tech,2026-11-07,44,Travis Egan,Probable > Probable > Available > Available,Available,Available
+2026,ACC,Louisville,at Georgia Tech,2026-11-07,48,Jacob Baker,Out > Out > Out > Out,Out,Out
+2026,ACC,Louisville,at Georgia Tech,2026-11-07,56,Eryx Daugherty,Probable > Probable > Available > Available,Available,Available
+2026,ACC,Louisville,at Georgia Tech,2026-11-07,58,Evan Wibberley,Probable > Probable > Available > Available,Available,Available
+2026,ACC,Louisville,at Georgia Tech,2026-11-07,63,Bryten Close,Out > Out > Out > Out,Out,Out
+2026,ACC,Louisville,at Georgia Tech,2026-11-07,67,James Glover-Tyson,Out > Out > Out > Out,Out,Out
+2026,ACC,Louisville,at Georgia Tech,2026-11-07,70,Anwar O'neal,Out > Out > Out > Out,Out,Out
+2026,ACC,Louisville,at Georgia Tech,2026-11-07,84,Payton Cook,Out > Out > Out > Out,Out,Out
+2026,ACC,Louisville,at Georgia Tech,2026-11-07,90,Hamilton Atkins,Out > Out > Out > Out,Out,Out
+2026,ACC,Louisville,at Georgia Tech,2026-11-07,90,Daylen Russell,Probable > Probable > Available > Available,Available,Available
+2026,ACC,Louisville,at Georgia Tech,2026-11-07,98,Sam Dawson,Out > Out > Out > Out,Out,Out
 2026,ACC,Miami,at Stanford,2026-09-04,2,Jordan Lyle,Available > Available > Out > Out,Out,Out
 2026,ACC,Miami,at Stanford,2026-09-04,16,Ja'Boree Antoine,Out > Out > Out > Out,Out,Out
 2026,ACC,Miami,at Stanford,2026-09-04,23,Dylan Day,Available > Out > Out > Out,Out,Out
@@ -701,23 +701,23 @@ season,conference,team,opponent,game_date,number,player,statuses,latest,game_day
 2026,ACC,NC State,vs. California,2026-10-31,87,Ian Flynt,Out > Out > Out > Out,Out,Out
 2026,ACC,NC State,vs. California,2026-10-31,91,Nick Konieczynski,Out > Out > Out > Out,Out,Out
 2026,ACC,NC State,vs. California,2026-10-31,99,AJ Prim,Out > Out > Out > Out,Out,Out
-2026,ACC,NC State,vs. Duke,2026-11-07,1,"Jayden ""Duke"" Scott",Questionable > Questionable > Questionable,Questionable,
-2026,ACC,NC State,vs. Duke,2026-11-07,2,"Ronnie Royal, III",Probable > Available > Available,Available,
-2026,ACC,NC State,vs. Duke,2026-11-07,3,Tristan Teasdell,Questionable > Out > Out,Out,
-2026,ACC,NC State,vs. Duke,2026-11-07,4,Vander Ploog,Out > Out > Out,Out,
-2026,ACC,NC State,vs. Duke,2026-11-07,5,Harvey Dyson III,Probable > Available > Available,Available,
-2026,ACC,NC State,vs. Duke,2026-11-07,8,Isaiah Crowell,Out > Out > Out,Out,
-2026,ACC,NC State,vs. Duke,2026-11-07,10,Will Wilson,Probable > Probable > Probable,Probable,
-2026,ACC,NC State,vs. Duke,2026-11-07,13,Joseph Adedire,Probable > Available > Available,Available,
-2026,ACC,NC State,vs. Duke,2026-11-07,15,AJ Richardson,Out > Out > Out,Out,
-2026,ACC,NC State,vs. Duke,2026-11-07,19,Preston Douglas,Questionable > Out > Out,Out,
-2026,ACC,NC State,vs. Duke,2026-11-07,50,Daniel Cruz,Out > Out > Out,Out,
-2026,ACC,NC State,vs. Duke,2026-11-07,54,Teague Andersen,Questionable > Questionable > Questionable,Questionable,
-2026,ACC,NC State,vs. Duke,2026-11-07,71,Yousef Mugharbil,Out > Out > Out,Out,
-2026,ACC,NC State,vs. Duke,2026-11-07,72,Spike Sowells Jr.,Out > Out > Out,Out,
-2026,ACC,NC State,vs. Duke,2026-11-07,87,Ian Flynt,Out > Out > Out,Out,
-2026,ACC,NC State,vs. Duke,2026-11-07,91,Nick Konieczynski,Out > Out > Out,Out,
-2026,ACC,NC State,vs. Duke,2026-11-07,99,AJ Prim,Probable > Available > Available,Available,
+2026,ACC,NC State,vs. Duke,2026-11-07,1,"Jayden ""Duke"" Scott",Questionable > Questionable > Questionable > Game Time Decision,Game Time Decision,Game Time Decision
+2026,ACC,NC State,vs. Duke,2026-11-07,2,"Ronnie Royal, III",Probable > Available > Available > Available,Available,Available
+2026,ACC,NC State,vs. Duke,2026-11-07,3,Tristan Teasdell,Questionable > Out > Out > Out,Out,Out
+2026,ACC,NC State,vs. Duke,2026-11-07,4,Vander Ploog,Out > Out > Out > Out,Out,Out
+2026,ACC,NC State,vs. Duke,2026-11-07,5,Harvey Dyson III,Probable > Available > Available > Available,Available,Available
+2026,ACC,NC State,vs. Duke,2026-11-07,8,Isaiah Crowell,Out > Out > Out > Out,Out,Out
+2026,ACC,NC State,vs. Duke,2026-11-07,10,Will Wilson,Probable > Probable > Probable > Game Time Decision,Game Time Decision,Game Time Decision
+2026,ACC,NC State,vs. Duke,2026-11-07,13,Joseph Adedire,Probable > Available > Available > Available,Available,Available
+2026,ACC,NC State,vs. Duke,2026-11-07,15,AJ Richardson,Out > Out > Out > Out,Out,Out
+2026,ACC,NC State,vs. Duke,2026-11-07,19,Preston Douglas,Questionable > Out > Out > Out,Out,Out
+2026,ACC,NC State,vs. Duke,2026-11-07,50,Daniel Cruz,Out > Out > Out > Out,Out,Out
+2026,ACC,NC State,vs. Duke,2026-11-07,54,Teague Andersen,Questionable > Questionable > Questionable > Game Time Decision,Game Time Decision,Game Time Decision
+2026,ACC,NC State,vs. Duke,2026-11-07,71,Yousef Mugharbil,Out > Out > Out > Out,Out,Out
+2026,ACC,NC State,vs. Duke,2026-11-07,72,Spike Sowells Jr.,Out > Out > Out > Out,Out,Out
+2026,ACC,NC State,vs. Duke,2026-11-07,87,Ian Flynt,Out > Out > Out > Out,Out,Out
+2026,ACC,NC State,vs. Duke,2026-11-07,91,Nick Konieczynski,Out > Out > Out > Out,Out,Out
+2026,ACC,NC State,vs. Duke,2026-11-07,99,AJ Prim,Probable > Available > Available > Available,Available,Available
 2026,ACC,North Carolina,at Clemson,2026-09-19,9,Melkart Abou Jaoude,Questionable > Questionable > Questionable > Out,Out,Out
 2026,ACC,North Carolina,at Clemson,2026-09-19,14,C.J. Sadler,Out > Out > Out > Out,Out,Out
 2026,ACC,North Carolina,at Clemson,2026-09-19,42,Jordan Avinger,Questionable > Questionable > Out > Out,Out,Out
@@ -1105,18 +1105,18 @@ season,conference,team,opponent,game_date,number,player,statuses,latest,game_day
 2026,ACC,Syracuse,vs. SMU,2026-10-31,80,Carter Bashir,Available > Available > Out > Out,Out,Out
 2026,ACC,Syracuse,vs. SMU,2026-10-31,88,Terrell Wilfong,Out > Out > Out > Out,Out,Out
 2026,ACC,Syracuse,vs. SMU,2026-10-31,95,Dillan Fontus,Available > Questionable > Questionable > Available,Available,Available
-2026,ACC,Syracuse,vs. Clemson,2026-11-07,7,Darien Williams,Out > Out > Out,Out,
-2026,ACC,Syracuse,vs. Clemson,2026-11-07,9,Steve Angeli,Questionable > Questionable > Probable,Probable,
-2026,ACC,Syracuse,vs. Clemson,2026-11-07,9,Jai Eugene Jr.,Out > Out > Out,Out,
-2026,ACC,Syracuse,vs. Clemson,2026-11-07,12,Amari Odom,Out > Out > Out,Out,
-2026,ACC,Syracuse,vs. Clemson,2026-11-07,16,Malachi Nelson,Doubtful > Out > Out,Out,
-2026,ACC,Syracuse,vs. Clemson,2026-11-07,30,Tunmise Adeleye,Questionable > Questionable > Probable,Probable,
-2026,ACC,Syracuse,vs. Clemson,2026-11-07,50,Kahlil Stewart,Probable > Probable > Probable,Probable,
-2026,ACC,Syracuse,vs. Clemson,2026-11-07,62,Jackson Iak,Out > Out > Out,Out,
-2026,ACC,Syracuse,vs. Clemson,2026-11-07,74,Matthew Hawn,Questionable > Probable > Probable,Probable,
-2026,ACC,Syracuse,vs. Clemson,2026-11-07,88,Terrell Wilfong,Out > Out > Out,Out,
-2026,ACC,Syracuse,vs. Clemson,2026-11-07,93,Alex Haskell,Questionable > Doubtful > Out,Out,
-2026,ACC,Syracuse,vs. Clemson,2026-11-07,95,Dillan Fontus,Probable > Probable > Probable,Probable,
+2026,ACC,Syracuse,vs. Clemson,2026-11-07,7,Darien Williams,Out > Out > Out > Out,Out,Out
+2026,ACC,Syracuse,vs. Clemson,2026-11-07,9,Steve Angeli,Questionable > Questionable > Probable > Available,Available,Available
+2026,ACC,Syracuse,vs. Clemson,2026-11-07,9,Jai Eugene Jr.,Out > Out > Out > Out,Out,Out
+2026,ACC,Syracuse,vs. Clemson,2026-11-07,12,Amari Odom,Out > Out > Out > Out,Out,Out
+2026,ACC,Syracuse,vs. Clemson,2026-11-07,16,Malachi Nelson,Doubtful > Out > Out > Out,Out,Out
+2026,ACC,Syracuse,vs. Clemson,2026-11-07,30,Tunmise Adeleye,Questionable > Questionable > Probable > Available,Available,Available
+2026,ACC,Syracuse,vs. Clemson,2026-11-07,50,Kahlil Stewart,Probable > Probable > Probable > Available,Available,Available
+2026,ACC,Syracuse,vs. Clemson,2026-11-07,62,Jackson Iak,Out > Out > Out > Out,Out,Out
+2026,ACC,Syracuse,vs. Clemson,2026-11-07,74,Matthew Hawn,Questionable > Probable > Probable > Available,Available,Available
+2026,ACC,Syracuse,vs. Clemson,2026-11-07,88,Terrell Wilfong,Out > Out > Out > Out,Out,Out
+2026,ACC,Syracuse,vs. Clemson,2026-11-07,93,Alex Haskell,Questionable > Doubtful > Out > Out,Out,Out
+2026,ACC,Syracuse,vs. Clemson,2026-11-07,95,Dillan Fontus,Probable > Probable > Probable > Available,Available,Available
 2026,ACC,Virginia,vs. NC State,2026-08-29,4,Corey Costner,Questionable > Questionable > Questionable > Game Time Decision,Game Time Decision,Game Time Decision
 2026,ACC,Virginia,vs. NC State,2026-08-29,5,Kam Robinson,Questionable > Questionable > Questionable > Game Time Decision,Game Time Decision,Game Time Decision
 2026,ACC,Virginia,vs. NC State,2026-08-29,11,Rico Flores Jr.,Out > Out > Out > Out,Out,Out
@@ -1486,23 +1486,23 @@ season,conference,team,opponent,game_date,number,player,statuses,latest,game_day
 2026,Big Ten,Iowa,vs. Wisconsin,2026-10-31,60,Lucas Allgeyer,Out > Out > Out > Out,Out,Out
 2026,Big Ten,Iowa,vs. Wisconsin,2026-10-31,65,Trent Wilson,Out > Out > Out > Out,Out,Out
 2026,Big Ten,Iowa,vs. Wisconsin,2026-10-31,88,Emmanuel Olagbaju,Doubtful > Doubtful > Out > Out,Out,Out
-2026,Big Ten,Iowa,at Northwestern,2026-11-07,0,Cody Haddad,Probable > Probable > Available,Available,
-2026,Big Ten,Iowa,at Northwestern,2026-11-07,2,Tyler Brown,Out > Out > Out,Out,
-2026,Big Ten,Iowa,at Northwestern,2026-11-07,3,Jaylen Watson,Questionable > Questionable > Probable,Probable,
-2026,Big Ten,Iowa,at Northwestern,2026-11-07,6,Zach Lutmer,Questionable > Questionable > Probable,Probable,
-2026,Big Ten,Iowa,at Northwestern,2026-11-07,7,Dayton Howard,Doubtful > Questionable > Probable,Probable,
-2026,Big Ten,Iowa,at Northwestern,2026-11-07,10,Burke Gautcher,Out > Out > Out,Out,
-2026,Big Ten,Iowa,at Northwestern,2026-11-07,11,Brody Schaffer,Out > Out > Out,Out,
-2026,Big Ten,Iowa,at Northwestern,2026-11-07,13,Brevin Doll,Probable > Probable > Available,Available,
-2026,Big Ten,Iowa,at Northwestern,2026-11-07,19,Kyler Gerardy,Out > Out > Out,Out,
-2026,Big Ten,Iowa,at Northwestern,2026-11-07,28,Kamari Moulton,Out > Out > Out,Out,
-2026,Big Ten,Iowa,at Northwestern,2026-11-07,31,Nolan DeLong,Questionable > Questionable > Probable,Probable,
-2026,Big Ten,Iowa,at Northwestern,2026-11-07,48,Zach Ortwerth,Questionable > Questionable > Probable,Probable,
-2026,Big Ten,Iowa,at Northwestern,2026-11-07,60,Lucas Allgeyer,Out > Out > Out,Out,
-2026,Big Ten,Iowa,at Northwestern,2026-11-07,61,Cael Winter,Out > Out > Out,Out,
-2026,Big Ten,Iowa,at Northwestern,2026-11-07,65,Trent Wilson,Out > Out > Out,Out,
-2026,Big Ten,Iowa,at Northwestern,2026-11-07,75,Cannon Leonard,Out > Out > Out,Out,
-2026,Big Ten,Iowa,at Northwestern,2026-11-07,81,DJ Vonnahme,Probable > Probable > Available,Available,
+2026,Big Ten,Iowa,at Northwestern,2026-11-07,0,Cody Haddad,Probable > Probable > Available > Available,Available,Available
+2026,Big Ten,Iowa,at Northwestern,2026-11-07,2,Tyler Brown,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Iowa,at Northwestern,2026-11-07,3,Jaylen Watson,Questionable > Questionable > Probable > Available,Available,Available
+2026,Big Ten,Iowa,at Northwestern,2026-11-07,6,Zach Lutmer,Questionable > Questionable > Probable > Available,Available,Available
+2026,Big Ten,Iowa,at Northwestern,2026-11-07,7,Dayton Howard,Doubtful > Questionable > Probable > Available,Available,Available
+2026,Big Ten,Iowa,at Northwestern,2026-11-07,10,Burke Gautcher,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Iowa,at Northwestern,2026-11-07,11,Brody Schaffer,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Iowa,at Northwestern,2026-11-07,13,Brevin Doll,Probable > Probable > Available > Available,Available,Available
+2026,Big Ten,Iowa,at Northwestern,2026-11-07,19,Kyler Gerardy,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Iowa,at Northwestern,2026-11-07,28,Kamari Moulton,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Iowa,at Northwestern,2026-11-07,31,Nolan DeLong,Questionable > Questionable > Probable > Available,Available,Available
+2026,Big Ten,Iowa,at Northwestern,2026-11-07,48,Zach Ortwerth,Questionable > Questionable > Probable > Available,Available,Available
+2026,Big Ten,Iowa,at Northwestern,2026-11-07,60,Lucas Allgeyer,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Iowa,at Northwestern,2026-11-07,61,Cael Winter,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Iowa,at Northwestern,2026-11-07,65,Trent Wilson,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Iowa,at Northwestern,2026-11-07,75,Cannon Leonard,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Iowa,at Northwestern,2026-11-07,81,DJ Vonnahme,Probable > Probable > Available > Available,Available,Available
 2026,Big Ten,Maryland,vs. UCLA,2026-09-26,0,DeJuan Williams,Out > Out > Out > Out,Out,Out
 2026,Big Ten,Maryland,vs. UCLA,2026-09-26,6,Cardell Williams,Questionable > Questionable > Probable > Available,Available,Available
 2026,Big Ten,Maryland,vs. UCLA,2026-09-26,6,Jordan Scruggs,Questionable > Questionable > Probable > Available,Available,Available
@@ -1601,16 +1601,16 @@ season,conference,team,opponent,game_date,number,player,statuses,latest,game_day
 2026,Big Ten,Maryland,vs. Illinois,2026-10-31,50,Trevor Szymanski,Questionable > Doubtful > Out > Out,Out,Out
 2026,Big Ten,Maryland,vs. Illinois,2026-10-31,90,Delmar White,Questionable > Probable > Probable > Available,Available,Available
 2026,Big Ten,Maryland,vs. Illinois,2026-10-31,97,Jayvon Parker,Questionable > Questionable > Questionable > Game Time Decision,Game Time Decision,Game Time Decision
-2026,Big Ten,Maryland,at Purdue,2026-11-07,3,Trey Reddick,Questionable > Questionable > Probable,Probable,
-2026,Big Ten,Maryland,at Purdue,2026-11-07,8,Preston Howard,Questionable > Questionable > Questionable,Questionable,
-2026,Big Ten,Maryland,at Purdue,2026-11-07,9,Zahir Mathis,Out > Out > Out,Out,
-2026,Big Ten,Maryland,at Purdue,2026-11-07,18,Josiah Teasley,Out > Out > Out,Out,
-2026,Big Ten,Maryland,at Purdue,2026-11-07,20,DJ Samuels,Out > Out > Out,Out,
-2026,Big Ten,Maryland,at Purdue,2026-11-07,25,Harry Dalton III,Out > Out > Out,Out,
-2026,Big Ten,Maryland,at Purdue,2026-11-07,48,Darius Grimes,Doubtful > Doubtful > Doubtful,Doubtful,
-2026,Big Ten,Maryland,at Purdue,2026-11-07,50,Trevor Szymanski,Out > Out > Out,Out,
-2026,Big Ten,Maryland,at Purdue,2026-11-07,81,Javonte Williams,Doubtful > Doubtful > Out,Out,
-2026,Big Ten,Maryland,at Purdue,2026-11-07,97,Jayvon Parker,Questionable > Questionable > Probable,Probable,
+2026,Big Ten,Maryland,at Purdue,2026-11-07,3,Trey Reddick,Questionable > Questionable > Probable > Available,Available,Available
+2026,Big Ten,Maryland,at Purdue,2026-11-07,8,Preston Howard,Questionable > Questionable > Questionable > Game Time Decision,Game Time Decision,Game Time Decision
+2026,Big Ten,Maryland,at Purdue,2026-11-07,9,Zahir Mathis,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Maryland,at Purdue,2026-11-07,18,Josiah Teasley,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Maryland,at Purdue,2026-11-07,20,DJ Samuels,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Maryland,at Purdue,2026-11-07,25,Harry Dalton III,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Maryland,at Purdue,2026-11-07,48,Darius Grimes,Doubtful > Doubtful > Doubtful > Out,Out,Out
+2026,Big Ten,Maryland,at Purdue,2026-11-07,50,Trevor Szymanski,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Maryland,at Purdue,2026-11-07,81,Javonte Williams,Doubtful > Doubtful > Out > Out,Out,Out
+2026,Big Ten,Maryland,at Purdue,2026-11-07,97,Jayvon Parker,Questionable > Questionable > Probable > Available,Available,Available
 2026,Big Ten,Michigan,vs. Iowa,2026-09-26,8,Dom Nichols,Questionable > Questionable > Questionable > Available,Available,Available
 2026,Big Ten,Michigan,vs. Iowa,2026-09-26,10,Zeke Berry,Questionable > Questionable > Questionable > Available,Available,Available
 2026,Big Ten,Michigan,vs. Iowa,2026-09-26,22,Braydon Alford,Out > Out > Out > Out,Out,Out
@@ -1682,20 +1682,20 @@ season,conference,team,opponent,game_date,number,player,statuses,latest,game_day
 2026,Big Ten,Michigan,at Rutgers,2026-10-31,54,Andrew Sprague,Out > Out > Out > Out,Out,Out
 2026,Big Ten,Michigan,at Rutgers,2026-10-31,77,Blake Frazier,Questionable > Questionable > Questionable > Available,Available,Available
 2026,Big Ten,Michigan,at Rutgers,2026-10-31,90,John Henry Daley,Questionable > Questionable > Questionable > Game Time Decision,Game Time Decision,Game Time Decision
-2026,Big Ten,Michigan,vs. Michigan State,2026-11-07,0,Kendrick Bell,Out > Out > Out,Out,
-2026,Big Ten,Michigan,vs. Michigan State,2026-11-07,1,Rod Moore,Questionable > Probable > Probable,Probable,
-2026,Big Ten,Michigan,vs. Michigan State,2026-11-07,2,Shamari Earls,Available > Questionable > Questionable,Questionable,
-2026,Big Ten,Michigan,vs. Michigan State,2026-11-07,6,Jordan Young,Questionable > Probable > Probable,Probable,
-2026,Big Ten,Michigan,vs. Michigan State,2026-11-07,8,Dom Nichols,Questionable > Probable > Probable,Probable,
-2026,Big Ten,Michigan,vs. Michigan State,2026-11-07,22,Braydon Alford,Out > Out > Out,Out,
-2026,Big Ten,Michigan,vs. Michigan State,2026-11-07,25,Micah Ka'apana,Out > Out > Out,Out,
-2026,Big Ten,Michigan,vs. Michigan State,2026-11-07,37,Julius Holly,Out > Out > Out,Out,
-2026,Big Ten,Michigan,vs. Michigan State,2026-11-07,52,Ace Hamilton,Out > Out > Out,Out,
-2026,Big Ten,Michigan,vs. Michigan State,2026-11-07,53,Jake Guarnera,Probable > Probable > Probable,Probable,
-2026,Big Ten,Michigan,vs. Michigan State,2026-11-07,54,Andrew Sprague,Out > Out > Out,Out,
-2026,Big Ten,Michigan,vs. Michigan State,2026-11-07,70,Brady Norton,Questionable > Probable > Probable,Probable,
-2026,Big Ten,Michigan,vs. Michigan State,2026-11-07,80,Hogan Hansen,Questionable > Questionable > Questionable,Questionable,
-2026,Big Ten,Michigan,vs. Michigan State,2026-11-07,90,John Henry Daley,Questionable > Probable > Probable,Probable,
+2026,Big Ten,Michigan,vs. Michigan State,2026-11-07,0,Kendrick Bell,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Michigan,vs. Michigan State,2026-11-07,1,Rod Moore,Questionable > Probable > Probable > Available,Available,Available
+2026,Big Ten,Michigan,vs. Michigan State,2026-11-07,2,Shamari Earls,Available > Questionable > Questionable > Out,Out,Out
+2026,Big Ten,Michigan,vs. Michigan State,2026-11-07,6,Jordan Young,Questionable > Probable > Probable > Available,Available,Available
+2026,Big Ten,Michigan,vs. Michigan State,2026-11-07,8,Dom Nichols,Questionable > Probable > Probable > Available,Available,Available
+2026,Big Ten,Michigan,vs. Michigan State,2026-11-07,22,Braydon Alford,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Michigan,vs. Michigan State,2026-11-07,25,Micah Ka'apana,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Michigan,vs. Michigan State,2026-11-07,37,Julius Holly,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Michigan,vs. Michigan State,2026-11-07,52,Ace Hamilton,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Michigan,vs. Michigan State,2026-11-07,53,Jake Guarnera,Probable > Probable > Probable > Available,Available,Available
+2026,Big Ten,Michigan,vs. Michigan State,2026-11-07,54,Andrew Sprague,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Michigan,vs. Michigan State,2026-11-07,70,Brady Norton,Questionable > Probable > Probable > Available,Available,Available
+2026,Big Ten,Michigan,vs. Michigan State,2026-11-07,80,Hogan Hansen,Questionable > Questionable > Questionable > Game Time Decision,Game Time Decision,Game Time Decision
+2026,Big Ten,Michigan,vs. Michigan State,2026-11-07,90,John Henry Daley,Questionable > Probable > Probable > Available,Available,Available
 2026,Big Ten,Michigan State,vs. Nebraska,2026-09-26,8,KK Smith,Questionable > Questionable > Questionable > Available,Available,Available
 2026,Big Ten,Michigan State,vs. Nebraska,2026-09-26,22,Tyran Chappell,Questionable > Questionable > Questionable > Out,Out,Out
 2026,Big Ten,Michigan State,vs. Nebraska,2026-09-26,35,Eliyjah Caldwell,Out > Out > Out > Out,Out,Out
@@ -1764,24 +1764,24 @@ season,conference,team,opponent,game_date,number,player,statuses,latest,game_day
 2026,Big Ten,Michigan State,at UCLA,2026-10-24,75,Ben Murawski,Questionable > Questionable > Questionable > Available,Available,Available
 2026,Big Ten,Michigan State,at UCLA,2026-10-24,79,Tristan Comer,Out > Out > Out > Out,Out,Out
 2026,Big Ten,Michigan State,at UCLA,2026-10-24,87,Joe Caudill,Out > Out > Out > Out,Out,Out
-2026,Big Ten,Michigan State,at Michigan,2026-11-07,0,Cam Edwards,Out > Out > Out,Out,
-2026,Big Ten,Michigan State,at Michigan,2026-11-07,2,Cam Fancher,Out > Out > Out,Out,
-2026,Big Ten,Michigan State,at Michigan,2026-11-07,2,Devin Vaught,Questionable > Questionable > Questionable,Questionable,
-2026,Big Ten,Michigan State,at Michigan,2026-11-07,3,Tre Bell,Out > Out > Out,Out,
-2026,Big Ten,Michigan State,at Michigan,2026-11-07,4,Jaziun Patterson,Out > Out > Out,Out,
-2026,Big Ten,Michigan State,at Michigan,2026-11-07,4,Charles Brantley,Out > Out > Out,Out,
-2026,Big Ten,Michigan State,at Michigan,2026-11-07,5,Jordan Hall,Out > Out > Out,Out,
-2026,Big Ten,Michigan State,at Michigan,2026-11-07,11,Alessio Milivojevic,Questionable > Questionable > Questionable,Questionable,
-2026,Big Ten,Michigan State,at Michigan,2026-11-07,19,Charles Taplin,Questionable > Questionable > Questionable,Questionable,
-2026,Big Ten,Michigan State,at Michigan,2026-11-07,20,Keshawn Williams,Questionable > Questionable > Questionable,Questionable,
-2026,Big Ten,Michigan State,at Michigan,2026-11-07,21,Marvis Parrish,Out > Out > Out,Out,
-2026,Big Ten,Michigan State,at Michigan,2026-11-07,22,Tyran Chappell,Questionable > Questionable > Questionable,Questionable,
-2026,Big Ten,Michigan State,at Michigan,2026-11-07,28,Brayden Thomas,Out > Out > Out,Out,
-2026,Big Ten,Michigan State,at Michigan,2026-11-07,31,Jayden Savoury,Out > Out > Out,Out,
-2026,Big Ten,Michigan State,at Michigan,2026-11-07,44,Jay Coyne,Out > Out > Out,Out,
-2026,Big Ten,Michigan State,at Michigan,2026-11-07,55,Ben Roberts,Out > Out > Out,Out,
-2026,Big Ten,Michigan State,at Michigan,2026-11-07,79,Tristan Comer,Out > Out > Out,Out,
-2026,Big Ten,Michigan State,at Michigan,2026-11-07,87,Joe Caudill,Out > Out > Out,Out,
+2026,Big Ten,Michigan State,at Michigan,2026-11-07,0,Cam Edwards,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Michigan State,at Michigan,2026-11-07,2,Cam Fancher,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Michigan State,at Michigan,2026-11-07,2,Devin Vaught,Questionable > Questionable > Questionable > Available,Available,Available
+2026,Big Ten,Michigan State,at Michigan,2026-11-07,3,Tre Bell,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Michigan State,at Michigan,2026-11-07,4,Jaziun Patterson,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Michigan State,at Michigan,2026-11-07,4,Charles Brantley,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Michigan State,at Michigan,2026-11-07,5,Jordan Hall,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Michigan State,at Michigan,2026-11-07,11,Alessio Milivojevic,Questionable > Questionable > Questionable > Available,Available,Available
+2026,Big Ten,Michigan State,at Michigan,2026-11-07,19,Charles Taplin,Questionable > Questionable > Questionable > Out,Out,Out
+2026,Big Ten,Michigan State,at Michigan,2026-11-07,20,Keshawn Williams,Questionable > Questionable > Questionable > Available,Available,Available
+2026,Big Ten,Michigan State,at Michigan,2026-11-07,21,Marvis Parrish,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Michigan State,at Michigan,2026-11-07,22,Tyran Chappell,Questionable > Questionable > Questionable > Available,Available,Available
+2026,Big Ten,Michigan State,at Michigan,2026-11-07,28,Brayden Thomas,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Michigan State,at Michigan,2026-11-07,31,Jayden Savoury,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Michigan State,at Michigan,2026-11-07,44,Jay Coyne,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Michigan State,at Michigan,2026-11-07,55,Ben Roberts,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Michigan State,at Michigan,2026-11-07,79,Tristan Comer,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Michigan State,at Michigan,2026-11-07,87,Joe Caudill,Out > Out > Out > Out,Out,Out
 2026,Big Ten,Minnesota,at Washington,2026-09-26,1,Darius Taylor,Probable > Probable > Probable > Available,Available,Available
 2026,Big Ten,Minnesota,at Washington,2026-09-26,7,Aidan Gousby,Probable > Probable > Probable > Available,Available,Available
 2026,Big Ten,Minnesota,at Washington,2026-09-26,13,Zahir Rainer,Probable > Probable > Probable > Available,Available,Available
@@ -1840,15 +1840,15 @@ season,conference,team,opponent,game_date,number,player,statuses,latest,game_day
 2026,Big Ten,Minnesota,at Indiana,2026-10-31,84,Hayden Moore,Out > Out > Out > Out,Out,Out
 2026,Big Ten,Minnesota,at Indiana,2026-10-31,92,Beckham Sunderland,Probable > Probable > Probable > Available,Available,Available
 2026,Big Ten,Minnesota,at Indiana,2026-10-31,93,Riley Sunram,Probable > Probable > Probable > Available,Available,Available
-2026,Big Ten,Minnesota,vs. UCLA,2026-11-07,9,Garrison Monroe,Out > Out > Out,Out,
-2026,Big Ten,Minnesota,vs. UCLA,2026-11-07,19,Pierce Walsh,Doubtful > Doubtful > Doubtful,Doubtful,
-2026,Big Ten,Minnesota,vs. UCLA,2026-11-07,20,Ryan Estrada,Out > Out > Out,Out,
-2026,Big Ten,Minnesota,vs. UCLA,2026-11-07,46,Mason Carrier,Questionable > Questionable > Probable,Probable,
-2026,Big Ten,Minnesota,vs. UCLA,2026-11-07,56,Brett Carroll,Out > Out > Out,Out,
-2026,Big Ten,Minnesota,vs. UCLA,2026-11-07,77,Nick Spence,Questionable > Questionable > Probable,Probable,
-2026,Big Ten,Minnesota,vs. UCLA,2026-11-07,78,Ashton Beers,Out > Out > Out,Out,
-2026,Big Ten,Minnesota,vs. UCLA,2026-11-07,82,Julian Johnson,Doubtful > Doubtful > Doubtful,Doubtful,
-2026,Big Ten,Minnesota,vs. UCLA,2026-11-07,84,Hayden Moore,Out > Out > Out,Out,
+2026,Big Ten,Minnesota,vs. UCLA,2026-11-07,9,Garrison Monroe,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Minnesota,vs. UCLA,2026-11-07,19,Pierce Walsh,Doubtful > Doubtful > Doubtful > Out,Out,Out
+2026,Big Ten,Minnesota,vs. UCLA,2026-11-07,20,Ryan Estrada,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Minnesota,vs. UCLA,2026-11-07,46,Mason Carrier,Questionable > Questionable > Probable > Available,Available,Available
+2026,Big Ten,Minnesota,vs. UCLA,2026-11-07,56,Brett Carroll,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Minnesota,vs. UCLA,2026-11-07,77,Nick Spence,Questionable > Questionable > Probable > Available,Available,Available
+2026,Big Ten,Minnesota,vs. UCLA,2026-11-07,78,Ashton Beers,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Minnesota,vs. UCLA,2026-11-07,82,Julian Johnson,Doubtful > Doubtful > Doubtful > Out,Out,Out
+2026,Big Ten,Minnesota,vs. UCLA,2026-11-07,84,Hayden Moore,Out > Out > Out > Out,Out,Out
 2026,Big Ten,Nebraska,at Michigan State,2026-09-26,13,Rex Guthrie,Available > Doubtful > Questionable > Game Time Decision,Game Time Decision,Game Time Decision
 2026,Big Ten,Nebraska,at Michigan State,2026-09-26,19,Kahmir Prescott,Out > Out > Out > Out,Out,Out
 2026,Big Ten,Nebraska,at Michigan State,2026-09-26,29,Carter Nelson,Out > Out > Out > Out,Out,Out
@@ -1995,18 +1995,18 @@ season,conference,team,opponent,game_date,number,player,statuses,latest,game_day
 2026,Big Ten,Northwestern,at Oregon,2026-10-31,81,Chris Petrucci,Out > Out > Out > Out,Out,Out
 2026,Big Ten,Northwestern,at Oregon,2026-10-31,84,Luke Dehnicke,Probable > Available > Available > Available,Available,Available
 2026,Big Ten,Northwestern,at Oregon,2026-10-31,97,Braxton Strong,Doubtful > Out > Out > Out,Out,Out
-2026,Big Ten,Northwestern,vs. Iowa,2026-11-07,0,Aidan Chiles,Questionable > Questionable > Doubtful,Doubtful,
-2026,Big Ten,Northwestern,vs. Iowa,2026-11-07,6,Robert Fitzgerald,Probable > Probable > Available,Available,
-2026,Big Ten,Northwestern,vs. Iowa,2026-11-07,13,Josh Fussell,Out > Out > Out,Out,
-2026,Big Ten,Northwestern,vs. Iowa,2026-11-07,22,Daniel Anderson,Out > Out > Out,Out,
-2026,Big Ten,Northwestern,vs. Iowa,2026-11-07,29,Jon Jon Stevens Jr.,Questionable > Probable > Out,Out,
-2026,Big Ten,Northwestern,vs. Iowa,2026-11-07,37,Max Mohring,Out > Out > Out,Out,
-2026,Big Ten,Northwestern,vs. Iowa,2026-11-07,40,Jason Reynolds II,Out > Out > Out,Out,
-2026,Big Ten,Northwestern,vs. Iowa,2026-11-07,41,Robby Preckel,Doubtful > Doubtful > Out,Out,
-2026,Big Ten,Northwestern,vs. Iowa,2026-11-07,50,Qayvier Johnson,Out > Out > Out,Out,
-2026,Big Ten,Northwestern,vs. Iowa,2026-11-07,62,Ezomo Oratokhai,Out > Out > Out,Out,
-2026,Big Ten,Northwestern,vs. Iowa,2026-11-07,79,Jacob Miller,Out > Out > Out,Out,
-2026,Big Ten,Northwestern,vs. Iowa,2026-11-07,81,Chris Petrucci,Out > Out > Out,Out,
+2026,Big Ten,Northwestern,vs. Iowa,2026-11-07,0,Aidan Chiles,Questionable > Questionable > Doubtful > Out,Out,Out
+2026,Big Ten,Northwestern,vs. Iowa,2026-11-07,6,Robert Fitzgerald,Probable > Probable > Available > Available,Available,Available
+2026,Big Ten,Northwestern,vs. Iowa,2026-11-07,13,Josh Fussell,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Northwestern,vs. Iowa,2026-11-07,22,Daniel Anderson,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Northwestern,vs. Iowa,2026-11-07,29,Jon Jon Stevens Jr.,Questionable > Probable > Out > Out,Out,Out
+2026,Big Ten,Northwestern,vs. Iowa,2026-11-07,37,Max Mohring,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Northwestern,vs. Iowa,2026-11-07,40,Jason Reynolds II,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Northwestern,vs. Iowa,2026-11-07,41,Robby Preckel,Doubtful > Doubtful > Out > Out,Out,Out
+2026,Big Ten,Northwestern,vs. Iowa,2026-11-07,50,Qayvier Johnson,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Northwestern,vs. Iowa,2026-11-07,62,Ezomo Oratokhai,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Northwestern,vs. Iowa,2026-11-07,79,Jacob Miller,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Northwestern,vs. Iowa,2026-11-07,81,Chris Petrucci,Out > Out > Out > Out,Out,Out
 2026,Big Ten,Ohio State,vs. Illinois,2026-09-26,5,Kyle Parker,Questionable > Questionable > Probable > Available,Available,Available
 2026,Big Ten,Ohio State,vs. Illinois,2026-09-26,9,Zion Grady,Questionable > Questionable > Doubtful > Out,Out,Out
 2026,Big Ten,Ohio State,vs. Illinois,2026-09-26,21,Anthony “Turbo” Rogers,Questionable > Questionable > Doubtful > Out,Out,Out
@@ -2065,15 +2065,15 @@ season,conference,team,opponent,game_date,number,player,statuses,latest,game_day
 2026,Big Ten,Ohio State,at USC,2026-10-31,43,Amar’e Miller,Questionable > Available > Available > Available,Available,Available
 2026,Big Ten,Ohio State,at USC,2026-10-31,60,Jaxon Powell,Out > Out > Out > Out,Out,Out
 2026,Big Ten,Ohio State,at USC,2026-10-31,88,Maxence LeBlanc,Out > Out > Out > Out,Out,Out
-2026,Big Ten,Ohio State,vs. Oregon,2026-11-07,0,Brandon Inniss,Questionable > Questionable > Doubtful,Doubtful,
-2026,Big Ten,Ohio State,vs. Oregon,2026-11-07,10,Julian Sayin,Out > Out > Out,Out,
-2026,Big Ten,Ohio State,vs. Oregon,2026-11-07,11,Brock Boyd,Questionable > Questionable > Doubtful,Doubtful,
-2026,Big Ten,Ohio State,vs. Oregon,2026-11-07,24,Ja’Kobi Jackson,Out > Out > Out,Out,
-2026,Big Ten,Ohio State,vs. Oregon,2026-11-07,29,Deshawn Stewart,Available > Out > Out,Out,
-2026,Big Ten,Ohio State,vs. Oregon,2026-11-07,33,Eli Lee,Questionable > Questionable > Doubtful,Doubtful,
-2026,Big Ten,Ohio State,vs. Oregon,2026-11-07,60,Jaxon Powell,Out > Out > Out,Out,
-2026,Big Ten,Ohio State,vs. Oregon,2026-11-07,69,Ian Moore,Questionable > Questionable > Available,Available,
-2026,Big Ten,Ohio State,vs. Oregon,2026-11-07,88,Maxence LeBlanc,Out > Out > Out,Out,
+2026,Big Ten,Ohio State,vs. Oregon,2026-11-07,0,Brandon Inniss,Questionable > Questionable > Doubtful > Out,Out,Out
+2026,Big Ten,Ohio State,vs. Oregon,2026-11-07,10,Julian Sayin,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Ohio State,vs. Oregon,2026-11-07,11,Brock Boyd,Questionable > Questionable > Doubtful > Out,Out,Out
+2026,Big Ten,Ohio State,vs. Oregon,2026-11-07,24,Ja’Kobi Jackson,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Ohio State,vs. Oregon,2026-11-07,29,Deshawn Stewart,Available > Out > Out > Out,Out,Out
+2026,Big Ten,Ohio State,vs. Oregon,2026-11-07,33,Eli Lee,Questionable > Questionable > Doubtful > Out,Out,Out
+2026,Big Ten,Ohio State,vs. Oregon,2026-11-07,60,Jaxon Powell,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Ohio State,vs. Oregon,2026-11-07,69,Ian Moore,Questionable > Questionable > Available > Available,Available,Available
+2026,Big Ten,Ohio State,vs. Oregon,2026-11-07,88,Maxence LeBlanc,Out > Out > Out > Out,Out,Out
 2026,Big Ten,Oregon,at USC,2026-09-26,3,Jeremiah McClellan,Out > Out > Out > Out,Out,Out
 2026,Big Ten,Oregon,at USC,2026-09-26,9,Jamari Johnson,Questionable > Questionable > Questionable > Game Time Decision,Game Time Decision,Game Time Decision
 2026,Big Ten,Oregon,at USC,2026-09-26,10,Jalen Lott,Doubtful > Doubtful > Doubtful > Out,Out,Out
@@ -2119,16 +2119,16 @@ season,conference,team,opponent,game_date,number,player,statuses,latest,game_day
 2026,Big Ten,Oregon,vs. Northwestern,2026-10-31,56,Trent Ferguson,Out > Out > Out > Out,Out,Out
 2026,Big Ten,Oregon,vs. Northwestern,2026-10-31,74,Dave Iuli,Out > Out > Out > Out,Out,Out
 2026,Big Ten,Oregon,vs. Northwestern,2026-10-31,79,Immanuel Iheanacho,Questionable > Available > Available > Available,Available,Available
-2026,Big Ten,Oregon,at Ohio State,2026-11-07,0,Jordon Davison,Out > Out > Out,Out,
-2026,Big Ten,Oregon,at Ohio State,2026-11-07,3,Jeremiah McClellan,Probable > Probable > Probable,Probable,
-2026,Big Ten,Oregon,at Ohio State,2026-11-07,5,Dante Moore,Out > Out > Out,Out,
-2026,Big Ten,Oregon,at Ohio State,2026-11-07,15,Messiah Hampton,Out > Out > Out,Out,
-2026,Big Ten,Oregon,at Ohio State,2026-11-07,19,Andrew Olesh,Out > Out > Out,Out,
-2026,Big Ten,Oregon,at Ohio State,2026-11-07,21,Aaron Flowers,Out > Out > Out,Out,
-2026,Big Ten,Oregon,at Ohio State,2026-11-07,23,Brayden Platt,Out > Out > Out,Out,
-2026,Big Ten,Oregon,at Ohio State,2026-11-07,55,Matthew Johnson,Out > Out > Out,Out,
-2026,Big Ten,Oregon,at Ohio State,2026-11-07,56,Trent Ferguson,Out > Out > Out,Out,
-2026,Big Ten,Oregon,at Ohio State,2026-11-07,74,Dave Iuli,Out > Out > Out,Out,
+2026,Big Ten,Oregon,at Ohio State,2026-11-07,0,Jordon Davison,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Oregon,at Ohio State,2026-11-07,3,Jeremiah McClellan,Probable > Probable > Probable > Game Time Decision,Game Time Decision,Game Time Decision
+2026,Big Ten,Oregon,at Ohio State,2026-11-07,5,Dante Moore,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Oregon,at Ohio State,2026-11-07,15,Messiah Hampton,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Oregon,at Ohio State,2026-11-07,19,Andrew Olesh,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Oregon,at Ohio State,2026-11-07,21,Aaron Flowers,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Oregon,at Ohio State,2026-11-07,23,Brayden Platt,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Oregon,at Ohio State,2026-11-07,55,Matthew Johnson,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Oregon,at Ohio State,2026-11-07,56,Trent Ferguson,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Oregon,at Ohio State,2026-11-07,74,Dave Iuli,Out > Out > Out > Out,Out,Out
 2026,Big Ten,Penn State,vs. Wisconsin,2026-09-26,6,Koby Howard,Out > Out > Out > Out,Out,Out
 2026,Big Ten,Penn State,vs. Wisconsin,2026-09-26,11,LaVar Arrington II,Out > Out > Out > Out,Out,Out
 2026,Big Ten,Penn State,vs. Wisconsin,2026-09-26,15,Joshua Johnson,Out > Out > Out > Out,Out,Out
@@ -2210,16 +2210,16 @@ season,conference,team,opponent,game_date,number,player,statuses,latest,game_day
 2026,Big Ten,Penn State,vs. Purdue,2026-10-31,90,Liam Andrews,Out > Out > Out > Out,Out,Out
 2026,Big Ten,Penn State,vs. Purdue,2026-10-31,91,Armstrong Nnodim,Probable > Probable > Probable > Game Time Decision,Game Time Decision,Game Time Decision
 2026,Big Ten,Penn State,vs. Purdue,2026-10-31,95,Cristiano Rosa,Out > Out > Out > Out,Out,Out
-2026,Big Ten,Penn State,at Washington,2026-11-07,0,Chase Sowell,Probable > Probable > Probable,Probable,
-2026,Big Ten,Penn State,at Washington,2026-11-07,2,Zay Robinson,Available > Questionable > Questionable,Questionable,
-2026,Big Ten,Penn State,at Washington,2026-11-07,6,Koby Howard,Questionable > Questionable > Out,Out,
-2026,Big Ten,Penn State,at Washington,2026-11-07,18,Max Granville,Out > Out > Out,Out,
-2026,Big Ten,Penn State,at Washington,2026-11-07,25,Alex Tatsch,Out > Out > Out,Out,
-2026,Big Ten,Penn State,at Washington,2026-11-07,35,Tyler Armstead,Out > Out > Out,Out,
-2026,Big Ten,Penn State,at Washington,2026-11-07,56,Alijah Carnell,Out > Out > Out,Out,
-2026,Big Ten,Penn State,at Washington,2026-11-07,78,Malachi Goodman,Probable > Probable > Probable,Probable,
-2026,Big Ten,Penn State,at Washington,2026-11-07,91,Armstrong Nnodim,Probable > Probable > Probable,Probable,
-2026,Big Ten,Penn State,at Washington,2026-11-07,95,Cristiano Rosa,Out > Out > Out,Out,
+2026,Big Ten,Penn State,at Washington,2026-11-07,0,Chase Sowell,Probable > Probable > Probable > Game Time Decision,Game Time Decision,Game Time Decision
+2026,Big Ten,Penn State,at Washington,2026-11-07,2,Zay Robinson,Available > Questionable > Questionable > Game Time Decision,Game Time Decision,Game Time Decision
+2026,Big Ten,Penn State,at Washington,2026-11-07,6,Koby Howard,Questionable > Questionable > Out > Out,Out,Out
+2026,Big Ten,Penn State,at Washington,2026-11-07,18,Max Granville,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Penn State,at Washington,2026-11-07,25,Alex Tatsch,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Penn State,at Washington,2026-11-07,35,Tyler Armstead,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Penn State,at Washington,2026-11-07,56,Alijah Carnell,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Penn State,at Washington,2026-11-07,78,Malachi Goodman,Probable > Probable > Probable > Game Time Decision,Game Time Decision,Game Time Decision
+2026,Big Ten,Penn State,at Washington,2026-11-07,91,Armstrong Nnodim,Probable > Probable > Probable > Game Time Decision,Game Time Decision,Game Time Decision
+2026,Big Ten,Penn State,at Washington,2026-11-07,95,Cristiano Rosa,Out > Out > Out > Out,Out,Out
 2026,Big Ten,Purdue,at UCLA,2026-09-19,6,Mister Clark,Out > Out > Out > Out,Out,Out
 2026,Big Ten,Purdue,at UCLA,2026-09-19,16,Kylan Fox,Out > Out > Out > Out,Out,Out
 2026,Big Ten,Purdue,at UCLA,2026-09-19,18,Elo Modozie,Questionable > Questionable > Out > Out,Out,Out
@@ -2243,10 +2243,10 @@ season,conference,team,opponent,game_date,number,player,statuses,latest,game_day
 2026,Big Ten,Purdue,at Penn State,2026-10-31,8,De'Nylon Morrissette,Questionable > Questionable > Doubtful > Out,Out,Out
 2026,Big Ten,Purdue,at Penn State,2026-10-31,16,Kylan Fox,Out > Out > Out > Out,Out,Out
 2026,Big Ten,Purdue,at Penn State,2026-10-31,24,Raderrion Daniels,Out > Out > Out > Out,Out,Out
-2026,Big Ten,Purdue,vs. Maryland,2026-11-07,2,Jaden Mangham,Questionable > Questionable > Questionable,Questionable,
-2026,Big Ten,Purdue,vs. Maryland,2026-11-07,16,Kylan Fox,Out > Out > Out,Out,
-2026,Big Ten,Purdue,vs. Maryland,2026-11-07,24,Raderrion Daniels,Out > Out > Out,Out,
-2026,Big Ten,Purdue,vs. Maryland,2026-11-07,94,Rodney Lora,Out > Out > Out,Out,
+2026,Big Ten,Purdue,vs. Maryland,2026-11-07,2,Jaden Mangham,Questionable > Questionable > Questionable > Game Time Decision,Game Time Decision,Game Time Decision
+2026,Big Ten,Purdue,vs. Maryland,2026-11-07,16,Kylan Fox,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Purdue,vs. Maryland,2026-11-07,24,Raderrion Daniels,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Purdue,vs. Maryland,2026-11-07,94,Rodney Lora,Out > Out > Out > Out,Out,Out
 2026,Big Ten,Rutgers,vs. USC,2026-09-19,3,Antwan Raymond,Questionable > Questionable > Questionable > Game Time Decision,Game Time Decision,Game Time Decision
 2026,Big Ten,Rutgers,vs. USC,2026-09-19,6,Abram Wright,Questionable > Questionable > Probable > Available,Available,Available
 2026,Big Ten,Rutgers,vs. USC,2026-09-19,7,Kevin Levy,Out > Out > Out > Out,Out,Out
@@ -2295,20 +2295,20 @@ season,conference,team,opponent,game_date,number,player,statuses,latest,game_day
 2026,Big Ten,Rutgers,vs. Michigan,2026-10-31,38,Joey Kopec,Available > Available > Doubtful > Out,Out,Out
 2026,Big Ten,Rutgers,vs. Michigan,2026-10-31,56,Tyler Needham,Doubtful > Doubtful > Doubtful > Out,Out,Out
 2026,Big Ten,Rutgers,vs. Michigan,2026-10-31,96,Keshon Griffin,Questionable > Questionable > Questionable > Available,Available,Available
-2026,Big Ten,Rutgers,at Wisconsin,2026-11-07,0,Dyzier Carter,Questionable > Questionable > Questionable,Questionable,
-2026,Big Ten,Rutgers,at Wisconsin,2026-11-07,1,Kaj Sanders,Out > Out > Out,Out,
-2026,Big Ten,Rutgers,at Wisconsin,2026-11-07,6,Abram Wright,Questionable > Questionable > Questionable,Questionable,
-2026,Big Ten,Rutgers,at Wisconsin,2026-11-07,7,Kevin Levy,Questionable > Questionable > Questionable,Questionable,
-2026,Big Ten,Rutgers,at Wisconsin,2026-11-07,8,KJ Duff,Doubtful > Doubtful > Out,Out,
-2026,Big Ten,Rutgers,at Wisconsin,2026-11-07,10,Ty Morris,Questionable > Questionable > Questionable,Questionable,
-2026,Big Ten,Rutgers,at Wisconsin,2026-11-07,12,Zahmir Dawud,Out > Out > Out,Out,
-2026,Big Ten,Rutgers,at Wisconsin,2026-11-07,12,Dylan Lonergan,Out > Out > Out,Out,
-2026,Big Ten,Rutgers,at Wisconsin,2026-11-07,29,Dane Pizzaro,Questionable > Questionable > Questionable,Questionable,
-2026,Big Ten,Rutgers,at Wisconsin,2026-11-07,38,Joey Kopec,Out > Out > Out,Out,
-2026,Big Ten,Rutgers,at Wisconsin,2026-11-07,56,Tyler Needham,Doubtful > Doubtful > Out,Out,
-2026,Big Ten,Rutgers,at Wisconsin,2026-11-07,69,Kwabena Asamoah,Out > Out > Out,Out,
-2026,Big Ten,Rutgers,at Wisconsin,2026-11-07,94,J'Dan Burnett,Doubtful > Doubtful > Out,Out,
-2026,Big Ten,Rutgers,at Wisconsin,2026-11-07,99,Rondo Porter,Questionable > Questionable > Questionable,Questionable,
+2026,Big Ten,Rutgers,at Wisconsin,2026-11-07,0,Dyzier Carter,Questionable > Questionable > Questionable > Available,Available,Available
+2026,Big Ten,Rutgers,at Wisconsin,2026-11-07,1,Kaj Sanders,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Rutgers,at Wisconsin,2026-11-07,6,Abram Wright,Questionable > Questionable > Questionable > Game Time Decision,Game Time Decision,Game Time Decision
+2026,Big Ten,Rutgers,at Wisconsin,2026-11-07,7,Kevin Levy,Questionable > Questionable > Questionable > Available,Available,Available
+2026,Big Ten,Rutgers,at Wisconsin,2026-11-07,8,KJ Duff,Doubtful > Doubtful > Out > Out,Out,Out
+2026,Big Ten,Rutgers,at Wisconsin,2026-11-07,10,Ty Morris,Questionable > Questionable > Questionable > Game Time Decision,Game Time Decision,Game Time Decision
+2026,Big Ten,Rutgers,at Wisconsin,2026-11-07,12,Zahmir Dawud,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Rutgers,at Wisconsin,2026-11-07,12,Dylan Lonergan,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Rutgers,at Wisconsin,2026-11-07,29,Dane Pizzaro,Questionable > Questionable > Questionable > Game Time Decision,Game Time Decision,Game Time Decision
+2026,Big Ten,Rutgers,at Wisconsin,2026-11-07,38,Joey Kopec,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Rutgers,at Wisconsin,2026-11-07,56,Tyler Needham,Doubtful > Doubtful > Out > Out,Out,Out
+2026,Big Ten,Rutgers,at Wisconsin,2026-11-07,69,Kwabena Asamoah,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Rutgers,at Wisconsin,2026-11-07,94,J'Dan Burnett,Doubtful > Doubtful > Out > Out,Out,Out
+2026,Big Ten,Rutgers,at Wisconsin,2026-11-07,99,Rondo Porter,Questionable > Questionable > Questionable > Available,Available,Available
 2026,Big Ten,USC,at Rutgers,2026-09-19,4,Jahkeem Stewart,Questionable > Out > Out > Out,Out,Out
 2026,Big Ten,USC,at Rutgers,2026-09-19,4,Trent Mosley,Out > Out > Out > Out,Out,Out
 2026,Big Ten,USC,at Rutgers,2026-09-19,6,Deshonne Redeaux,Questionable > Questionable > Questionable > Game Time Decision,Game Time Decision,Game Time Decision
@@ -2420,17 +2420,17 @@ season,conference,team,opponent,game_date,number,player,statuses,latest,game_day
 2026,Big Ten,UCLA,vs. Michigan State,2026-10-24,55,Eugene Brooks,Probable > Available > Available > Available,Available,Available
 2026,Big Ten,UCLA,vs. Michigan State,2026-10-24,64,Sam Yoon,Out > Out > Out > Out,Out,Out
 2026,Big Ten,UCLA,vs. Michigan State,2026-10-24,68,Jordan Davis,Out > Out > Out > Out,Out,Out
-2026,Big Ten,UCLA,at Minnesota,2026-11-07,2,Brian Rowe Jr.,Probable > Available > Available,Available,
-2026,Big Ten,UCLA,at Minnesota,2026-11-07,2,Rodrick Pleasant,Out > Out > Out,Out,
-2026,Big Ten,UCLA,at Minnesota,2026-11-07,7,Mikey Matthews,Out > Out > Out,Out,
-2026,Big Ten,UCLA,at Minnesota,2026-11-07,9,Nico Iamaleava,Out > Out > Out,Out,
-2026,Big Ten,UCLA,at Minnesota,2026-11-07,19,Ryan McCulloch,Out > Out > Out,Out,
-2026,Big Ten,UCLA,at Minnesota,2026-11-07,24,Jonah Smith,Out > Out > Out,Out,
-2026,Big Ten,UCLA,at Minnesota,2026-11-07,35,Curtis Gerrand,Out > Out > Out,Out,
-2026,Big Ten,UCLA,at Minnesota,2026-11-07,44,Ashton Sanders,Out > Out > Out,Out,
-2026,Big Ten,UCLA,at Minnesota,2026-11-07,64,Sam Yoon,Out > Out > Out,Out,
-2026,Big Ten,UCLA,at Minnesota,2026-11-07,68,Jordan Davis,Doubtful > Questionable > Probable,Probable,
-2026,Big Ten,UCLA,at Minnesota,2026-11-07,86,Jalen Saint Paul,Available > Out > Out,Out,
+2026,Big Ten,UCLA,at Minnesota,2026-11-07,2,Brian Rowe Jr.,Probable > Available > Available > Available,Available,Available
+2026,Big Ten,UCLA,at Minnesota,2026-11-07,2,Rodrick Pleasant,Out > Out > Out > Out,Out,Out
+2026,Big Ten,UCLA,at Minnesota,2026-11-07,7,Mikey Matthews,Out > Out > Out > Out,Out,Out
+2026,Big Ten,UCLA,at Minnesota,2026-11-07,9,Nico Iamaleava,Out > Out > Out > Out,Out,Out
+2026,Big Ten,UCLA,at Minnesota,2026-11-07,19,Ryan McCulloch,Out > Out > Out > Out,Out,Out
+2026,Big Ten,UCLA,at Minnesota,2026-11-07,24,Jonah Smith,Out > Out > Out > Out,Out,Out
+2026,Big Ten,UCLA,at Minnesota,2026-11-07,35,Curtis Gerrand,Out > Out > Out > Out,Out,Out
+2026,Big Ten,UCLA,at Minnesota,2026-11-07,44,Ashton Sanders,Out > Out > Out > Out,Out,Out
+2026,Big Ten,UCLA,at Minnesota,2026-11-07,64,Sam Yoon,Out > Out > Out > Out,Out,Out
+2026,Big Ten,UCLA,at Minnesota,2026-11-07,68,Jordan Davis,Doubtful > Questionable > Probable > Game Time Decision,Game Time Decision,Game Time Decision
+2026,Big Ten,UCLA,at Minnesota,2026-11-07,86,Jalen Saint Paul,Available > Out > Out > Out,Out,Out
 2026,Big Ten,Washington,vs. Minnesota,2026-09-26,2,Rahshawn Clark,Questionable > Questionable > Questionable > Game Time Decision,Game Time Decision,Game Time Decision
 2026,Big Ten,Washington,vs. Minnesota,2026-09-26,3,Emmanuel Karnley,Questionable > Questionable > Questionable > Game Time Decision,Game Time Decision,Game Time Decision
 2026,Big Ten,Washington,vs. Minnesota,2026-09-26,4,Jordan Washington,Out > Out > Out > Out,Out,Out
@@ -2487,19 +2487,19 @@ season,conference,team,opponent,game_date,number,player,statuses,latest,game_day
 2026,Big Ten,Washington,at Nebraska,2026-10-31,70,Justin Hylkema,Doubtful > Doubtful > Doubtful > Out,Out,Out
 2026,Big Ten,Washington,at Nebraska,2026-10-31,78,Jake Flores,Doubtful > Doubtful > Doubtful > Out,Out,Out
 2026,Big Ten,Washington,at Nebraska,2026-10-31,,CJ Christian,Out > Out > Out > Out,Out,Out
-2026,Big Ten,Washington,vs. Penn State,2026-11-07,4,Jordan Washington,Out > Out > Out,Out,
-2026,Big Ten,Washington,vs. Penn State,2026-11-07,5,Christian Moss,Out > Out > Out,Out,
-2026,Big Ten,Washington,vs. Penn State,2026-11-07,7,Alex McLaughlin,Questionable > Questionable > Probable,Probable,
-2026,Big Ten,Washington,vs. Penn State,2026-11-07,10,Xe'ree Alexander,Probable > Probable > Probable,Probable,
-2026,Big Ten,Washington,vs. Penn State,2026-11-07,11,Ramzak Fruean,Probable > Probable > Probable,Probable,
-2026,Big Ten,Washington,vs. Penn State,2026-11-07,21,Quaid Carr,Out > Out > Out,Out,
-2026,Big Ten,Washington,vs. Penn State,2026-11-07,55,Kolt Dieterich,Questionable > Questionable > Probable,Probable,
-2026,Big Ten,Washington,vs. Penn State,2026-11-07,56,Geirean Hatchett,Probable > Probable > Probable,Probable,
-2026,Big Ten,Washington,vs. Penn State,2026-11-07,65,Jack Shaffer,Available > Doubtful > Questionable,Questionable,
-2026,Big Ten,Washington,vs. Penn State,2026-11-07,66,Landen Hatchett,Out > Out > Out,Out,
-2026,Big Ten,Washington,vs. Penn State,2026-11-07,70,Justin Hylkema,Questionable > Questionable > Probable,Probable,
-2026,Big Ten,Washington,vs. Penn State,2026-11-07,73,Champ Taulealea,Questionable > Questionable > Probable,Probable,
-2026,Big Ten,Washington,vs. Penn State,2026-11-07,,CJ Christian,Out > Out > Out,Out,
+2026,Big Ten,Washington,vs. Penn State,2026-11-07,4,Jordan Washington,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Washington,vs. Penn State,2026-11-07,5,Christian Moss,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Washington,vs. Penn State,2026-11-07,7,Alex McLaughlin,Questionable > Questionable > Probable > Available,Available,Available
+2026,Big Ten,Washington,vs. Penn State,2026-11-07,10,Xe'ree Alexander,Probable > Probable > Probable > Available,Available,Available
+2026,Big Ten,Washington,vs. Penn State,2026-11-07,11,Ramzak Fruean,Probable > Probable > Probable > Available,Available,Available
+2026,Big Ten,Washington,vs. Penn State,2026-11-07,21,Quaid Carr,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Washington,vs. Penn State,2026-11-07,55,Kolt Dieterich,Questionable > Questionable > Probable > Available,Available,Available
+2026,Big Ten,Washington,vs. Penn State,2026-11-07,56,Geirean Hatchett,Probable > Probable > Probable > Available,Available,Available
+2026,Big Ten,Washington,vs. Penn State,2026-11-07,65,Jack Shaffer,Available > Doubtful > Questionable > Available,Available,Available
+2026,Big Ten,Washington,vs. Penn State,2026-11-07,66,Landen Hatchett,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Washington,vs. Penn State,2026-11-07,70,Justin Hylkema,Questionable > Questionable > Probable > Available,Available,Available
+2026,Big Ten,Washington,vs. Penn State,2026-11-07,73,Champ Taulealea,Questionable > Questionable > Probable > Available,Available,Available
+2026,Big Ten,Washington,vs. Penn State,2026-11-07,,CJ Christian,Out > Out > Out > Out,Out,Out
 2026,Big Ten,Wisconsin,at Penn State,2026-09-26,3,Cai Bates,Out > Out > Out > Out,Out,Out
 2026,Big Ten,Wisconsin,at Penn State,2026-09-26,3,Abu Sama III,Questionable > Probable > Probable > Available,Available,Available
 2026,Big Ten,Wisconsin,at Penn State,2026-09-26,8,Mason Posa,Probable > Probable > Probable > Available,Available,Available
@@ -2542,11 +2542,11 @@ season,conference,team,opponent,game_date,number,player,statuses,latest,game_day
 2026,Big Ten,Wisconsin,at Iowa,2026-10-31,15,Nate Palmer,Doubtful > Doubtful > Doubtful > Out,Out,Out
 2026,Big Ten,Wisconsin,at Iowa,2026-10-31,70,Barrett Nelson,Doubtful > Doubtful > Out > Out,Out,Out
 2026,Big Ten,Wisconsin,at Iowa,2026-10-31,92,Nolan Vils,Questionable > Probable > Probable > Available,Available,Available
-2026,Big Ten,Wisconsin,vs. Rutgers,2026-11-07,3,Cai Bates,Out > Out > Out,Out,
-2026,Big Ten,Wisconsin,vs. Rutgers,2026-11-07,15,Nate Palmer,Doubtful > Doubtful > Doubtful,Doubtful,
-2026,Big Ten,Wisconsin,vs. Rutgers,2026-11-07,55,Kevin Heywood,Doubtful > Doubtful > Out,Out,
-2026,Big Ten,Wisconsin,vs. Rutgers,2026-11-07,70,Barrett Nelson,Doubtful > Doubtful > Doubtful,Doubtful,
-2026,Big Ten,Wisconsin,vs. Rutgers,2026-11-07,82,Emmett Bork,Out > Out > Out,Out,
+2026,Big Ten,Wisconsin,vs. Rutgers,2026-11-07,3,Cai Bates,Out > Out > Out > Out,Out,Out
+2026,Big Ten,Wisconsin,vs. Rutgers,2026-11-07,15,Nate Palmer,Doubtful > Doubtful > Doubtful > Out,Out,Out
+2026,Big Ten,Wisconsin,vs. Rutgers,2026-11-07,55,Kevin Heywood,Doubtful > Doubtful > Out > Out,Out,Out
+2026,Big Ten,Wisconsin,vs. Rutgers,2026-11-07,70,Barrett Nelson,Doubtful > Doubtful > Doubtful > Out,Out,Out
+2026,Big Ten,Wisconsin,vs. Rutgers,2026-11-07,82,Emmett Bork,Out > Out > Out > Out,Out,Out
 2026,Big 12,Arizona,at BYU,2026-09-12,10,Myron Robinson,Questionable > Questionable > Questionable > Game Time Decision,Game Time Decision,Game Time Decision
 2026,Big 12,Arizona,at BYU,2026-09-12,16,Everett Roussaw Jr.,Out > Out > Out > Out,Out,Out
 2026,Big 12,Arizona,at BYU,2026-09-12,20,Dajon Hinton,Out > Out > Out > Out,Out,Out
@@ -2649,15 +2649,15 @@ season,conference,team,opponent,game_date,number,player,statuses,latest,game_day
 2026,Big 12,Arizona State,at BYU,2026-10-31,78,Luke Baklenko,Probable > Probable > Probable > Available,Available,Available
 2026,Big 12,Arizona State,at BYU,2026-10-31,79,Xander Ruggeroli,Probable > Probable > Doubtful > Out,Out,Out
 2026,Big 12,Arizona State,at BYU,2026-10-31,89,Harry Hassmann,Out > Out > Out > Out,Out,Out
-2026,Big 12,Arizona State,vs. Colorado,2026-11-07,2,Lyrik Rawls,Out > Out > Out,Out,
-2026,Big 12,Arizona State,vs. Colorado,2026-11-07,12,Mikey Keene,Probable > Probable > Probable,Probable,
-2026,Big 12,Arizona State,vs. Colorado,2026-11-07,22,Jason Brown Jr.,Available > Questionable > Questionable,Questionable,
-2026,Big 12,Arizona State,vs. Colorado,2026-11-07,44,Kristian Ingman,Probable > Probable > Probable,Probable,
-2026,Big 12,Arizona State,vs. Colorado,2026-11-07,57,Filiva'a Lokotui,Probable > Probable > Probable,Probable,
-2026,Big 12,Arizona State,vs. Colorado,2026-11-07,58,Tana Alo-Tupuola,Probable > Probable > Probable,Probable,
-2026,Big 12,Arizona State,vs. Colorado,2026-11-07,64,Wade Helton,Questionable > Questionable > Questionable,Questionable,
-2026,Big 12,Arizona State,vs. Colorado,2026-11-07,81,Uriah Neloms,Out > Out > Out,Out,
-2026,Big 12,Arizona State,vs. Colorado,2026-11-07,89,Harry Hassmann,Out > Out > Out,Out,
+2026,Big 12,Arizona State,vs. Colorado,2026-11-07,2,Lyrik Rawls,Out > Out > Out > Out,Out,Out
+2026,Big 12,Arizona State,vs. Colorado,2026-11-07,12,Mikey Keene,Probable > Probable > Probable > Available,Available,Available
+2026,Big 12,Arizona State,vs. Colorado,2026-11-07,22,Jason Brown Jr.,Available > Questionable > Questionable > Game Time Decision,Game Time Decision,Game Time Decision
+2026,Big 12,Arizona State,vs. Colorado,2026-11-07,44,Kristian Ingman,Probable > Probable > Probable > Available,Available,Available
+2026,Big 12,Arizona State,vs. Colorado,2026-11-07,57,Filiva'a Lokotui,Probable > Probable > Probable > Available,Available,Available
+2026,Big 12,Arizona State,vs. Colorado,2026-11-07,58,Tana Alo-Tupuola,Probable > Probable > Probable > Available,Available,Available
+2026,Big 12,Arizona State,vs. Colorado,2026-11-07,64,Wade Helton,Questionable > Questionable > Questionable > Out,Out,Out
+2026,Big 12,Arizona State,vs. Colorado,2026-11-07,81,Uriah Neloms,Out > Out > Out > Out,Out,Out
+2026,Big 12,Arizona State,vs. Colorado,2026-11-07,89,Harry Hassmann,Out > Out > Out > Out,Out,Out
 2026,Big 12,Baylor,vs. Colorado,2026-09-26,0,Hosea Wheeler,Questionable > Probable > Probable > Available,Available,Available
 2026,Big 12,Baylor,vs. Colorado,2026-09-26,2,DJ Lagway,Probable > Probable > Probable > Available,Available,Available
 2026,Big 12,Baylor,vs. Colorado,2026-09-26,3,Jadon Porter,Probable > Probable > Probable > Available,Available,Available
@@ -2690,12 +2690,12 @@ season,conference,team,opponent,game_date,number,player,statuses,latest,game_day
 2026,Big 12,Baylor,at UCF,2026-10-30,59,Devonte Tezino,Out > Out > Out > Out,Out,Out
 2026,Big 12,Baylor,at UCF,2026-10-30,61,Cayden Tone,Out > Out > Out > Out,Out,Out
 2026,Big 12,Baylor,at UCF,2026-10-30,87,Ashton Jones,Out > Out > Out > Out,Out,Out
-2026,Big 12,Baylor,vs. Iowa State,2026-11-07,8,Jacob Redding,Out > Out > Out,Out,
-2026,Big 12,Baylor,vs. Iowa State,2026-11-07,12,Kyler Beaty,Probable > Probable > Probable,Probable,
-2026,Big 12,Baylor,vs. Iowa State,2026-11-07,38,Jamarion Richardson,Out > Out > Out,Out,
-2026,Big 12,Baylor,vs. Iowa State,2026-11-07,59,Devonte Tezino,Out > Out > Out,Out,
-2026,Big 12,Baylor,vs. Iowa State,2026-11-07,61,Cayden Tone,Out > Out > Out,Out,
-2026,Big 12,Baylor,vs. Iowa State,2026-11-07,87,Ashton Jones,Out > Out > Out,Out,
+2026,Big 12,Baylor,vs. Iowa State,2026-11-07,8,Jacob Redding,Out > Out > Out > Out,Out,Out
+2026,Big 12,Baylor,vs. Iowa State,2026-11-07,12,Kyler Beaty,Probable > Probable > Probable > Available,Available,Available
+2026,Big 12,Baylor,vs. Iowa State,2026-11-07,38,Jamarion Richardson,Out > Out > Out > Out,Out,Out
+2026,Big 12,Baylor,vs. Iowa State,2026-11-07,59,Devonte Tezino,Out > Out > Out > Out,Out,Out
+2026,Big 12,Baylor,vs. Iowa State,2026-11-07,61,Cayden Tone,Out > Out > Out > Out,Out,Out
+2026,Big 12,Baylor,vs. Iowa State,2026-11-07,87,Ashton Jones,Out > Out > Out > Out,Out,Out
 2026,Big 12,BYU,vs. Arizona,2026-09-12,2,Jonathan Kabeya,Out > Out > Out > Out,Out,Out
 2026,Big 12,BYU,vs. Arizona,2026-09-12,3,Raider Damuni,Out > Out > Out > Out,Out,Out
 2026,Big 12,BYU,vs. Arizona,2026-09-12,16,Isaiah Glasker,Probable > Available > Available > Available,Available,Available
@@ -2732,17 +2732,17 @@ season,conference,team,opponent,game_date,number,player,statuses,latest,game_day
 2026,Big 12,BYU,vs. Arizona State,2026-10-31,46,Kendal Wall,Available > Available > Out > Out,Out,Out
 2026,Big 12,BYU,vs. Arizona State,2026-10-31,64,Kyle Sfarcioc,Probable > Probable > Available > Available,Available,Available
 2026,Big 12,BYU,vs. Arizona State,2026-10-31,74,Trevin Ostler,Out > Exempt > Exempt > Exempt,Exempt,Exempt
-2026,Big 12,BYU,at Utah,2026-11-07,0,Evan Johnson,Doubtful > Doubtful > Doubtful,Doubtful,
-2026,Big 12,BYU,at Utah,2026-11-07,2,Jonathan Kabeya,Out > Out > Out,Out,
-2026,Big 12,BYU,at Utah,2026-11-07,2,Roger Saleapaga II,Doubtful > Doubtful > Doubtful,Doubtful,
-2026,Big 12,BYU,at Utah,2026-11-07,4,LJ Martin,Doubtful > Questionable > Questionable,Questionable,
-2026,Big 12,BYU,at Utah,2026-11-07,23,Pierson Watson,Out > Out > Out,Out,
-2026,Big 12,BYU,at Utah,2026-11-07,37,Joseph Douglas,Questionable > Out > Out,Out,
-2026,Big 12,BYU,at Utah,2026-11-07,39,Seth Shigg,Out > Out > Out,Out,
-2026,Big 12,BYU,at Utah,2026-11-07,46,Kendal Wall,Questionable > Questionable > Questionable,Questionable,
-2026,Big 12,BYU,at Utah,2026-11-07,52,Vincent Tautua,Out > Out > Out,Out,
-2026,Big 12,BYU,at Utah,2026-11-07,59,Siosefa Brown,Questionable > Out > Out,Out,
-2026,Big 12,BYU,at Utah,2026-11-07,99,Brody Laga,Probable > Available > Available,Available,
+2026,Big 12,BYU,at Utah,2026-11-07,0,Evan Johnson,Doubtful > Doubtful > Doubtful > Out,Out,Out
+2026,Big 12,BYU,at Utah,2026-11-07,2,Jonathan Kabeya,Out > Out > Out > Out,Out,Out
+2026,Big 12,BYU,at Utah,2026-11-07,2,Roger Saleapaga II,Doubtful > Doubtful > Doubtful > Out,Out,Out
+2026,Big 12,BYU,at Utah,2026-11-07,4,LJ Martin,Doubtful > Questionable > Questionable > Game Time Decision,Game Time Decision,Game Time Decision
+2026,Big 12,BYU,at Utah,2026-11-07,23,Pierson Watson,Out > Out > Out > Out,Out,Out
+2026,Big 12,BYU,at Utah,2026-11-07,37,Joseph Douglas,Questionable > Out > Out > Out,Out,Out
+2026,Big 12,BYU,at Utah,2026-11-07,39,Seth Shigg,Out > Out > Out > Out,Out,Out
+2026,Big 12,BYU,at Utah,2026-11-07,46,Kendal Wall,Questionable > Questionable > Questionable > Available,Available,Available
+2026,Big 12,BYU,at Utah,2026-11-07,52,Vincent Tautua,Out > Out > Out > Out,Out,Out
+2026,Big 12,BYU,at Utah,2026-11-07,59,Siosefa Brown,Questionable > Out > Out > Out,Out,Out
+2026,Big 12,BYU,at Utah,2026-11-07,99,Brody Laga,Probable > Available > Available > Available,Available,Available
 2026,Big 12,Cincinnati,vs. Kansas State,2026-09-26,12,Filip Maciorowski,Questionable > Questionable > Questionable > Game Time Decision,Game Time Decision,Game Time Decision
 2026,Big 12,Cincinnati,vs. Kansas State,2026-09-26,73,Aiden Pastoriza,Out > Out > Out > Out,Out,Out
 2026,Big 12,Cincinnati,vs. Kansas State,2026-09-26,88,DaMari Witherspoon,Out > Out > Out > Out,Out,Out
@@ -2770,13 +2770,13 @@ season,conference,team,opponent,game_date,number,player,statuses,latest,game_day
 2026,Big 12,Cincinnati,vs. Utah,2026-10-31,80,Jalen Williams,Probable > Probable > Available > Available,Available,Available
 2026,Big 12,Cincinnati,vs. Utah,2026-10-31,88,DaMari Witherspoon,Out > Out > Out > Out,Out,Out
 2026,Big 12,Cincinnati,vs. Utah,2026-10-31,95,Josh Hough,Questionable > Questionable > Out > Out,Out,Out
-2026,Big 12,Cincinnati,at Houston,2026-11-07,31,Simeon Coleman,Questionable > Questionable > Questionable,Questionable,
-2026,Big 12,Cincinnati,at Houston,2026-11-07,44,Montay Weedon,Out > Out > Out,Out,
-2026,Big 12,Cincinnati,at Houston,2026-11-07,77,Taran Tyo,Questionable > Questionable > Questionable,Questionable,
-2026,Big 12,Cincinnati,at Houston,2026-11-07,78,Grant Edgington,Out > Out > Out,Out,
-2026,Big 12,Cincinnati,at Houston,2026-11-07,83,Devyn Zahursky,Out > Out > Out,Out,
-2026,Big 12,Cincinnati,at Houston,2026-11-07,88,DaMari Witherspoon,Out > Out > Out,Out,
-2026,Big 12,Cincinnati,at Houston,2026-11-07,92,Elijah Gunn,Probable > Available > Available,Available,
+2026,Big 12,Cincinnati,at Houston,2026-11-07,31,Simeon Coleman,Questionable > Questionable > Questionable > Out,Out,Out
+2026,Big 12,Cincinnati,at Houston,2026-11-07,44,Montay Weedon,Out > Out > Out > Out,Out,Out
+2026,Big 12,Cincinnati,at Houston,2026-11-07,77,Taran Tyo,Questionable > Questionable > Questionable > Game Time Decision,Game Time Decision,Game Time Decision
+2026,Big 12,Cincinnati,at Houston,2026-11-07,78,Grant Edgington,Out > Out > Out > Out,Out,Out
+2026,Big 12,Cincinnati,at Houston,2026-11-07,83,Devyn Zahursky,Out > Out > Out > Out,Out,Out
+2026,Big 12,Cincinnati,at Houston,2026-11-07,88,DaMari Witherspoon,Out > Out > Out > Out,Out,Out
+2026,Big 12,Cincinnati,at Houston,2026-11-07,92,Elijah Gunn,Probable > Available > Available > Available,Available,Available
 2026,Big 12,Colorado,at Baylor,2026-09-26,18,Danny Scudero,Out > Out > Out > Out,Out,Out
 2026,Big 12,Colorado,at Baylor,2026-09-26,20,Cree Thomas,Probable > Available > Available > Available,Available,Available
 2026,Big 12,Colorado,at Baylor,2026-09-26,23,JaQuail Smith,Questionable > Probable > Probable > Available,Available,Available
@@ -2847,16 +2847,16 @@ season,conference,team,opponent,game_date,number,player,statuses,latest,game_day
 2026,Big 12,Colorado,vs. Kansas State,2026-10-31,45,Vili Taufatofua,Doubtful > Doubtful > Out > Out,Out,Out
 2026,Big 12,Colorado,vs. Kansas State,2026-10-31,92,Sam Gadie,Out > Out > Out > Out,Out,Out
 2026,Big 12,Colorado,vs. Kansas State,2026-10-31,99,Dylan Manuel,Questionable > Probable > Available > Available,Available,Available
-2026,Big 12,Colorado,at Arizona State,2026-11-07,4,Naeten Mitchell,Doubtful > Doubtful > Out,Out,
-2026,Big 12,Colorado,at Arizona State,2026-11-07,13,Kaleb Mathis,Out > Out > Out,Out,
-2026,Big 12,Colorado,at Arizona State,2026-11-07,18,Danny Scudero,Out > Out > Out,Out,
-2026,Big 12,Colorado,at Arizona State,2026-11-07,20,Cree Thomas,Probable > Probable > Available,Available,
-2026,Big 12,Colorado,at Arizona State,2026-11-07,26,Braylon Edwards,Out > Out > Out,Out,
-2026,Big 12,Colorado,at Arizona State,2026-11-07,29,Micah Welch,Out > Out > Out,Out,
-2026,Big 12,Colorado,at Arizona State,2026-11-07,45,Vili Taufatofua,Doubtful > Doubtful > Out,Out,
-2026,Big 12,Colorado,at Arizona State,2026-11-07,62,Sean Kinney,Probable > Probable > Available,Available,
-2026,Big 12,Colorado,at Arizona State,2026-11-07,92,Sam Gadie,Available > Out > Out,Out,
-2026,Big 12,Colorado,at Arizona State,2026-11-07,99,Dylan Manuel,Doubtful > Questionable > Questionable,Questionable,
+2026,Big 12,Colorado,at Arizona State,2026-11-07,4,Naeten Mitchell,Doubtful > Doubtful > Out > Out,Out,Out
+2026,Big 12,Colorado,at Arizona State,2026-11-07,13,Kaleb Mathis,Out > Out > Out > Out,Out,Out
+2026,Big 12,Colorado,at Arizona State,2026-11-07,18,Danny Scudero,Out > Out > Out > Out,Out,Out
+2026,Big 12,Colorado,at Arizona State,2026-11-07,20,Cree Thomas,Probable > Probable > Available > Available,Available,Available
+2026,Big 12,Colorado,at Arizona State,2026-11-07,26,Braylon Edwards,Out > Out > Out > Out,Out,Out
+2026,Big 12,Colorado,at Arizona State,2026-11-07,29,Micah Welch,Out > Out > Out > Out,Out,Out
+2026,Big 12,Colorado,at Arizona State,2026-11-07,45,Vili Taufatofua,Doubtful > Doubtful > Out > Out,Out,Out
+2026,Big 12,Colorado,at Arizona State,2026-11-07,62,Sean Kinney,Probable > Probable > Available > Available,Available,Available
+2026,Big 12,Colorado,at Arizona State,2026-11-07,92,Sam Gadie,Available > Out > Out > Out,Out,Out
+2026,Big 12,Colorado,at Arizona State,2026-11-07,99,Dylan Manuel,Doubtful > Questionable > Questionable > Game Time Decision,Game Time Decision,Game Time Decision
 2026,Big 12,Houston,at Texas Tech,2026-09-18,3,JD Rhym,Probable > Probable > Probable > Available,Available,Available
 2026,Big 12,Houston,at Texas Tech,2026-09-18,12,Stephon Johnson,Questionable > Questionable > Out > Out,Out,Out
 2026,Big 12,Houston,at Texas Tech,2026-09-18,14,Muizz Tounkara,Out > Out > Out > Out,Out,Out
@@ -2896,10 +2896,10 @@ season,conference,team,opponent,game_date,number,player,statuses,latest,game_day
 2026,Big 12,Houston,at Utah,2026-10-24,50,Ejiro Egodogbare,Probable > Probable > Probable > Available,Available,Available
 2026,Big 12,Houston,at Utah,2026-10-24,57,Hayden Wright,Probable > Probable > Probable > Available,Available,Available
 2026,Big 12,Houston,at Utah,2026-10-24,90,De'Marion Thomas,Out > Out > Out > Out,Out,Out
-2026,Big 12,Houston,vs. Cincinnati,2026-11-07,3,JD Rhym,Probable > Probable > Probable,Probable,
-2026,Big 12,Houston,vs. Cincinnati,2026-11-07,8,Tyson Turner,Probable > Probable > Probable,Probable,
-2026,Big 12,Houston,vs. Cincinnati,2026-11-07,24,Keany Parks,Probable > Probable > Probable,Probable,
-2026,Big 12,Houston,vs. Cincinnati,2026-11-07,90,De'Marion Thomas,Probable > Probable > Probable,Probable,
+2026,Big 12,Houston,vs. Cincinnati,2026-11-07,3,JD Rhym,Probable > Probable > Probable > Available,Available,Available
+2026,Big 12,Houston,vs. Cincinnati,2026-11-07,8,Tyson Turner,Probable > Probable > Probable > Available,Available,Available
+2026,Big 12,Houston,vs. Cincinnati,2026-11-07,24,Keany Parks,Probable > Probable > Probable > Available,Available,Available
+2026,Big 12,Houston,vs. Cincinnati,2026-11-07,90,De'Marion Thomas,Probable > Probable > Probable > Available,Available,Available
 2026,Big 12,Iowa State,vs. Utah,2026-09-26,1,Keyon Washington,Probable > Available > Available > Available,Available,Available
 2026,Big 12,Iowa State,vs. Utah,2026-09-26,5,Beni Ngoyi,Questionable > Available > Available > Available,Available,Available
 2026,Big 12,Iowa State,vs. Utah,2026-09-26,6,Drew Surges,Questionable > Probable > Available > Available,Available,Available
@@ -2945,15 +2945,15 @@ season,conference,team,opponent,game_date,number,player,statuses,latest,game_day
 2026,Big 12,Iowa State,vs. Oklahoma State,2026-10-31,92,Caden Crawford,Out > Out > Out > Out,Out,Out
 2026,Big 12,Iowa State,vs. Oklahoma State,2026-10-31,95,Ka'Mori Moore,Out > Out > Out > Out,Out,Out
 2026,Big 12,Iowa State,vs. Oklahoma State,2026-10-31,99,Bryson Lamb,Questionable > Doubtful > Out > Out,Out,Out
-2026,Big 12,Iowa State,at Baylor,2026-11-07,1,Keyon Washington,Questionable > Out > Out,Out,
-2026,Big 12,Iowa State,at Baylor,2026-11-07,3,Arnold Barnes III,Questionable > Probable > Available,Available,
-2026,Big 12,Iowa State,at Baylor,2026-11-07,5,Connor Moberly,Out > Out > Out,Out,
-2026,Big 12,Iowa State,at Baylor,2026-11-07,5,Beni Ngoyi,Out > Out > Out,Out,
-2026,Big 12,Iowa State,at Baylor,2026-11-07,9,Omari Hayes,Questionable > Probable > Available,Available,
-2026,Big 12,Iowa State,at Baylor,2026-11-07,44,Trey Verdon,Questionable > Probable > Available,Available,
-2026,Big 12,Iowa State,at Baylor,2026-11-07,95,Ka'Mori Moore,Out > Out > Out,Out,
-2026,Big 12,Iowa State,at Baylor,2026-11-07,98,Malaki Ta'ase,Questionable > Probable > Available,Available,
-2026,Big 12,Iowa State,at Baylor,2026-11-07,99,Bryson Lamb,Questionable > Probable > Available,Available,
+2026,Big 12,Iowa State,at Baylor,2026-11-07,1,Keyon Washington,Questionable > Out > Out > Out,Out,Out
+2026,Big 12,Iowa State,at Baylor,2026-11-07,3,Arnold Barnes III,Questionable > Probable > Available > Available,Available,Available
+2026,Big 12,Iowa State,at Baylor,2026-11-07,5,Connor Moberly,Out > Out > Out > Out,Out,Out
+2026,Big 12,Iowa State,at Baylor,2026-11-07,5,Beni Ngoyi,Out > Out > Out > Out,Out,Out
+2026,Big 12,Iowa State,at Baylor,2026-11-07,9,Omari Hayes,Questionable > Probable > Available > Available,Available,Available
+2026,Big 12,Iowa State,at Baylor,2026-11-07,44,Trey Verdon,Questionable > Probable > Available > Available,Available,Available
+2026,Big 12,Iowa State,at Baylor,2026-11-07,95,Ka'Mori Moore,Out > Out > Out > Out,Out,Out
+2026,Big 12,Iowa State,at Baylor,2026-11-07,98,Malaki Ta'ase,Questionable > Probable > Available > Available,Available,Available
+2026,Big 12,Iowa State,at Baylor,2026-11-07,99,Bryson Lamb,Questionable > Probable > Available > Available,Available,Available
 2026,Big 12,Kansas,vs. Arizona State,2026-09-19,2,Kory Amachree,Out > Out > Out > Out,Out,Out
 2026,Big 12,Kansas,vs. Arizona State,2026-09-19,4,Jalen Dupree,Available > Probable > Probable > Available,Available,Available
 2026,Big 12,Kansas,vs. Arizona State,2026-09-19,7,Cam Pickett,Questionable > Questionable > Probable > Game Time Decision,Game Time Decision,Game Time Decision
@@ -3001,25 +3001,25 @@ season,conference,team,opponent,game_date,number,player,statuses,latest,game_day
 2026,Big 12,Kansas,at TCU,2026-10-31,35,Jack Utz,Out > Out > Out > Out,Out,Out
 2026,Big 12,Kansas,at TCU,2026-10-31,51,Kasen Carpenter,Out > Out > Out > Out,Out,Out
 2026,Big 12,Kansas,at TCU,2026-10-31,80,Griffin Baker,Out > Out > Out > Out,Out,Out
-2026,Big 12,Kansas,vs. UCF,2026-11-07,2,Syeed Gibbs,Questionable > Questionable > Probable,Probable,
-2026,Big 12,Kansas,vs. UCF,2026-11-07,4,Jalen Dupree,Out > Out > Out,Out,
-2026,Big 12,Kansas,vs. UCF,2026-11-07,7,Bam Crouch,Available > Questionable > Questionable,Questionable,
-2026,Big 12,Kansas,vs. UCF,2026-11-07,8,Isaiah Marshall,Questionable > Probable > Available,Available,
-2026,Big 12,Kansas,vs. UCF,2026-11-07,8,Josh Galbreath,Available > Questionable > Doubtful,Doubtful,
-2026,Big 12,Kansas,vs. UCF,2026-11-07,9,Jailen Butler,Questionable > Probable > Available,Available,
-2026,Big 12,Kansas,vs. UCF,2026-11-07,10,Elijah Cannon,Probable > Probable > Available,Available,
-2026,Big 12,Kansas,vs. UCF,2026-11-07,10,Chase Jenkins,Questionable > Probable > Available,Available,
-2026,Big 12,Kansas,vs. UCF,2026-11-07,12,Bryson Hayes,Questionable > Doubtful > Out,Out,
-2026,Big 12,Kansas,vs. UCF,2026-11-07,12,Jaden Harris,Questionable > Questionable > Questionable,Questionable,
-2026,Big 12,Kansas,vs. UCF,2026-11-07,15,Cole Ballard,Questionable > Questionable > Questionable,Questionable,
-2026,Big 12,Kansas,vs. UCF,2026-11-07,17,Tyren Parker,Out > Out > Out,Out,
-2026,Big 12,Kansas,vs. UCF,2026-11-07,23,Mason Ellis,Probable > Available > Available,Available,
-2026,Big 12,Kansas,vs. UCF,2026-11-07,27,Taylor Davis,Questionable > Probable > Available,Available,
-2026,Big 12,Kansas,vs. UCF,2026-11-07,35,Jack Utz,Out > Out > Out,Out,
-2026,Big 12,Kansas,vs. UCF,2026-11-07,44,David Santiago,Questionable > Questionable > Probable,Probable,
-2026,Big 12,Kansas,vs. UCF,2026-11-07,51,Kasen Carpenter,Out > Out > Out,Out,
-2026,Big 12,Kansas,vs. UCF,2026-11-07,71,Grady Seyfert,Out > Out > Out,Out,
-2026,Big 12,Kansas,vs. UCF,2026-11-07,80,Griffin Baker,Out > Out > Out,Out,
+2026,Big 12,Kansas,vs. UCF,2026-11-07,2,Syeed Gibbs,Questionable > Questionable > Probable > Available,Available,Available
+2026,Big 12,Kansas,vs. UCF,2026-11-07,4,Jalen Dupree,Out > Out > Out > Out,Out,Out
+2026,Big 12,Kansas,vs. UCF,2026-11-07,7,Bam Crouch,Available > Questionable > Questionable > Game Time Decision,Game Time Decision,Game Time Decision
+2026,Big 12,Kansas,vs. UCF,2026-11-07,8,Isaiah Marshall,Questionable > Probable > Available > Available,Available,Available
+2026,Big 12,Kansas,vs. UCF,2026-11-07,8,Josh Galbreath,Available > Questionable > Doubtful > Game Time Decision,Game Time Decision,Game Time Decision
+2026,Big 12,Kansas,vs. UCF,2026-11-07,9,Jailen Butler,Questionable > Probable > Available > Available,Available,Available
+2026,Big 12,Kansas,vs. UCF,2026-11-07,10,Elijah Cannon,Probable > Probable > Available > Available,Available,Available
+2026,Big 12,Kansas,vs. UCF,2026-11-07,10,Chase Jenkins,Questionable > Probable > Available > Available,Available,Available
+2026,Big 12,Kansas,vs. UCF,2026-11-07,12,Bryson Hayes,Questionable > Doubtful > Out > Out,Out,Out
+2026,Big 12,Kansas,vs. UCF,2026-11-07,12,Jaden Harris,Questionable > Questionable > Questionable > Game Time Decision,Game Time Decision,Game Time Decision
+2026,Big 12,Kansas,vs. UCF,2026-11-07,15,Cole Ballard,Questionable > Questionable > Questionable > Game Time Decision,Game Time Decision,Game Time Decision
+2026,Big 12,Kansas,vs. UCF,2026-11-07,17,Tyren Parker,Out > Out > Out > Out,Out,Out
+2026,Big 12,Kansas,vs. UCF,2026-11-07,23,Mason Ellis,Probable > Available > Available > Available,Available,Available
+2026,Big 12,Kansas,vs. UCF,2026-11-07,27,Taylor Davis,Questionable > Probable > Available > Available,Available,Available
+2026,Big 12,Kansas,vs. UCF,2026-11-07,35,Jack Utz,Out > Out > Out > Out,Out,Out
+2026,Big 12,Kansas,vs. UCF,2026-11-07,44,David Santiago,Questionable > Questionable > Probable > Available,Available,Available
+2026,Big 12,Kansas,vs. UCF,2026-11-07,51,Kasen Carpenter,Out > Out > Out > Out,Out,Out
+2026,Big 12,Kansas,vs. UCF,2026-11-07,71,Grady Seyfert,Out > Out > Out > Out,Out,Out
+2026,Big 12,Kansas,vs. UCF,2026-11-07,80,Griffin Baker,Out > Out > Out > Out,Out,Out
 2026,Big 12,Kansas State,at Cincinnati,2026-09-26,3,Blake Barnett,Out > Out > Out > Out,Out,Out
 2026,Big 12,Kansas State,at Cincinnati,2026-09-26,3,Ja'Son Prevard,Out > Out > Out > Out,Out,Out
 2026,Big 12,Kansas State,at Cincinnati,2026-09-26,7,Jacob Knuth,Questionable > Questionable > Probable > Game Time Decision,Game Time Decision,Game Time Decision
@@ -3038,14 +3038,14 @@ season,conference,team,opponent,game_date,number,player,statuses,latest,game_day
 2026,Big 12,Kansas State,at Arizona State,2026-10-24,86,Garrett Oakley,Questionable > Questionable > Doubtful > Out,Out,Out
 2026,Big 12,Kansas State,at Colorado,2026-10-31,2,Avery Johnson,Out > Out > Out > Out,Out,Out
 2026,Big 12,Kansas State,at Colorado,2026-10-31,7,Jacob Knuth,Doubtful > Doubtful > Out > Out,Out,Out
-2026,Big 12,Kansas State,vs. Oklahoma State,2026-11-07,0,Koy Beasley,Questionable > Questionable > Doubtful,Doubtful,
-2026,Big 12,Kansas State,vs. Oklahoma State,2026-11-07,2,Avery Johnson,Out > Out > Out,Out,
-2026,Big 12,Kansas State,vs. Oklahoma State,2026-11-07,7,Jacob Knuth,Out > Out > Out,Out,
-2026,Big 12,Kansas State,vs. Oklahoma State,2026-11-07,9,Jay Harris,Questionable > Questionable > Available,Available,
-2026,Big 12,Kansas State,vs. Oklahoma State,2026-11-07,16,DJ Ackerson Jr.,Questionable > Questionable > Probable,Probable,
-2026,Big 12,Kansas State,vs. Oklahoma State,2026-11-07,26,Sawyer Schilke,Available > Questionable > Doubtful,Doubtful,
-2026,Big 12,Kansas State,vs. Oklahoma State,2026-11-07,87,Lawson McGraw,Questionable > Questionable > Doubtful,Doubtful,
-2026,Big 12,Kansas State,vs. Oklahoma State,2026-11-07,88,Eli Jackson,Questionable > Questionable > Doubtful,Doubtful,
+2026,Big 12,Kansas State,vs. Oklahoma State,2026-11-07,0,Koy Beasley,Questionable > Questionable > Doubtful > Out,Out,Out
+2026,Big 12,Kansas State,vs. Oklahoma State,2026-11-07,2,Avery Johnson,Out > Out > Out > Out,Out,Out
+2026,Big 12,Kansas State,vs. Oklahoma State,2026-11-07,7,Jacob Knuth,Out > Out > Out > Out,Out,Out
+2026,Big 12,Kansas State,vs. Oklahoma State,2026-11-07,9,Jay Harris,Questionable > Questionable > Available > Available,Available,Available
+2026,Big 12,Kansas State,vs. Oklahoma State,2026-11-07,16,DJ Ackerson Jr.,Questionable > Questionable > Probable > Available,Available,Available
+2026,Big 12,Kansas State,vs. Oklahoma State,2026-11-07,26,Sawyer Schilke,Available > Questionable > Doubtful > Out,Out,Out
+2026,Big 12,Kansas State,vs. Oklahoma State,2026-11-07,87,Lawson McGraw,Questionable > Questionable > Doubtful > Out,Out,Out
+2026,Big 12,Kansas State,vs. Oklahoma State,2026-11-07,88,Eli Jackson,Questionable > Questionable > Doubtful > Out,Out,Out
 2026,Big 12,Oklahoma State,at West Virginia,2026-09-26,2,Chris Barnes,Probable > Probable > Probable > Game Time Decision,Game Time Decision,Game Time Decision
 2026,Big 12,Oklahoma State,at West Virginia,2026-09-26,54,Johnny Dickson III,Probable > Probable > Probable > Game Time Decision,Game Time Decision,Game Time Decision
 2026,Big 12,Oklahoma State,at West Virginia,2026-09-26,67,Braydon Nelson,Questionable > Questionable > Out > Out,Out,Out
@@ -3067,13 +3067,13 @@ season,conference,team,opponent,game_date,number,player,statuses,latest,game_day
 2026,Big 12,Oklahoma State,at Iowa State,2026-10-31,19,Dayvon Standard,Questionable > Questionable > Out > Out,Out,Out
 2026,Big 12,Oklahoma State,at Iowa State,2026-10-31,44,Carson Kolb,Out > Out > Out > Out,Out,Out
 2026,Big 12,Oklahoma State,at Iowa State,2026-10-31,88,Landon Dean,Questionable > Questionable > Questionable > Game Time Decision,Game Time Decision,Game Time Decision
-2026,Big 12,Oklahoma State,at Kansas State,2026-11-07,3,Tate Romney,Doubtful > Doubtful > Out,Out,
-2026,Big 12,Oklahoma State,at Kansas State,2026-11-07,7,Quinton Hammonds,Probable > Probable > Available,Available,
-2026,Big 12,Oklahoma State,at Kansas State,2026-11-07,10,Wyatt Young,Available > Probable > Available,Available,
-2026,Big 12,Oklahoma State,at Kansas State,2026-11-07,19,Dayvon Standard,Available > Out > Out,Out,
-2026,Big 12,Oklahoma State,at Kansas State,2026-11-07,44,Carson Kolb,Out > Out > Out,Out,
-2026,Big 12,Oklahoma State,at Kansas State,2026-11-07,88,Landon Dean,Doubtful > Doubtful > Out,Out,
-2026,Big 12,Oklahoma State,at Kansas State,2026-11-07,95,Jaleel Johnson,Doubtful > Doubtful > Out,Out,
+2026,Big 12,Oklahoma State,at Kansas State,2026-11-07,3,Tate Romney,Doubtful > Doubtful > Out > Out,Out,Out
+2026,Big 12,Oklahoma State,at Kansas State,2026-11-07,7,Quinton Hammonds,Probable > Probable > Available > Available,Available,Available
+2026,Big 12,Oklahoma State,at Kansas State,2026-11-07,10,Wyatt Young,Available > Probable > Available > Available,Available,Available
+2026,Big 12,Oklahoma State,at Kansas State,2026-11-07,19,Dayvon Standard,Available > Out > Out > Out,Out,Out
+2026,Big 12,Oklahoma State,at Kansas State,2026-11-07,44,Carson Kolb,Out > Out > Out > Out,Out,Out
+2026,Big 12,Oklahoma State,at Kansas State,2026-11-07,88,Landon Dean,Doubtful > Doubtful > Out > Out,Out,Out
+2026,Big 12,Oklahoma State,at Kansas State,2026-11-07,95,Jaleel Johnson,Doubtful > Doubtful > Out > Out,Out,Out
 2026,Big 12,TCU,at UCF,2026-09-26,0,Zach Chapman,Questionable > Questionable > Out > Out,Out,Out
 2026,Big 12,TCU,at UCF,2026-09-26,2,Jon Denman,Questionable > Questionable > Probable > Available,Available,Available
 2026,Big 12,TCU,at UCF,2026-09-26,7,Jordan Dwyer,Questionable > Questionable > Probable > Available,Available,Available
@@ -3202,15 +3202,15 @@ season,conference,team,opponent,game_date,number,player,statuses,latest,game_day
 2026,Big 12,Texas Tech,vs. Arizona,2026-10-31,28,Jordan Rogers,Questionable > Probable > Available > Available,Available,Available
 2026,Big 12,Texas Tech,vs. Arizona,2026-10-31,77,Elias Gillen,Questionable > Probable > Available > Available,Available,Available
 2026,Big 12,Texas Tech,vs. Arizona,2026-10-31,97,Charles Anderson Jr.,Probable > Probable > Available > Available,Available,Available
-2026,Big 12,Texas Tech,vs. West Virginia,2026-11-07,0,Mikal Harrison-Pilot,Questionable > Probable > Available,Available,
-2026,Big 12,Texas Tech,vs. West Virginia,2026-11-07,2,Kenny Johnson,Questionable > Probable > Available,Available,
-2026,Big 12,Texas Tech,vs. West Virginia,2026-11-07,3,Peyton Morgan,Probable > Probable > Available,Available,
-2026,Big 12,Texas Tech,vs. West Virginia,2026-11-07,6,Jalen Jones,Out > Out > Out,Out,
-2026,Big 12,Texas Tech,vs. West Virginia,2026-11-07,11,Malcolm Simmons,Doubtful > Out > Out,Out,
-2026,Big 12,Texas Tech,vs. West Virginia,2026-11-07,21,Miquel Dingle Jr.,Probable > Probable > Available,Available,
-2026,Big 12,Texas Tech,vs. West Virginia,2026-11-07,22,Marcus Ramon-Edwards,Probable > Probable > Available,Available,
-2026,Big 12,Texas Tech,vs. West Virginia,2026-11-07,33,Ansel Nedore,Questionable > Probable > Available,Available,
-2026,Big 12,Texas Tech,vs. West Virginia,2026-11-07,54,Jordan Church,Probable > Probable > Available,Available,
+2026,Big 12,Texas Tech,vs. West Virginia,2026-11-07,0,Mikal Harrison-Pilot,Questionable > Probable > Available > Available,Available,Available
+2026,Big 12,Texas Tech,vs. West Virginia,2026-11-07,2,Kenny Johnson,Questionable > Probable > Available > Available,Available,Available
+2026,Big 12,Texas Tech,vs. West Virginia,2026-11-07,3,Peyton Morgan,Probable > Probable > Available > Available,Available,Available
+2026,Big 12,Texas Tech,vs. West Virginia,2026-11-07,6,Jalen Jones,Out > Out > Out > Out,Out,Out
+2026,Big 12,Texas Tech,vs. West Virginia,2026-11-07,11,Malcolm Simmons,Doubtful > Out > Out > Out,Out,Out
+2026,Big 12,Texas Tech,vs. West Virginia,2026-11-07,21,Miquel Dingle Jr.,Probable > Probable > Available > Available,Available,Available
+2026,Big 12,Texas Tech,vs. West Virginia,2026-11-07,22,Marcus Ramon-Edwards,Probable > Probable > Available > Available,Available,Available
+2026,Big 12,Texas Tech,vs. West Virginia,2026-11-07,33,Ansel Nedore,Questionable > Probable > Available > Available,Available,Available
+2026,Big 12,Texas Tech,vs. West Virginia,2026-11-07,54,Jordan Church,Probable > Probable > Available > Available,Available,Available
 2026,Big 12,UCF,vs. TCU,2026-09-26,0,Dylan Wade,Probable > Available > Available > Available,Available,Available
 2026,Big 12,UCF,vs. TCU,2026-09-26,1,Jayden Bellamy,Probable > Probable > Probable > Available,Available,Available
 2026,Big 12,UCF,vs. TCU,2026-09-26,3,Jonathan Bibbs,Questionable > Out > Out > Out,Out,Out
@@ -3287,19 +3287,19 @@ season,conference,team,opponent,game_date,number,player,statuses,latest,game_day
 2026,Big 12,UCF,vs. Baylor,2026-10-30,55,Jacob Maiava,Probable > Probable > Probable > Available,Available,Available
 2026,Big 12,UCF,vs. Baylor,2026-10-30,75,Tyler Gibson,Out > Out > Out > Out,Out,Out
 2026,Big 12,UCF,vs. Baylor,2026-10-30,78,Preston Cushman,Probable > Probable > Probable > Available,Available,Available
-2026,Big 12,UCF,at Kansas,2026-11-07,4,Taevion Swint,Probable > Probable > Probable,Probable,
-2026,Big 12,UCF,at Kansas,2026-11-07,5,DJ Bell,Out > Out > Out,Out,
-2026,Big 12,UCF,at Kansas,2026-11-07,8,Demari Henderson,Out > Out > Out,Out,
-2026,Big 12,UCF,at Kansas,2026-11-07,12,Keyone Jenkins,Questionable > Out > Out,Out,
-2026,Big 12,UCF,at Kansas,2026-11-07,13,Caleb Rollerson,Probable > Probable > Probable,Probable,
-2026,Big 12,UCF,at Kansas,2026-11-07,14,Alonza Barnett III,Probable > Probable > Probable,Probable,
-2026,Big 12,UCF,at Kansas,2026-11-07,14,Kahmel Johnson,Out > Out > Out,Out,
-2026,Big 12,UCF,at Kansas,2026-11-07,20,Lewis Carter,Questionable > Questionable > Questionable,Questionable,
-2026,Big 12,UCF,at Kansas,2026-11-07,21,Ty Bartrum,Probable > Probable > Probable,Probable,
-2026,Big 12,UCF,at Kansas,2026-11-07,38,Jayden Jennings,Probable > Probable > Probable,Probable,
-2026,Big 12,UCF,at Kansas,2026-11-07,41,Bruno Dall,Probable > Probable > Probable,Probable,
-2026,Big 12,UCF,at Kansas,2026-11-07,55,Jacob Maiava,Questionable > Questionable > Questionable,Questionable,
-2026,Big 12,UCF,at Kansas,2026-11-07,75,Tyler Gibson,Out > Out > Out,Out,
+2026,Big 12,UCF,at Kansas,2026-11-07,4,Taevion Swint,Probable > Probable > Probable > Available,Available,Available
+2026,Big 12,UCF,at Kansas,2026-11-07,5,DJ Bell,Out > Out > Out > Out,Out,Out
+2026,Big 12,UCF,at Kansas,2026-11-07,8,Demari Henderson,Out > Out > Out > Out,Out,Out
+2026,Big 12,UCF,at Kansas,2026-11-07,12,Keyone Jenkins,Questionable > Out > Out > Out,Out,Out
+2026,Big 12,UCF,at Kansas,2026-11-07,13,Caleb Rollerson,Probable > Probable > Probable > Available,Available,Available
+2026,Big 12,UCF,at Kansas,2026-11-07,14,Alonza Barnett III,Probable > Probable > Probable > Available,Available,Available
+2026,Big 12,UCF,at Kansas,2026-11-07,14,Kahmel Johnson,Out > Out > Out > Out,Out,Out
+2026,Big 12,UCF,at Kansas,2026-11-07,20,Lewis Carter,Questionable > Questionable > Questionable > Game Time Decision,Game Time Decision,Game Time Decision
+2026,Big 12,UCF,at Kansas,2026-11-07,21,Ty Bartrum,Probable > Probable > Probable > Available,Available,Available
+2026,Big 12,UCF,at Kansas,2026-11-07,38,Jayden Jennings,Probable > Probable > Probable > Available,Available,Available
+2026,Big 12,UCF,at Kansas,2026-11-07,41,Bruno Dall,Probable > Probable > Probable > Available,Available,Available
+2026,Big 12,UCF,at Kansas,2026-11-07,55,Jacob Maiava,Questionable > Questionable > Questionable > Game Time Decision,Game Time Decision,Game Time Decision
+2026,Big 12,UCF,at Kansas,2026-11-07,75,Tyler Gibson,Out > Out > Out > Out,Out,Out
 2026,Big 12,Utah,at Iowa State,2026-09-26,8,Mana Carvalho,Questionable > Probable > Available > Available,Available,Available
 2026,Big 12,Utah,at Iowa State,2026-09-26,24,Marcus Wimberly,Out > Out > Out > Out,Out,Out
 2026,Big 12,Utah,at Iowa State,2026-09-26,33,Kana'i Lopes,Out > Out > Out > Out,Out,Out
@@ -3320,9 +3320,9 @@ season,conference,team,opponent,game_date,number,player,statuses,latest,game_day
 2026,Big 12,Utah,at Cincinnati,2026-10-31,10,Hunter Andrews,Questionable > Available > Available > Available,Available,Available
 2026,Big 12,Utah,at Cincinnati,2026-10-31,42,Tayson Reid,Out > Out > Out > Out,Out,Out
 2026,Big 12,Utah,at Cincinnati,2026-10-31,55,Kelvin Obot,Exempt > Out > Out > Out,Out,Out
-2026,Big 12,Utah,vs. BYU,2026-11-07,42,Tayson Reid,Probable > Available > Available,Available,
-2026,Big 12,Utah,vs. BYU,2026-11-07,72,Isaiah Garcia,Out > Out > Out,Out,
-2026,Big 12,Utah,vs. BYU,2026-11-07,89,Noah Bennee,Probable > Available > Available,Available,
+2026,Big 12,Utah,vs. BYU,2026-11-07,42,Tayson Reid,Probable > Available > Available > Available,Available,Available
+2026,Big 12,Utah,vs. BYU,2026-11-07,72,Isaiah Garcia,Out > Out > Out > Out,Out,Out
+2026,Big 12,Utah,vs. BYU,2026-11-07,89,Noah Bennee,Probable > Available > Available > Available,Available,Available
 2026,Big 12,West Virginia,vs. Oklahoma State,2026-09-26,5,Jaden Bray,Probable > Available > Available > Available,Available,Available
 2026,Big 12,West Virginia,vs. Oklahoma State,2026-09-26,10,Cam Ball,Probable > Probable > Probable > Available,Available,Available
 2026,Big 12,West Virginia,vs. Oklahoma State,2026-09-26,17,Prince Strachan,Probable > Probable > Probable > Available,Available,Available
@@ -3371,16 +3371,16 @@ season,conference,team,opponent,game_date,number,player,statuses,latest,game_day
 2026,Big 12,West Virginia,at TCU,2026-10-24,52,Corey McIntyre Jr.,Doubtful > Doubtful > Out > Out,Out,Out
 2026,Big 12,West Virginia,at TCU,2026-10-24,80,John Neider,Probable > Probable > Available > Available,Available,Available
 2026,Big 12,West Virginia,at TCU,2026-10-24,91,Darius Wiley,Out > Out > Out > Out,Out,Out
-2026,Big 12,West Virginia,at Texas Tech,2026-11-07,3,Matt Sieg,Probable > Available > Available,Available,
-2026,Big 12,West Virginia,at Texas Tech,2026-11-07,6,Da'Mare Williams,Questionable > Probable > Probable,Probable,
-2026,Big 12,West Virginia,at Texas Tech,2026-11-07,8,Jyron Hughley,Doubtful > Out > Out,Out,
-2026,Big 12,West Virginia,at Texas Tech,2026-11-07,12,Jacob Bradford,Questionable > Doubtful > Out,Out,
-2026,Big 12,West Virginia,at Texas Tech,2026-11-07,19,Nick Taylor,Probable > Available > Available,Available,
-2026,Big 12,West Virginia,at Texas Tech,2026-11-07,23,Emory Snyder,Out > Out > Out,Out,
-2026,Big 12,West Virginia,at Texas Tech,2026-11-07,25,Armoni Weaver-Bomar,Probable > Available > Available,Available,
-2026,Big 12,West Virginia,at Texas Tech,2026-11-07,26,Andre Devine,Out > Out > Out,Out,
-2026,Big 12,West Virginia,at Texas Tech,2026-11-07,28,Lawrence Autry,Out > Out > Out,Out,
-2026,Big 12,West Virginia,at Texas Tech,2026-11-07,91,Darius Wiley,Out > Out > Out,Out,
+2026,Big 12,West Virginia,at Texas Tech,2026-11-07,3,Matt Sieg,Probable > Available > Available > Available,Available,Available
+2026,Big 12,West Virginia,at Texas Tech,2026-11-07,6,Da'Mare Williams,Questionable > Probable > Probable > Available,Available,Available
+2026,Big 12,West Virginia,at Texas Tech,2026-11-07,8,Jyron Hughley,Doubtful > Out > Out > Out,Out,Out
+2026,Big 12,West Virginia,at Texas Tech,2026-11-07,12,Jacob Bradford,Questionable > Doubtful > Out > Out,Out,Out
+2026,Big 12,West Virginia,at Texas Tech,2026-11-07,19,Nick Taylor,Probable > Available > Available > Available,Available,Available
+2026,Big 12,West Virginia,at Texas Tech,2026-11-07,23,Emory Snyder,Out > Out > Out > Out,Out,Out
+2026,Big 12,West Virginia,at Texas Tech,2026-11-07,25,Armoni Weaver-Bomar,Probable > Available > Available > Available,Available,Available
+2026,Big 12,West Virginia,at Texas Tech,2026-11-07,26,Andre Devine,Out > Out > Out > Out,Out,Out
+2026,Big 12,West Virginia,at Texas Tech,2026-11-07,28,Lawrence Autry,Out > Out > Out > Out,Out,Out
+2026,Big 12,West Virginia,at Texas Tech,2026-11-07,91,Darius Wiley,Out > Out > Out > Out,Out,Out
 2026,SEC,Alabama,at Kentucky,2026-09-12,0,AK Dear,Questionable > Questionable > Out > Out,Out,Out
 2026,SEC,Alabama,at Kentucky,2026-09-12,5,Noah Rogers,Out > Out > Out > Out,Out,Out
 2026,SEC,Alabama,at Kentucky,2026-09-12,10,Jireh Edwards,Questionable > Questionable > Questionable > Game Time Decision,Game Time Decision,Game Time Decision
@@ -3431,20 +3431,20 @@ season,conference,team,opponent,game_date,number,player,statuses,latest,game_day
 2026,SEC,Alabama,vs. Texas A&M,2026-10-24,55,Racin Delgatty,Questionable > Questionable > Doubtful > Out,Out,Out
 2026,SEC,Alabama,vs. Texas A&M,2026-10-24,92,Jeremiah Beaman,Out > Out > Out > Out,Out,Out
 2026,SEC,Alabama,vs. Texas A&M,2026-10-24,99,Terrance Green,Out > Out > Out > Out,Out,Out
-2026,SEC,Alabama,at LSU,2026-11-07,0,AK Dear,Questionable > Questionable > Probable,Probable,
-2026,SEC,Alabama,at LSU,2026-11-07,1,Ryan Coleman-Williams,Questionable > Questionable > Probable,Probable,
-2026,SEC,Alabama,at LSU,2026-11-07,2,Zabien Brown,Questionable > Questionable > Questionable,Questionable,
-2026,SEC,Alabama,at LSU,2026-11-07,9,Desmond Umeozulu,Out > Out > Out,Out,
-2026,SEC,Alabama,at LSU,2026-11-07,13,EJ Crowell,Questionable > Questionable > Questionable,Questionable,
-2026,SEC,Alabama,at LSU,2026-11-07,15,Jett Thomalla,Doubtful > Doubtful > Doubtful,Doubtful,
-2026,SEC,Alabama,at LSU,2026-11-07,23,Cayden Jones,Out > Out > Out,Out,
-2026,SEC,Alabama,at LSU,2026-11-07,29,Nick Sherman,Out > Out > Out,Out,
-2026,SEC,Alabama,at LSU,2026-11-07,50,Casey Poe,Available > Out > Out,Out,
-2026,SEC,Alabama,at LSU,2026-11-07,55,Racin Delgatty,Questionable > Questionable > Probable,Probable,
-2026,SEC,Alabama,at LSU,2026-11-07,66,Jared Graham,Available > Out > Out,Out,
-2026,SEC,Alabama,at LSU,2026-11-07,70,William Sanders,Questionable > Questionable > Questionable,Questionable,
-2026,SEC,Alabama,at LSU,2026-11-07,92,Jeremiah Beaman,Out > Out > Out,Out,
-2026,SEC,Alabama,at LSU,2026-11-07,99,Terrance Green,Questionable > Questionable > Probable,Probable,
+2026,SEC,Alabama,at LSU,2026-11-07,0,AK Dear,Questionable > Questionable > Probable > Available,Available,Available
+2026,SEC,Alabama,at LSU,2026-11-07,1,Ryan Coleman-Williams,Questionable > Questionable > Probable > Available,Available,Available
+2026,SEC,Alabama,at LSU,2026-11-07,2,Zabien Brown,Questionable > Questionable > Questionable > Game Time Decision,Game Time Decision,Game Time Decision
+2026,SEC,Alabama,at LSU,2026-11-07,9,Desmond Umeozulu,Out > Out > Out > Out,Out,Out
+2026,SEC,Alabama,at LSU,2026-11-07,13,EJ Crowell,Questionable > Questionable > Questionable > Game Time Decision,Game Time Decision,Game Time Decision
+2026,SEC,Alabama,at LSU,2026-11-07,15,Jett Thomalla,Doubtful > Doubtful > Doubtful > Game Time Decision,Game Time Decision,Game Time Decision
+2026,SEC,Alabama,at LSU,2026-11-07,23,Cayden Jones,Out > Out > Out > Out,Out,Out
+2026,SEC,Alabama,at LSU,2026-11-07,29,Nick Sherman,Out > Out > Out > Out,Out,Out
+2026,SEC,Alabama,at LSU,2026-11-07,50,Casey Poe,Available > Out > Out > Out,Out,Out
+2026,SEC,Alabama,at LSU,2026-11-07,55,Racin Delgatty,Questionable > Questionable > Probable > Available,Available,Available
+2026,SEC,Alabama,at LSU,2026-11-07,66,Jared Graham,Available > Out > Out > Out,Out,Out
+2026,SEC,Alabama,at LSU,2026-11-07,70,William Sanders,Questionable > Questionable > Questionable > Game Time Decision,Game Time Decision,Game Time Decision
+2026,SEC,Alabama,at LSU,2026-11-07,92,Jeremiah Beaman,Out > Out > Out > Out,Out,Out
+2026,SEC,Alabama,at LSU,2026-11-07,99,Terrance Green,Questionable > Questionable > Probable > Available,Available,Available
 2026,SEC,Arkansas,vs. Georgia,2026-09-19,29,Brandon Ford,Questionable > Doubtful > Out > Out,Out,Out
 2026,SEC,Arkansas,vs. Georgia,2026-09-19,35,Hutson Hendrix,Questionable > Out > Out > Out,Out,Out
 2026,SEC,Arkansas,vs. Georgia,2026-09-19,47,Maddox Lassiter,Out > Out > Out > Out,Out,Out
@@ -3468,13 +3468,13 @@ season,conference,team,opponent,game_date,number,player,statuses,latest,game_day
 2026,SEC,Arkansas,vs. Missouri,2026-10-31,83,Jaden Platt,Probable > Probable > Available > Available,Available,Available
 2026,SEC,Arkansas,vs. Missouri,2026-10-31,89,Gavin Garretson,Out > Out > Out > Out,Out,Out
 2026,SEC,Arkansas,vs. Missouri,2026-10-31,90,Caleb Bell,Probable > Probable > Available > Available,Available,Available
-2026,SEC,Arkansas,at Auburn,2026-11-07,0,Braylen Russell,Probable > Probable > Probable,Probable,
-2026,SEC,Arkansas,at Auburn,2026-11-07,3,Braydon Lee,Out > Out > Out,Out,
-2026,SEC,Arkansas,at Auburn,2026-11-07,6,Chris Marshall,Probable > Probable > Probable,Probable,
-2026,SEC,Arkansas,at Auburn,2026-11-07,35,Steven Soles Jr.,Probable > Probable > Probable,Probable,
-2026,SEC,Arkansas,at Auburn,2026-11-07,47,Maddox Lassiter,Out > Out > Out,Out,
-2026,SEC,Arkansas,at Auburn,2026-11-07,89,Gavin Garretson,Questionable > Out > Out,Out,
-2026,SEC,Arkansas,at Auburn,2026-11-07,97,Quincy Rhodes Jr.,Probable > Probable > Probable,Probable,
+2026,SEC,Arkansas,at Auburn,2026-11-07,0,Braylen Russell,Probable > Probable > Probable > Available,Available,Available
+2026,SEC,Arkansas,at Auburn,2026-11-07,3,Braydon Lee,Out > Out > Out > Out,Out,Out
+2026,SEC,Arkansas,at Auburn,2026-11-07,6,Chris Marshall,Probable > Probable > Probable > Available,Available,Available
+2026,SEC,Arkansas,at Auburn,2026-11-07,35,Steven Soles Jr.,Probable > Probable > Probable > Available,Available,Available
+2026,SEC,Arkansas,at Auburn,2026-11-07,47,Maddox Lassiter,Out > Out > Out > Out,Out,Out
+2026,SEC,Arkansas,at Auburn,2026-11-07,89,Gavin Garretson,Questionable > Out > Out > Out,Out,Out
+2026,SEC,Arkansas,at Auburn,2026-11-07,97,Quincy Rhodes Jr.,Probable > Probable > Probable > Game Time Decision,Game Time Decision,Game Time Decision
 2026,SEC,Auburn,vs. Florida,2026-09-19,31,Joe Phillips,Questionable > Questionable > Questionable > Out,Out,Out
 2026,SEC,Auburn,vs. Florida,2026-09-19,71,Tai Buster,Out > Out > Out > Out,Out,Out
 2026,SEC,Auburn,vs. Florida,2026-09-19,85,Hunter Herring,Questionable > Questionable > Questionable > Out,Out,Out
@@ -3492,12 +3492,12 @@ season,conference,team,opponent,game_date,number,player,statuses,latest,game_day
 2026,SEC,Auburn,at Ole Miss,2026-10-31,4,Jeremiah Koger,Questionable > Questionable > Out > Out,Out,Out
 2026,SEC,Auburn,at Ole Miss,2026-10-31,71,Tai Buster,Out > Out > Out > Out,Out,Out
 2026,SEC,Auburn,at Ole Miss,2026-10-31,85,Hunter Herring,Out > Out > Out > Out,Out,Out
-2026,SEC,Auburn,vs. Arkansas,2026-11-07,0,Sylvester Smith-Reed,Questionable > Questionable > Out,Out,
-2026,SEC,Auburn,vs. Arkansas,2026-11-07,4,Jeremiah Koger,Questionable > Questionable > Questionable,Questionable,
-2026,SEC,Auburn,vs. Arkansas,2026-11-07,16,Bryce Deas,Available > Available > Out,Out,
-2026,SEC,Auburn,vs. Arkansas,2026-11-07,22,Andre Jordan Jr.,Questionable > Questionable > Questionable,Questionable,
-2026,SEC,Auburn,vs. Arkansas,2026-11-07,71,Tai Buster,Out > Out > Out,Out,
-2026,SEC,Auburn,vs. Arkansas,2026-11-07,85,Hunter Herring,Questionable > Out > Out,Out,
+2026,SEC,Auburn,vs. Arkansas,2026-11-07,0,Sylvester Smith-Reed,Questionable > Questionable > Out > Out,Out,Out
+2026,SEC,Auburn,vs. Arkansas,2026-11-07,4,Jeremiah Koger,Questionable > Questionable > Questionable > Game Time Decision,Game Time Decision,Game Time Decision
+2026,SEC,Auburn,vs. Arkansas,2026-11-07,16,Bryce Deas,Available > Available > Out > Out,Out,Out
+2026,SEC,Auburn,vs. Arkansas,2026-11-07,22,Andre Jordan Jr.,Questionable > Questionable > Questionable > Game Time Decision,Game Time Decision,Game Time Decision
+2026,SEC,Auburn,vs. Arkansas,2026-11-07,71,Tai Buster,Out > Out > Out > Out,Out,Out
+2026,SEC,Auburn,vs. Arkansas,2026-11-07,85,Hunter Herring,Questionable > Out > Out > Out,Out,Out
 2026,SEC,Florida,at Auburn,2026-09-19,2,Eric Singleton Jr.,Questionable > Questionable > Questionable > Game Time Decision,Game Time Decision,Game Time Decision
 2026,SEC,Florida,at Auburn,2026-09-19,91,Patrick Durkin,Available > Probable > Probable > Available,Available,Available
 2026,SEC,Florida,at Auburn,2026-09-19,99,Emmanuel Oyebadejo,Questionable > Questionable > Questionable > Game Time Decision,Game Time Decision,Game Time Decision
@@ -3518,13 +3518,13 @@ season,conference,team,opponent,game_date,number,player,statuses,latest,game_day
 2026,SEC,Florida,vs. Georgia,2026-10-31,12,Aaron Philo,Questionable > Questionable > Probable > Available,Available,Available
 2026,SEC,Florida,vs. Georgia,2026-10-31,20,Duke Clark,Questionable > Questionable > Out > Out,Out,Out
 2026,SEC,Florida,vs. Georgia,2026-10-31,29,Jaden Robinson,Doubtful > Doubtful > Out > Out,Out,Out
-2026,SEC,Florida,vs. Oklahoma,2026-11-07,1,Vernell Brown III,Doubtful > Doubtful > Out,Out,
-2026,SEC,Florida,vs. Oklahoma,2026-11-07,3,Bailey Stockton,Questionable > Questionable > Probable,Probable,
-2026,SEC,Florida,vs. Oklahoma,2026-11-07,29,Jaden Robinson,Out > Out > Out,Out,
-2026,SEC,Florida,vs. Oklahoma,2026-11-07,66,Emeka Ugorji,Out > Out > Out,Out,
-2026,SEC,Florida,vs. Oklahoma,2026-11-07,85,Evan Chieca,Out > Out > Out,Out,
-2026,SEC,Florida,vs. Oklahoma,2026-11-07,91,Jeramiah McCloud,Out > Out > Out,Out,
-2026,SEC,Florida,vs. Oklahoma,2026-11-07,99,Emmanuel Oyebadejo,Questionable > Questionable > Probable,Probable,
+2026,SEC,Florida,vs. Oklahoma,2026-11-07,1,Vernell Brown III,Doubtful > Doubtful > Out > Out,Out,Out
+2026,SEC,Florida,vs. Oklahoma,2026-11-07,3,Bailey Stockton,Questionable > Questionable > Probable > Available,Available,Available
+2026,SEC,Florida,vs. Oklahoma,2026-11-07,29,Jaden Robinson,Out > Out > Out > Out,Out,Out
+2026,SEC,Florida,vs. Oklahoma,2026-11-07,66,Emeka Ugorji,Out > Out > Out > Out,Out,Out
+2026,SEC,Florida,vs. Oklahoma,2026-11-07,85,Evan Chieca,Out > Out > Out > Out,Out,Out
+2026,SEC,Florida,vs. Oklahoma,2026-11-07,91,Jeramiah McCloud,Out > Out > Out > Out,Out,Out
+2026,SEC,Florida,vs. Oklahoma,2026-11-07,99,Emmanuel Oyebadejo,Questionable > Questionable > Probable > Available,Available,Available
 2026,SEC,Georgia,at Arkansas,2026-09-19,6,Justice Fitzpatrick,Out > Out > Out > Out,Out,Out
 2026,SEC,Georgia,at Arkansas,2026-09-19,23,Tyriq Green,Out > Out > Out > Out,Out,Out
 2026,SEC,Georgia,at Arkansas,2026-09-19,76,Marcus Harrison,Available > Out > Out > Out,Out,Out
@@ -3561,14 +3561,14 @@ season,conference,team,opponent,game_date,number,player,statuses,latest,game_day
 2026,SEC,Georgia,vs. Florida,2026-10-31,6,Isiah Canion,Questionable > Questionable > Questionable > Game Time Decision,Game Time Decision,Game Time Decision
 2026,SEC,Georgia,vs. Florida,2026-10-31,17,Amaris Williams,Out > Out > Out > Out,Out,Out
 2026,SEC,Georgia,vs. Florida,2026-10-31,23,Tyriq Green,Out > Out > Out > Out,Out,Out
-2026,SEC,Georgia,at Ole Miss,2026-11-07,2,Thomas Blackshear,Questionable > Questionable > Probable,Probable,
-2026,SEC,Georgia,at Ole Miss,2026-11-07,5,Chauncey Bowens,Questionable > Questionable > Probable,Probable,
-2026,SEC,Georgia,at Ole Miss,2026-11-07,6,Isiah Canion,Probable > Available > Available,Available,
-2026,SEC,Georgia,at Ole Miss,2026-11-07,10,Elyiss Williams,Questionable > Questionable > Questionable,Questionable,
-2026,SEC,Georgia,at Ole Miss,2026-11-07,13,AJ Kruah,Questionable > Questionable > Out,Out,
-2026,SEC,Georgia,at Ole Miss,2026-11-07,17,Amaris Williams,Out > Out > Out,Out,
-2026,SEC,Georgia,at Ole Miss,2026-11-07,23,Tyriq Green,Questionable > Questionable > Out,Out,
-2026,SEC,Georgia,at Ole Miss,2026-11-07,99,Joseph Jonah-Ajonye,Questionable > Questionable > Out,Out,
+2026,SEC,Georgia,at Ole Miss,2026-11-07,2,Thomas Blackshear,Questionable > Questionable > Probable > Available,Available,Available
+2026,SEC,Georgia,at Ole Miss,2026-11-07,5,Chauncey Bowens,Questionable > Questionable > Probable > Available,Available,Available
+2026,SEC,Georgia,at Ole Miss,2026-11-07,6,Isiah Canion,Probable > Available > Available > Available,Available,Available
+2026,SEC,Georgia,at Ole Miss,2026-11-07,10,Elyiss Williams,Questionable > Questionable > Questionable > Game Time Decision,Game Time Decision,Game Time Decision
+2026,SEC,Georgia,at Ole Miss,2026-11-07,13,AJ Kruah,Questionable > Questionable > Out > Out,Out,Out
+2026,SEC,Georgia,at Ole Miss,2026-11-07,17,Amaris Williams,Out > Out > Out > Out,Out,Out
+2026,SEC,Georgia,at Ole Miss,2026-11-07,23,Tyriq Green,Questionable > Questionable > Out > Out,Out,Out
+2026,SEC,Georgia,at Ole Miss,2026-11-07,99,Joseph Jonah-Ajonye,Questionable > Questionable > Out > Out,Out,Out
 2026,SEC,Kentucky,vs. Alabama,2026-09-12,1,Andre Clarke Jr.,Questionable > Questionable > Out > Out,Out,Out
 2026,SEC,Kentucky,vs. Alabama,2026-09-12,50,Max Anderson,Questionable > Questionable > Out > Out,Out,Out
 2026,SEC,Kentucky,vs. Alabama,2026-09-12,55,Aba Selm,Questionable > Questionable > Out > Out,Out,Out
@@ -3618,12 +3618,12 @@ season,conference,team,opponent,game_date,number,player,statuses,latest,game_day
 2026,SEC,Kentucky,vs. Vanderbilt,2026-10-24,40,Cole Marszalek,Doubtful > Questionable > Questionable > Game Time Decision,Game Time Decision,Game Time Decision
 2026,SEC,Kentucky,vs. Vanderbilt,2026-10-24,93,Kalen Edwards,Probable > Available > Available > Available,Available,Available
 2026,SEC,Kentucky,vs. Vanderbilt,2026-10-24,97,Tyler Thomas,Questionable > Questionable > Questionable > Game Time Decision,Game Time Decision,Game Time Decision
-2026,SEC,Kentucky,at Tennessee,2026-11-07,2,Sam Greene,Probable > Probable > Probable,Probable,
-2026,SEC,Kentucky,at Tennessee,2026-11-07,4,Antwan Smith,Out > Out > Out,Out,
-2026,SEC,Kentucky,at Tennessee,2026-11-07,17,Justyn Hartley,Out > Out > Out,Out,
-2026,SEC,Kentucky,at Tennessee,2026-11-07,24,Jaden Smith,Out > Out > Out,Out,
-2026,SEC,Kentucky,at Tennessee,2026-11-07,27,Isaiah McMillian,Questionable > Probable > Probable,Probable,
-2026,SEC,Kentucky,at Tennessee,2026-11-07,30,Grant Grayton,Out > Out > Out,Out,
+2026,SEC,Kentucky,at Tennessee,2026-11-07,2,Sam Greene,Probable > Probable > Probable > Available,Available,Available
+2026,SEC,Kentucky,at Tennessee,2026-11-07,4,Antwan Smith,Out > Out > Out > Out,Out,Out
+2026,SEC,Kentucky,at Tennessee,2026-11-07,17,Justyn Hartley,Out > Out > Out > Out,Out,Out
+2026,SEC,Kentucky,at Tennessee,2026-11-07,24,Jaden Smith,Out > Out > Out > Out,Out,Out
+2026,SEC,Kentucky,at Tennessee,2026-11-07,27,Isaiah McMillian,Questionable > Probable > Probable > Available,Available,Available
+2026,SEC,Kentucky,at Tennessee,2026-11-07,30,Grant Grayton,Out > Out > Out > Out,Out,Out
 2026,SEC,LSU,at Ole Miss,2026-09-19,6,TJ Dottery,Questionable > Questionable > Questionable > Game Time Decision,Game Time Decision,Game Time Decision
 2026,SEC,LSU,at Ole Miss,2026-09-19,10,Sam Leavitt,Doubtful > Questionable > Available > Available,Available,Available
 2026,SEC,LSU,at Ole Miss,2026-09-19,7,Trey'Dez Green,Probable > Available > Available > Available,Available,Available
@@ -3655,14 +3655,14 @@ season,conference,team,opponent,game_date,number,player,statuses,latest,game_day
 2026,SEC,LSU,at Auburn,2026-10-24,15,Phillip Wright III,Out > Out > Out > Out,Out,Out
 2026,SEC,LSU,at Auburn,2026-10-24,26,Charles Ross II,Out > Out > Out > Out,Out,Out
 2026,SEC,LSU,at Auburn,2026-10-24,88,Richard Anderson,Doubtful > Out > Out > Out,Out,Out
-2026,SEC,LSU,vs. Alabama,2026-11-07,7,Trey'Dez Green,Available > Available > Questionable,Questionable,
-2026,SEC,LSU,vs. Alabama,2026-11-07,7,Whit Weeks,Doubtful > Doubtful > Doubtful,Doubtful,
-2026,SEC,LSU,vs. Alabama,2026-11-07,10,Dashawn Spears,Out > Out > Out,Out,
-2026,SEC,LSU,vs. Alabama,2026-11-07,15,Phillip Wright III,Out > Out > Out,Out,
-2026,SEC,LSU,vs. Alabama,2026-11-07,26,Charles Ross II,Out > Out > Out,Out,
-2026,SEC,LSU,vs. Alabama,2026-11-07,35,Zach Weeks,Questionable > Questionable > Available,Available,
-2026,SEC,LSU,vs. Alabama,2026-11-07,88,Richard Anderson,Out > Out > Out,Out,
-2026,SEC,LSU,vs. Alabama,2026-11-07,90,Stephiylan Green,Available > Probable > Available,Available,
+2026,SEC,LSU,vs. Alabama,2026-11-07,7,Trey'Dez Green,Available > Available > Questionable > Available,Available,Available
+2026,SEC,LSU,vs. Alabama,2026-11-07,7,Whit Weeks,Doubtful > Doubtful > Doubtful > Out,Out,Out
+2026,SEC,LSU,vs. Alabama,2026-11-07,10,Dashawn Spears,Out > Out > Out > Out,Out,Out
+2026,SEC,LSU,vs. Alabama,2026-11-07,15,Phillip Wright III,Out > Out > Out > Out,Out,Out
+2026,SEC,LSU,vs. Alabama,2026-11-07,26,Charles Ross II,Out > Out > Out > Out,Out,Out
+2026,SEC,LSU,vs. Alabama,2026-11-07,35,Zach Weeks,Questionable > Questionable > Available > Available,Available,Available
+2026,SEC,LSU,vs. Alabama,2026-11-07,88,Richard Anderson,Out > Out > Out > Out,Out,Out
+2026,SEC,LSU,vs. Alabama,2026-11-07,90,Stephiylan Green,Available > Probable > Available > Available,Available,Available
 2026,SEC,Mississippi State,at South Carolina,2026-09-19,1,Kelley Jones,Probable > Probable > Available > Available,Available,Available
 2026,SEC,Mississippi State,at South Carolina,2026-09-19,7,Zakari Tillman,Questionable > Out > Out > Out,Out,Out
 2026,SEC,Mississippi State,at South Carolina,2026-09-19,11,Ayden Williams,Out > Out > Out > Out,Out,Out
@@ -3704,14 +3704,14 @@ season,conference,team,opponent,game_date,number,player,statuses,latest,game_day
 2026,SEC,Mississippi State,at Texas,2026-10-31,23,Trevion Williams,Out > Out > Out > Out,Out,Out
 2026,SEC,Mississippi State,at Texas,2026-10-31,78,DJ Chester,Questionable > Out > Out > Out,Out,Out
 2026,SEC,Mississippi State,at Texas,2026-10-31,99,Diesel Moye,Out > Out > Out > Out,Out,Out
-2026,SEC,Mississippi State,vs. Vanderbilt,2026-11-07,1,Kamario Taylor,Out > Out > Out,Out,
-2026,SEC,Mississippi State,vs. Vanderbilt,2026-11-07,2,Isaac Smith,Out > Out > Out,Out,
-2026,SEC,Mississippi State,vs. Vanderbilt,2026-11-07,10,Jalen Smith,Out > Out > Out,Out,
-2026,SEC,Mississippi State,vs. Vanderbilt,2026-11-07,11,Tyler Lockhart,Questionable > Questionable > Questionable,Questionable,
-2026,SEC,Mississippi State,vs. Vanderbilt,2026-11-07,11,Ayden Williams,Probable > Available > Available,Available,
-2026,SEC,Mississippi State,vs. Vanderbilt,2026-11-07,16,Derion Gullette,Out > Out > Out,Out,
-2026,SEC,Mississippi State,vs. Vanderbilt,2026-11-07,23,Trevion Williams,Out > Out > Out,Out,
-2026,SEC,Mississippi State,vs. Vanderbilt,2026-11-07,99,Diesel Moye,Out > Out > Out,Out,
+2026,SEC,Mississippi State,vs. Vanderbilt,2026-11-07,1,Kamario Taylor,Out > Out > Out > Out,Out,Out
+2026,SEC,Mississippi State,vs. Vanderbilt,2026-11-07,2,Isaac Smith,Out > Out > Out > Out,Out,Out
+2026,SEC,Mississippi State,vs. Vanderbilt,2026-11-07,10,Jalen Smith,Out > Out > Out > Out,Out,Out
+2026,SEC,Mississippi State,vs. Vanderbilt,2026-11-07,11,Tyler Lockhart,Questionable > Questionable > Questionable > Out,Out,Out
+2026,SEC,Mississippi State,vs. Vanderbilt,2026-11-07,11,Ayden Williams,Probable > Available > Available > Available,Available,Available
+2026,SEC,Mississippi State,vs. Vanderbilt,2026-11-07,16,Derion Gullette,Out > Out > Out > Out,Out,Out
+2026,SEC,Mississippi State,vs. Vanderbilt,2026-11-07,23,Trevion Williams,Out > Out > Out > Out,Out,Out
+2026,SEC,Mississippi State,vs. Vanderbilt,2026-11-07,99,Diesel Moye,Out > Out > Out > Out,Out,Out
 2026,SEC,Missouri,at Mississippi State,2026-09-26,18,JaDon Blair,Out > Out > Out > Out,Out,Out
 2026,SEC,Missouri,at Mississippi State,2026-09-26,19,Darris Smith,Questionable > Questionable > Out > Out,Out,Out
 2026,SEC,Missouri,at Mississippi State,2026-09-26,21,Malae Fonoti,Out > Out > Out > Out,Out,Out
@@ -3769,9 +3769,9 @@ season,conference,team,opponent,game_date,number,player,statuses,latest,game_day
 2026,SEC,Missouri,at Arkansas,2026-10-31,21,Malae Fonoti,Out > Out > Out > Out,Out,Out
 2026,SEC,Missouri,at Arkansas,2026-10-31,54,Josh Atkins,Out > Out > Out > Out,Out,Out
 2026,SEC,Missouri,at Arkansas,2026-10-31,88,Gavin Hoffman,Out > Out > Out > Out,Out,Out
-2026,SEC,Missouri,vs. Texas,2026-11-07,21,Malae Fonoti,Out > Out > Out,Out,
-2026,SEC,Missouri,vs. Texas,2026-11-07,54,Josh Atkins,Out > Out > Out,Out,
-2026,SEC,Missouri,vs. Texas,2026-11-07,88,Gavin Hoffman,Out > Out > Out,Out,
+2026,SEC,Missouri,vs. Texas,2026-11-07,21,Malae Fonoti,Out > Out > Out > Out,Out,Out
+2026,SEC,Missouri,vs. Texas,2026-11-07,54,Josh Atkins,Out > Out > Out > Out,Out,Out
+2026,SEC,Missouri,vs. Texas,2026-11-07,88,Gavin Hoffman,Out > Out > Out > Out,Out,Out
 2026,SEC,Oklahoma,at Georgia,2026-09-26,0,David Stone,Questionable > Questionable > Questionable > Game Time Decision,Game Time Decision,Game Time Decision
 2026,SEC,Oklahoma,at Georgia,2026-09-26,5,Jer'Michael Carter,Questionable > Out > Out > Out,Out,Out
 2026,SEC,Oklahoma,at Georgia,2026-09-26,7,Taylor Heim,Out > Out > Out > Out,Out,Out
@@ -3835,22 +3835,22 @@ season,conference,team,opponent,game_date,number,player,statuses,latest,game_day
 2026,SEC,Oklahoma,vs. South Carolina,2026-10-31,70,Ryan Fodje,Out > Out > Out > Out,Out,Out
 2026,SEC,Oklahoma,vs. South Carolina,2026-10-31,72,Fred Hinton,Questionable > Doubtful > Out > Out,Out,Out
 2026,SEC,Oklahoma,vs. South Carolina,2026-10-31,77,Heath Ozaeta,Probable > Available > Available > Available,Available,Available
-2026,SEC,Oklahoma,at Florida,2026-11-07,5,Jer'Michael Carter,Questionable > Probable > Available,Available,
-2026,SEC,Oklahoma,at Florida,2026-11-07,7,Taylor Heim,Out > Out > Out,Out,
-2026,SEC,Oklahoma,at Florida,2026-11-07,9,Dakoda Fields,Out > Out > Out,Out,
-2026,SEC,Oklahoma,at Florida,2026-11-07,11,Trell Harris,Out > Out > Out,Out,
-2026,SEC,Oklahoma,at Florida,2026-11-07,14,Elijah Thomas,Doubtful > Questionable > Probable,Probable,
-2026,SEC,Oklahoma,at Florida,2026-11-07,18,Cole Sullivan,Out > Out > Out,Out,
-2026,SEC,Oklahoma,at Florida,2026-11-07,22,Peyton Bowen,Questionable > Questionable > Questionable,Questionable,
-2026,SEC,Oklahoma,at Florida,2026-11-07,22,Trynae Washington,Out > Out > Out,Out,
-2026,SEC,Oklahoma,at Florida,2026-11-07,23,Eli Bowen,Questionable > Probable > Available,Available,
-2026,SEC,Oklahoma,at Florida,2026-11-07,24,Jacobe Johnson,Out > Out > Out,Out,
-2026,SEC,Oklahoma,at Florida,2026-11-07,55,Eddy Pierre-Louis,Doubtful > Doubtful > Doubtful,Doubtful,
-2026,SEC,Oklahoma,at Florida,2026-11-07,69,Jake Maikkula,Probable > Available > Available,Available,
-2026,SEC,Oklahoma,at Florida,2026-11-07,70,Ryan Fodje,Out > Out > Out,Out,
-2026,SEC,Oklahoma,at Florida,2026-11-07,72,Fred Hinton,Out > Out > Out,Out,
-2026,SEC,Oklahoma,at Florida,2026-11-07,81,Rocky Beers,Questionable > Probable > Available,Available,
-2026,SEC,Oklahoma,at Florida,2026-11-07,94,Kenny Ozowalu,Questionable > Questionable > Probable,Probable,
+2026,SEC,Oklahoma,at Florida,2026-11-07,5,Jer'Michael Carter,Questionable > Probable > Available > Available,Available,Available
+2026,SEC,Oklahoma,at Florida,2026-11-07,7,Taylor Heim,Out > Out > Out > Out,Out,Out
+2026,SEC,Oklahoma,at Florida,2026-11-07,9,Dakoda Fields,Out > Out > Out > Out,Out,Out
+2026,SEC,Oklahoma,at Florida,2026-11-07,11,Trell Harris,Out > Out > Out > Out,Out,Out
+2026,SEC,Oklahoma,at Florida,2026-11-07,14,Elijah Thomas,Doubtful > Questionable > Probable > Available,Available,Available
+2026,SEC,Oklahoma,at Florida,2026-11-07,18,Cole Sullivan,Out > Out > Out > Out,Out,Out
+2026,SEC,Oklahoma,at Florida,2026-11-07,22,Peyton Bowen,Questionable > Questionable > Questionable > Game Time Decision,Game Time Decision,Game Time Decision
+2026,SEC,Oklahoma,at Florida,2026-11-07,22,Trynae Washington,Out > Out > Out > Out,Out,Out
+2026,SEC,Oklahoma,at Florida,2026-11-07,23,Eli Bowen,Questionable > Probable > Available > Available,Available,Available
+2026,SEC,Oklahoma,at Florida,2026-11-07,24,Jacobe Johnson,Out > Out > Out > Out,Out,Out
+2026,SEC,Oklahoma,at Florida,2026-11-07,55,Eddy Pierre-Louis,Doubtful > Doubtful > Doubtful > Game Time Decision,Game Time Decision,Game Time Decision
+2026,SEC,Oklahoma,at Florida,2026-11-07,69,Jake Maikkula,Probable > Available > Available > Available,Available,Available
+2026,SEC,Oklahoma,at Florida,2026-11-07,70,Ryan Fodje,Out > Out > Out > Out,Out,Out
+2026,SEC,Oklahoma,at Florida,2026-11-07,72,Fred Hinton,Out > Out > Out > Out,Out,Out
+2026,SEC,Oklahoma,at Florida,2026-11-07,81,Rocky Beers,Questionable > Probable > Available > Available,Available,Available
+2026,SEC,Oklahoma,at Florida,2026-11-07,94,Kenny Ozowalu,Questionable > Questionable > Probable > Available,Available,Available
 2026,SEC,Ole Miss,vs. LSU,2026-09-19,11,Keaton Thomas,Probable > Probable > Available > Available,Available,Available
 2026,SEC,Ole Miss,vs. LSU,2026-09-19,13,Cedrick Beavers,Probable > Probable > Doubtful > Out,Out,Out
 2026,SEC,Ole Miss,vs. LSU,2026-09-19,25,Makhi Frazier,Questionable > Probable > Probable > Available,Available,Available
@@ -3925,21 +3925,21 @@ season,conference,team,opponent,game_date,number,player,statuses,latest,game_day
 2026,SEC,Ole Miss,vs. Auburn,2026-10-31,65,Connor Howes,Probable > Probable > Probable > Available,Available,Available
 2026,SEC,Ole Miss,vs. Auburn,2026-10-31,71,Emanuel Faulkner,Out > Out > Out > Out,Out,Out
 2026,SEC,Ole Miss,vs. Auburn,2026-10-31,88,Michai Boireau,Probable > Probable > Available > Available,Available,Available
-2026,SEC,Ole Miss,vs. Georgia,2026-11-07,0,Jalyn Crawford,Probable > Probable > Probable,Probable,
-2026,SEC,Ole Miss,vs. Georgia,2026-11-07,5,Kam Franklin,Questionable > Questionable > Questionable,Questionable,
-2026,SEC,Ole Miss,vs. Georgia,2026-11-07,5,Kewan Lacy,Out > Out > Out,Out,
-2026,SEC,Ole Miss,vs. Georgia,2026-11-07,11,Keaton Thomas,Questionable > Questionable > Probable,Probable,
-2026,SEC,Ole Miss,vs. Georgia,2026-11-07,12,Izaiah Hartrup,Out > Out > Out,Out,
-2026,SEC,Ole Miss,vs. Georgia,2026-11-07,13,Cedrick Beavers,Probable > Available > Available,Available,
-2026,SEC,Ole Miss,vs. Georgia,2026-11-07,14,Edwin Joseph,Out > Out > Out,Out,
-2026,SEC,Ole Miss,vs. Georgia,2026-11-07,19,MJ Preston,Probable > Probable > Probable,Probable,
-2026,SEC,Ole Miss,vs. Georgia,2026-11-07,26,Ant Davis Jr.,Out > Out > Out,Out,
-2026,SEC,Ole Miss,vs. Georgia,2026-11-07,27,Kervin Johnson Jr.,Out > Out > Out,Out,
-2026,SEC,Ole Miss,vs. Georgia,2026-11-07,39,Gerald Lacy Jr.,Out > Out > Out,Out,
-2026,SEC,Ole Miss,vs. Georgia,2026-11-07,46,Nascar McCoy,Out > Out > Out,Out,
-2026,SEC,Ole Miss,vs. Georgia,2026-11-07,55,Terez Davis,Probable > Available > Available,Available,
-2026,SEC,Ole Miss,vs. Georgia,2026-11-07,57,Carius Curne,Out > Out > Out,Out,
-2026,SEC,Ole Miss,vs. Georgia,2026-11-07,81,Samari Reed,Out > Out > Out,Out,
+2026,SEC,Ole Miss,vs. Georgia,2026-11-07,0,Jalyn Crawford,Probable > Probable > Probable > Available,Available,Available
+2026,SEC,Ole Miss,vs. Georgia,2026-11-07,5,Kam Franklin,Questionable > Questionable > Questionable > Game Time Decision,Game Time Decision,Game Time Decision
+2026,SEC,Ole Miss,vs. Georgia,2026-11-07,5,Kewan Lacy,Out > Out > Out > Out,Out,Out
+2026,SEC,Ole Miss,vs. Georgia,2026-11-07,11,Keaton Thomas,Questionable > Questionable > Probable > Available,Available,Available
+2026,SEC,Ole Miss,vs. Georgia,2026-11-07,12,Izaiah Hartrup,Out > Out > Out > Out,Out,Out
+2026,SEC,Ole Miss,vs. Georgia,2026-11-07,13,Cedrick Beavers,Probable > Available > Available > Available,Available,Available
+2026,SEC,Ole Miss,vs. Georgia,2026-11-07,14,Edwin Joseph,Out > Out > Out > Out,Out,Out
+2026,SEC,Ole Miss,vs. Georgia,2026-11-07,19,MJ Preston,Probable > Probable > Probable > Available,Available,Available
+2026,SEC,Ole Miss,vs. Georgia,2026-11-07,26,Ant Davis Jr.,Out > Out > Out > Out,Out,Out
+2026,SEC,Ole Miss,vs. Georgia,2026-11-07,27,Kervin Johnson Jr.,Out > Out > Out > Out,Out,Out
+2026,SEC,Ole Miss,vs. Georgia,2026-11-07,39,Gerald Lacy Jr.,Out > Out > Out > Out,Out,Out
+2026,SEC,Ole Miss,vs. Georgia,2026-11-07,46,Nascar McCoy,Out > Out > Out > Out,Out,Out
+2026,SEC,Ole Miss,vs. Georgia,2026-11-07,55,Terez Davis,Probable > Available > Available > Available,Available,Available
+2026,SEC,Ole Miss,vs. Georgia,2026-11-07,57,Carius Curne,Out > Out > Out > Out,Out,Out
+2026,SEC,Ole Miss,vs. Georgia,2026-11-07,81,Samari Reed,Out > Out > Out > Out,Out,Out
 2026,SEC,South Carolina,vs. Mississippi State,2026-09-19,6,Dylan Stewart,Probable > Probable > Available > Available,Available,Available
 2026,SEC,South Carolina,vs. Mississippi State,2026-09-19,15,Lucian Anderson III,Out > Out > Out > Out,Out,Out
 2026,SEC,South Carolina,vs. Mississippi State,2026-09-19,16,Jalewis Solomon,Out > Out > Out > Out,Out,Out
@@ -3986,15 +3986,15 @@ season,conference,team,opponent,game_date,number,player,statuses,latest,game_day
 2026,SEC,South Carolina,at Oklahoma,2026-10-31,74,Josiah Thompson,Out > Out > Out > Out,Out,Out
 2026,SEC,South Carolina,at Oklahoma,2026-10-31,75,Dayne Arnett,Out > Out > Out > Out,Out,Out
 2026,SEC,South Carolina,at Oklahoma,2026-10-31,78,Seth Smith,Out > Out > Out > Out,Out,Out
-2026,SEC,South Carolina,vs. Texas A&M,2026-11-07,6,Donovan Murph,Questionable > Probable > Available,Available,
-2026,SEC,South Carolina,vs. Texas A&M,2026-11-07,11,Jordan Thomas,Questionable > Out > Out,Out,
-2026,SEC,South Carolina,vs. Texas A&M,2026-11-07,14,J’Zavien Currence,Questionable > Out > Out,Out,
-2026,SEC,South Carolina,vs. Texas A&M,2026-11-07,17,Jayden Sellers,Out > Out > Out,Out,
-2026,SEC,South Carolina,vs. Texas A&M,2026-11-07,28,Matt Fuller,Out > Out > Out,Out,
-2026,SEC,South Carolina,vs. Texas A&M,2026-11-07,41,Kobby Sakyi-Prah,Out > Out > Out,Out,
-2026,SEC,South Carolina,vs. Texas A&M,2026-11-07,74,Josiah Thompson,Out > Out > Out,Out,
-2026,SEC,South Carolina,vs. Texas A&M,2026-11-07,75,Dayne Arnett,Out > Out > Out,Out,
-2026,SEC,South Carolina,vs. Texas A&M,2026-11-07,78,Seth Smith,Out > Out > Out,Out,
+2026,SEC,South Carolina,vs. Texas A&M,2026-11-07,6,Donovan Murph,Questionable > Probable > Available > Available,Available,Available
+2026,SEC,South Carolina,vs. Texas A&M,2026-11-07,11,Jordan Thomas,Questionable > Out > Out > Out,Out,Out
+2026,SEC,South Carolina,vs. Texas A&M,2026-11-07,14,J’Zavien Currence,Questionable > Out > Out > Out,Out,Out
+2026,SEC,South Carolina,vs. Texas A&M,2026-11-07,17,Jayden Sellers,Out > Out > Out > Out,Out,Out
+2026,SEC,South Carolina,vs. Texas A&M,2026-11-07,28,Matt Fuller,Out > Out > Out > Out,Out,Out
+2026,SEC,South Carolina,vs. Texas A&M,2026-11-07,41,Kobby Sakyi-Prah,Out > Out > Out > Out,Out,Out
+2026,SEC,South Carolina,vs. Texas A&M,2026-11-07,74,Josiah Thompson,Out > Out > Out > Out,Out,Out
+2026,SEC,South Carolina,vs. Texas A&M,2026-11-07,75,Dayne Arnett,Out > Out > Out > Out,Out,Out
+2026,SEC,South Carolina,vs. Texas A&M,2026-11-07,78,Seth Smith,Out > Out > Out > Out,Out,Out
 2026,SEC,Tennessee,vs. Texas,2026-09-26,0,Ethan Davis,Out > Out > Out > Out,Out,Out
 2026,SEC,Tennessee,vs. Texas,2026-09-26,6,Javin Gordon,Questionable > Questionable > Questionable > Out,Out,Out
 2026,SEC,Tennessee,vs. Texas,2026-09-26,9,Joakim Dodson,Out > Out > Out > Out,Out,Out
@@ -4035,12 +4035,12 @@ season,conference,team,opponent,game_date,number,player,statuses,latest,game_day
 2026,SEC,Tennessee,at South Carolina,2026-10-24,15,Edrees Farooq,Out > Out > Out > Out,Out,Out
 2026,SEC,Tennessee,at South Carolina,2026-10-24,24,Dylan Lewis,Out > Out > Out > Out,Out,Out
 2026,SEC,Tennessee,at South Carolina,2026-10-24,75,Wendell Moe Jr.,Out > Out > Out > Out,Out,Out
-2026,SEC,Tennessee,vs. Kentucky,2026-11-07,0,Ethan Davis,Out > Out > Out,Out,
-2026,SEC,Tennessee,vs. Kentucky,2026-11-07,9,Joakim Dodson,Out > Out > Out,Out,
-2026,SEC,Tennessee,vs. Kentucky,2026-11-07,12,Jaedon Harmon,Out > Out > Out,Out,
-2026,SEC,Tennessee,vs. Kentucky,2026-11-07,15,Edrees Farooq,Out > Out > Out,Out,
-2026,SEC,Tennessee,vs. Kentucky,2026-11-07,24,Dylan Lewis,Out > Out > Out,Out,
-2026,SEC,Tennessee,vs. Kentucky,2026-11-07,75,Wendell Moe Jr.,Out > Out > Out,Out,
+2026,SEC,Tennessee,vs. Kentucky,2026-11-07,0,Ethan Davis,Out > Out > Out > Out,Out,Out
+2026,SEC,Tennessee,vs. Kentucky,2026-11-07,9,Joakim Dodson,Out > Out > Out > Out,Out,Out
+2026,SEC,Tennessee,vs. Kentucky,2026-11-07,12,Jaedon Harmon,Out > Out > Out > Out,Out,Out
+2026,SEC,Tennessee,vs. Kentucky,2026-11-07,15,Edrees Farooq,Out > Out > Out > Out,Out,Out
+2026,SEC,Tennessee,vs. Kentucky,2026-11-07,24,Dylan Lewis,Out > Out > Out > Out,Out,Out
+2026,SEC,Tennessee,vs. Kentucky,2026-11-07,75,Wendell Moe Jr.,Out > Out > Out > Out,Out,Out
 2026,SEC,Texas,at Tennessee,2026-09-26,1,Colin Simmons,Probable > Available > Available > Available,Available,Available
 2026,SEC,Texas,at Tennessee,2026-09-26,2,Hollywood Smothers,Questionable > Questionable > Probable > Available,Available,Available
 2026,SEC,Texas,at Tennessee,2026-09-26,15,Justus Terry,Out > Out > Out > Out,Out,Out
@@ -4070,15 +4070,15 @@ season,conference,team,opponent,game_date,number,player,statuses,latest,game_day
 2026,SEC,Texas,vs. Mississippi State,2026-10-31,8,Cam Coleman,Probable > Available > Available > Available,Available,Available
 2026,SEC,Texas,vs. Mississippi State,2026-10-31,74,Trevor Goosby,Out > Out > Out > Out,Out,Out
 2026,SEC,Texas,vs. Mississippi State,2026-10-31,99,Richard Wesley,Out > Out > Out > Out,Out,Out
-2026,SEC,Texas,at Missouri,2026-11-07,1,Colin Simmons,Questionable > Questionable > Questionable,Questionable,
-2026,SEC,Texas,at Missouri,2026-11-07,1,Ryan Wingo,Questionable > Questionable > Probable,Probable,
-2026,SEC,Texas,at Missouri,2026-11-07,2,Hollywood Smothers,Out > Out > Out,Out,
-2026,SEC,Texas,at Missouri,2026-11-07,8,Cam Coleman,Questionable > Questionable > Questionable,Questionable,
-2026,SEC,Texas,at Missouri,2026-11-07,8,Kade Phillips,Questionable > Questionable > Probable,Probable,
-2026,SEC,Texas,at Missouri,2026-11-07,29,Graceson Littleton,Questionable > Questionable > Probable,Probable,
-2026,SEC,Texas,at Missouri,2026-11-07,74,Trevor Goosby,Out > Out > Out,Out,
-2026,SEC,Texas,at Missouri,2026-11-07,81,Nick Townsend,Out > Out > Out,Out,
-2026,SEC,Texas,at Missouri,2026-11-07,99,Richard Wesley,Out > Out > Out,Out,
+2026,SEC,Texas,at Missouri,2026-11-07,1,Colin Simmons,Questionable > Questionable > Questionable > Game Time Decision,Game Time Decision,Game Time Decision
+2026,SEC,Texas,at Missouri,2026-11-07,1,Ryan Wingo,Questionable > Questionable > Probable > Available,Available,Available
+2026,SEC,Texas,at Missouri,2026-11-07,2,Hollywood Smothers,Out > Out > Out > Out,Out,Out
+2026,SEC,Texas,at Missouri,2026-11-07,8,Cam Coleman,Questionable > Questionable > Questionable > Game Time Decision,Game Time Decision,Game Time Decision
+2026,SEC,Texas,at Missouri,2026-11-07,8,Kade Phillips,Questionable > Questionable > Probable > Available,Available,Available
+2026,SEC,Texas,at Missouri,2026-11-07,29,Graceson Littleton,Questionable > Questionable > Probable > Available,Available,Available
+2026,SEC,Texas,at Missouri,2026-11-07,74,Trevor Goosby,Out > Out > Out > Out,Out,Out
+2026,SEC,Texas,at Missouri,2026-11-07,81,Nick Townsend,Out > Out > Out > Out,Out,Out
+2026,SEC,Texas,at Missouri,2026-11-07,99,Richard Wesley,Out > Out > Out > Out,Out,Out
 2026,SEC,Texas A&M,vs. Kentucky,2026-09-19,2,Jamarion Morrow,Questionable > Questionable > Doubtful > Out,Out,Out
 2026,SEC,Texas A&M,vs. Kentucky,2026-09-19,8,Ashton Bethel-Roman,Questionable > Questionable > Doubtful > Out,Out,Out
 2026,SEC,Texas A&M,vs. Kentucky,2026-09-19,14,Anto Saka,Questionable > Probable > Probable > Available,Available,Available
@@ -4100,12 +4100,12 @@ season,conference,team,opponent,game_date,number,player,statuses,latest,game_day
 2026,SEC,Texas A&M,at Alabama,2026-10-24,27,Daymion Sanford,Questionable > Questionable > Probable > Available,Available,Available
 2026,SEC,Texas A&M,at Alabama,2026-10-24,52,Blake Ivy,Out > Out > Out > Out,Out,Out
 2026,SEC,Texas A&M,at Alabama,2026-10-24,76,Trovon Baugh,Questionable > Questionable > Probable > Available,Available,Available
-2026,SEC,Texas A&M,at South Carolina,2026-11-07,0,KJ Edwards,Questionable > Questionable > Questionable,Questionable,
-2026,SEC,Texas A&M,at South Carolina,2026-11-07,0,Noah Mikhail,Questionable > Probable > Available,Available,
-2026,SEC,Texas A&M,at South Carolina,2026-11-07,6,Terry Bussey,Out > Out > Out,Out,
-2026,SEC,Texas A&M,at South Carolina,2026-11-07,8,Ashton Bethel-Roman,Available > Questionable > Out,Out,
-2026,SEC,Texas A&M,at South Carolina,2026-11-07,11,Kelshaun Johnson,Out > Out > Out,Out,
-2026,SEC,Texas A&M,at South Carolina,2026-11-07,52,Blake Ivy,Out > Out > Out,Out,
+2026,SEC,Texas A&M,at South Carolina,2026-11-07,0,KJ Edwards,Questionable > Questionable > Questionable > Available,Available,Available
+2026,SEC,Texas A&M,at South Carolina,2026-11-07,0,Noah Mikhail,Questionable > Probable > Available > Available,Available,Available
+2026,SEC,Texas A&M,at South Carolina,2026-11-07,6,Terry Bussey,Out > Out > Out > Out,Out,Out
+2026,SEC,Texas A&M,at South Carolina,2026-11-07,8,Ashton Bethel-Roman,Available > Questionable > Out > Out,Out,Out
+2026,SEC,Texas A&M,at South Carolina,2026-11-07,11,Kelshaun Johnson,Out > Out > Out > Out,Out,Out
+2026,SEC,Texas A&M,at South Carolina,2026-11-07,52,Blake Ivy,Out > Out > Out > Out,Out,Out
 2026,SEC,Vanderbilt,at Auburn,2026-09-26,2,Jaylin Lackey,Out > Out > Out > Out,Out,Out
 2026,SEC,Vanderbilt,at Auburn,2026-09-26,10,Brian Allen Jr.,Probable > Available > Available > Available,Available,Available
 2026,SEC,Vanderbilt,at Auburn,2026-09-26,16,Cole Spence,Questionable > Questionable > Questionable > Game Time Decision,Game Time Decision,Game Time Decision
@@ -4153,15 +4153,15 @@ season,conference,team,opponent,game_date,number,player,statuses,latest,game_day
 2026,SEC,Vanderbilt,at Kentucky,2026-10-24,81,Kahden Smith,Out > Out > Out > Out,Out,Out
 2026,SEC,Vanderbilt,at Kentucky,2026-10-24,93,Nikhil Jefferson,Out > Out > Out > Out,Out,Out
 2026,SEC,Vanderbilt,at Kentucky,2026-10-24,97,Hayden Bray,Probable > Available > Available > Available,Available,Available
-2026,SEC,Vanderbilt,at Mississippi State,2026-11-07,1,Blaze Berlowitz,Out > Out > Out,Out,
-2026,SEC,Vanderbilt,at Mississippi State,2026-11-07,2,Jaylin Lackey,Probable > Available > Available,Available,
-2026,SEC,Vanderbilt,at Mississippi State,2026-11-07,10,Brian Allen Jr.,Probable > Available > Available,Available,
-2026,SEC,Vanderbilt,at Mississippi State,2026-11-07,15,Mike Diatta,Available > Questionable > Available,Available,
-2026,SEC,Vanderbilt,at Mississippi State,2026-11-07,18,Josiah Broxton,Out > Out > Out,Out,
-2026,SEC,Vanderbilt,at Mississippi State,2026-11-07,20,Jamison Curtis,Probable > Available > Available,Available,
-2026,SEC,Vanderbilt,at Mississippi State,2026-11-07,23,Evan Hampton,Out > Out > Out,Out,
-2026,SEC,Vanderbilt,at Mississippi State,2026-11-07,34,Daniel Vollmer Jr.,Out > Out > Out,Out,
-2026,SEC,Vanderbilt,at Mississippi State,2026-11-07,50,Gunner Givens,Out > Out > Out,Out,
-2026,SEC,Vanderbilt,at Mississippi State,2026-11-07,55,Aaron Bryant,Out > Out > Out,Out,
-2026,SEC,Vanderbilt,at Mississippi State,2026-11-07,93,Nikhil Jefferson,Questionable > Questionable > Out,Out,
-2026,SEC,Vanderbilt,at Mississippi State,2026-11-07,96,Khalil Poteat,Questionable > Questionable > Probable,Probable,
+2026,SEC,Vanderbilt,at Mississippi State,2026-11-07,1,Blaze Berlowitz,Out > Out > Out > Out,Out,Out
+2026,SEC,Vanderbilt,at Mississippi State,2026-11-07,2,Jaylin Lackey,Probable > Available > Available > Available,Available,Available
+2026,SEC,Vanderbilt,at Mississippi State,2026-11-07,10,Brian Allen Jr.,Probable > Available > Available > Available,Available,Available
+2026,SEC,Vanderbilt,at Mississippi State,2026-11-07,15,Mike Diatta,Available > Questionable > Available > Available,Available,Available
+2026,SEC,Vanderbilt,at Mississippi State,2026-11-07,18,Josiah Broxton,Out > Out > Out > Out,Out,Out
+2026,SEC,Vanderbilt,at Mississippi State,2026-11-07,20,Jamison Curtis,Probable > Available > Available > Available,Available,Available
+2026,SEC,Vanderbilt,at Mississippi State,2026-11-07,23,Evan Hampton,Out > Out > Out > Out,Out,Out
+2026,SEC,Vanderbilt,at Mississippi State,2026-11-07,34,Daniel Vollmer Jr.,Out > Out > Out > Out,Out,Out
+2026,SEC,Vanderbilt,at Mississippi State,2026-11-07,50,Gunner Givens,Out > Out > Out > Out,Out,Out
+2026,SEC,Vanderbilt,at Mississippi State,2026-11-07,55,Aaron Bryant,Out > Out > Out > Out,Out,Out
+2026,SEC,Vanderbilt,at Mississippi State,2026-11-07,93,Nikhil Jefferson,Questionable > Questionable > Out > Out,Out,Out
+2026,SEC,Vanderbilt,at Mississippi State,2026-11-07,96,Khalil Poteat,Questionable > Questionable > Probable > Available,Available,Available

@@ -1,40 +1,40 @@
-Score model -- trained on 2025 wk4+ and 2026 wk1-10 (4788 team-games)
-Intercept: -11.91
+Score model -- trained on 2025 wk4+ and 2026 wk1-10 (5010 team-games)
+Intercept: -11.02
 Coefficients:
-exp_pts       0.102
-exp_rec       0.425
-exp_yds       0.031
-exp_ppa      -0.332
-exp_sr       30.960
-home          1.575
-conf_home    -2.335
-Home field on the spread: 5.9 pts (non-conference), 1.2 pts (conference)
+exp_pts       0.109
+exp_rec       0.411
+exp_yds       0.033
+exp_ppa       1.379
+exp_sr       27.065
+home          1.505
+conf_home    -2.371
+Home field on the spread: 5.4 pts (non-conference), 0.6 pts (conference)
 
 Out-of-sample backtest (fit on one season, predict the other):
 {
   "Model": {
-    "margin_MAE": 12.83,
-    "winner_pct": 74.9,
-    "games": 2500
+    "margin_MAE": 12.8,
+    "winner_pct": 74.6,
+    "games": 2611
   },
   "Vegas": {
-    "margin_MAE": 11.93,
-    "winner_pct": 76.8,
-    "games": 2500
+    "margin_MAE": 11.94,
+    "winner_pct": 76.6,
+    "games": 2611
   }
 }
 
 Pick tiers (against the spread, -110 odds):
                    label  wins  losses  win_pct  units                                by_season
-Model backs the favorite    96      90     51.6   -2.7     {"2025": [68, 53], "2026": [28, 37]}
-        Big disagreement   156     122     56.1   19.8    {"2025": [110, 80], "2026": [46, 42]}
-                    Lean   499     452     52.5    1.6 {"2025": [255, 253], "2026": [244, 199]}
-                 No edge   538     531     50.3  -41.9 {"2025": [306, 272], "2026": [232, 259]}
-   All picks (3+ pt gap)   751     664     53.1   18.7 {"2025": [433, 386], "2026": [318, 278]}
+Model backs the favorite    99      90     52.4    0.0     {"2025": [64, 52], "2026": [35, 38]}
+        Big disagreement   153     122     55.6   17.1    {"2025": [106, 79], "2026": [47, 43]}
+                    Lean   505     456     52.5    3.1 {"2025": [248, 236], "2026": [257, 220]}
+                 No edge   576     594     49.2  -70.4 {"2025": [313, 299], "2026": [263, 295]}
+   All picks (3+ pt gap)   757     668     53.1   20.2 {"2025": [418, 367], "2026": [339, 301]}
 
 Picks when either team's previous starting QB sat vs. didn't (backtest):
-  Model backs the favorite   QB change 22-19 (53.7%)      same QBs 73-67 (52.1%)
-  Big disagreement           QB change 34-38 (47.2%)      same QBs 119-80 (59.8%)
-  Lean                       QB change 120-119 (50.2%)    same QBs 376-331 (53.2%)
-  No edge                    QB change 104-134 (43.7%)    same QBs 432-392 (52.4%)
-  All picks (3+ pt gap)      QB change 176-176 (50.0%)    same QBs 568-478 (54.3%)
+  Model backs the favorite   QB change 24-19 (55.8%)      same QBs 74-67 (52.5%)
+  Big disagreement           QB change 32-37 (46.4%)      same QBs 118-81 (59.3%)
+  Lean                       QB change 126-123 (50.6%)    same QBs 376-331 (53.2%)
+  No edge                    QB change 107-152 (41.3%)    same QBs 467-437 (51.7%)
+  All picks (3+ pt gap)      QB change 182-179 (50.4%)    same QBs 568-479 (54.3%)

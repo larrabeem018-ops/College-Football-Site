@@ -95,10 +95,9 @@ id,season,seasonType,week,startDate,homeTeamId,homeTeam,homeConference,homeClass
 401858485,2026,regular,6,2026-10-10T23:30:00.000Z,213,Penn State,Big Ten,fbs,23.0,30,USC,Big Ten,fbs,31.0,DraftKings,1.5,USC -1.5,-1.5,54.5,56.5,-105.0,-115.0
 401868189,2026,regular,7,2026-10-17T19:00:00.000Z,2630,UT Martin,OVC,fcs,17.0,2241,Gardner-Webb,OVC,fcs,6.0,DraftKings,1.5,Gardner-Webb -1.5,1.5,51.5,48.5,-102.0,-121.0
 401858313,2026,regular,13,2026-11-28T05:00:00.000Z,153,North Carolina,ACC,fbs,,152,NC State,ACC,fbs,,DraftKings,1.5,NC State -1.5,1.5,55.5,55.5,-102.0,-118.0
-401858518,2026,regular,11,2026-11-14T20:30:00.000Z,84,Indiana,Big Ten,fbs,,30,USC,Big Ten,fbs,,DraftKings,-7.0,Indiana -7,-10.0,50.5,58.5,-285.0,230.0
-401856885,2026,regular,11,2026-11-14T05:00:00.000Z,99,LSU,SEC,fbs,,251,Texas,SEC,fbs,,DraftKings,-5.5,LSU -5.5,2.5,46.5,54.5,-198.0,164.0
+401858518,2026,regular,11,2026-11-14T20:30:00.000Z,84,Indiana,Big Ten,fbs,,30,USC,Big Ten,fbs,,DraftKings,-7.5,Indiana -7.5,-10.0,49.5,58.5,-285.0,230.0
+401856885,2026,regular,11,2026-11-15T00:30:00.000Z,99,LSU,SEC,fbs,,251,Texas,SEC,fbs,,DraftKings,-3.5,LSU -3.5,2.5,46.5,54.5,-180.0,150.0
 401868310,2026,regular,7,2026-10-17T20:00:00.000Z,2447,Nicholls,Southland,fcs,0.0,2617,Stephen F. Austin,Southland,fcs,56.0,DraftKings,22.5,Stephen F. Austin -22.5,21.5,50.5,49.5,1040.0,-2800.0
-401858523,2026,regular,11,2026-11-14T20:30:00.000Z,2483,Oregon,Big Ten,fbs,,130,Michigan,Big Ten,fbs,,DraftKings,-5.5,Oregon -5.5,-13.5,44.5,53.5,-205.0,170.0
 401868105,2026,regular,7,2026-10-17T19:00:00.000Z,2692,Weber State,Big Sky,fcs,27.0,304,Idaho State,Big Sky,fcs,20.0,DraftKings,4.5,Idaho State -4.5,7.0,63.5,63.5,195.0,-250.0
 401866616,2026,regular,1,2026-08-28T23:00:00.000Z,399,UAlbany,Coastal Athletic,fcs,28.0,160,New Hampshire,Coastal Athletic,fcs,14.0,DraftKings,10.0,New Hampshire -10,11.5,46.5,45.5,268.0,-357.0
 401856764,2026,regular,13,2026-11-28T05:00:00.000Z,228,Clemson,ACC,fbs,,2579,South Carolina,SEC,fbs,,DraftKings,-3.0,Clemson -3,-3.0,53.5,53.5,-162.0,136.0
@@ -114,23 +113,22 @@ id,season,seasonType,week,startDate,homeTeamId,homeTeam,homeConference,homeClass
 401868079,2026,regular,7,2026-10-18T00:00:00.000Z,2458,Northern Colorado,Big Sky,fcs,28.0,13,Cal Poly,Big Sky,fcs,18.0,DraftKings,3.0,Cal Poly -3,3.0,52.5,53.5,139.0,-174.0
 401868161,2026,regular,7,2026-10-18T00:00:00.000Z,253,Southern Utah,Big Sky,fcs,38.0,302,UC Davis,Big Sky,fcs,17.0,DraftKings,4.5,UC Davis -4.5,5.5,65.5,64.5,155.0,-196.0
 401867993,2026,regular,7,2026-10-17T19:00:00.000Z,2083,Bucknell,Patriot,fcs,7.0,322,Lafayette,Patriot,fcs,20.0,DraftKings,4.5,Lafayette -4.5,4.5,52.5,52.5,146.0,-184.0
-401856887,2026,regular,11,2026-11-14T05:00:00.000Z,201,Oklahoma,SEC,fbs,,145,Ole Miss,SEC,fbs,,DraftKings,-4.0,Oklahoma -4,-4.0,53.5,53.5,-198.0,164.0
 401856759,2026,regular,13,2026-11-27T20:30:00.000Z,52,Florida State,ACC,fbs,,57,Florida,SEC,fbs,,DraftKings,4.5,Florida -4.5,4.5,52.5,52.5,170.0,-205.0
 401858543,2026,regular,13,2026-11-28T05:00:00.000Z,26,UCLA,Big Ten,fbs,,30,USC,Big Ten,fbs,,DraftKings,10.5,USC -10.5,10.5,55.5,55.5,360.0,-470.0
+401856888,2026,regular,11,2026-11-14T20:00:00.000Z,245,Texas A&M,SEC,fbs,,2633,Tennessee,SEC,fbs,,DraftKings,2.5,Tennessee -2.5,-8.5,43.5,55.5,114.0,-135.0
 401856734,2026,regular,9,2026-10-31T19:30:00.000Z,61,Georgia,SEC,fbs,27.0,57,Florida,SEC,fbs,8.0,DraftKings,-11.5,Georgia -11.5,-12.5,56.5,53.5,-455.0,350.0
-401858511,2026,regular,10,2026-11-08T00:30:00.000Z,130,Michigan,Big Ten,fbs,,127,Michigan State,Big Ten,fbs,,DraftKings,-14.0,Michigan -14,-16.5,39.5,50.5,-600.0,440.0
-401856741,2026,regular,10,2026-11-08T00:30:00.000Z,145,Ole Miss,SEC,fbs,,61,Georgia,SEC,fbs,,DraftKings,3.5,Georgia -3.5,4.5,56.5,55.5,145.0,-175.0
+401858511,2026,regular,10,2026-11-08T00:30:00.000Z,130,Michigan,Big Ten,fbs,6.0,127,Michigan State,Big Ten,fbs,15.0,DraftKings,-14.0,Michigan -14,-16.5,39.5,50.5,-600.0,440.0
 401858498,2026,regular,8,2026-10-24T16:00:00.000Z,77,Northwestern,Big Ten,fbs,42.0,164,Rutgers,Big Ten,fbs,14.0,DraftKings,-15.5,Northwestern -15.5,-16.5,58.5,58.5,-750.0,525.0
 401868012,2026,regular,7,2026-10-17T19:30:00.000Z,2230,Fordham,Patriot,fcs,17.0,222,Villanova,Patriot,fcs,38.0,DraftKings,7.5,Villanova -7.5,7.5,44.5,47.5,246.0,-323.0
 401868222,2026,regular,7,2026-10-17T17:00:00.000Z,2166,Davidson,Pioneer,fcs,34.0,2413,Morehead State,Pioneer,fcs,31.0,DraftKings,1.5,Morehead State -1.5,-1.5,57.5,56.5,-107.0,-116.0
 401868066,2026,regular,7,2026-10-17T18:00:00.000Z,2698,West Georgia,UAC,fcs,10.0,2046,Austin Peay,UAC,fcs,24.0,DraftKings,19.5,Austin Peay -19.5,21.0,53.5,55.5,810.0,-1680.0
 401856765,2026,regular,13,2026-11-28T05:00:00.000Z,238,Vanderbilt,SEC,fbs,,2633,Tennessee,SEC,fbs,,DraftKings,3.0,Tennessee -3,3.0,57.5,57.5,136.0,-162.0
-401858296,2026,regular,11,2026-11-14T17:00:00.000Z,2390,Miami,ACC,fbs,,150,Duke,ACC,fbs,,DraftKings,-21.0,Miami -21,-21.0,55.5,55.5,-1800.0,1000.0
+401856741,2026,regular,10,2026-11-08T00:30:00.000Z,145,Ole Miss,SEC,fbs,7.0,61,Georgia,SEC,fbs,42.0,DraftKings,3.5,Georgia -3.5,4.5,56.5,55.5,145.0,-175.0
 401858307,2026,regular,12,2026-11-22T00:30:00.000Z,87,Notre Dame,FBS Independents,fbs,,2567,SMU,ACC,fbs,,DraftKings,-17.5,Notre Dame -17.5,-17.5,56.5,56.5,-1200.0,750.0
 401856754,2026,regular,12,2026-11-21T05:00:00.000Z,2633,Tennessee,SEC,fbs,,99,LSU,SEC,fbs,,DraftKings,1.5,LSU -1.5,1.5,57.5,57.5,100.0,-120.0
 401856879,2026,regular,13,2026-11-27T01:00:00.000Z,2641,Texas Tech,Big 12,fbs,,2628,TCU,Big 12,fbs,,DraftKings,-16.5,Texas Tech -16.5,-16.5,55.5,55.5,-950.0,625.0
 401856757,2026,regular,13,2026-11-28T05:00:00.000Z,333,Alabama,SEC,fbs,,2,Auburn,SEC,fbs,,DraftKings,-10.0,Alabama -10,-10.0,52.5,53.5,-425.0,330.0
-401856888,2026,regular,11,2026-11-14T05:00:00.000Z,245,Texas A&M,SEC,fbs,,2633,Tennessee,SEC,fbs,,DraftKings,-8.5,Texas A&M -8.5,-8.5,55.5,55.5,-360.0,285.0
+401858291,2026,regular,10,2026-11-08T00:30:00.000Z,87,Notre Dame,FBS Independents,fbs,31.0,2390,Miami,ACC,fbs,24.0,DraftKings,-7.5,Notre Dame -7.5,-6.5,54.5,54.5,-290.0,235.0
 401856762,2026,regular,13,2026-11-27T17:00:00.000Z,145,Ole Miss,SEC,fbs,,344,Mississippi State,SEC,fbs,,DraftKings,-14.5,Ole Miss -14.5,-14.5,57.5,56.5,-600.0,440.0
 401856756,2026,regular,13,2026-11-28T00:30:00.000Z,245,Texas A&M,SEC,fbs,,251,Texas,SEC,fbs,,DraftKings,2.5,Texas -2.5,2.5,53.5,53.5,120.0,-142.0
 401858541,2026,regular,13,2026-11-28T05:00:00.000Z,2483,Oregon,Big Ten,fbs,,264,Washington,Big Ten,fbs,,DraftKings,-15.5,Oregon -15.5,-15.5,54.5,54.5,-700.0,500.0
@@ -144,14 +142,13 @@ id,season,seasonType,week,startDate,homeTeamId,homeTeam,homeConference,homeClass
 401856717,2026,regular,6,2026-10-10T19:30:00.000Z,201,Oklahoma,SEC,fbs,27.0,251,Texas,SEC,fbs,24.0,DraftKings,7.5,Texas -7.5,6.0,40.5,48.5,275.0,-345.0
 401866667,2026,regular,7,2026-10-17T19:30:00.000Z,2097,Campbell,Coastal Athletic,fcs,24.0,119,Towson,Coastal Athletic,fcs,20.0,DraftKings,-11.5,Campbell -11.5,-12.5,56.5,62.5,-496.0,353.0
 401867968,2026,regular,7,2026-10-17T22:30:00.000Z,2634,Tennessee State,OVC,fcs,25.0,2415,Morgan State,MEAC,fcs,16.0,DraftKings,6.0,Morgan State -6,5.5,50.5,51.5,178.0,-227.0
-401858291,2026,regular,10,2026-11-08T00:30:00.000Z,87,Notre Dame,FBS Independents,fbs,,2390,Miami,ACC,fbs,,DraftKings,-7.0,Notre Dame -7,-6.5,54.5,54.5,-278.0,225.0
-401856740,2026,regular,10,2026-11-07T20:30:00.000Z,99,LSU,SEC,fbs,,333,Alabama,SEC,fbs,,DraftKings,-6.0,LSU -6,-3.5,53.5,54.5,-225.0,185.0
+401858296,2026,regular,11,2026-11-14T17:00:00.000Z,2390,Miami,ACC,fbs,,150,Duke,ACC,fbs,,DraftKings,-13.5,Miami -13.5,-21.0,54.5,55.5,-550.0,410.0
 401858490,2026,regular,7,2026-10-17T19:30:00.000Z,130,Michigan,Big Ten,fbs,21.0,213,Penn State,Big Ten,fbs,18.0,DraftKings,-6.0,Michigan -6,-6.5,43.5,51.5,-230.0,190.0
 401858492,2026,regular,7,2026-10-18T03:00:00.000Z,2483,Oregon,Big Ten,fbs,17.0,158,Nebraska,Big Ten,fbs,14.0,DraftKings,-6.5,Oregon -6.5,-21.5,50.5,51.5,-230.0,190.0
 401858509,2026,regular,9,2026-10-31T23:30:00.000Z,30,USC,Big Ten,fbs,30.0,194,Ohio State,Big Ten,fbs,18.0,DraftKings,6.5,Ohio State -6.5,7.5,50.5,54.5,200.0,-245.0
-401856849,2026,regular,10,2026-11-07T17:00:00.000Z,254,Utah,Big 12,fbs,,252,BYU,Big 12,fbs,,DraftKings,-4.0,Utah -4,-3.0,49.5,51.5,-192.0,160.0
+401856863,2026,regular,11,2026-11-15T02:30:00.000Z,197,Oklahoma State,Big 12,fbs,,2641,Texas Tech,Big 12,fbs,,DraftKings,-3.5,Oklahoma State -3.5,15.5,72.5,61.5,-170.0,142.0
 401856719,2026,regular,7,2026-10-17T19:30:00.000Z,61,Georgia,SEC,fbs,24.0,2,Auburn,SEC,fbs,27.0,DraftKings,-19.5,Georgia -19.5,-16.5,50.5,54.5,-1450.0,850.0
-401856863,2026,regular,11,2026-11-14T05:00:00.000Z,197,Oklahoma State,Big 12,fbs,,2641,Texas Tech,Big 12,fbs,,DraftKings,1.5,Texas Tech -1.5,15.5,63.5,61.5,-105.0,-115.0
+401856849,2026,regular,10,2026-11-07T17:00:00.000Z,254,Utah,Big 12,fbs,28.0,252,BYU,Big 12,fbs,20.0,DraftKings,-4.0,Utah -4,-3.0,49.5,51.5,-192.0,160.0
 401858280,2026,regular,9,2026-10-31T23:00:00.000Z,52,Florida State,ACC,fbs,24.0,228,Clemson,ACC,fbs,36.0,DraftKings,-4.5,Florida State -4.5,1.5,50.5,51.5,-205.0,170.0
 401871094,2026,regular,8,2026-10-24T20:00:00.000Z,2653,Troy,Sun Belt,fbs,14.0,2433,UL Monroe,Sun Belt,fbs,21.0,DraftKings,-13.5,Troy -13.5,-17.5,50.5,50.5,-625.0,455.0
 401868207,2026,regular,7,2026-10-17T19:00:00.000Z,2546,Southeast Missouri State,OVC,fcs,40.0,2710,Western Illinois,OVC,fcs,30.0,DraftKings,-6.0,Southeast Missouri State -6,-6.0,52.5,55.5,-219.0,173.0
@@ -160,7 +157,9 @@ id,season,seasonType,week,startDate,homeTeamId,homeTeam,homeConference,homeClass
 401856830,2026,regular,7,2026-10-17T16:00:00.000Z,2306,Kansas State,Big 12,fbs,35.0,2305,Kansas,Big 12,fbs,24.0,DraftKings,-3.0,Kansas State -3,-7.5,55.5,54.5,-148.0,124.0
 401858266,2026,regular,7,2026-10-17T19:30:00.000Z,150,Duke,ACC,fbs,20.0,153,North Carolina,ACC,fbs,24.0,DraftKings,-3.0,Duke -3,-4.5,46.5,54.5,-155.0,130.0
 401856723,2026,regular,7,2026-10-17T19:30:00.000Z,2633,Tennessee,SEC,fbs,26.0,333,Alabama,SEC,fbs,10.0,DraftKings,7.5,Alabama -7.5,1.5,50.5,56.5,250.0,-310.0
-401858514,2026,regular,10,2026-11-07T20:30:00.000Z,194,Ohio State,Big Ten,fbs,,2483,Oregon,Big Ten,fbs,,DraftKings,-7.5,Ohio State -7.5,-6.0,44.5,52.5,-305.0,245.0
+401858514,2026,regular,10,2026-11-07T20:30:00.000Z,194,Ohio State,Big Ten,fbs,28.0,2483,Oregon,Big Ten,fbs,41.0,DraftKings,-7.5,Ohio State -7.5,-6.0,44.5,52.5,-305.0,245.0
+401856740,2026,regular,10,2026-11-07T20:30:00.000Z,99,LSU,SEC,fbs,13.0,333,Alabama,SEC,fbs,31.0,DraftKings,-6.0,LSU -6,-3.5,54.5,54.5,-218.0,180.0
+401856887,2026,regular,11,2026-11-14T21:15:00.000Z,201,Oklahoma,SEC,fbs,,145,Ole Miss,SEC,fbs,,DraftKings,1.5,Ole Miss -1.5,-4.0,48.5,53.5,-105.0,-115.0
 401871069,2026,regular,8,2026-10-20T23:00:00.000Z,48,Delaware,Conference USA,fbs,61.0,2623,Missouri State,Conference USA,fbs,38.0,DraftKings,-3.0,Delaware -3,-3.0,54.5,52.5,-166.0,140.0
 401864525,2026,regular,8,2026-10-24T01:00:00.000Z,2751,Wyoming,Mountain West,fbs,28.0,2005,Air Force,Mountain West,fbs,14.0,DraftKings,7.0,Air Force -7,6.5,46.5,42.5,210.0,-258.0
 401856841,2026,regular,8,2026-10-24T16:00:00.000Z,2628,TCU,Big 12,fbs,20.0,277,West Virginia,Big 12,fbs,24.0,DraftKings,-10.0,TCU -10,-7.0,58.5,58.5,-360.0,285.0
@@ -399,20 +398,21 @@ id,season,seasonType,week,startDate,homeTeamId,homeTeam,homeConference,homeClass
 401868056,2026,regular,9,2026-10-31T20:00:00.000Z,2000,Abilene Christian,UAC,fcs,59.0,2698,West Georgia,UAC,fcs,0.0,DraftKings,-15.5,Abilene Christian -15.5,-15.5,48.5,48.5,-710.0,468.0
 401858429,2026,regular,1,2026-09-05T00:00:00.000Z,127,Michigan State,Big Ten,fbs,30.0,2649,Toledo,Mid-American,fbs,20.0,DraftKings,-10.0,Michigan State -10,-10.5,48.5,,-410.0,320.0
 401866679,2026,regular,9,2026-10-31T17:00:00.000Z,2448,North Carolina A&T,Coastal Athletic,fcs,13.0,2210,Elon,Coastal Athletic,fcs,10.0,DraftKings,7.5,Elon -7.5,10.5,45.5,45.5,295.0,-399.0
+401862823,2026,regular,10,2026-11-08T00:30:00.000Z,349,Army,American Athletic,fbs,21.0,2005,Air Force,Mountain West,fbs,24.0,DraftKings,-3.5,Army -3.5,-6.0,43.5,52.5,-175.0,145.0
 401856776,2026,regular,1,2026-09-04T00:00:00.000Z,59,Georgia Tech,ACC,fbs,13.0,38,Colorado,Big 12,fbs,14.0,Bovada,-6.5,Georgia Tech -6.5,-7.0,52.5,51.5,-290.0,240.0
 401868107,2026,regular,9,2026-10-31T19:00:00.000Z,3101,Utah Tech,Big Sky,fcs,27.0,304,Idaho State,Big Sky,fcs,34.0,DraftKings,16.5,Idaho State -16.5,17.5,55.5,56.5,740.0,-1420.0
 401868199,2026,regular,9,2026-10-31T18:00:00.000Z,2815,Lindenwood,OVC,fcs,27.0,2634,Tennessee State,OVC,fcs,0.0,DraftKings,-9.5,Lindenwood -9.5,-9.5,47.5,47.5,-384.0,285.0
 401871057,2026,regular,9,2026-10-29T00:00:00.000Z,166,New Mexico State,Conference USA,fbs,0.0,55,Jacksonville State,Conference USA,fbs,24.0,Bovada,3.0,Jacksonville State -3.0,3.0,50.0,49.5,130.0,-150.0
 401867955,2026,regular,8,2026-10-23T21:00:00.000Z,2169,Delaware State,MEAC,fcs,12.0,2428,North Carolina Central,MEAC,fcs,31.0,DraftKings,-5.5,Delaware State -5.5,-5.5,52.5,55.5,-217.0,171.0
-401858288,2026,regular,10,2026-11-07T00:00:00.000Z,2567,SMU,ACC,fbs,51.0,259,Virginia Tech,ACC,fbs,28.0,DraftKings,-6.0,SMU -6,-7.5,57.5,57.5,-218.0,180.0
-401856743,2026,regular,10,2026-11-07T17:00:00.000Z,142,Missouri,SEC,fbs,,251,Texas,SEC,fbs,,DraftKings,2.5,Texas -2.5,3.5,44.5,49.5,114.0,-135.0
+401856743,2026,regular,10,2026-11-07T17:00:00.000Z,142,Missouri,SEC,fbs,20.0,251,Texas,SEC,fbs,34.0,DraftKings,2.5,Texas -2.5,3.5,44.5,49.5,114.0,-135.0
+401858513,2026,regular,10,2026-11-08T00:30:00.000Z,77,Northwestern,Big Ten,fbs,10.0,2294,Iowa,Big Ten,fbs,24.0,DraftKings,3.0,Iowa -3,-2.5,42.5,42.5,136.0,-162.0
 401868183,2026,regular,9,2026-10-31T19:00:00.000Z,2630,UT Martin,OVC,fcs,16.0,2197,Eastern Illinois,OVC,fcs,45.0,DraftKings,-5.5,UT Martin -5.5,-4.0,48.5,48.5,-180.0,144.0
-401858513,2026,regular,10,2026-11-08T00:30:00.000Z,77,Northwestern,Big Ten,fbs,,2294,Iowa,Big Ten,fbs,,DraftKings,3.0,Iowa -3,-2.5,42.5,42.5,130.0,-155.0
-401862823,2026,regular,10,2026-11-08T00:30:00.000Z,349,Army,American Athletic,fbs,,2005,Air Force,Mountain West,fbs,,DraftKings,-4.0,Army -4,-6.0,43.5,52.5,-185.0,154.0
+401856745,2026,regular,10,2026-11-07T23:15:00.000Z,2633,Tennessee,SEC,fbs,34.0,96,Kentucky,SEC,fbs,6.0,DraftKings,-6.5,Tennessee -6.5,-6.0,49.5,50.5,-205.0,170.0
 401866676,2026,regular,9,2026-10-31T16:00:00.000Z,227,Rhode Island,Coastal Athletic,fcs,14.0,311,Maine,Coastal Athletic,fcs,13.0,DraftKings,-10.5,Rhode Island -10.5,-15.5,45.5,45.5,-394.0,292.0
 401867861,2026,regular,9,2026-10-31T18:00:00.000Z,2460,Northern Iowa,MVFC,fcs,45.0,282,Indiana State,MVFC,fcs,23.0,DraftKings,-8.5,Northern Iowa -8.5,-8.5,53.5,56.5,-391.0,290.0
 401868223,2026,regular,9,2026-10-31T18:00:00.000Z,2900,St. Thomas (MN),Pioneer,fcs,35.0,2166,Davidson,Pioneer,fcs,7.0,DraftKings,-30.5,St. Thomas (MN) -30.5,-28.5,60.5,59.5,,
-401858512,2026,regular,10,2026-11-07T17:00:00.000Z,135,Minnesota,Big Ten,fbs,,26,UCLA,Big Ten,fbs,,DraftKings,3.5,UCLA -3.5,6.5,38.5,42.5,150.0,-180.0
+401858512,2026,regular,10,2026-11-07T17:00:00.000Z,135,Minnesota,Big Ten,fbs,20.0,26,UCLA,Big Ten,fbs,34.0,DraftKings,3.5,UCLA -3.5,6.5,37.5,42.5,150.0,-180.0
+401858288,2026,regular,10,2026-11-07T00:00:00.000Z,2567,SMU,ACC,fbs,51.0,259,Virginia Tech,ACC,fbs,28.0,DraftKings,-6.0,SMU -6,-7.5,57.5,57.5,-218.0,180.0
 401867969,2026,regular,9,2026-10-29T23:00:00.000Z,2415,Morgan State,MEAC,fcs,10.0,2569,South Carolina State,MEAC,fcs,51.0,DraftKings,7.0,South Carolina State -7,7.0,52.5,51.5,232.0,-302.0
 401867809,2026,regular,9,2026-10-31T16:00:00.000Z,225,Brown,Ivy,fcs,36.0,219,Pennsylvania,Ivy,fcs,17.0,DraftKings,-3.5,Brown -3.5,-3.0,40.5,40.5,-169.0,135.0
 401868378,2026,regular,9,2026-10-31T18:00:00.000Z,231,Furman,Southern,fcs,26.0,2717,Western Carolina,Southern,fcs,27.0,DraftKings,1.5,Western Carolina -1.5,2.5,52.5,54.5,106.0,-131.0
@@ -422,9 +422,8 @@ id,season,seasonType,week,startDate,homeTeamId,homeTeam,homeConference,homeClass
 401867903,2026,regular,9,2026-10-31T16:00:00.000Z,2115,Central Connecticut,NEC,fcs,49.0,2523,Robert Morris,NEC,fcs,14.0,DraftKings,-8.5,Central Connecticut -8.5,-10.0,53.5,57.5,-317.0,242.0
 401868320,2026,regular,9,2026-10-31T20:00:00.000Z,2837,East Texas A&M,Southland,fcs,10.0,2545,SE Louisiana,Southland,fcs,7.0,DraftKings,10.0,SE Louisiana -10,10.0,52.5,52.5,274.0,-366.0
 401867838,2026,regular,9,2026-10-30T23:00:00.000Z,159,Dartmouth,Ivy,fcs,24.0,108,Harvard,Ivy,fcs,14.0,DraftKings,9.5,Harvard -9.5,10.0,44.5,42.5,264.0,-350.0
-401856739,2026,regular,10,2026-11-08T00:45:00.000Z,57,Florida,SEC,fbs,,201,Oklahoma,SEC,fbs,,DraftKings,-4.5,Florida -4.5,-4.0,45.5,48.5,-198.0,164.0
+401856739,2026,regular,10,2026-11-08T00:45:00.000Z,57,Florida,SEC,fbs,7.0,201,Oklahoma,SEC,fbs,23.0,DraftKings,-4.0,Florida -4,-4.0,46.5,48.5,-192.0,160.0
 401868342,2026,regular,9,2026-10-31T17:00:00.000Z,236,Chattanooga,Southern,fcs,24.0,2678,VMI,Southern,fcs,10.0,DraftKings,-35.5,Chattanooga -35.5,-35.5,43.5,47.5,,
-401856745,2026,regular,10,2026-11-07T23:15:00.000Z,2633,Tennessee,SEC,fbs,,96,Kentucky,SEC,fbs,,DraftKings,-6.0,Tennessee -6,-6.0,49.5,50.5,-205.0,170.0
 401868231,2026,regular,9,2026-10-31T17:00:00.000Z,56,Stetson,Pioneer,fcs,34.0,2168,Dayton,Pioneer,fcs,44.0,DraftKings,18.5,Dayton -18.5,18.5,53.5,56.5,700.0,-1300.0
 401867926,2026,regular,9,2026-10-31T16:00:00.000Z,284,Stonehill,NEC,fcs,34.0,2385,Mercyhurst,NEC,fcs,28.0,DraftKings,-7.0,Stonehill -7,-5.5,45.5,46.5,-249.0,195.0
 401856668,2026,regular,1,2026-09-05T23:00:00.000Z,245,Texas A&M,SEC,fbs,50.0,2623,Missouri State,Conference USA,fbs,0.0,Bovada,-40.5,Texas A&M -40.5,-38.5,53.5,52.5,,
@@ -479,24 +478,26 @@ id,season,seasonType,week,startDate,homeTeamId,homeTeam,homeConference,homeClass
 401868136,2026,regular,9,2026-10-31T21:00:00.000Z,2110,Central Arkansas,UAC,fcs,9.0,2453,North Alabama,UAC,fcs,14.0,DraftKings,1.5,North Alabama -1.5,1.5,49.5,49.5,105.0,-130.0
 401868388,2026,regular,9,2026-10-31T23:00:00.000Z,2535,Samford,Southern,fcs,10.0,2747,Wofford,Southern,fcs,9.0,DraftKings,5.5,Wofford -5.5,4.5,46.5,47.5,171.0,-217.0
 401858221,2026,regular,2,2026-09-12T16:00:00.000Z,259,Virginia Tech,ACC,fbs,44.0,295,Old Dominion,Sun Belt,fbs,21.0,Bovada,-18.0,Virginia Tech -18.0,-18.5,47.5,51.0,-1200.0,700.0
-401862818,2026,regular,10,2026-11-07T00:30:00.000Z,151,East Carolina,American Athletic,fbs,20.0,58,South Florida,American Athletic,fbs,17.0,DraftKings,-1.5,East Carolina -1.5,1.5,39.5,45.5,-115.0,-105.0
+401858285,2026,regular,10,2026-11-07T17:00:00.000Z,183,Syracuse,ACC,fbs,13.0,228,Clemson,ACC,fbs,18.0,DraftKings,1.5,Clemson -1.5,1.5,50.5,49.5,-102.0,-118.0
 401862708,2026,regular,2,2026-09-12T19:30:00.000Z,5,UAB,American Athletic,fbs,26.0,2433,UL Monroe,Sun Belt,fbs,20.0,Bovada,-9.0,UAB -9.0,-10.5,53.5,56.0,-435.0,325.0
 401862705,2026,regular,2,2026-09-12T19:45:00.000Z,249,North Texas,American Athletic,fbs,44.0,2439,UNLV,Mountain West,fbs,6.0,Bovada,2.5,UNLV -2.5,4.5,58.0,57.0,160.0,-185.0
 401866418,2026,regular,2,2026-09-12T22:00:00.000Z,195,Ohio,Mid-American,fbs,29.0,55,Jacksonville State,Conference USA,fbs,27.0,Bovada,-2.0,Ohio -2.0,-2.0,50.0,51.5,-125.0,105.0
 401862696,2026,regular,1,2026-09-05T19:30:00.000Z,2426,Navy,American Athletic,fbs,42.0,119,Towson,Coastal Athletic,fcs,15.0,Bovada,-30.5,Navy -30.5,-30.5,50.5,50.5,,
 401856635,2026,regular,1,2026-09-05T20:15:00.000Z,8,Arkansas,SEC,fbs,31.0,2453,North Alabama,UAC,fcs,14.0,Bovada,-40.5,Arkansas -40.5,-40.5,63.0,63.0,,
-401866453,2026,regular,10,2026-11-04T00:00:00.000Z,2006,Akron,Mid-American,fbs,20.0,195,Ohio,Mid-American,fbs,28.0,DraftKings,12.5,Ohio -12.5,12.5,52.5,49.5,380.0,-500.0
-401869927,2026,regular,10,2026-11-07T19:30:00.000Z,2026,App State,Sun Belt,fbs,,2247,Georgia State,Sun Belt,fbs,,DraftKings,-6.5,App State -6.5,-3.5,53.5,57.5,-230.0,190.0
+401856738,2026,regular,10,2026-11-07T17:45:00.000Z,2,Auburn,SEC,fbs,26.0,8,Arkansas,SEC,fbs,23.0,DraftKings,-10.5,Auburn -10.5,-12.5,53.5,50.5,-395.0,310.0
+401858286,2026,regular,10,2026-11-07T17:30:00.000Z,152,NC State,ACC,fbs,3.0,150,Duke,ACC,fbs,41.0,DraftKings,4.5,Duke -4.5,5.5,53.5,49.5,160.0,-192.0
 401860881,2026,regular,2,2026-09-12T22:00:00.000Z,68,Boise State,Pac-12,fbs,38.0,235,Memphis,American Athletic,fbs,20.0,Bovada,-9.0,Boise State -9.0,-7.5,54.5,55.5,-330.0,265.0
-401862821,2026,regular,10,2026-11-07T21:00:00.000Z,249,North Texas,American Athletic,fbs,,242,Rice,American Athletic,fbs,,DraftKings,-14.5,North Texas -14.5,-16.5,65.5,64.5,-675.0,490.0
 401858441,2026,regular,2,2026-09-12T23:00:00.000Z,158,Nebraska,Big Ten,fbs,56.0,189,Bowling Green,Mid-American,fbs,7.0,Bovada,-30.5,Nebraska -30.5,-29.0,49.0,52.0,-10000.0,1600.0
 401871045,2026,regular,2,2026-09-12T23:00:00.000Z,276,Marshall,Sun Belt,fbs,28.0,2393,Middle Tennessee,Conference USA,fbs,26.0,Bovada,-13.0,Marshall -13.0,-14.0,55.5,57.5,-750.0,500.0
 401864575,2026,regular,2,2026-09-12T23:00:00.000Z,2655,Tulane,American Athletic,fbs,28.0,6,South Alabama,Sun Belt,fbs,24.0,Bovada,-9.5,Tulane -9.5,-10.0,47.5,50.5,-420.0,315.0
 401856681,2026,regular,2,2026-09-12T23:00:00.000Z,59,Georgia Tech,ACC,fbs,24.0,2633,Tennessee,SEC,fbs,45.0,Bovada,12.5,Tennessee -12.5,13.5,55.5,55.0,390.0,-550.0
 401856671,2026,regular,2,2026-09-12T23:45:00.000Z,2,Auburn,SEC,fbs,43.0,2572,Southern Miss,Sun Belt,fbs,8.0,DraftKings,-32.5,Auburn -32.5,-29.5,56.5,52.5,-10000.0,3000.0
-401860913,2026,regular,10,2026-11-08T02:30:00.000Z,328,Utah State,Pac-12,fbs,,278,Fresno State,Pac-12,fbs,,DraftKings,1.5,Fresno State -1.5,2.5,43.5,41.5,-102.0,-118.0
-401856855,2026,regular,10,2026-11-07T03:15:00.000Z,12,Arizona,Big 12,fbs,29.0,2628,TCU,Big 12,fbs,28.0,DraftKings,-6.0,Arizona -6,-9.5,46.5,44.5,-250.0,205.0
-401862819,2026,regular,10,2026-11-07T20:30:00.000Z,5,UAB,American Athletic,fbs,,2429,Charlotte,American Athletic,fbs,,DraftKings,-8.5,UAB -8.5,-10.0,47.5,51.5,-340.0,270.0
+401871098,2026,regular,10,2026-11-07T21:00:00.000Z,2653,Troy,Sun Belt,fbs,17.0,2348,Louisiana Tech,Sun Belt,fbs,41.0,DraftKings,7.0,Louisiana Tech -7,6.5,48.5,45.5,210.0,-258.0
+401858289,2026,regular,10,2026-11-07T17:00:00.000Z,103,Boston College,ACC,fbs,24.0,52,Florida State,ACC,fbs,31.0,DraftKings,5.5,Florida State -5.5,6.5,53.5,51.5,190.0,-230.0
+401866453,2026,regular,10,2026-11-04T00:00:00.000Z,2006,Akron,Mid-American,fbs,20.0,195,Ohio,Mid-American,fbs,28.0,DraftKings,12.5,Ohio -12.5,12.5,52.5,49.5,380.0,-500.0
+401862818,2026,regular,10,2026-11-07T00:30:00.000Z,151,East Carolina,American Athletic,fbs,20.0,58,South Florida,American Athletic,fbs,17.0,DraftKings,-1.5,East Carolina -1.5,1.5,39.5,45.5,-115.0,-105.0
+401862821,2026,regular,10,2026-11-07T21:00:00.000Z,249,North Texas,American Athletic,fbs,52.0,242,Rice,American Athletic,fbs,23.0,DraftKings,-14.5,North Texas -14.5,-16.5,65.5,64.5,-700.0,500.0
+401864533,2026,regular,10,2026-11-07T02:00:00.000Z,2440,Nevada,Mountain West,fbs,3.0,167,New Mexico,Mountain West,fbs,31.0,DraftKings,10.5,New Mexico -10.5,12.5,39.5,43.5,330.0,-425.0
 401867880,2026,regular,9,2026-10-31T16:00:00.000Z,2754,Youngstown State,MVFC,fcs,31.0,155,North Dakota,MVFC,fcs,28.0,DraftKings,-5.5,Youngstown State -5.5,-6.5,59.5,63.5,-243.0,190.0
 401867887,2026,regular,9,2026-10-31T20:00:00.000Z,2571,South Dakota State,MVFC,fcs,31.0,233,South Dakota,MVFC,fcs,21.0,DraftKings,-7.0,South Dakota State -7,-6.5,54.5,54.5,-252.0,197.0
 401868147,2026,regular,9,2026-10-31T23:00:00.000Z,2627,Tarleton State,UAC,fcs,28.0,2198,Eastern Kentucky,UAC,fcs,24.0,DraftKings,-24.5,Tarleton State -24.5,-24.5,57.5,57.5,-3600.0,1140.0
@@ -504,54 +505,52 @@ id,season,seasonType,week,startDate,homeTeamId,homeTeam,homeConference,homeClass
 401867956,2026,regular,9,2026-10-31T19:00:00.000Z,2450,Norfolk State,MEAC,fcs,33.0,2169,Delaware State,MEAC,fcs,36.0,DraftKings,2.5,Delaware State -2.5,-3.0,49.5,48.5,108.0,-134.0
 401868165,2026,regular,9,2026-10-31T19:00:00.000Z,2692,Weber State,Big Sky,fcs,38.0,302,UC Davis,Big Sky,fcs,14.0,DraftKings,1.5,UC Davis -1.5,-1.5,67.5,68.5,-103.0,-120.0
 401858444,2026,regular,2,2026-09-12T19:30:00.000Z,41,UConn,FBS Independents,fbs,14.0,120,Maryland,Big Ten,fbs,38.0,Bovada,11.5,Maryland -11.5,12.5,52.5,53.5,360.0,-500.0
-401856738,2026,regular,10,2026-11-07T17:45:00.000Z,2,Auburn,SEC,fbs,,8,Arkansas,SEC,fbs,,DraftKings,-10.5,Auburn -10.5,-12.5,53.5,50.5,-395.0,310.0
-401869945,2026,regular,10,2026-11-07T18:00:00.000Z,324,Coastal Carolina,Sun Belt,fbs,,295,Old Dominion,Sun Belt,fbs,,DraftKings,-6.5,Coastal Carolina -6.5,-7.0,43.5,45.5,-250.0,205.0
-401858289,2026,regular,10,2026-11-07T17:00:00.000Z,103,Boston College,ACC,fbs,,52,Florida State,ACC,fbs,,DraftKings,5.5,Florida State -5.5,6.5,53.5,51.5,190.0,-230.0
-401864535,2026,regular,10,2026-11-08T03:30:00.000Z,2439,UNLV,Mountain West,fbs,,2751,Wyoming,Mountain West,fbs,,DraftKings,-3.5,UNLV -3.5,-8.5,49.5,45.5,-175.0,145.0
-401866457,2026,regular,10,2026-11-05T00:00:00.000Z,16,Sacramento State,Mid-American,fbs,17.0,2649,Toledo,Mid-American,fbs,20.0,DraftKings,25.5,Toledo -25.5,26.5,52.5,51.5,1300.0,-2800.0
-401856850,2026,regular,10,2026-11-07T20:45:00.000Z,2305,Kansas,Big 12,fbs,,2116,UCF,Big 12,fbs,,DraftKings,-6.0,Kansas -6,-2.5,48.5,48.5,-218.0,180.0
-401858515,2026,regular,10,2026-11-07T17:30:00.000Z,2509,Purdue,Big Ten,fbs,,120,Maryland,Big Ten,fbs,,DraftKings,-5.5,Purdue -5.5,-7.0,56.5,57.5,-205.0,170.0
-401862817,2026,regular,10,2026-11-06T00:30:00.000Z,2226,Florida Atlantic,American Athletic,fbs,60.0,2636,UTSA,American Athletic,fbs,29.0,DraftKings,7.0,UTSA -7,6.5,72.5,70.5,225.0,-278.0
-401860912,2026,regular,10,2026-11-08T03:30:00.000Z,204,Oregon State,Pac-12,fbs,,326,Texas State,Pac-12,fbs,,DraftKings,-5.5,Oregon State -5.5,-8.5,71.5,66.5,-218.0,180.0
+401856855,2026,regular,10,2026-11-07T03:15:00.000Z,12,Arizona,Big 12,fbs,29.0,2628,TCU,Big 12,fbs,28.0,DraftKings,-6.0,Arizona -6,-9.5,46.5,44.5,-250.0,205.0
 401866456,2026,regular,10,2026-11-05T00:30:00.000Z,2199,Eastern Michigan,Mid-American,fbs,7.0,2117,Central Michigan,Mid-American,fbs,35.0,DraftKings,2.5,Central Michigan -2.5,-1.5,44.5,46.5,124.0,-148.0
-401871075,2026,regular,10,2026-11-08T00:00:00.000Z,55,Jacksonville State,Conference USA,fbs,,2534,Sam Houston,Conference USA,fbs,,DraftKings,-16.5,Jacksonville State -16.5,-14.0,45.5,47.5,-800.0,550.0
-401869968,2026,regular,10,2026-11-07T22:00:00.000Z,309,Louisiana,Sun Belt,fbs,,6,South Alabama,Sun Belt,fbs,,DraftKings,-7.0,Louisiana -7,-5.5,56.5,57.5,-285.0,230.0
-401870795,2026,regular,10,2026-11-08T01:00:00.000Z,166,New Mexico State,Conference USA,fbs,,2335,Liberty,Conference USA,fbs,,DraftKings,15.5,Liberty -15.5,12.5,46.5,47.5,525.0,-750.0
+401856851,2026,regular,10,2026-11-07T20:30:00.000Z,248,Houston,Big 12,fbs,31.0,2132,Cincinnati,Big 12,fbs,24.0,DraftKings,-10.0,Houston -10,-10.5,61.5,61.5,-380.0,300.0
+401862819,2026,regular,10,2026-11-07T20:30:00.000Z,5,UAB,American Athletic,fbs,23.0,2429,Charlotte,American Athletic,fbs,12.0,DraftKings,-7.5,UAB -7.5,-10.0,47.5,51.5,-310.0,250.0
+401866457,2026,regular,10,2026-11-05T00:00:00.000Z,16,Sacramento State,Mid-American,fbs,17.0,2649,Toledo,Mid-American,fbs,20.0,DraftKings,25.5,Toledo -25.5,26.5,52.5,51.5,1300.0,-2800.0
+401862820,2026,regular,10,2026-11-07T20:30:00.000Z,2426,Navy,American Athletic,fbs,42.0,218,Temple,American Athletic,fbs,35.0,DraftKings,-8.5,Navy -8.5,-7.5,55.5,52.5,-305.0,245.0
+401862822,2026,regular,10,2026-11-07T17:00:00.000Z,2655,Tulane,American Athletic,fbs,10.0,202,Tulsa,American Athletic,fbs,60.0,DraftKings,3.0,Tulsa -3,3.0,50.5,48.5,124.0,-148.0
+401856850,2026,regular,10,2026-11-07T20:45:00.000Z,2305,Kansas,Big 12,fbs,32.0,2116,UCF,Big 12,fbs,33.0,DraftKings,-6.0,Kansas -6,-2.5,47.5,48.5,-225.0,185.0
+401862817,2026,regular,10,2026-11-06T00:30:00.000Z,2226,Florida Atlantic,American Athletic,fbs,60.0,2636,UTSA,American Athletic,fbs,29.0,DraftKings,7.0,UTSA -7,6.5,72.5,70.5,225.0,-278.0
+401870795,2026,regular,10,2026-11-08T01:00:00.000Z,166,New Mexico State,Conference USA,fbs,14.0,2335,Liberty,Conference USA,fbs,30.0,DraftKings,14.5,Liberty -14.5,12.5,46.5,47.5,500.0,-700.0
 401869964,2026,regular,10,2026-11-06T01:00:00.000Z,2572,Southern Miss,Sun Belt,fbs,23.0,256,James Madison,Sun Belt,fbs,54.0,DraftKings,13.5,James Madison -13.5,15.5,58.5,56.5,425.0,-575.0
-401864534,2026,regular,10,2026-11-07T21:00:00.000Z,23,San José State,Mountain West,fbs,,2459,Northern Illinois,Mountain West,fbs,,DraftKings,-12.5,San José State -12.5,-11.5,52.5,50.5,-440.0,340.0
-401871098,2026,regular,10,2026-11-07T21:00:00.000Z,2653,Troy,Sun Belt,fbs,,2348,Louisiana Tech,Sun Belt,fbs,,DraftKings,7.0,Louisiana Tech -7,6.5,47.5,45.5,210.0,-258.0
-401856853,2026,regular,10,2026-11-07T17:00:00.000Z,239,Baylor,Big 12,fbs,,66,Iowa State,Big 12,fbs,,DraftKings,-10.0,Baylor -10,-9.5,50.5,50.5,-375.0,295.0
-401856744,2026,regular,10,2026-11-07T20:00:00.000Z,2579,South Carolina,SEC,fbs,,245,Texas A&M,SEC,fbs,,DraftKings,-6.5,South Carolina -6.5,-6.5,52.5,51.5,-250.0,205.0
-401858286,2026,regular,10,2026-11-07T17:30:00.000Z,152,NC State,ACC,fbs,,150,Duke,ACC,fbs,,DraftKings,4.5,Duke -4.5,5.5,53.5,49.5,160.0,-192.0
-401862822,2026,regular,10,2026-11-07T17:00:00.000Z,2655,Tulane,American Athletic,fbs,,202,Tulsa,American Athletic,fbs,,DraftKings,3.0,Tulsa -3,3.0,50.5,48.5,124.0,-148.0
-401860911,2026,regular,10,2026-11-07T23:00:00.000Z,36,Colorado State,Pac-12,fbs,,68,Boise State,Pac-12,fbs,,DraftKings,16.5,Boise State -16.5,19.5,69.5,68.5,550.0,-800.0
-401871074,2026,regular,10,2026-11-07T21:00:00.000Z,2229,Florida International,Conference USA,fbs,,2623,Missouri State,Conference USA,fbs,,DraftKings,-4.5,Florida International -4.5,-4.5,50.5,49.5,-205.0,170.0
-401856851,2026,regular,10,2026-11-07T20:30:00.000Z,248,Houston,Big 12,fbs,,2132,Cincinnati,Big 12,fbs,,DraftKings,-10.5,Houston -10.5,-10.5,61.5,61.5,-380.0,300.0
-401858292,2026,regular,10,2026-11-07T17:00:00.000Z,41,UConn,FBS Independents,fbs,,153,North Carolina,ACC,fbs,,DraftKings,7.5,North Carolina -7.5,8.5,55.5,51.5,240.0,-298.0
-401864533,2026,regular,10,2026-11-07T02:00:00.000Z,2440,Nevada,Mountain West,fbs,3.0,167,New Mexico,Mountain West,fbs,31.0,DraftKings,10.5,New Mexico -10.5,12.5,39.5,43.5,330.0,-425.0
-401858287,2026,regular,10,2026-11-08T00:30:00.000Z,59,Georgia Tech,ACC,fbs,,97,Louisville,ACC,fbs,,DraftKings,14.5,Louisville -14.5,13.5,62.5,59.5,470.0,-650.0
-401858285,2026,regular,10,2026-11-07T17:00:00.000Z,183,Syracuse,ACC,fbs,,228,Clemson,ACC,fbs,,DraftKings,1.5,Clemson -1.5,1.5,50.5,49.5,-102.0,-118.0
-401862820,2026,regular,10,2026-11-07T20:30:00.000Z,2426,Navy,American Athletic,fbs,,218,Temple,American Athletic,fbs,,DraftKings,-7.0,Navy -7,-7.5,55.5,52.5,-270.0,220.0
-401856852,2026,regular,10,2026-11-08T00:30:00.000Z,9,Arizona State,Big 12,fbs,,38,Colorado,Big 12,fbs,,DraftKings,-3.0,Arizona State -3,-4.0,47.5,49.5,-162.0,136.0
+401864534,2026,regular,10,2026-11-07T21:00:00.000Z,23,San José State,Mountain West,fbs,30.0,2459,Northern Illinois,Mountain West,fbs,19.0,DraftKings,-11.5,San José State -11.5,-11.5,52.5,50.5,-440.0,340.0
+401858287,2026,regular,10,2026-11-08T00:30:00.000Z,59,Georgia Tech,ACC,fbs,17.0,97,Louisville,ACC,fbs,44.0,DraftKings,14.5,Louisville -14.5,13.5,62.5,59.5,470.0,-650.0
+401856853,2026,regular,10,2026-11-07T17:00:00.000Z,239,Baylor,Big 12,fbs,42.0,66,Iowa State,Big 12,fbs,31.0,DraftKings,-10.0,Baylor -10,-9.5,50.5,50.5,-375.0,295.0
+401871074,2026,regular,10,2026-11-07T21:00:00.000Z,2229,Florida International,Conference USA,fbs,23.0,2623,Missouri State,Conference USA,fbs,20.0,DraftKings,-4.5,Florida International -4.5,-4.5,50.5,49.5,-205.0,170.0
+401860911,2026,regular,10,2026-11-07T23:00:00.000Z,36,Colorado State,Pac-12,fbs,38.0,68,Boise State,Pac-12,fbs,64.0,DraftKings,15.5,Boise State -15.5,19.5,69.5,68.5,550.0,-800.0
+401871075,2026,regular,10,2026-11-08T00:00:00.000Z,55,Jacksonville State,Conference USA,fbs,47.0,2534,Sam Houston,Conference USA,fbs,14.0,DraftKings,-17.5,Jacksonville State -17.5,-14.0,45.5,47.5,-850.0,575.0
+401858515,2026,regular,10,2026-11-07T17:30:00.000Z,2509,Purdue,Big Ten,fbs,29.0,120,Maryland,Big Ten,fbs,34.0,DraftKings,-5.5,Purdue -5.5,-7.0,56.5,57.5,-205.0,170.0
+401858292,2026,regular,10,2026-11-07T17:00:00.000Z,41,UConn,FBS Independents,fbs,21.0,153,North Carolina,ACC,fbs,38.0,DraftKings,7.5,North Carolina -7.5,8.5,55.5,51.5,240.0,-298.0
+401860913,2026,regular,10,2026-11-08T02:30:00.000Z,328,Utah State,Pac-12,fbs,17.0,278,Fresno State,Pac-12,fbs,10.0,DraftKings,-1.5,Utah State -1.5,2.5,44.5,41.5,-112.0,-108.0
+401869945,2026,regular,10,2026-11-07T18:00:00.000Z,324,Coastal Carolina,Sun Belt,fbs,8.0,295,Old Dominion,Sun Belt,fbs,21.0,DraftKings,-6.5,Coastal Carolina -6.5,-7.0,43.5,45.5,-250.0,205.0
+401860912,2026,regular,10,2026-11-08T03:30:00.000Z,204,Oregon State,Pac-12,fbs,21.0,326,Texas State,Pac-12,fbs,42.0,DraftKings,-4.0,Oregon State -4,-8.5,72.5,66.5,-198.0,164.0
+401869968,2026,regular,10,2026-11-07T22:00:00.000Z,309,Louisiana,Sun Belt,fbs,28.0,6,South Alabama,Sun Belt,fbs,26.0,DraftKings,-7.0,Louisiana -7,-5.5,57.5,57.5,-285.0,230.0
+401869927,2026,regular,10,2026-11-07T19:30:00.000Z,2026,App State,Sun Belt,fbs,23.0,2247,Georgia State,Sun Belt,fbs,39.0,DraftKings,-6.5,App State -6.5,-3.5,53.5,57.5,-230.0,190.0
+401856744,2026,regular,10,2026-11-07T20:00:00.000Z,2579,South Carolina,SEC,fbs,17.0,245,Texas A&M,SEC,fbs,9.0,DraftKings,-6.5,South Carolina -6.5,-6.5,52.5,51.5,-250.0,205.0
+401864535,2026,regular,10,2026-11-08T03:30:00.000Z,2439,UNLV,Mountain West,fbs,35.0,2751,Wyoming,Mountain West,fbs,41.0,DraftKings,-3.0,UNLV -3,-8.5,50.5,45.5,-162.0,136.0
 401868956,2026,regular,9,2026-11-01T00:30:00.000Z,2640,Texas Southern,SWAC,fcs,23.0,2755,Grambling,SWAC,fcs,20.0,DraftKings,4.5,Grambling -4.5,7.0,62.5,61.5,151.0,-190.0
-401856856,2026,regular,10,2026-11-08T02:30:00.000Z,2641,Texas Tech,Big 12,fbs,,277,West Virginia,Big 12,fbs,,DraftKings,-16.5,Texas Tech -16.5,-17.5,66.5,63.5,-750.0,525.0
-401856854,2026,regular,10,2026-11-07T18:00:00.000Z,2306,Kansas State,Big 12,fbs,,197,Oklahoma State,Big 12,fbs,,DraftKings,7.0,Oklahoma State -7,6.5,64.5,60.5,200.0,-245.0
-401869951,2026,regular,10,2026-11-07T20:30:00.000Z,290,Georgia Southern,Sun Belt,fbs,,276,Marshall,Sun Belt,fbs,,DraftKings,-7.0,Georgia Southern -7,-8.5,54.5,53.5,-285.0,230.0
-401858516,2026,regular,10,2026-11-07T20:30:00.000Z,264,Washington,Big Ten,fbs,,213,Penn State,Big Ten,fbs,,DraftKings,-2.5,Washington -2.5,-2.5,45.5,44.5,-135.0,114.0
-401871073,2026,regular,10,2026-11-07T20:00:00.000Z,338,Kennesaw State,Conference USA,fbs,,48,Delaware,Conference USA,fbs,,DraftKings,-1.5,Kennesaw State -1.5,3.0,57.5,51.5,-108.0,-112.0
-401858443,2026,regular,2,2026-09-12T23:15:00.000Z,26,UCLA,Big Ten,fbs,28.0,21,San Diego State,Pac-12,fbs,10.0,Bovada,-13.5,UCLA -13.5,-11.5,53.5,53.0,-490.0,355.0
-401858219,2026,regular,2,2026-09-12T23:30:00.000Z,228,Clemson,ACC,fbs,22.0,290,Georgia Southern,Sun Belt,fbs,7.0,Bovada,-19.5,Clemson -19.5,-21.0,54.5,55.5,-1800.0,850.0
-401862703,2026,regular,2,2026-09-12T23:30:00.000Z,2226,Florida Atlantic,American Athletic,fbs,38.0,2426,Navy,American Athletic,fbs,30.0,DraftKings,4.5,Navy -4.5,6.5,59.5,57.5,164.0,-198.0
 401866454,2026,regular,10,2026-11-04T01:00:00.000Z,193,Miami (OH),Mid-American,fbs,31.0,2084,Buffalo,Mid-American,fbs,34.0,DraftKings,-6.5,Miami (OH) -6.5,-6.5,45.5,45.5,-265.0,215.0
-401864532,2026,regular,10,2026-11-08T02:30:00.000Z,2638,UTEP,Mountain West,fbs,,62,Hawai'i,Mountain West,fbs,,DraftKings,7.5,Hawai'i -7.5,11.5,48.5,49.5,250.0,-310.0
+401856854,2026,regular,10,2026-11-07T18:00:00.000Z,2306,Kansas State,Big 12,fbs,28.0,197,Oklahoma State,Big 12,fbs,66.0,DraftKings,7.0,Oklahoma State -7,6.5,64.5,60.5,200.0,-245.0
+401858443,2026,regular,2,2026-09-12T23:15:00.000Z,26,UCLA,Big Ten,fbs,28.0,21,San Diego State,Pac-12,fbs,10.0,Bovada,-13.5,UCLA -13.5,-11.5,53.5,53.0,-490.0,355.0
+401869936,2026,regular,10,2026-11-07T20:00:00.000Z,2032,Arkansas State,Sun Belt,fbs,17.0,2433,UL Monroe,Sun Belt,fbs,19.0,DraftKings,-14.5,Arkansas State -14.5,-14.5,52.5,51.5,-675.0,490.0
+401858219,2026,regular,2,2026-09-12T23:30:00.000Z,228,Clemson,ACC,fbs,22.0,290,Georgia Southern,Sun Belt,fbs,7.0,Bovada,-19.5,Clemson -19.5,-21.0,54.5,55.5,-1800.0,850.0
+401871073,2026,regular,10,2026-11-07T20:00:00.000Z,338,Kennesaw State,Conference USA,fbs,42.0,48,Delaware,Conference USA,fbs,40.0,DraftKings,1.5,Delaware -1.5,3.0,57.5,51.5,-102.0,-118.0
+401862703,2026,regular,2,2026-09-12T23:30:00.000Z,2226,Florida Atlantic,American Athletic,fbs,38.0,2426,Navy,American Athletic,fbs,30.0,DraftKings,4.5,Navy -4.5,6.5,59.5,57.5,164.0,-198.0
+401858517,2026,regular,10,2026-11-07T21:15:00.000Z,275,Wisconsin,Big Ten,fbs,31.0,164,Rutgers,Big Ten,fbs,10.0,DraftKings,-19.5,Wisconsin -19.5,-16.5,45.5,46.5,-1100.0,700.0
+401856852,2026,regular,10,2026-11-08T00:30:00.000Z,9,Arizona State,Big 12,fbs,20.0,38,Colorado,Big 12,fbs,10.0,DraftKings,-3.0,Arizona State -3,-4.0,45.5,49.5,-155.0,130.0
+401856856,2026,regular,10,2026-11-08T02:30:00.000Z,2641,Texas Tech,Big 12,fbs,53.0,277,West Virginia,Big 12,fbs,48.0,DraftKings,-16.5,Texas Tech -16.5,-17.5,68.5,63.5,-750.0,525.0
 401858510,2026,regular,10,2026-11-07T01:00:00.000Z,356,Illinois,Big Ten,fbs,24.0,158,Nebraska,Big Ten,fbs,13.0,DraftKings,4.5,Nebraska -4.5,6.0,52.5,50.5,160.0,-192.0
-401858517,2026,regular,10,2026-11-07T21:15:00.000Z,275,Wisconsin,Big Ten,fbs,,164,Rutgers,Big Ten,fbs,,DraftKings,-19.5,Wisconsin -19.5,-16.5,45.5,46.5,-1100.0,700.0
-401869936,2026,regular,10,2026-11-07T20:00:00.000Z,2032,Arkansas State,Sun Belt,fbs,,2433,UL Monroe,Sun Belt,fbs,,DraftKings,-14.5,Arkansas State -14.5,-14.5,52.5,51.5,-700.0,500.0
+401858516,2026,regular,10,2026-11-07T20:30:00.000Z,264,Washington,Big Ten,fbs,25.0,213,Penn State,Big Ten,fbs,28.0,DraftKings,-2.5,Washington -2.5,-2.5,46.5,44.5,-135.0,114.0
+401864532,2026,regular,10,2026-11-08T02:30:00.000Z,2638,UTEP,Mountain West,fbs,14.0,62,Hawai'i,Mountain West,fbs,17.0,DraftKings,7.0,Hawai'i -7,11.5,48.5,49.5,235.0,-290.0
+401869951,2026,regular,10,2026-11-07T20:30:00.000Z,290,Georgia Southern,Sun Belt,fbs,49.0,276,Marshall,Sun Belt,fbs,13.0,DraftKings,-7.0,Georgia Southern -7,-8.5,54.5,53.5,-285.0,230.0
 401864578,2026,regular,2,2026-09-13T03:59:00.000Z,62,Hawai'i,Mountain West,fbs,29.0,166,New Mexico State,Conference USA,fbs,19.0,Bovada,-7.5,Hawai'i -7.5,-10.0,50.0,50.5,-410.0,305.0
 401858445,2026,regular,2,2026-09-13T03:00:00.000Z,30,USC,Big Ten,fbs,49.0,309,Louisiana,Sun Belt,fbs,30.0,Bovada,-31.0,USC -31.0,-31.0,58.5,60.0,-10000.0,1600.0
-401871076,2026,regular,10,2026-11-07T20:30:00.000Z,2393,Middle Tennessee,Conference USA,fbs,,98,Western Kentucky,Conference USA,fbs,,DraftKings,2.5,Western Kentucky -2.5,-1.5,53.5,52.5,120.0,-142.0
+401856742,2026,regular,10,2026-11-07T21:15:00.000Z,344,Mississippi State,SEC,fbs,23.0,238,Vanderbilt,SEC,fbs,25.0,DraftKings,-3.0,Mississippi State -3,-3.0,48.5,48.5,-148.0,124.0
+401871076,2026,regular,10,2026-11-07T20:30:00.000Z,2393,Middle Tennessee,Conference USA,fbs,51.0,98,Western Kentucky,Conference USA,fbs,42.0,DraftKings,1.5,Western Kentucky -1.5,-1.5,53.5,52.5,114.0,-135.0
 401866455,2026,regular,10,2026-11-05T00:00:00.000Z,113,Massachusetts,Mid-American,fbs,31.0,2050,Ball State,Mid-American,fbs,30.0,DraftKings,-2.5,Massachusetts -2.5,-4.5,48.5,48.5,-142.0,120.0
-401856742,2026,regular,10,2026-11-07T21:15:00.000Z,344,Mississippi State,SEC,fbs,,238,Vanderbilt,SEC,fbs,,DraftKings,-2.5,Mississippi State -2.5,-3.0,48.5,48.5,-142.0,120.0
 401856791,2026,regular,2,2026-09-12T17:00:00.000Z,277,West Virginia,Big 12,fbs,52.0,2630,UT Martin,OVC,fcs,7.0,Bovada,-41.5,West Virginia -41.5,-42.0,57.5,55.5,,
 401858213,2026,regular,2,2026-09-11T00:00:00.000Z,2390,Miami,ACC,fbs,77.0,50,Florida A&M,SWAC,fcs,7.0,Bovada,-59.5,Miami -59.5,-56.5,65.0,62.5,,
 401858215,2026,regular,2,2026-09-11T23:00:00.000Z,97,Louisville,ACC,fbs,59.0,222,Villanova,Patriot,fcs,13.0,Bovada,-38.5,Louisville -38.5,-36.5,57.0,56.0,,
@@ -696,51 +695,46 @@ id,season,seasonType,week,startDate,homeTeamId,homeTeam,homeConference,homeClass
 401858243,2026,regular,4,2026-09-26T16:00:00.000Z,97,Louisville,ACC,fbs,27.0,154,Wake Forest,ACC,fbs,30.0,DraftKings,-11.5,Louisville -11.5,-13.5,57.5,58.5,-500.0,380.0
 401858238,2026,regular,4,2026-09-26T22:30:00.000Z,2390,Miami,ACC,fbs,52.0,2117,Central Michigan,Mid-American,fbs,3.0,DraftKings,-41.5,Miami -41.5,-42.5,52.5,54.5,,
 401867857,2026,regular,3,2026-09-19T17:00:00.000Z,282,Indiana State,MVFC,fcs,39.0,2674,Valparaiso,Pioneer,fcs,16.0,DraftKings,-22.5,Indiana State -22.5,-22.5,53.5,53.5,-2900.0,1060.0
-401867976,2026,regular,10,2026-11-07T17:00:00.000Z,2450,Norfolk State,MEAC,fcs,,2428,North Carolina Central,MEAC,fcs,,DraftKings,4.0,North Carolina Central -4,4.0,51.5,50.5,155.0,-195.0
-401868216,2026,regular,10,2026-11-07T18:00:00.000Z,2086,Butler,Pioneer,fcs,,2900,St. Thomas (MN),Pioneer,fcs,,DraftKings,-1.5,Butler -1.5,-1.5,54.5,54.5,-104.0,-120.0
-401868331,2026,regular,10,2026-11-07T20:00:00.000Z,2640,Texas Southern,SWAC,fcs,,2011,Alabama State,SWAC,fcs,,DraftKings,6.5,Alabama State -6.5,8.5,54.5,55.5,206.0,-265.0
-401867839,2026,regular,10,2026-11-07T17:00:00.000Z,163,Princeton,Ivy,fcs,,159,Dartmouth,Ivy,fcs,,DraftKings,1.5,Dartmouth -1.5,-2.5,41.5,41.5,-109.0,-114.0
-401868184,2026,regular,10,2026-11-07T20:00:00.000Z,2197,Eastern Illinois,OVC,fcs,,2710,Western Illinois,OVC,fcs,,DraftKings,4.5,Western Illinois -4.5,4.0,54.5,54.5,139.0,-174.0
-401858290,2026,regular,10,2026-11-07T20:30:00.000Z,154,Wake Forest,ACC,fbs,,2771,Merrimack,FCS Independents,fcs,,DraftKings,-46.5,Wake Forest -46.5,-47.5,55.5,59.5,,
-401858298,2026,regular,11,2026-11-14T05:00:00.000Z,153,North Carolina,ACC,fbs,,97,Louisville,ACC,fbs,,DraftKings,2.5,Louisville -2.5,2.5,59.5,59.5,114.0,-135.0
-401856864,2026,regular,11,2026-11-14T05:00:00.000Z,12,Arizona,Big 12,fbs,,254,Utah,Big 12,fbs,,DraftKings,1.5,Utah -1.5,1.5,51.5,51.5,-102.0,-118.0
-401858526,2026,regular,11,2026-11-14T02:00:00.000Z,26,UCLA,Big Ten,fbs,,356,Illinois,Big Ten,fbs,,DraftKings,-11.5,UCLA -11.5,-12.5,47.5,47.5,-470.0,360.0
-401856883,2026,regular,11,2026-11-14T05:00:00.000Z,61,Georgia,SEC,fbs,,142,Missouri,SEC,fbs,,DraftKings,-12.5,Georgia -12.5,-12.5,46.5,46.5,-470.0,360.0
-401856884,2026,regular,11,2026-11-14T05:00:00.000Z,96,Kentucky,SEC,fbs,,57,Florida,SEC,fbs,,DraftKings,-1.5,Kentucky -1.5,-1.5,55.5,55.5,-125.0,105.0
-401860914,2026,regular,11,2026-11-14T23:00:00.000Z,68,Boise State,Pac-12,fbs,,204,Oregon State,Pac-12,fbs,,DraftKings,-4.5,Boise State -4.5,-4.5,62.5,62.5,-185.0,154.0
-401856858,2026,regular,11,2026-11-14T05:00:00.000Z,252,BYU,Big 12,fbs,,239,Baylor,Big 12,fbs,,DraftKings,-7.0,BYU -7,-7.5,47.5,47.5,-285.0,230.0
-401858301,2026,regular,11,2026-11-14T17:00:00.000Z,2567,SMU,ACC,fbs,,154,Wake Forest,ACC,fbs,,DraftKings,3.0,Wake Forest -3,3.5,56.5,55.5,130.0,-155.0
-401867957,2026,regular,10,2026-11-07T18:00:00.000Z,2169,Delaware State,MEAC,fcs,,2415,Morgan State,MEAC,fcs,,DraftKings,-3.5,Delaware State -3.5,-4.0,52.5,52.5,-178.0,142.0
-401867964,2026,regular,10,2026-11-06T00:30:00.000Z,47,Howard,MEAC,fcs,28.0,2569,South Carolina State,MEAC,fcs,35.0,DraftKings,21.5,South Carolina State -21.5,15.5,45.5,50.5,1140.0,-3600.0
-401866681,2026,regular,10,2026-11-07T17:00:00.000Z,2405,Monmouth,Coastal Athletic,fcs,,2448,North Carolina A&T,Coastal Athletic,fcs,,DraftKings,-20.5,Monmouth -20.5,-20.5,56.5,56.5,-1300.0,700.0
+401868259,2026,regular,10,2026-11-07T18:00:00.000Z,2181,Drake,Pioneer,fcs,17.0,301,San Diego,Pioneer,fcs,40.0,DraftKings,1.5,San Diego -1.5,-1.5,64.5,64.5,100.0,-125.0
+401868350,2026,regular,10,2026-11-07T18:00:00.000Z,2193,East Tennessee State,Southern,fcs,35.0,2535,Samford,Southern,fcs,37.0,DraftKings,-13.5,East Tennessee State -13.5,-12.5,48.5,46.5,-581.0,401.0
+401856883,2026,regular,11,2026-11-14T20:30:00.000Z,61,Georgia,SEC,fbs,,142,Missouri,SEC,fbs,,DraftKings,-15.5,Georgia -15.5,-12.5,47.5,46.5,-700.0,500.0
+401856858,2026,regular,11,2026-11-14T20:30:00.000Z,252,BYU,Big 12,fbs,,239,Baylor,Big 12,fbs,,DraftKings,-7.5,BYU -7.5,-7.5,49.5,47.5,-298.0,240.0
+401867957,2026,regular,10,2026-11-07T18:00:00.000Z,2169,Delaware State,MEAC,fcs,24.0,2415,Morgan State,MEAC,fcs,14.0,DraftKings,-3.5,Delaware State -3.5,-4.0,52.5,52.5,-178.0,142.0
+401858298,2026,regular,11,2026-11-15T00:00:00.000Z,153,North Carolina,ACC,fbs,,97,Louisville,ACC,fbs,,DraftKings,3.5,Louisville -3.5,2.5,59.5,59.5,142.0,-170.0
+401868216,2026,regular,10,2026-11-07T18:00:00.000Z,2086,Butler,Pioneer,fcs,41.0,2900,St. Thomas (MN),Pioneer,fcs,14.0,DraftKings,-1.5,Butler -1.5,-1.5,54.5,54.5,-104.0,-120.0
 401868168,2026,regular,3,2026-09-20T00:00:00.000Z,2692,Weber State,Big Sky,fcs,49.0,2466,Northwestern State,Southland,fcs,20.0,DraftKings,-35.5,Weber State -35.5,-34.5,56.5,54.5,,
 401868205,2026,regular,3,2026-09-19T23:00:00.000Z,2710,Western Illinois,OVC,fcs,59.0,2413,Morehead State,Pioneer,fcs,2.0,DraftKings,-20.5,Western Illinois -20.5,-18.5,61.5,58.5,-1900.0,870.0
-401867810,2026,regular,10,2026-11-07T17:00:00.000Z,43,Yale,Ivy,fcs,,225,Brown,Ivy,fcs,,DraftKings,-7.0,Yale -7,-7.0,46.5,46.5,-320.0,244.0
-401867922,2026,regular,10,2026-11-07T17:00:00.000Z,2184,Duquesne,NEC,fcs,,2523,Robert Morris,NEC,fcs,,DraftKings,-10.0,Duquesne -10,-10.0,47.5,47.5,-400.0,295.0
-401866686,2026,regular,10,2026-11-07T18:00:00.000Z,160,New Hampshire,Coastal Athletic,fcs,,227,Rhode Island,Coastal Athletic,fcs,,DraftKings,7.0,Rhode Island -7,7.0,45.5,45.5,170.0,-215.0
-401868031,2026,regular,10,2026-11-07T18:00:00.000Z,2729,William & Mary,Patriot,fcs,,322,Lafayette,Patriot,fcs,,DraftKings,2.5,Lafayette -2.5,2.5,52.5,52.5,117.0,-145.0
 401858470,2026,regular,4,2026-09-27T03:00:00.000Z,264,Washington,Big Ten,fbs,24.0,135,Minnesota,Big Ten,fbs,27.0,DraftKings,-12.5,Washington -12.5,-9.5,44.5,44.5,-455.0,350.0
-401868259,2026,regular,10,2026-11-07T18:00:00.000Z,2181,Drake,Pioneer,fcs,,301,San Diego,Pioneer,fcs,,DraftKings,1.5,San Diego -1.5,-1.5,64.5,64.5,100.0,-125.0
-401868020,2026,regular,10,2026-11-07T17:30:00.000Z,46,Georgetown,Patriot,fcs,,107,Holy Cross,Patriot,fcs,,DraftKings,7.0,Holy Cross -7,6.5,47.5,50.5,195.0,-251.0
-401866683,2026,regular,10,2026-11-07T18:00:00.000Z,2803,Bryant,Coastal Athletic,fcs,,399,UAlbany,Coastal Athletic,fcs,,DraftKings,10.5,UAlbany -10.5,7.5,44.5,44.5,293.0,-396.0
-401868363,2026,regular,10,2026-11-07T20:00:00.000Z,2016,Alcorn State,SWAC,fcs,,50,Florida A&M,SWAC,fcs,,DraftKings,-10.0,Alcorn State -10,-10.0,60.5,60.5,-407.0,300.0
-401866682,2026,regular,10,2026-11-07T17:00:00.000Z,2529,Sacred Heart,Coastal Athletic,fcs,,119,Towson,Coastal Athletic,fcs,,DraftKings,1.5,Towson -1.5,-1.5,50.5,50.5,-102.0,-121.0
-401868350,2026,regular,10,2026-11-07T18:00:00.000Z,2193,East Tennessee State,Southern,fcs,,2535,Samford,Southern,fcs,,DraftKings,-13.5,East Tennessee State -13.5,-12.5,48.5,46.5,-581.0,401.0
-401867914,2026,regular,10,2026-11-07T17:00:00.000Z,2441,New Haven,NEC,fcs,,2341,Long Island University,NEC,fcs,,DraftKings,4.5,Long Island University -4.5,4.5,42.5,42.5,155.0,-195.0
-401868224,2026,regular,10,2026-11-07T18:00:00.000Z,2166,Davidson,Pioneer,fcs,,56,Stetson,Pioneer,fcs,,DraftKings,-1.5,Davidson -1.5,-2.5,60.5,60.5,-111.0,-112.0
-401858522,2026,regular,11,2026-11-14T17:00:00.000Z,194,Ohio State,Big Ten,fbs,,77,Northwestern,Big Ten,fbs,,DraftKings,-9.5,Ohio State -9.5,-9.5,48.5,48.5,-375.0,295.0
-401866684,2026,regular,10,2026-11-07T18:00:00.000Z,2097,Campbell,Coastal Athletic,fcs,,2619,Stony Brook,Coastal Athletic,fcs,,DraftKings,-7.0,Campbell -7,-7.0,65.5,65.5,-300.0,230.0
-401867824,2026,regular,10,2026-11-07T18:00:00.000Z,108,Harvard,Ivy,fcs,,171,Columbia,Ivy,fcs,,DraftKings,-21.5,Harvard -21.5,-21.5,47.5,47.5,-2000.0,900.0
+401868020,2026,regular,10,2026-11-07T17:30:00.000Z,46,Georgetown,Patriot,fcs,24.0,107,Holy Cross,Patriot,fcs,27.0,DraftKings,7.0,Holy Cross -7,6.5,47.5,50.5,195.0,-251.0
+401868031,2026,regular,10,2026-11-07T18:00:00.000Z,2729,William & Mary,Patriot,fcs,14.0,322,Lafayette,Patriot,fcs,19.0,DraftKings,2.5,Lafayette -2.5,2.5,52.5,52.5,117.0,-145.0
+401868331,2026,regular,10,2026-11-07T20:00:00.000Z,2640,Texas Southern,SWAC,fcs,31.0,2011,Alabama State,SWAC,fcs,34.0,DraftKings,6.5,Alabama State -6.5,8.5,54.5,55.5,206.0,-265.0
+401868184,2026,regular,10,2026-11-07T20:00:00.000Z,2197,Eastern Illinois,OVC,fcs,23.0,2710,Western Illinois,OVC,fcs,44.0,DraftKings,4.5,Western Illinois -4.5,4.0,54.5,54.5,139.0,-174.0
+401868363,2026,regular,10,2026-11-07T20:00:00.000Z,2016,Alcorn State,SWAC,fcs,38.0,50,Florida A&M,SWAC,fcs,20.0,DraftKings,-10.0,Alcorn State -10,-10.0,60.5,60.5,-407.0,300.0
+401866681,2026,regular,10,2026-11-07T17:00:00.000Z,2405,Monmouth,Coastal Athletic,fcs,21.0,2448,North Carolina A&T,Coastal Athletic,fcs,17.0,DraftKings,-20.5,Monmouth -20.5,-20.5,56.5,56.5,-1300.0,700.0
+401866682,2026,regular,10,2026-11-07T17:00:00.000Z,2529,Sacred Heart,Coastal Athletic,fcs,40.0,119,Towson,Coastal Athletic,fcs,43.0,DraftKings,1.5,Towson -1.5,-1.5,50.5,50.5,-102.0,-121.0
+401867810,2026,regular,10,2026-11-07T17:00:00.000Z,43,Yale,Ivy,fcs,20.0,225,Brown,Ivy,fcs,24.0,DraftKings,-7.0,Yale -7,-7.0,46.5,46.5,-320.0,244.0
+401867839,2026,regular,10,2026-11-07T17:00:00.000Z,163,Princeton,Ivy,fcs,21.0,159,Dartmouth,Ivy,fcs,14.0,DraftKings,1.5,Dartmouth -1.5,-2.5,41.5,41.5,-109.0,-114.0
+401860914,2026,regular,11,2026-11-14T23:00:00.000Z,68,Boise State,Pac-12,fbs,,204,Oregon State,Pac-12,fbs,,DraftKings,-13.5,Boise State -13.5,-4.5,65.5,62.5,-520.0,390.0
+401856864,2026,regular,11,2026-11-15T00:30:00.000Z,12,Arizona,Big 12,fbs,,254,Utah,Big 12,fbs,,DraftKings,2.5,Utah -2.5,1.5,54.5,51.5,120.0,-142.0
+401858526,2026,regular,11,2026-11-14T02:00:00.000Z,26,UCLA,Big Ten,fbs,,356,Illinois,Big Ten,fbs,,DraftKings,-10.0,UCLA -10,-12.5,47.5,47.5,-380.0,300.0
+401867964,2026,regular,10,2026-11-06T00:30:00.000Z,47,Howard,MEAC,fcs,28.0,2569,South Carolina State,MEAC,fcs,35.0,DraftKings,21.5,South Carolina State -21.5,15.5,45.5,50.5,1140.0,-3600.0
+401867922,2026,regular,10,2026-11-07T17:00:00.000Z,2184,Duquesne,NEC,fcs,10.0,2523,Robert Morris,NEC,fcs,13.0,DraftKings,-10.0,Duquesne -10,-10.0,47.5,47.5,-400.0,295.0
+401867976,2026,regular,10,2026-11-07T17:00:00.000Z,2450,Norfolk State,MEAC,fcs,28.0,2428,North Carolina Central,MEAC,fcs,29.0,DraftKings,4.0,North Carolina Central -4,4.0,51.5,50.5,155.0,-195.0
+401866683,2026,regular,10,2026-11-07T18:00:00.000Z,2803,Bryant,Coastal Athletic,fcs,31.0,399,UAlbany,Coastal Athletic,fcs,7.0,DraftKings,10.5,UAlbany -10.5,7.5,44.5,44.5,293.0,-396.0
+401866686,2026,regular,10,2026-11-07T18:00:00.000Z,160,New Hampshire,Coastal Athletic,fcs,24.0,227,Rhode Island,Coastal Athletic,fcs,21.0,DraftKings,7.0,Rhode Island -7,7.0,45.5,45.5,170.0,-215.0
+401858290,2026,regular,10,2026-11-07T20:30:00.000Z,154,Wake Forest,ACC,fbs,77.0,2771,Merrimack,FCS Independents,fcs,0.0,DraftKings,-46.5,Wake Forest -46.5,-47.5,55.5,59.5,,
+401856884,2026,regular,11,2026-11-14T23:15:00.000Z,96,Kentucky,SEC,fbs,,57,Florida,SEC,fbs,,DraftKings,-3.5,Kentucky -3.5,-1.5,53.5,55.5,-166.0,140.0
+401858301,2026,regular,11,2026-11-14T17:00:00.000Z,2567,SMU,ACC,fbs,,154,Wake Forest,ACC,fbs,,DraftKings,1.5,Wake Forest -1.5,3.5,61.5,55.5,-105.0,-115.0
+401867852,2026,regular,10,2026-11-07T19:00:00.000Z,155,North Dakota,MVFC,fcs,49.0,2287,Illinois State,MVFC,fcs,21.0,DraftKings,-6.5,North Dakota -6.5,-6.5,52.5,52.5,-221.0,174.0
+401858522,2026,regular,11,2026-11-14T17:00:00.000Z,194,Ohio State,Big Ten,fbs,,77,Northwestern,Big Ten,fbs,,DraftKings,-12.5,Ohio State -12.5,-9.5,46.5,48.5,-470.0,360.0
 401864579,2026,regular,4,2026-09-26T19:30:00.000Z,166,New Mexico State,Conference USA,fbs,18.0,167,New Mexico,Mountain West,fbs,42.0,DraftKings,11.5,New Mexico -11.5,12.5,47.5,49.5,350.0,-455.0
 401858242,2026,regular,4,2026-09-26T16:00:00.000Z,103,Boston College,ACC,fbs,14.0,259,Virginia Tech,ACC,fbs,21.0,DraftKings,14.5,Virginia Tech -14.5,14.0,45.5,54.5,490.0,-675.0
 401858236,2026,regular,4,2026-09-26T16:00:00.000Z,221,Pittsburgh,ACC,fbs,59.0,2083,Bucknell,Patriot,fcs,0.0,DraftKings,-54.5,Pittsburgh -54.5,-53.5,63.5,61.5,,
 401864572,2026,regular,4,2026-09-26T23:30:00.000Z,152,NC State,ACC,fbs,41.0,2026,App State,Sun Belt,fbs,31.0,DraftKings,-12.5,NC State -12.5,-14.0,56.5,55.5,-535.0,400.0
 401858461,2026,regular,4,2026-09-26T00:00:00.000Z,84,Indiana,Big Ten,fbs,29.0,77,Northwestern,Big Ten,fbs,23.0,DraftKings,-20.5,Indiana -20.5,-23.5,49.5,47.5,-1650.0,950.0
-401868038,2026,regular,10,2026-11-07T18:00:00.000Z,222,Villanova,Patriot,fcs,,257,Richmond,Patriot,fcs,,DraftKings,-8.5,Villanova -8.5,-8.5,47.5,47.5,-366.0,274.0
 401866425,2026,regular,4,2026-09-26T16:00:00.000Z,2309,Kent State,Mid-American,fbs,26.0,2050,Ball State,Mid-American,fbs,13.0,DraftKings,-2.5,Kent State -2.5,-4.5,51.5,51.5,-135.0,114.0
 401864576,2026,regular,4,2026-09-26T16:45:00.000Z,96,Kentucky,SEC,fbs,45.0,6,South Alabama,Sun Belt,fbs,21.0,Bovada,-20.5,Kentucky -20.5,-21.0,54.0,55.0,-1600.0,800.0
 401856709,2026,regular,5,2026-10-03T20:15:00.000Z,2579,South Carolina,SEC,fbs,34.0,96,Kentucky,SEC,fbs,35.0,DraftKings,-2.5,South Carolina -2.5,-7.0,52.5,49.5,-142.0,120.0
-401867852,2026,regular,10,2026-11-07T19:00:00.000Z,155,North Dakota,MVFC,fcs,,2287,Illinois State,MVFC,fcs,,DraftKings,-6.5,North Dakota -6.5,-6.5,52.5,52.5,-221.0,174.0
 401862778,2026,regular,4,2026-09-25T23:00:00.000Z,5,UAB,American Athletic,fbs,24.0,2426,Navy,American Athletic,fbs,20.0,Bovada,6.5,Navy -6.5,7.0,50.0,51.5,235.0,-285.0
 401858468,2026,regular,4,2026-09-25T23:00:00.000Z,164,Rutgers,Big Ten,fbs,58.0,47,Howard,MEAC,fcs,7.0,Bovada,-42.0,Rutgers -42.0,-43.0,57.5,55.0,,
 401858478,2026,regular,5,2026-10-03T23:30:00.000Z,30,USC,Big Ten,fbs,25.0,264,Washington,Big Ten,fbs,21.0,DraftKings,-7.5,USC -7.5,-10.0,58.5,57.5,-310.0,250.0
@@ -752,19 +746,20 @@ id,season,seasonType,week,startDate,homeTeamId,homeTeam,homeConference,homeClass
 401856710,2026,regular,5,2026-10-03T19:30:00.000Z,2633,Tennessee,SEC,fbs,24.0,2,Auburn,SEC,fbs,14.0,DraftKings,-6.0,Tennessee -6,-7.5,54.5,57.5,-230.0,190.0
 401858248,2026,regular,5,2026-10-03T19:30:00.000Z,152,NC State,ACC,fbs,31.0,97,Louisville,ACC,fbs,28.0,DraftKings,5.5,Louisville -5.5,7.5,56.5,59.5,185.0,-225.0
 401862780,2026,regular,4,2026-09-26T22:30:00.000Z,2429,Charlotte,American Athletic,fbs,7.0,309,Louisiana,Sun Belt,fbs,34.0,DraftKings,9.5,Louisiana -9.5,14.5,49.5,52.5,295.0,-375.0
-401867832,2026,regular,10,2026-11-07T18:00:00.000Z,172,Cornell,Ivy,fcs,,219,Pennsylvania,Ivy,fcs,,DraftKings,-6.5,Cornell -6.5,-6.5,45.5,44.5,-250.0,195.0
+401867824,2026,regular,10,2026-11-07T18:00:00.000Z,108,Harvard,Ivy,fcs,37.0,171,Columbia,Ivy,fcs,0.0,DraftKings,-21.5,Harvard -21.5,-21.5,47.5,47.5,-2000.0,900.0
 401858244,2026,regular,4,2026-09-26T19:30:00.000Z,150,Duke,ACC,fbs,62.0,2729,William & Mary,Patriot,fcs,7.0,DraftKings,-43.5,Duke -43.5,-43.5,61.5,60.5,,
-401867996,2026,regular,10,2026-11-07T18:00:00.000Z,2083,Bucknell,Patriot,fcs,,2230,Fordham,Patriot,fcs,,DraftKings,1.5,Fordham -1.5,1.5,44.5,45.5,108.0,-135.0
+401867996,2026,regular,10,2026-11-07T18:00:00.000Z,2083,Bucknell,Patriot,fcs,13.0,2230,Fordham,Patriot,fcs,38.0,DraftKings,1.5,Fordham -1.5,1.5,44.5,45.5,108.0,-135.0
 401861970,2026,regular,4,2026-09-26T19:30:00.000Z,193,Miami (OH),Mid-American,fbs,24.0,41,UConn,FBS Independents,fbs,21.0,DraftKings,-2.5,Miami (OH) -2.5,-3.0,52.5,50.5,-135.0,114.0
 401862785,2026,regular,4,2026-09-26T21:00:00.000Z,189,Bowling Green,Mid-American,fbs,6.0,58,South Florida,American Athletic,fbs,14.0,DraftKings,17.5,South Florida -17.5,15.5,48.5,51.5,675.0,-1050.0
 401856805,2026,regular,4,2026-09-26T16:00:00.000Z,2641,Texas Tech,Big 12,fbs,49.0,2534,Sam Houston,Conference USA,fbs,14.0,DraftKings,-34.5,Texas Tech -34.5,-37.5,55.5,54.5,,
 401856806,2026,regular,4,2026-09-26T20:00:00.000Z,290,Georgia Southern,Sun Belt,fbs,28.0,248,Houston,Big 12,fbs,42.0,DraftKings,17.5,Houston -17.5,19.5,56.5,55.5,625.0,-950.0
-401868005,2026,regular,10,2026-11-07T17:00:00.000Z,2329,Lehigh,Patriot,fcs,,2142,Colgate,Patriot,fcs,,DraftKings,-4.5,Lehigh -4.5,-5.5,43.5,43.5,-182.0,145.0
+401866685,2026,regular,10,2026-11-07T19:00:00.000Z,2210,Elon,Coastal Athletic,fcs,24.0,2261,Hampton,Coastal Athletic,fcs,6.0,DraftKings,-22.5,Elon -22.5,-22.5,47.5,48.5,-2200.0,930.0
 401858240,2026,regular,4,2026-09-27T02:30:00.000Z,24,Stanford,ACC,fbs,34.0,59,Georgia Tech,ACC,fbs,27.0,DraftKings,3.0,Georgia Tech -3,4.5,48.5,48.5,130.0,-155.0
-401867933,2026,regular,10,2026-11-07T17:00:00.000Z,2385,Mercyhurst,NEC,fcs,,2681,Wagner,NEC,fcs,,DraftKings,-8.5,Mercyhurst -8.5,-8.5,49.5,49.5,-366.0,274.0
+401867914,2026,regular,10,2026-11-07T17:00:00.000Z,2441,New Haven,NEC,fcs,17.0,2341,Long Island University,NEC,fcs,10.0,DraftKings,4.5,Long Island University -4.5,4.5,42.5,42.5,155.0,-195.0
+401867832,2026,regular,10,2026-11-07T18:00:00.000Z,172,Cornell,Ivy,fcs,13.0,219,Pennsylvania,Ivy,fcs,14.0,DraftKings,-6.5,Cornell -6.5,-6.5,45.5,44.5,-250.0,195.0
 401856818,2026,regular,5,2026-10-03T23:00:00.000Z,2628,TCU,Big 12,fbs,10.0,252,BYU,Big 12,fbs,17.0,DraftKings,5.5,BYU -5.5,5.5,48.5,52.5,185.0,-225.0
 401864509,2026,regular,4,2026-09-27T02:30:00.000Z,2440,Nevada,Mountain West,fbs,33.0,2005,Air Force,Mountain West,fbs,36.0,DraftKings,4.5,Air Force -4.5,4.5,50.5,48.5,190.0,-230.0
-401866685,2026,regular,10,2026-11-07T19:00:00.000Z,2210,Elon,Coastal Athletic,fcs,,2261,Hampton,Coastal Athletic,fcs,,DraftKings,-22.5,Elon -22.5,-22.5,47.5,48.5,-2200.0,930.0
+401866684,2026,regular,10,2026-11-07T18:00:00.000Z,2097,Campbell,Coastal Athletic,fcs,48.0,2619,Stony Brook,Coastal Athletic,fcs,35.0,DraftKings,-7.0,Campbell -7,-7.0,65.5,65.5,-300.0,230.0
 401856708,2026,regular,5,2026-10-03T19:30:00.000Z,142,Missouri,SEC,fbs,45.0,57,Florida,SEC,fbs,17.0,DraftKings,5.5,Florida -5.5,2.5,57.5,53.5,180.0,-218.0
 401866426,2026,regular,4,2026-09-26T19:30:00.000Z,2084,Buffalo,Mid-American,fbs,31.0,2523,Robert Morris,NEC,fcs,28.0,DraftKings,-27.5,Buffalo -27.5,-28.5,46.5,44.5,-3200.0,1400.0
 401858245,2026,regular,5,2026-10-02T23:00:00.000Z,259,Virginia Tech,ACC,fbs,33.0,221,Pittsburgh,ACC,fbs,35.0,DraftKings,-1.5,Virginia Tech -1.5,-5.5,53.5,56.5,-125.0,105.0
@@ -782,10 +777,10 @@ id,season,seasonType,week,startDate,homeTeamId,homeTeam,homeConference,homeClass
 401856815,2026,regular,4,2026-09-26T19:30:00.000Z,2116,UCF,Big 12,fbs,21.0,2628,TCU,Big 12,fbs,13.0,DraftKings,3.5,TCU -3.5,3.0,48.5,50.5,142.0,-170.0
 401856804,2026,regular,4,2026-09-26T23:30:00.000Z,265,Washington State,Pac-12,fbs,24.0,12,Arizona,Big 12,fbs,34.0,DraftKings,11.5,Arizona -11.5,13.5,47.5,48.5,330.0,-425.0
 401856707,2026,regular,5,2026-10-03T16:00:00.000Z,344,Mississippi State,SEC,fbs,23.0,333,Alabama,SEC,fbs,56.0,DraftKings,5.5,Alabama -5.5,3.0,62.5,58.5,170.0,-205.0
+401868005,2026,regular,10,2026-11-07T17:00:00.000Z,2329,Lehigh,Patriot,fcs,33.0,2142,Colgate,Patriot,fcs,7.0,DraftKings,-4.5,Lehigh -4.5,-5.5,43.5,43.5,-182.0,145.0
 401862779,2026,regular,4,2026-09-25T20:00:00.000Z,218,Temple,American Athletic,fbs,17.0,349,Army,American Athletic,fbs,21.0,Bovada,4.0,Army -4.0,3.0,48.5,49.0,130.0,-150.0
-401868343,2026,regular,10,2026-11-07T18:00:00.000Z,236,Chattanooga,Southern,fcs,,2382,Mercer,Southern,fcs,,DraftKings,2.5,Mercer -2.5,2.5,40.5,40.5,117.0,-145.0
-401868191,2026,regular,10,2026-11-07T18:30:00.000Z,2241,Gardner-Webb,OVC,fcs,,2815,Lindenwood,OVC,fcs,,DraftKings,-5.5,Gardner-Webb -5.5,-5.5,43.5,43.5,-243.0,190.0
-401868252,2026,regular,10,2026-11-07T19:00:00.000Z,2466,Northwestern State,Southland,fcs,,292,UT Rio Grande Valley,Southland,fcs,,DraftKings,20.5,UT Rio Grande Valley -20.5,20.5,56.5,56.5,890.0,-1980.0
+401868038,2026,regular,10,2026-11-07T18:00:00.000Z,222,Villanova,Patriot,fcs,30.0,257,Richmond,Patriot,fcs,0.0,DraftKings,-8.5,Villanova -8.5,-8.5,47.5,47.5,-366.0,274.0
+401868224,2026,regular,10,2026-11-07T18:00:00.000Z,2166,Davidson,Pioneer,fcs,33.0,56,Stetson,Pioneer,fcs,14.0,DraftKings,-1.5,Davidson -1.5,-2.5,60.5,60.5,-111.0,-112.0
 401862781,2026,regular,4,2026-09-26T20:00:00.000Z,151,East Carolina,American Athletic,fbs,42.0,2428,North Carolina Central,MEAC,fcs,9.0,DraftKings,-37.5,East Carolina -37.5,-34.5,58.5,54.5,-100000.0,5000.0
 401871048,2026,regular,4,2026-09-26T23:00:00.000Z,55,Jacksonville State,Conference USA,fbs,23.0,2393,Middle Tennessee,Conference USA,fbs,13.0,DraftKings,-7.0,Jacksonville State -7,-9.5,50.5,54.5,-285.0,230.0
 401856697,2026,regular,4,2026-09-27T00:00:00.000Z,8,Arkansas,SEC,fbs,34.0,202,Tulsa,American Athletic,fbs,6.0,DraftKings,-7.0,Arkansas -7,-8.5,51.5,52.5,-270.0,220.0
@@ -800,33 +795,36 @@ id,season,seasonType,week,startDate,homeTeamId,homeTeam,homeConference,homeClass
 401862784,2026,regular,4,2026-09-26T23:00:00.000Z,2655,Tulane,American Athletic,fbs,24.0,2572,Southern Miss,Sun Belt,fbs,21.0,DraftKings,-17.5,Tulane -17.5,-17.5,52.5,53.5,-1050.0,675.0
 401869931,2026,regular,4,2026-09-26T23:00:00.000Z,2032,Arkansas State,Sun Belt,fbs,17.0,338,Kennesaw State,Conference USA,fbs,14.0,DraftKings,-6.5,Arkansas State -6.5,-5.5,53.5,53.5,-238.0,195.0
 401867806,2026,regular,4,2026-09-25T23:00:00.000Z,225,Brown,Ivy,fcs,10.0,108,Harvard,Ivy,fcs,14.0,DraftKings,13.5,Harvard -13.5,13.5,42.5,45.5,417.0,-610.0
-401872617,2026,regular,10,2026-11-07T19:00:00.000Z,2460,Northern Iowa,MVFC,fcs,,2571,South Dakota State,MVFC,fcs,,DraftKings,15.5,South Dakota State -15.5,14.0,50.5,50.5,452.0,-680.0
+401868343,2026,regular,10,2026-11-07T18:00:00.000Z,236,Chattanooga,Southern,fcs,7.0,2382,Mercer,Southern,fcs,14.0,DraftKings,2.5,Mercer -2.5,2.5,40.5,40.5,117.0,-145.0
 401858474,2026,regular,5,2026-10-03T16:00:00.000Z,135,Minnesota,Big Ten,fbs,20.0,130,Michigan,Big Ten,fbs,14.0,DraftKings,6.5,Michigan -6.5,8.5,41.5,44.5,200.0,-245.0
-401868399,2026,regular,10,2026-11-07T18:00:00.000Z,2717,Western Carolina,Southern,fcs,,2747,Wofford,Southern,fcs,,DraftKings,-4.5,Western Carolina -4.5,-4.5,56.5,54.5,-182.0,145.0
-401868176,2026,regular,10,2026-11-07T19:00:00.000Z,2127,Charleston Southern,OVC,fcs,,2630,UT Martin,OVC,fcs,,DraftKings,-4.5,Charleston Southern -4.5,-6.5,44.5,46.5,-207.0,164.0
-401868379,2026,regular,10,2026-11-07T19:00:00.000Z,2643,The Citadel,Southern,fcs,,231,Furman,Southern,fcs,,DraftKings,3.0,Furman -3,4.0,41.5,41.5,130.0,-162.0
-401868116,2026,regular,10,2026-11-07T20:00:00.000Z,149,Montana,Big Sky,fcs,,2502,Portland State,Big Sky,fcs,,DraftKings,-24.5,Montana -24.5,-24.5,65.5,65.5,-9700.0,1480.0
-401868153,2026,regular,10,2026-11-07T20:00:00.000Z,253,Southern Utah,Big Sky,fcs,,2458,Northern Colorado,Big Sky,fcs,,DraftKings,-10.0,Southern Utah -10,-10.0,54.5,55.5,-366.0,274.0
-401868945,2026,regular,10,2026-11-07T20:00:00.000Z,2582,Southern,SWAC,fcs,,2065,Bethune-Cookman,SWAC,fcs,,DraftKings,-3.0,Southern -3,-3.0,52.5,55.5,-168.0,135.0
-401868200,2026,regular,10,2026-11-07T20:30:00.000Z,2634,Tennessee State,OVC,fcs,,2546,Southeast Missouri State,OVC,fcs,,DraftKings,11.5,Southeast Missouri State -11.5,11.5,43.5,51.5,365.0,-517.0
-401868939,2026,regular,10,2026-11-07T20:00:00.000Z,2755,Grambling,SWAC,fcs,,2029,Arkansas-Pine Bluff,SWAC,fcs,,DraftKings,1.5,Arkansas-Pine Bluff -1.5,1.5,64.5,64.5,-109.0,-114.0
+401868399,2026,regular,10,2026-11-07T18:00:00.000Z,2717,Western Carolina,Southern,fcs,26.0,2747,Wofford,Southern,fcs,10.0,DraftKings,-4.5,Western Carolina -4.5,-4.5,56.5,54.5,-182.0,145.0
+401868252,2026,regular,10,2026-11-07T19:00:00.000Z,2466,Northwestern State,Southland,fcs,7.0,292,UT Rio Grande Valley,Southland,fcs,52.0,DraftKings,20.5,UT Rio Grande Valley -20.5,20.5,56.5,56.5,890.0,-1980.0
+401868379,2026,regular,10,2026-11-07T19:00:00.000Z,2643,The Citadel,Southern,fcs,14.0,231,Furman,Southern,fcs,24.0,DraftKings,3.0,Furman -3,4.0,41.5,41.5,130.0,-162.0
+401868153,2026,regular,10,2026-11-07T20:00:00.000Z,253,Southern Utah,Big Sky,fcs,31.0,2458,Northern Colorado,Big Sky,fcs,24.0,DraftKings,-9.5,Southern Utah -9.5,-10.0,54.5,55.5,-366.0,274.0
+401872617,2026,regular,10,2026-11-07T19:00:00.000Z,2460,Northern Iowa,MVFC,fcs,15.0,2571,South Dakota State,MVFC,fcs,41.0,DraftKings,15.5,South Dakota State -15.5,14.0,50.5,50.5,452.0,-680.0
+401868191,2026,regular,10,2026-11-07T18:30:00.000Z,2241,Gardner-Webb,OVC,fcs,21.0,2815,Lindenwood,OVC,fcs,34.0,DraftKings,-5.5,Gardner-Webb -5.5,-5.5,43.5,43.5,-243.0,190.0
+401868176,2026,regular,10,2026-11-07T19:00:00.000Z,2127,Charleston Southern,OVC,fcs,10.0,2630,UT Martin,OVC,fcs,20.0,DraftKings,-4.5,Charleston Southern -4.5,-6.5,44.5,46.5,-207.0,164.0
+401868393,2026,regular,10,2026-11-07T19:30:00.000Z,2635,Tennessee Tech,Southern,fcs,66.0,2678,VMI,Southern,fcs,14.0,DraftKings,-39.5,Tennessee Tech -39.5,-40.5,47.5,50.5,,
+401868945,2026,regular,10,2026-11-07T20:00:00.000Z,2582,Southern,SWAC,fcs,45.0,2065,Bethune-Cookman,SWAC,fcs,17.0,DraftKings,-3.0,Southern -3,-3.0,52.5,55.5,-168.0,135.0
+401868939,2026,regular,10,2026-11-07T20:00:00.000Z,2755,Grambling,SWAC,fcs,32.0,2029,Arkansas-Pine Bluff,SWAC,fcs,35.0,DraftKings,1.5,Arkansas-Pine Bluff -1.5,1.5,64.5,64.5,-109.0,-114.0
 401858237,2026,regular,4,2026-09-26T19:00:00.000Z,52,Florida State,ACC,fbs,34.0,2110,Central Arkansas,UAC,fcs,7.0,DraftKings,-45.5,Florida State -45.5,-42.5,62.5,59.5,,
 401856814,2026,regular,4,2026-09-26T23:00:00.000Z,2132,Cincinnati,Big 12,fbs,31.0,2306,Kansas State,Big 12,fbs,26.0,DraftKings,6.0,Kansas State -6,6.0,55.5,52.5,195.0,-238.0
-401868393,2026,regular,10,2026-11-07T19:30:00.000Z,2635,Tennessee Tech,Southern,fcs,,2678,VMI,Southern,fcs,,DraftKings,-38.5,Tennessee Tech -38.5,-40.5,47.5,50.5,,
+401868200,2026,regular,10,2026-11-07T20:30:00.000Z,2634,Tennessee State,OVC,fcs,14.0,2546,Southeast Missouri State,OVC,fcs,33.0,DraftKings,11.5,Southeast Missouri State -11.5,11.5,43.5,51.5,365.0,-517.0
 401870745,2026,regular,4,2026-09-26T23:00:00.000Z,98,Western Kentucky,Conference USA,fbs,52.0,2385,Mercyhurst,NEC,fcs,7.0,DraftKings,-39.5,Western Kentucky -39.5,-38.5,58.5,56.5,,
+401868116,2026,regular,10,2026-11-07T20:00:00.000Z,149,Montana,Big Sky,fcs,57.0,2502,Portland State,Big Sky,fcs,24.0,DraftKings,-24.5,Montana -24.5,-24.5,65.5,65.5,-9700.0,1480.0
 401868037,2026,regular,4,2026-09-26T18:00:00.000Z,257,Richmond,Patriot,fcs,13.0,231,Furman,Southern,fcs,9.0,DraftKings,-3.5,Richmond -3.5,-3.5,43.5,45.5,-135.0,108.0
 401866642,2026,regular,4,2026-09-26T16:00:00.000Z,2529,Sacred Heart,Coastal Athletic,fcs,20.0,160,New Hampshire,Coastal Athletic,fcs,13.0,DraftKings,-2.5,Sacred Heart -2.5,-4.5,41.5,45.5,-128.0,103.0
 401868211,2026,regular,4,2026-09-26T18:00:00.000Z,2674,Valparaiso,Pioneer,fcs,28.0,2086,Butler,Pioneer,fcs,33.0,DraftKings,6.5,Butler -6.5,8.5,52.5,52.5,191.0,-244.0
 401868281,2026,regular,4,2026-09-26T18:00:00.000Z,2900,St. Thomas (MN),Pioneer,fcs,50.0,301,San Diego,Pioneer,fcs,17.0,DraftKings,-5.5,St. Thomas (MN) -5.5,-5.5,57.5,58.5,-179.0,143.0
 401866646,2026,regular,4,2026-09-26T19:00:00.000Z,163,Princeton,Ivy,fcs,22.0,399,UAlbany,Coastal Athletic,fcs,0.0,DraftKings,1.5,UAlbany -1.5,1.5,43.5,45.5,-130.0,105.0
 401866648,2026,regular,4,2026-09-26T17:00:00.000Z,2230,Fordham,Patriot,fcs,16.0,2619,Stony Brook,Coastal Athletic,fcs,31.0,DraftKings,9.5,Stony Brook -9.5,10.0,50.5,56.5,249.0,-329.0
+401868302,2026,regular,10,2026-11-07T20:00:00.000Z,2504,Prairie View A&M,SWAC,fcs,31.0,2010,Alabama A&M,SWAC,fcs,10.0,DraftKings,1.5,Alabama A&M -1.5,3.0,57.5,57.5,107.0,-134.0
 401868103,2026,regular,4,2026-09-27T00:00:00.000Z,253,Southern Utah,Big Sky,fcs,24.0,304,Idaho State,Big Sky,fcs,28.0,DraftKings,9.5,Idaho State -9.5,10.5,61.5,60.5,256.0,-339.0
 401862783,2026,regular,4,2026-09-26T23:30:00.000Z,249,North Texas,American Athletic,fbs,63.0,2277,Houston Christian,Southland,fcs,14.0,DraftKings,-38.5,North Texas -38.5,-37.5,60.5,58.5,-100000.0,5000.0
-401868302,2026,regular,10,2026-11-07T20:00:00.000Z,2504,Prairie View A&M,SWAC,fcs,,2010,Alabama A&M,SWAC,fcs,,DraftKings,1.5,Alabama A&M -1.5,3.0,57.5,57.5,107.0,-134.0
+401867904,2026,regular,10,2026-11-07T18:00:00.000Z,284,Stonehill,NEC,fcs,7.0,2115,Central Connecticut,NEC,fcs,31.0,DraftKings,6.5,Central Connecticut -6.5,7.0,51.5,54.5,178.0,-227.0
 401868131,2026,regular,4,2026-09-27T00:00:00.000Z,2458,Northern Colorado,Big Sky,fcs,37.0,3101,Utah Tech,Big Sky,fcs,13.0,DraftKings,-7.5,Northern Colorado -7.5,-7.5,49.5,49.5,-395.0,292.0
 401868076,2026,regular,4,2026-09-26T23:00:00.000Z,331,Eastern Washington,Big Sky,fcs,27.0,13,Cal Poly,Big Sky,fcs,31.0,DraftKings,-3.5,Eastern Washington -3.5,-3.0,58.5,59.5,-209.0,165.0
 401867885,2026,regular,4,2026-09-26T18:00:00.000Z,2754,Youngstown State,MVFC,fcs,47.0,233,South Dakota,MVFC,fcs,28.0,DraftKings,-1.5,Youngstown State -1.5,-1.5,65.5,63.5,101.0,-125.0
-401867904,2026,regular,10,2026-11-07T18:00:00.000Z,284,Stonehill,NEC,fcs,,2115,Central Connecticut,NEC,fcs,,DraftKings,6.5,Central Connecticut -6.5,7.0,51.5,54.5,178.0,-227.0
 401871472,2026,regular,4,2026-09-26T23:00:00.000Z,2546,Southeast Missouri State,OVC,fcs,17.0,110242,West Florida,UAC,fcs,20.0,DraftKings,-6.0,Southeast Missouri State -6,-6.5,52.5,52.5,-171.0,137.0
 401866644,2026,regular,4,2026-09-26T20:00:00.000Z,2448,North Carolina A&T,Coastal Athletic,fcs,22.0,227,Rhode Island,Coastal Athletic,fcs,18.0,DraftKings,24.5,Rhode Island -24.5,24.5,52.5,52.5,1100.0,-3200.0
 401867909,2026,regular,4,2026-09-26T22:00:00.000Z,2229,Florida International,Conference USA,fbs,20.0,2341,Long Island University,NEC,fcs,3.0,DraftKings,-37.5,Florida International -37.5,-35.5,54.5,50.5,-4500.0,1700.0
@@ -858,28 +856,32 @@ id,season,seasonType,week,startDate,homeTeamId,homeTeam,homeConference,homeClass
 401856779,2026,regular,1,2026-09-05T17:00:00.000Z,66,Iowa State,Big 12,fbs,38.0,2546,Southeast Missouri State,OVC,fcs,10.0,DraftKings,-29.5,Iowa State -29.5,-29.5,52.5,53.5,-9000.0,2500.0
 401868120,2026,regular,4,2026-09-27T02:30:00.000Z,147,Montana State,Big Sky,fcs,28.0,2464,Northern Arizona,Big Sky,fcs,14.0,DraftKings,-20.5,Montana State -20.5,-19.5,57.5,56.5,-2100.0,910.0
 401868024,2026,regular,4,2026-09-26T16:30:00.000Z,322,Lafayette,Patriot,fcs,30.0,107,Holy Cross,Patriot,fcs,38.0,DraftKings,-4.0,Lafayette -4,-5.5,46.5,50.5,-180.0,143.0
-401868961,2026,regular,10,2026-11-07T20:00:00.000Z,2296,Jackson State,SWAC,fcs,,2400,Mississippi Valley State,SWAC,fcs,,DraftKings,-24.5,Jackson State -24.5,-24.5,56.5,56.5,-5100.0,1280.0
 401869137,2026,regular,4,2026-09-26T23:00:00.000Z,2377,McNeese,Southland,fcs,27.0,2837,East Texas A&M,Southland,fcs,24.0,DraftKings,-6.5,McNeese -6.5,-2.5,51.5,51.5,-222.0,175.0
-401868082,2026,regular,10,2026-11-07T22:00:00.000Z,13,Cal Poly,Big Sky,fcs,,2464,Northern Arizona,Big Sky,fcs,,DraftKings,14.0,Northern Arizona -14,14.0,62.5,62.5,401.0,
-401868108,2026,regular,10,2026-11-07T23:00:00.000Z,304,Idaho State,Big Sky,fcs,,147,Montana State,Big Sky,fcs,,DraftKings,15.5,Montana State -15.5,14.0,60.5,60.5,489.0,-760.0
-401867872,2026,regular,10,2026-11-07T19:00:00.000Z,93,Murray State,MVFC,fcs,,2754,Youngstown State,MVFC,fcs,,DraftKings,31.5,Youngstown State -31.5,30.5,62.5,62.5,,
-401868068,2026,regular,10,2026-11-07T21:00:00.000Z,2046,Austin Peay,UAC,fcs,,2198,Eastern Kentucky,UAC,fcs,,DraftKings,-19.5,Austin Peay -19.5,-17.5,50.5,52.5,-1020.0,600.0
+401868961,2026,regular,10,2026-11-07T20:00:00.000Z,2296,Jackson State,SWAC,fcs,38.0,2400,Mississippi Valley State,SWAC,fcs,7.0,DraftKings,-24.5,Jackson State -24.5,-24.5,56.5,56.5,-5100.0,1280.0
+401867872,2026,regular,10,2026-11-07T19:00:00.000Z,93,Murray State,MVFC,fcs,35.0,2754,Youngstown State,MVFC,fcs,62.0,DraftKings,31.5,Youngstown State -31.5,30.5,62.5,62.5,,
+401868108,2026,regular,10,2026-11-07T23:00:00.000Z,304,Idaho State,Big Sky,fcs,26.0,147,Montana State,Big Sky,fcs,28.0,DraftKings,15.5,Montana State -15.5,14.0,60.5,60.5,489.0,-760.0
+401868082,2026,regular,10,2026-11-07T22:00:00.000Z,13,Cal Poly,Big Sky,fcs,10.0,2464,Northern Arizona,Big Sky,fcs,38.0,DraftKings,13.5,Northern Arizona -13.5,14.0,62.5,62.5,401.0,
 401867827,2026,regular,4,2026-09-26T17:00:00.000Z,172,Cornell,Ivy,fcs,38.0,43,Yale,Ivy,fcs,25.0,DraftKings,14.0,Yale -14,15.5,48.5,49.5,280.0,-376.0
 401868358,2026,regular,4,2026-09-26T20:00:00.000Z,2016,Alcorn State,SWAC,fcs,43.0,2640,Texas Southern,SWAC,fcs,40.0,DraftKings,-3.5,Alcorn State -3.5,-2.5,55.5,58.5,-172.0,137.0
 401869143,2026,regular,4,2026-09-26T20:00:00.000Z,2447,Nicholls,Southland,fcs,18.0,2320,Lamar,Southland,fcs,49.0,DraftKings,8.5,Lamar -8.5,8.5,45.5,45.5,209.0,-269.0
 401867868,2026,regular,4,2026-09-26T23:00:00.000Z,93,Murray State,MVFC,fcs,6.0,79,Southern Illinois,MVFC,fcs,46.0,DraftKings,17.5,Southern Illinois -17.5,17.5,53.5,54.5,520.0,-820.0
+401868152,2026,regular,10,2026-11-08T00:00:00.000Z,2453,North Alabama,UAC,fcs,28.0,110242,West Florida,UAC,fcs,21.0,DraftKings,-5.5,North Alabama -5.5,-5.5,45.5,47.5,-207.0,164.0
 401866649,2026,regular,4,2026-09-26T22:00:00.000Z,2169,Delaware State,MEAC,fcs,33.0,119,Towson,Coastal Athletic,fcs,28.0,DraftKings,-3.0,Delaware State -3,-3.5,48.5,50.5,-127.0,102.0
-401868166,2026,regular,10,2026-11-08T00:00:00.000Z,302,UC Davis,Big Sky,fcs,,3101,Utah Tech,Big Sky,fcs,,DraftKings,-17.5,UC Davis -17.5,-17.5,58.5,58.5,-1020.0,599.0
-401868152,2026,regular,10,2026-11-08T00:00:00.000Z,2453,North Alabama,UAC,fcs,,110242,West Florida,UAC,fcs,,DraftKings,-5.5,North Alabama -5.5,-5.5,45.5,47.5,-207.0,164.0
+401868166,2026,regular,10,2026-11-08T00:00:00.000Z,302,UC Davis,Big Sky,fcs,24.0,3101,Utah Tech,Big Sky,fcs,17.0,DraftKings,-17.5,UC Davis -17.5,-17.5,58.5,58.5,-1020.0,599.0
 401858422,2026,regular,1,2026-09-04T00:00:00.000Z,135,Minnesota,Big Ten,fbs,59.0,2197,Eastern Illinois,OVC,fcs,7.0,DraftKings,-42.5,Minnesota -42.5,-43.5,52.5,,,
-401869153,2026,regular,10,2026-11-07T21:00:00.000Z,2447,Nicholls,Southland,fcs,,2837,East Texas A&M,Southland,fcs,,DraftKings,3.0,East Texas A&M -3,3.0,45.5,45.5,129.0,-162.0
-401867862,2026,regular,10,2026-11-07T23:00:00.000Z,282,Indiana State,MVFC,fcs,,79,Southern Illinois,MVFC,fcs,,DraftKings,5.5,Southern Illinois -5.5,5.5,56.5,56.5,164.0,-208.0
-401868090,2026,regular,10,2026-11-07T22:00:00.000Z,70,Idaho,Big Sky,fcs,,331,Eastern Washington,Big Sky,fcs,,DraftKings,-9.5,Idaho -9.5,-9.5,67.5,64.5,-385.0,286.0
-401868057,2026,regular,10,2026-11-08T00:00:00.000Z,2627,Tarleton State,UAC,fcs,,2000,Abilene Christian,UAC,fcs,,DraftKings,-10.0,Tarleton State -10,-9.5,58.5,58.5,-364.0,273.0
-401868313,2026,regular,10,2026-11-07T21:00:00.000Z,2320,Lamar,Southland,fcs,,2617,Stephen F. Austin,Southland,fcs,,DraftKings,7.0,Stephen F. Austin -7,7.0,49.5,54.5,214.0,-276.0
-401868268,2026,regular,10,2026-11-07T17:00:00.000Z,2368,Marist,Pioneer,fcs,,2413,Morehead State,Pioneer,fcs,,DraftKings,-16.5,Marist -16.5,-16.5,53.5,56.5,-1020.0,599.0
-401868232,2026,regular,10,2026-11-07T17:00:00.000Z,2168,Dayton,Pioneer,fcs,,2674,Valparaiso,Pioneer,fcs,,DraftKings,-8.5,Dayton -8.5,-9.5,47.5,54.5,-420.0,308.0
-401869140,2026,regular,10,2026-11-07T22:00:00.000Z,2277,Houston Christian,Southland,fcs,,2377,McNeese,Southland,fcs,,DraftKings,-3.0,Houston Christian -3,-2.5,47.5,43.5,-148.0,119.0
+401868313,2026,regular,10,2026-11-07T21:00:00.000Z,2320,Lamar,Southland,fcs,45.0,2617,Stephen F. Austin,Southland,fcs,28.0,DraftKings,7.0,Stephen F. Austin -7,7.0,49.5,54.5,214.0,-276.0
+401866460,2026,regular,11,2026-11-11T01:00:00.000Z,193,Miami (OH),Mid-American,fbs,,195,Ohio,Mid-American,fbs,,DraftKings,1.5,Ohio -1.5,-1.5,46.5,47.5,-102.0,-118.0
+401868090,2026,regular,10,2026-11-07T22:00:00.000Z,70,Idaho,Big Sky,fcs,62.0,331,Eastern Washington,Big Sky,fcs,31.0,DraftKings,-9.5,Idaho -9.5,-9.5,67.5,64.5,-385.0,286.0
+401866461,2026,regular,11,2026-11-12T00:30:00.000Z,2050,Ball State,Mid-American,fbs,,2084,Buffalo,Mid-American,fbs,,DraftKings,2.5,Buffalo -2.5,3.0,51.5,51.5,114.0,-135.0
+401868068,2026,regular,10,2026-11-07T21:00:00.000Z,2046,Austin Peay,UAC,fcs,55.0,2198,Eastern Kentucky,UAC,fcs,31.0,DraftKings,-19.5,Austin Peay -19.5,-17.5,50.5,52.5,-1020.0,600.0
+401867862,2026,regular,10,2026-11-07T23:00:00.000Z,282,Indiana State,MVFC,fcs,20.0,79,Southern Illinois,MVFC,fcs,37.0,DraftKings,5.5,Southern Illinois -5.5,5.5,56.5,56.5,164.0,-208.0
+401868232,2026,regular,10,2026-11-07T17:00:00.000Z,2168,Dayton,Pioneer,fcs,31.0,2674,Valparaiso,Pioneer,fcs,20.0,DraftKings,-8.5,Dayton -8.5,-9.5,47.5,54.5,-420.0,308.0
+401858519,2026,regular,11,2026-11-15T00:30:00.000Z,2294,Iowa,Big Ten,fbs,,2509,Purdue,Big Ten,fbs,,DraftKings,-16.5,Iowa -16.5,-16.5,47.5,45.5,-950.0,625.0
+401868057,2026,regular,10,2026-11-08T00:00:00.000Z,2627,Tarleton State,UAC,fcs,40.0,2000,Abilene Christian,UAC,fcs,27.0,DraftKings,-10.0,Tarleton State -10,-9.5,58.5,58.5,-364.0,273.0
+401868268,2026,regular,10,2026-11-07T17:00:00.000Z,2368,Marist,Pioneer,fcs,14.0,2413,Morehead State,Pioneer,fcs,13.0,DraftKings,-16.5,Marist -16.5,-16.5,53.5,56.5,-1020.0,599.0
+401867933,2026,regular,10,2026-11-07T17:00:00.000Z,2385,Mercyhurst,NEC,fcs,28.0,2681,Wagner,NEC,fcs,33.0,DraftKings,-8.5,Mercyhurst -8.5,-8.5,49.5,49.5,-366.0,274.0
+401869153,2026,regular,10,2026-11-07T21:00:00.000Z,2447,Nicholls,Southland,fcs,32.0,2837,East Texas A&M,Southland,fcs,31.0,DraftKings,3.0,East Texas A&M -3,3.0,45.5,45.5,129.0,-162.0
+401869140,2026,regular,10,2026-11-07T22:00:00.000Z,2277,Houston Christian,Southland,fcs,0.0,2377,McNeese,Southland,fcs,10.0,DraftKings,-3.0,Houston Christian -3,-2.5,47.5,43.5,-148.0,119.0
 401864424,2026,regular,1,2026-09-03T23:00:00.000Z,48,Delaware,Conference USA,fbs,42.0,2771,Merrimack,FCS Independents,fcs,7.0,DraftKings,-31.5,Delaware -31.5,-28.5,56.5,55.5,-8000.0,2200.0
 401864425,2026,regular,1,2026-09-03T23:00:00.000Z,338,Kennesaw State,Conference USA,fbs,47.0,2698,West Georgia,UAC,fcs,0.0,DraftKings,-22.5,Kennesaw State -22.5,-22.5,50.5,51.5,-3600.0,1500.0
 401866409,2026,regular,1,2026-09-03T23:00:00.000Z,2084,Buffalo,Mid-American,fbs,21.0,399,UAlbany,Coastal Athletic,fcs,17.0,DraftKings,-18.5,Buffalo -18.5,-24.5,47.5,48.5,-1000.0,650.0
@@ -893,8 +895,33 @@ id,season,seasonType,week,startDate,homeTeamId,homeTeam,homeConference,homeClass
 401866624,2026,regular,1,2026-09-05T18:00:00.000Z,2405,Monmouth,Coastal Athletic,fcs,31.0,2529,Sacred Heart,Coastal Athletic,fcs,24.0,DraftKings,-11.5,Monmouth -11.5,-15.5,58.5,58.5,-640.0,432.0
 401866626,2026,regular,1,2026-09-05T22:00:00.000Z,2166,Davidson,Pioneer,fcs,0.0,2210,Elon,Coastal Athletic,fcs,38.0,DraftKings,32.5,Elon -32.5,31.5,58.5,57.5,,
 401866629,2026,regular,2,2026-09-12T22:00:00.000Z,2261,Hampton,Coastal Athletic,fcs,3.0,2803,Bryant,Coastal Athletic,fcs,31.0,DraftKings,3.5,Bryant -3.5,3.5,51.5,48.5,133.0,-166.0
-401868321,2026,regular,10,2026-11-08T00:00:00.000Z,2545,SE Louisiana,Southland,fcs,,2916,Incarnate Word,Southland,fcs,,DraftKings,4.0,Incarnate Word -4,4.0,55.5,55.5,135.0,-169.0
-401868137,2026,regular,10,2026-11-07T22:00:00.000Z,2110,Central Arkansas,UAC,fcs,,2698,West Georgia,UAC,fcs,,DraftKings,-13.5,Central Arkansas -13.5,-14.0,48.5,48.5,-620.0,419.0
+401866463,2026,regular,11,2026-11-12T00:30:00.000Z,2649,Toledo,Mid-American,fbs,,113,Massachusetts,Mid-American,fbs,,DraftKings,-14.5,Toledo -14.5,-14.0,52.5,53.5,-625.0,455.0
+401864540,2026,regular,11,2026-11-15T03:00:00.000Z,2638,UTEP,Mountain West,fbs,,2751,Wyoming,Mountain West,fbs,,DraftKings,7.5,Wyoming -7.5,10.0,39.5,43.5,245.0,-305.0
+401858293,2026,regular,11,2026-11-14T00:00:00.000Z,221,Pittsburgh,ACC,fbs,,52,Florida State,ACC,fbs,,DraftKings,-3.5,Pittsburgh -3.5,-3.0,54.5,53.5,-170.0,142.0
+401866458,2026,regular,11,2026-11-11T00:00:00.000Z,2006,Akron,Mid-American,fbs,,2711,Western Michigan,Mid-American,fbs,,DraftKings,14.0,Western Michigan -14,13.5,48.5,47.5,440.0,-600.0
+401866462,2026,regular,11,2026-11-12T00:30:00.000Z,2117,Central Michigan,Mid-American,fbs,,16,Sacramento State,Mid-American,fbs,,DraftKings,-18.5,Central Michigan -18.5,-15.5,43.5,44.5,-1050.0,675.0
+401858294,2026,regular,11,2026-11-14T20:30:00.000Z,87,Notre Dame,FBS Independents,fbs,,103,Boston College,ACC,fbs,,DraftKings,-29.5,Notre Dame -29.5,-31.5,52.5,52.5,-5000.0,1800.0
+401858524,2026,regular,11,2026-11-15T00:00:00.000Z,213,Penn State,Big Ten,fbs,,135,Minnesota,Big Ten,fbs,,DraftKings,-9.5,Penn State -9.5,-7.0,41.5,43.5,-340.0,270.0
+401869969,2026,regular,11,2026-11-13T02:00:00.000Z,2433,UL Monroe,Sun Belt,fbs,,309,Louisiana,Sun Belt,fbs,,DraftKings,11.5,Louisiana -11.5,10.5,49.5,48.5,320.0,-410.0
+401866459,2026,regular,11,2026-11-11T00:00:00.000Z,189,Bowling Green,Mid-American,fbs,,2309,Kent State,Mid-American,fbs,,DraftKings,-5.5,Bowling Green -5.5,-5.5,44.5,44.5,-218.0,180.0
+401862824,2026,regular,11,2026-11-13T01:00:00.000Z,58,South Florida,American Athletic,fbs,,235,Memphis,American Athletic,fbs,,DraftKings,4.0,Memphis -4,6.0,49.5,49.5,160.0,-192.0
+401869928,2026,regular,11,2026-11-14T23:00:00.000Z,276,Marshall,Sun Belt,fbs,,2026,App State,Sun Belt,fbs,,DraftKings,1.5,App State -1.5,2.5,53.5,53.5,100.0,-120.0
+401856889,2026,regular,11,2026-11-14T17:45:00.000Z,238,Vanderbilt,SEC,fbs,,333,Alabama,SEC,fbs,,DraftKings,15.5,Alabama -15.5,19.5,50.5,54.5,575.0,-850.0
+401869952,2026,regular,11,2026-11-14T20:30:00.000Z,2247,Georgia State,Sun Belt,fbs,,290,Georgia Southern,Sun Belt,fbs,,DraftKings,5.5,Georgia Southern -5.5,5.5,56.5,55.5,170.0,-205.0
+401862827,2026,regular,11,2026-11-15T02:00:00.000Z,2636,UTSA,American Athletic,fbs,,249,North Texas,American Athletic,fbs,,DraftKings,2.5,North Texas -2.5,1.5,77.5,75.5,105.0,-125.0
+401858295,2026,regular,11,2026-11-14T20:30:00.000Z,258,Virginia,ACC,fbs,,25,California,ACC,fbs,,DraftKings,-10.0,Virginia -10,-12.5,47.5,47.5,-410.0,320.0
+401868137,2026,regular,10,2026-11-07T22:00:00.000Z,2110,Central Arkansas,UAC,fcs,35.0,2698,West Georgia,UAC,fcs,14.0,DraftKings,-13.5,Central Arkansas -13.5,-14.0,48.5,48.5,-620.0,419.0
+401868321,2026,regular,10,2026-11-08T00:00:00.000Z,2545,SE Louisiana,Southland,fcs,16.0,2916,Incarnate Word,Southland,fcs,35.0,DraftKings,4.0,Incarnate Word -4,4.0,55.5,55.5,135.0,-169.0
+401869937,2026,regular,11,2026-11-14T18:00:00.000Z,324,Coastal Carolina,Sun Belt,fbs,,2032,Arkansas State,Sun Belt,fbs,,DraftKings,-1.5,Coastal Carolina -1.5,-1.5,50.5,50.5,-118.0,-102.0
+401856860,2026,regular,11,2026-11-14T03:15:00.000Z,38,Colorado,Big 12,fbs,,248,Houston,Big 12,fbs,,DraftKings,10.5,Houston -10.5,10.5,50.5,47.5,310.0,-395.0
+401858525,2026,regular,11,2026-11-14T17:30:00.000Z,164,Rutgers,Big Ten,fbs,,158,Nebraska,Big Ten,fbs,,DraftKings,13.5,Nebraska -13.5,12.5,52.5,54.5,410.0,-550.0
+401871100,2026,regular,11,2026-11-15T00:00:00.000Z,6,South Alabama,Sun Belt,fbs,,2653,Troy,Sun Belt,fbs,,DraftKings,-3.0,South Alabama -3,-2.5,55.5,56.5,-155.0,130.0
+401856859,2026,regular,11,2026-11-14T17:00:00.000Z,66,Iowa State,Big 12,fbs,,2132,Cincinnati,Big 12,fbs,,DraftKings,-3.0,Iowa State -3,-1.5,60.5,60.5,-155.0,130.0
+401856882,2026,regular,11,2026-11-15T00:45:00.000Z,8,Arkansas,SEC,fbs,,2579,South Carolina,SEC,fbs,,DraftKings,7.5,South Carolina -7.5,8.5,51.5,51.5,250.0,-310.0
+401870769,2026,regular,11,2026-11-14T19:00:00.000Z,2534,Sam Houston,Conference USA,fbs,,338,Kennesaw State,Conference USA,fbs,,DraftKings,7.5,Kennesaw State -7.5,7.5,46.5,44.5,245.0,-305.0
+401862825,2026,regular,11,2026-11-14T18:00:00.000Z,2429,Charlotte,American Athletic,fbs,,151,East Carolina,American Athletic,fbs,,DraftKings,11.5,East Carolina -11.5,13.5,44.5,47.5,360.0,-470.0
+401862829,2026,regular,11,2026-11-14T18:00:00.000Z,218,Temple,American Athletic,fbs,,5,UAB,American Athletic,fbs,,DraftKings,-2.5,Temple -2.5,-2.5,48.5,51.5,-130.0,110.0
+401861967,2026,regular,11,2026-11-14T17:00:00.000Z,41,UConn,FBS Independents,fbs,,256,James Madison,Sun Belt,fbs,,DraftKings,4.0,James Madison -4,1.5,57.5,56.5,160.0,-192.0
 401866630,2026,regular,2,2026-09-12T21:00:00.000Z,311,Maine,Coastal Athletic,fcs,14.0,2771,Merrimack,FCS Independents,fcs,23.0,DraftKings,-10.0,Maine -10,-10.0,47.5,47.5,-431.0,314.0
 401866631,2026,regular,2,2026-09-12T22:00:00.000Z,160,New Hampshire,Coastal Athletic,fcs,42.0,284,Stonehill,NEC,fcs,35.0,DraftKings,-13.5,New Hampshire -13.5,-13.5,43.5,43.5,-479.0,343.0
 401866632,2026,regular,2,2026-09-12T16:00:00.000Z,2341,Long Island University,NEC,fcs,13.0,399,UAlbany,Coastal Athletic,fcs,35.0,DraftKings,2.5,UAlbany -2.5,5.5,44.5,44.5,116.0,-145.0
@@ -918,6 +945,7 @@ id,season,seasonType,week,startDate,homeTeamId,homeTeam,homeConference,homeClass
 401867867,2026,regular,2,2026-09-12T23:00:00.000Z,93,Murray State,MVFC,fcs,27.0,2674,Valparaiso,Pioneer,fcs,18.0,DraftKings,-14.0,Murray State -14,-10.5,47.5,51.5,-810.0,515.0
 401867874,2026,regular,1,2026-08-28T00:00:00.000Z,155,North Dakota,MVFC,fcs,42.0,2341,Long Island University,NEC,fcs,21.0,DraftKings,-27.5,North Dakota -27.5,,44.5,,,
 401867875,2026,regular,1,2026-09-05T20:00:00.000Z,155,North Dakota,MVFC,fcs,62.0,2900,St. Thomas (MN),Pioneer,fcs,26.0,DraftKings,-28.5,North Dakota -28.5,-27.5,53.5,52.5,,
+401871099,2026,regular,11,2026-11-14T22:00:00.000Z,2348,Louisiana Tech,Sun Belt,fbs,,2572,Southern Miss,Sun Belt,fbs,,DraftKings,-17.5,Louisiana Tech -17.5,-18.5,54.5,54.5,-950.0,625.0
 401867876,2026,regular,2,2026-09-13T02:00:00.000Z,2502,Portland State,Big Sky,fcs,23.0,155,North Dakota,MVFC,fcs,47.0,DraftKings,25.5,North Dakota -25.5,25.5,60.5,58.5,1180.0,-4000.0
 401867883,2026,regular,1,2026-09-06T00:00:00.000Z,2458,Northern Colorado,Big Sky,fcs,23.0,233,South Dakota,MVFC,fcs,38.0,DraftKings,20.5,South Dakota -20.5,20.5,56.5,56.5,920.0,-2100.0
 401867889,2026,regular,1,2026-09-03T23:00:00.000Z,2535,Samford,Southern,fcs,18.0,79,Southern Illinois,MVFC,fcs,22.0,DraftKings,20.5,Southern Illinois -20.5,24.5,54.5,49.5,730.0,-1400.0
@@ -990,6 +1018,20 @@ id,season,seasonType,week,startDate,homeTeamId,homeTeam,homeConference,homeClass
 401869147,2026,regular,3,2026-09-19T23:00:00.000Z,2916,Incarnate Word,Southland,fcs,30.0,2277,Houston Christian,Southland,fcs,23.0,DraftKings,-14.0,Incarnate Word -14,-14.0,50.5,50.5,-680.0,450.0
 401872616,2026,regular,2,2026-09-12T23:00:00.000Z,2571,South Dakota State,MVFC,fcs,57.0,2441,New Haven,NEC,fcs,14.0,DraftKings,-42.5,South Dakota State -42.5,-44.5,54.5,55.5,,
 401874035,2026,regular,1,2026-08-27T23:00:00.000Z,110242,West Florida,UAC,fcs,34.0,79,Southern Illinois,MVFC,fcs,31.0,DraftKings,19.5,Southern Illinois -19.5,,55.5,,,
+401858297,2026,regular,11,2026-11-14T17:30:00.000Z,228,Clemson,ACC,fbs,,59,Georgia Tech,ACC,fbs,,DraftKings,-13.5,Clemson -13.5,-13.5,47.5,49.5,-550.0,410.0
+401870752,2026,regular,11,2026-11-14T20:30:00.000Z,98,Western Kentucky,Conference USA,fbs,,55,Jacksonville State,Conference USA,fbs,,DraftKings,7.5,Jacksonville State -7.5,6.0,53.5,52.5,230.0,-285.0
+401858520,2026,regular,11,2026-11-14T17:00:00.000Z,120,Maryland,Big Ten,fbs,,275,Wisconsin,Big Ten,fbs,,DraftKings,8.5,Wisconsin -8.5,7.5,43.5,43.5,260.0,-325.0
+401856857,2026,regular,11,2026-11-14T20:30:00.000Z,2116,UCF,Big 12,fbs,,9,Arizona State,Big 12,fbs,,DraftKings,-3.5,UCF -3.5,-2.5,48.5,52.5,-170.0,142.0
+401858300,2026,regular,11,2026-11-14T17:00:00.000Z,152,NC State,ACC,fbs,,183,Syracuse,ACC,fbs,,DraftKings,3.0,Syracuse -3,1.5,53.5,56.5,114.0,-135.0
+401860916,2026,regular,11,2026-11-14T21:00:00.000Z,326,Texas State,Pac-12,fbs,,278,Fresno State,Pac-12,fbs,,DraftKings,-10.0,Texas State -10,-7.0,59.5,58.5,-375.0,295.0
+401856886,2026,regular,11,2026-11-14T17:00:00.000Z,344,Mississippi State,SEC,fbs,,2,Auburn,SEC,fbs,,DraftKings,2.5,Auburn -2.5,3.5,50.5,51.5,124.0,-148.0
+401858299,2026,regular,11,2026-11-15T00:30:00.000Z,259,Virginia Tech,ACC,fbs,,24,Stanford,ACC,fbs,,DraftKings,-15.5,Virginia Tech -15.5,-16.5,58.5,59.5,-700.0,500.0
+401864537,2026,regular,11,2026-11-15T04:00:00.000Z,62,Hawai'i,Mountain West,fbs,,2449,North Dakota State,Mountain West,fbs,,DraftKings,6.5,North Dakota State -6.5,9.5,38.5,41.5,200.0,-245.0
+401871060,2026,regular,11,2026-11-14T20:00:00.000Z,48,Delaware,Conference USA,fbs,,2229,Florida International,Conference USA,fbs,,DraftKings,-5.5,Delaware -5.5,-6.5,54.5,50.5,-218.0,180.0
+401864536,2026,regular,11,2026-11-14T20:30:00.000Z,2459,Northern Illinois,Mountain West,fbs,,2440,Nevada,Mountain West,fbs,,DraftKings,7.0,Nevada -7,10.5,47.5,46.5,230.0,-285.0
+401864538,2026,regular,11,2026-11-15T00:00:00.000Z,2005,Air Force,Mountain West,fbs,,23,San José State,Mountain West,fbs,,DraftKings,-12.5,Air Force -12.5,-10.5,47.5,49.5,-470.0,360.0
+401860915,2026,regular,11,2026-11-15T02:30:00.000Z,21,San Diego State,Pac-12,fbs,,328,Utah State,Pac-12,fbs,,DraftKings,2.5,Utah State -2.5,2.5,42.5,44.5,114.0,-135.0
+401856861,2026,regular,11,2026-11-14T22:30:00.000Z,277,West Virginia,Big 12,fbs,,2305,Kansas,Big 12,fbs,,DraftKings,-3.0,West Virginia -3,-2.5,67.5,64.5,-142.0,120.0
 401856711,2026,regular,5,2026-10-03T23:00:00.000Z,245,Texas A&M,SEC,fbs,34.0,8,Arkansas,SEC,fbs,7.0,DraftKings,-13.5,Texas A&M -13.5,-14.5,51.5,51.5,-575.0,425.0
 401858246,2026,regular,5,2026-10-03T16:00:00.000Z,2567,SMU,ACC,fbs,25.0,103,Boston College,ACC,fbs,16.0,DraftKings,-21.5,SMU -21.5,-21.0,55.5,56.5,-1650.0,950.0
 401856807,2026,regular,5,2026-10-03T16:00:00.000Z,2305,Kansas,Big 12,fbs,55.0,2393,Middle Tennessee,Conference USA,fbs,0.0,Bovada,-20.5,Kansas -20.5,-20.0,50.5,50.5,-1400.0,750.0
@@ -1014,6 +1056,7 @@ id,season,seasonType,week,startDate,homeTeamId,homeTeam,homeConference,homeClass
 401856820,2026,regular,5,2026-10-04T03:00:00.000Z,12,Arizona,Big 12,fbs,34.0,2132,Cincinnati,Big 12,fbs,7.0,Bovada,-6.5,Arizona -6.5,-7.0,55.5,55.0,-290.0,240.0
 401864515,2026,regular,5,2026-10-03T19:30:00.000Z,2449,North Dakota State,Mountain West,fbs,28.0,2751,Wyoming,Mountain West,fbs,0.0,DraftKings,-17.5,North Dakota State -17.5,-21.0,44.5,47.5,-950.0,625.0
 401860900,2026,regular,5,2026-10-04T02:30:00.000Z,21,San Diego State,Pac-12,fbs,31.0,326,Texas State,Pac-12,fbs,29.0,DraftKings,10.0,Texas State -10,4.5,57.5,60.5,295.0,-375.0
+401864539,2026,regular,11,2026-11-15T00:30:00.000Z,167,New Mexico,Mountain West,fbs,,2439,UNLV,Mountain West,fbs,,DraftKings,-14.0,New Mexico -14,-13.5,46.5,47.5,-600.0,440.0
 401856822,2026,regular,5,2026-10-03T16:00:00.000Z,66,Iowa State,Big 12,fbs,45.0,277,West Virginia,Big 12,fbs,42.0,Bovada,-3.0,Iowa State -3.0,-2.5,53.0,52.5,-145.0,125.0
 401866477,2026,regular,5,2026-10-03T19:30:00.000Z,193,Miami (OH),Mid-American,fbs,20.0,189,Bowling Green,Mid-American,fbs,24.0,Bovada,-12.0,Miami (OH) -12.0,-15.0,43.0,47.0,-675.0,460.0
 401856821,2026,regular,5,2026-10-03T23:30:00.000Z,38,Colorado,Big 12,fbs,7.0,2641,Texas Tech,Big 12,fbs,29.0,DraftKings,13.5,Texas Tech -13.5,14.5,50.5,50.5,440.0,-600.0
@@ -1022,21 +1065,29 @@ id,season,seasonType,week,startDate,homeTeamId,homeTeam,homeConference,homeClass
 401864513,2026,regular,5,2026-10-04T03:59:00.000Z,62,Hawai'i,Mountain West,fbs,16.0,23,San José State,Mountain West,fbs,20.0,Bovada,-3.0,Hawai'i -3.0,-3.0,51.0,52.0,-145.0,125.0
 401866434,2026,regular,5,2026-10-03T19:30:00.000Z,2309,Kent State,Mid-American,fbs,10.0,195,Ohio,Mid-American,fbs,13.0,DraftKings,3.5,Ohio -3.5,5.5,50.5,52.5,145.0,-175.0
 401860898,2026,regular,5,2026-10-03T23:30:00.000Z,68,Boise State,Pac-12,fbs,37.0,328,Utah State,Pac-12,fbs,18.0,Bovada,-19.5,Boise State -19.5,-20.0,51.5,50.0,-1400.0,750.0
+401860917,2026,regular,11,2026-11-15T03:30:00.000Z,265,Washington State,Pac-12,fbs,,36,Colorado State,Pac-12,fbs,,DraftKings,-9.5,Washington State -9.5,-6.5,67.5,62.5,-360.0,285.0
 401858251,2026,regular,5,2026-10-03T16:00:00.000Z,154,Wake Forest,ACC,fbs,57.0,24,Stanford,ACC,fbs,3.0,Bovada,-14.5,Wake Forest -14.5,-13.0,54.0,54.5,-550.0,390.0
 401858472,2026,regular,5,2026-10-03T20:15:00.000Z,356,Illinois,Big Ten,fbs,17.0,2509,Purdue,Big Ten,fbs,24.0,Bovada,-10.0,Illinois -10.0,-10.0,62.5,59.5,-370.0,285.0
+401856862,2026,regular,11,2026-11-14T19:00:00.000Z,2628,TCU,Big 12,fbs,,2306,Kansas State,Big 12,fbs,,Bovada,-9.0,TCU -9.0,-9.0,46.0,46.0,-355.0,280.0
 401860899,2026,regular,5,2026-10-03T22:00:00.000Z,36,Colorado State,Pac-12,fbs,26.0,204,Oregon State,Pac-12,fbs,56.0,Bovada,7.0,Oregon State -7.0,4.5,62.5,61.0,175.0,-210.0
 401858247,2026,regular,5,2026-10-03T19:30:00.000Z,2439,UNLV,Mountain West,fbs,39.0,25,California,ACC,fbs,31.0,DraftKings,-1.5,UNLV -1.5,-1.5,51.5,52.5,-115.0,-105.0
 401858479,2026,regular,5,2026-10-03T16:30:00.000Z,275,Wisconsin,Big Ten,fbs,31.0,127,Michigan State,Big Ten,fbs,3.0,DraftKings,-8.5,Wisconsin -8.5,-10.0,43.5,44.5,-355.0,280.0
 401858253,2026,regular,5,2026-10-03T19:30:00.000Z,52,Florida State,ACC,fbs,38.0,258,Virginia,ACC,fbs,7.0,DraftKings,1.5,Virginia -1.5,1.5,51.5,51.5,-108.0,-112.0
 401862788,2026,regular,5,2026-10-03T23:00:00.000Z,242,Rice,American Athletic,fbs,14.0,2636,UTSA,American Athletic,fbs,16.0,DraftKings,11.5,UTSA -11.5,12.5,56.5,52.5,380.0,-500.0
+401862828,2026,regular,11,2026-11-14T19:00:00.000Z,242,Rice,American Athletic,fbs,,2655,Tulane,American Athletic,fbs,,DraftKings,-2.5,Rice -2.5,1.5,48.5,46.5,-130.0,110.0
+401871061,2026,regular,11,2026-11-14T20:30:00.000Z,2335,Liberty,Conference USA,fbs,,2393,Middle Tennessee,Conference USA,fbs,,DraftKings,-20.5,Liberty -20.5,-20.5,53.5,54.5,-1600.0,900.0
+401862826,2026,regular,11,2026-11-14T20:30:00.000Z,202,Tulsa,American Athletic,fbs,,2226,Florida Atlantic,American Athletic,fbs,,DraftKings,-5.5,Tulsa -5.5,-5.5,74.5,66.5,-218.0,180.0
 401858475,2026,regular,5,2026-10-03T20:00:00.000Z,158,Nebraska,Big Ten,fbs,48.0,120,Maryland,Big Ten,fbs,23.0,DraftKings,-15.5,Nebraska -15.5,-12.5,52.5,53.5,-700.0,500.0
 401862787,2026,regular,5,2026-10-03T15:00:00.000Z,2429,Charlotte,American Athletic,fbs,8.0,235,Memphis,American Athletic,fbs,59.0,DraftKings,18.5,Memphis -18.5,21.5,52.5,54.5,750.0,-1200.0
 401858477,2026,regular,5,2026-10-04T00:00:00.000Z,164,Rutgers,Big Ten,fbs,15.0,84,Indiana,Big Ten,fbs,47.0,DraftKings,24.5,Indiana -24.5,23.5,56.5,53.5,1200.0,-2400.0
 401860921,2026,regular,5,2026-10-04T01:30:00.000Z,265,Washington State,Pac-12,fbs,6.0,278,Fresno State,Pac-12,fbs,26.0,DraftKings,-2.5,Washington State -2.5,-1.5,44.5,45.5,-130.0,110.0
 401869942,2026,regular,5,2026-10-03T23:00:00.000Z,324,Coastal Carolina,Sun Belt,fbs,24.0,290,Georgia Southern,Sun Belt,fbs,31.0,DraftKings,2.5,Georgia Southern -2.5,-1.5,53.5,52.5,124.0,-148.0
 401869842,2026,regular,5,2026-10-03T23:30:00.000Z,2348,Louisiana Tech,Sun Belt,fbs,31.0,349,Army,American Athletic,fbs,29.0,DraftKings,-1.5,Louisiana Tech -1.5,3.5,46.5,44.5,-115.0,-105.0
+401870796,2026,regular,11,2026-11-14T20:00:00.000Z,2623,Missouri State,Conference USA,fbs,,166,New Mexico State,Conference USA,fbs,,Bovada,-2.5,Missouri State -2.5,-2.5,49.0,49.0,-127.0,107.0
 401869932,2026,regular,5,2026-10-04T00:00:00.000Z,309,Louisiana,Sun Belt,fbs,23.0,2032,Arkansas State,Sun Belt,fbs,20.0,DraftKings,-4.5,Louisiana -4.5,-4.0,49.5,49.5,-205.0,170.0
+401858523,2026,regular,11,2026-11-14T20:30:00.000Z,2483,Oregon,Big Ten,fbs,,130,Michigan,Big Ten,fbs,,Bovada,-10.5,Oregon -10.5,-10.5,40.0,40.0,-440.0,340.0
 401862791,2026,regular,5,2026-10-03T16:00:00.000Z,2005,Air Force,Mountain West,fbs,14.0,2426,Navy,American Athletic,fbs,9.0,Bovada,-3.0,Air Force -3.0,-2.5,45.0,47.0,-145.0,125.0
+401858521,2026,regular,11,2026-11-14T21:15:00.000Z,127,Michigan State,Big Ten,fbs,,264,Washington,Big Ten,fbs,,Bovada,4.5,Washington -4.5,4.5,43.0,43.0,172.0,-205.0
 401868094,2026,regular,5,2026-10-03T02:30:00.000Z,70,Idaho,Big Sky,fcs,35.0,147,Montana State,Big Sky,fcs,34.0,DraftKings,14.5,Montana State -14.5,15.5,56.5,57.5,391.0,-564.0
 401856706,2026,regular,5,2026-10-03T23:45:00.000Z,99,LSU,SEC,fbs,63.0,2377,McNeese,Southland,fcs,14.0,Bovada,-53.0,LSU -53.0,-53.0,61.5,62.0,,
 401869943,2026,regular,6,2026-10-10T23:00:00.000Z,276,Marshall,Sun Belt,fbs,21.0,324,Coastal Carolina,Sun Belt,fbs,27.0,Bovada,-4.5,Marshall -4.5,-3.0,58.0,58.5,-150.0,130.0
