@@ -2790,281 +2790,590 @@ player_id,player_name,team,conference,opponent,comp,att,yds,avg,td,int,qbr,week,
 5214646,Luke Fahey,Ohio State,Big Ten,USC,21,38,260,6.8,1,0,49.0,9,0.5526315789473685
 4592532,Billy Edwards,North Carolina,ACC,Miami,28,34,341,10.0,4,0,95.4,9,0.8235294117647058
 5121169,Darian Mensah,Miami,ACC,North Carolina,22,29,274,9.4,3,0,93.7,9,0.7586206896551724
-4592532,Billy Edwards,North Carolina,ACC,UConn,29,38,255,6.7,3,1,67.1,10,0.7631578947368421
-5079619,Kalieb Osborne,UConn,FBS Independents,North Carolina,17,35,245,7.0,2,2,38.9,10,0.4857142857142857
-5215357,Daniel Rolovich,San José State,Mountain West,Northern Illinois,16,27,231,8.6,1,0,28.8,10,0.5925925925925926
-4881032,Taron Dickens,Northern Illinois,Mountain West,San José State,26,36,259,7.2,1,1,36.6,10,0.7222222222222222
-4838679,Ashton Daniels,Florida State,ACC,Boston College,15,26,178,6.8,0,1,65.4,10,0.5769230769230769
-5307005,Mason McKenzie,Boston College,ACC,Florida State,15,27,166,6.1,2,1,37.2,10,0.5555555555555556
+5141629,Keelon Russell,Alabama,SEC,LSU,17,24,206,8.6,3,0,90.2,10,0.7083333333333334
+5078810,Sam Leavitt,LSU,SEC,Alabama,35,47,380,8.1,0,1,77.1,10,0.7446808510638298
+4875733,Pat McQuaide,Villanova,Patriot,Richmond,11,17,163,9.6,3,0,,10,0.6470588235294118
+5299849,Jack Callaghan,Richmond,Patriot,Villanova,8,21,60,2.9,0,0,,10,0.38095238095238093
+5224535,Casey Bullock,Davidson,Pioneer,Stetson,23,36,357,9.9,3,0,,10,0.6388888888888888
+5219833,Tom von Grote,Stetson,Pioneer,Davidson,29,42,338,8.0,2,2,,10,0.6904761904761905
+5404620,Riley Warzynski,Drake,Pioneer,San Diego,14,28,98,3.5,1,0,,10,0.5
+5404623,Braylon Wilson,Drake,Pioneer,San Diego,5,15,58,3.9,0,1,,10,0.3333333333333333
+5232445,CJ Ceron,San Diego,Pioneer,Drake,9,17,148,8.7,1,1,,10,0.5294117647058824
+5223983,Battle Alberson,Chattanooga,Southern,Mercer,5,9,41,4.6,0,1,,10,0.5555555555555556
+5193282,JP Pickles,Mercer,Southern,Chattanooga,13,22,110,5.0,2,0,,10,0.5909090909090909
+4870864,Gabarri Johnson,Samford,Southern,East Tennessee State,19,32,168,5.3,1,0,,10,0.59375
+5441449,Will Shields,Samford,Southern,East Tennessee State,4,7,56,8.0,1,0,,10,0.5714285714285714
+5164309,Mason Mims,East Tennessee State,Southern,Samford,16,27,171,6.3,2,0,,10,0.5925925925925926
+5198324,Cibastian Broughton,Akron,Mid-American,Ohio,22,34,232,6.8,0,1,18.2,10,0.6470588235294118
+5228762,Nick Poulos,Ohio,Mid-American,Akron,12,20,197,9.9,1,0,59.7,10,0.6
+5388435,Caleb Heavner,Miami (OH),Mid-American,Buffalo,12,23,154,6.7,1,0,31.1,10,0.5217391304347826
+5222591,Jason Wright,Buffalo,Mid-American,Miami (OH),22,46,358,7.8,2,2,61.3,10,0.4782608695652174
+4920153,William Watson III,Massachusetts,Mid-American,Ball State,17,25,302,12.1,1,0,51.3,10,0.68
+5075392,Keldric Luster,Ball State,Mid-American,Massachusetts,17,27,182,6.7,1,0,24.6,10,0.6296296296296297
 5094040,Brogan McCaughey,Eastern Michigan,Mid-American,Central Michigan,12,17,59,3.5,0,1,6.1,10,0.7058823529411765
 5144207,Jace Stuckey,Eastern Michigan,Mid-American,Central Michigan,5,6,44,7.3,1,0,89.8,10,0.8333333333333334
 5149056,Jadyn Glasser,Central Michigan,Mid-American,Eastern Michigan,14,19,175,9.2,1,0,92.3,10,0.7368421052631579
 5158748,Jackson Sharman,Sacramento State,Mid-American,Toledo,8,15,113,7.5,1,0,40.0,10,0.5333333333333333
 5401458,Brian Salazar,Sacramento State,Mid-American,Toledo,12,18,103,5.7,0,0,25.5,10,0.6666666666666666
 5082330,John Alan Richter,Toledo,Mid-American,Sacramento State,9,17,60,3.5,1,1,3.6,10,0.5294117647058824
-5101124,Micah Alejado,Hawai'i,Mountain West,UTEP,26,40,303,7.6,1,1,50.4,10,0.65
-5232049,Raymond Moore III,UTEP,Mountain West,Hawai'i,9,18,109,6.1,1,0,28.7,10,0.5
-5079542,Luke Kromenhoek,South Florida,American Athletic,East Carolina,17,21,179,8.5,1,0,31.3,10,0.8095238095238095
-5075800,Emory Williams,East Carolina,American Athletic,South Florida,19,27,175,6.5,2,0,43.7,10,0.7037037037037037
-4433829,Mitch Griffis,East Carolina,American Athletic,South Florida,7,11,48,4.4,0,0,48.3,10,0.6363636363636364
-5158948,Jared Curtis,Vanderbilt,SEC,Mississippi State,17,27,168,6.2,0,0,40.7,10,0.6296296296296297
-5081405,AJ Swann,Mississippi State,SEC,Vanderbilt,23,36,254,7.1,2,1,19.5,10,0.6388888888888888
-4801717,Noah Fifita,Arizona,Big 12,TCU,24,37,313,8.5,2,1,83.9,10,0.6486486486486487
-5083569,Jaden Craig,TCU,Big 12,Arizona,28,41,232,5.7,1,1,72.0,10,0.6829268292682927
-5079572,Dylan Raiola,Oregon,Big Ten,Ohio State,25,40,257,6.4,2,0,88.8,10,0.625
-5214646,Luke Fahey,Ohio State,Big Ten,Oregon,36,50,360,7.2,2,1,51.0,10,0.72
-4801306,Conner Harrell,Charlotte,American Athletic,UAB,15,31,175,5.6,1,0,9.3,10,0.4838709677419355
-5057381,Ryder Burton,UAB,American Athletic,Charlotte,17,29,141,4.9,0,3,5.3,10,0.5862068965517241
-4801307,Tayven Jackson,North Texas,American Athletic,Rice,18,31,303,9.8,1,0,62.4,10,0.5806451612903226
-5145788,Gael Ochoa,Rice,American Athletic,North Texas,8,13,172,13.2,1,1,16.1,10,0.6153846153846154
-4685578,Gunner Stockton,Georgia,SEC,Ole Miss,9,15,186,12.4,4,0,95.1,10,0.6
-4911529,Trinidad Chambliss,Ole Miss,SEC,Georgia,18,34,170,5.0,0,1,40.9,10,0.5294117647058824
-5150426,Deljay Bailey,Norfolk State,MEAC,North Carolina Central,22,26,278,10.7,2,0,,10,0.8461538461538461
-5159177,Joshua Jones,North Carolina Central,MEAC,Norfolk State,16,28,156,5.6,3,2,,10,0.5714285714285714
-5402159,Gavin Beard,Georgetown,Patriot,Holy Cross,15,25,165,6.6,1,2,,10,0.6
-5154302,David Lynch,Holy Cross,Patriot,Georgetown,16,26,140,5.4,2,1,,10,0.6153846153846154
+4775136,Owen McCown,UTSA,American Athletic,Florida Atlantic,20,35,265,7.6,3,0,34.2,10,0.5714285714285714
+4869991,Caden Veltkamp,Florida Atlantic,American Athletic,UTSA,17,25,210,8.4,4,0,81.9,10,0.68
+5079628,John White,Southern Miss,Sun Belt,James Madison,22,35,266,7.6,1,0,27.5,10,0.6285714285714286
+5172036,JC Evans,James Madison,Sun Belt,Southern Miss,19,26,251,9.7,1,0,84.7,10,0.7307692307692307
+5084352,Bryce Patterson,Morehead State,Pioneer,Marist,10,25,250,10.0,1,3,,10,0.4
+5088964,Sonny Mannino,Marist,Pioneer,Morehead State,10,24,55,2.3,0,0,,10,0.4166666666666667
+5227557,Alex Gevaudan,Mercyhurst,NEC,Wagner,12,27,195,7.2,2,1,,10,0.4444444444444444
+5440760,Jason Wiley,Wagner,NEC,Mercyhurst,30,39,242,6.2,3,0,,10,0.7692307692307693
 5085808,Marqui Adams,Delaware State,MEAC,Morgan State,12,26,169,6.5,1,1,,10,0.46153846153846156
 4870712,Cameron Edge,Morgan State,MEAC,Delaware State,19,31,136,4.4,0,1,,10,0.6129032258064516
+4812381,Gunnar Smith,Fordham,Patriot,Bucknell,11,17,81,4.8,0,0,,10,0.6470588235294118
+5402059,Emmett Dowling,Bucknell,Patriot,Fordham,19,32,146,4.6,1,1,,10,0.59375
+5104738,Ryan Browne,Purdue,Big Ten,Maryland,24,38,296,7.8,0,0,64.8,10,0.631578947368421
+5141695,Malik Washington,Maryland,Big Ten,Purdue,13,18,253,14.1,2,1,89.8,10,0.7222222222222222
+5230195,Karson Siqueiros-Lasky,Pennsylvania,Ivy,Cornell,24,38,220,5.8,1,0,,10,0.631578947368421
+5443096,Michael McColgan,Cornell,Ivy,Pennsylvania,5,22,47,2.1,0,0,,10,0.22727272727272727
+4875128,Lex Thomas,Western Carolina,Southern,Wofford,22,35,237,6.8,0,0,,10,0.6285714285714286
+5439484,Kaeden Gilstrap,Wofford,Southern,Western Carolina,9,18,96,5.3,0,0,,10,0.5
+5156255,JT Fayard,Wofford,Southern,Western Carolina,4,13,22,1.7,0,0,,10,0.3076923076923077
+5085784,Chase Mason,South Dakota State,MVFC,Northern Iowa,10,18,181,10.1,2,0,,10,0.5555555555555556
+4826635,Jaxon Dailey,Northern Iowa,MVFC,South Dakota State,23,39,177,4.5,1,0,,10,0.5897435897435898
+5089309,Jake Stearney,Colgate,Patriot,Lehigh,8,16,105,6.6,0,2,,10,0.5
+5155751,Jackson Kilburg,Colgate,Patriot,Lehigh,5,11,48,4.4,1,0,,10,0.45454545454545453
+5402237,Patrick Coan,Lehigh,Patriot,Colgate,13,24,221,9.2,1,0,,10,0.5416666666666666
+5079555,D.J. Lagway,Baylor,Big 12,Iowa State,16,28,229,8.2,2,0,81.8,10,0.5714285714285714
+5080403,Jaylen Raynor,Iowa State,Big 12,Baylor,22,37,256,6.9,2,0,88.5,10,0.5945945945945946
+5154881,Bryce Schondelmyer,Dayton,Pioneer,Valparaiso,23,32,291,9.1,4,3,,10,0.71875
+5089335,Rowan Keefe,Valparaiso,Pioneer,Dayton,17,35,179,5.1,1,1,,10,0.4857142857142857
 5224468,Gabe Passini,Butler,Pioneer,St. Thomas (MN),13,23,135,5.9,2,0,,10,0.5652173913043478
 5151370,Anthony Policare,St. Thomas (MN),Pioneer,Butler,15,26,152,5.8,0,1,,10,0.5769230769230769
-5224535,Casey Bullock,Davidson,Pioneer,Stetson,23,36,357,9.9,3,0,,10,0.6388888888888888
-5219833,Tom von Grote,Stetson,Pioneer,Davidson,29,42,338,8.0,2,2,,10,0.6904761904761905
+5106897,Jack O'Connell,Stonehill,NEC,Central Connecticut,11,28,111,4.0,0,2,,10,0.39285714285714285
+4711410,Brett Griffis,Central Connecticut,NEC,Stonehill,21,27,286,10.6,3,0,,10,0.7777777777777778
+5083941,Collin Shannon,Murray State,MVFC,Youngstown State,23,39,351,9.0,3,0,,10,0.5897435897435898
+5109518,Beau Brungard,Youngstown State,MVFC,Murray State,31,34,423,12.4,4,0,,10,0.9117647058823529
+5402159,Gavin Beard,Georgetown,Patriot,Holy Cross,15,25,165,6.6,1,2,,10,0.6
+5154302,David Lynch,Holy Cross,Patriot,Georgetown,16,26,140,5.4,2,1,,10,0.6153846153846154
+5124584,Blake Barnett,Kansas State,Big 12,Oklahoma State,7,17,106,6.2,1,2,1.0,10,0.4117647058823529
+5164321,Dillon Duff,Kansas State,Big 12,Oklahoma State,10,17,94,5.5,1,1,71.2,10,0.5882352941176471
+5219834,Drew Mestemaker,Oklahoma State,Big 12,Kansas State,22,28,313,11.2,4,1,90.2,10,0.7857142857142857
+5091836,Jaxon Potter,Old Dominion,Sun Belt,Coastal Carolina,17,30,150,5.0,1,1,18.9,10,0.5666666666666667
+5296439,Deuce Bailey,Coastal Carolina,Sun Belt,Old Dominion,17,33,233,7.1,0,3,16.4,10,0.5151515151515151
+5152029,Tre Guerra,Coastal Carolina,Sun Belt,Old Dominion,2,7,10,1.4,0,1,0.4,10,0.2857142857142857
 5224320,Jared Echols,Charleston Southern,OVC,UT Martin,6,12,100,8.3,0,1,,10,0.5
 5298251,Caden Clay,Charleston Southern,OVC,UT Martin,6,24,76,3.2,0,0,,10,0.25
 5299226,Tate Surber,UT Martin,OVC,Charleston Southern,14,16,88,5.5,0,0,,10,0.875
-5151171,Will Burns,Southern Utah,Big Sky,Northern Colorado,18,29,201,6.9,2,0,,10,0.6206896551724138
-4873077,Brayten Silbor,Northern Colorado,Big Sky,Southern Utah,21,35,149,4.3,2,2,,10,0.6
+5083490,Ayden Pereira,Georgia State,Sun Belt,App State,10,17,115,6.8,3,0,48.1,10,0.5882352941176471
+4870999,Malachi Singleton,App State,Sun Belt,Georgia State,23,34,241,7.1,2,2,11.7,10,0.6764705882352942
+4875127,Lanorris Sellers,South Carolina,SEC,Texas A&M,20,31,251,8.1,1,0,77.9,10,0.6451612903225806
+4870971,Marcel Reed,Texas A&M,SEC,South Carolina,25,43,251,5.8,0,0,54.5,10,0.5813953488372093
+5123665,Trey Owens,Arkansas State,Sun Belt,UL Monroe,16,29,193,6.7,1,2,28.6,10,0.5517241379310345
+5122054,Aidan Armenta,UL Monroe,Sun Belt,Arkansas State,11,15,90,6.0,0,2,75.4,10,0.7333333333333333
+5079516,KJ Jackson,Arkansas,SEC,Auburn,14,30,180,6.0,1,1,45.2,10,0.4666666666666667
+4880272,Byrum Brown,Auburn,SEC,Arkansas,23,34,180,5.3,2,0,58.1,10,0.6764705882352942
+4801306,Conner Harrell,Charlotte,American Athletic,UAB,15,31,175,5.6,1,0,9.3,10,0.4838709677419355
+5057381,Ryder Burton,UAB,American Athletic,Charlotte,17,29,141,4.9,0,3,5.3,10,0.5862068965517241
+5158948,Jared Curtis,Vanderbilt,SEC,Mississippi State,17,27,168,6.2,0,0,40.7,10,0.6296296296296297
+5081405,AJ Swann,Mississippi State,SEC,Vanderbilt,23,36,254,7.1,2,1,19.5,10,0.6388888888888888
+5194626,Roman Gagliano,Middle Tennessee,Conference USA,Western Kentucky,30,41,312,7.6,4,0,74.5,10,0.7317073170731707
+4920158,Brock Glenn,Western Kentucky,Conference USA,Middle Tennessee,13,23,152,6.6,1,0,51.5,10,0.5652173913043478
+5196864,Rodney Tisdale Jr.,Western Kentucky,Conference USA,Middle Tennessee,11,13,107,8.2,1,0,95.5,10,0.8461538461538461
+4949488,Jacobe Robinson,Grambling,SWAC,Arkansas-Pine Bluff,15,23,203,8.8,1,0,,10,0.6521739130434783
+5085259,Ashton Frye,Grambling,SWAC,Arkansas-Pine Bluff,6,12,30,2.5,0,0,,10,0.5
+5163068,Jack Schierholz,Arkansas-Pine Bluff,SWAC,Grambling,10,19,208,10.9,1,0,,10,0.5263157894736842
+5300880,Aidan Jakobsohn,UT Rio Grande Valley,Southland,Northwestern State,15,20,188,9.4,3,0,,10,0.75
+4808719,Zach Wilcke,Northwestern State,Southland,UT Rio Grande Valley,28,50,244,4.9,0,3,,10,0.56
+4432703,Jake Garcia,Furman,Southern,The Citadel,15,24,127,5.3,1,0,,10,0.625
+4695602,Nick Billoups,The Citadel,Southern,Furman,11,20,120,6.0,0,0,,10,0.55
+5227699,Beckham Pellant,Illinois State,MVFC,North Dakota,24,42,239,5.7,2,0,,10,0.5714285714285714
+5155528,Jerry Kaminski,North Dakota,MVFC,Illinois State,18,27,293,10.9,5,0,,10,0.6666666666666666
+4870848,Tyler Jefferson,Bethune-Cookman,SWAC,Southern,12,31,144,4.6,1,1,,10,0.3870967741935484
+5442202,Christian Johnson,Southern,SWAC,Bethune-Cookman,8,13,111,8.5,2,0,,10,0.6153846153846154
+5382898,Landon Varnes,Kennesaw State,Conference USA,Delaware,19,37,254,6.9,1,1,19.5,10,0.5135135135135135
+4870645,Rickie Collins,Kennesaw State,Conference USA,Delaware,5,7,55,7.9,0,1,19.8,10,0.7142857142857143
+5153846,Nick Minicucci,Delaware,Conference USA,Kennesaw State,35,54,408,7.6,2,0,47.6,10,0.6481481481481481
+4685574,Conner Weigman,Houston,Big 12,Cincinnati,17,24,227,9.5,2,0,90.2,10,0.7083333333333334
+4685345,JC French,Cincinnati,Big 12,Houston,19,30,217,7.2,2,0,82.1,10,0.6333333333333333
+5141634,Steele Pizzella,Wake Forest,ACC,Merrimack,23,28,432,15.4,3,0,87.0,10,0.8214285714285714
+5146355,AJ Hairston,Merrimack,FCS Independents,Wake Forest,11,27,80,3.0,0,1,,10,0.4074074074074074
+5225304,Cole Meehan,Merrimack,FCS Independents,Wake Forest,5,8,20,2.5,0,1,,10,0.625
+5441396,Aaron Frye,Alabama State,SWAC,Texas Southern,13,17,209,12.3,2,0,,10,0.7647058823529411
+4917305,Cam'Ron McCoy,Texas Southern,SWAC,Alabama State,10,20,113,5.7,3,1,,10,0.5
+5165011,Kennedy McGill,Western Illinois,OVC,Eastern Illinois,12,14,215,15.4,1,0,,10,0.8571428571428571
+5113896,Cole Lacrue,Eastern Illinois,OVC,Western Illinois,11,17,174,10.2,2,2,,10,0.6470588235294118
+5083199,Jeremiah Salem,Eastern Illinois,OVC,Western Illinois,2,10,23,2.3,1,0,,10,0.2
 5442040,Armond Parker,Florida A&M,SWAC,Alcorn State,20,36,283,7.9,2,1,,10,0.5555555555555556
 4878822,Jaylon Tolbert,Alcorn State,SWAC,Florida A&M,16,23,314,13.7,4,1,,10,0.6956521739130435
 5162467,Daylin Lee,Tennessee State,OVC,Southeast Missouri State,20,36,273,7.6,2,1,,10,0.5555555555555556
 5152442,Chance Wilson,Southeast Missouri State,OVC,Tennessee State,6,13,58,4.5,0,1,,10,0.46153846153846156
 5439307,Chase Richardson,Nicholls,Southland,East Texas A&M,14,26,135,5.2,1,0,,10,0.5384615384615384
 5441947,Reese Mooney,East Texas A&M,Southland,Nicholls,23,44,352,8.0,1,2,,10,0.5227272727272727
-4685698,Destin Wade,North Alabama,UAC,West Florida,12,19,194,10.2,2,2,,10,0.631578947368421
-5436233,Ty'ray Davis,West Florida,UAC,North Alabama,22,35,308,8.8,2,1,,10,0.6285714285714286
-4915980,John Mateer,Oklahoma,SEC,Florida,21,33,207,6.3,2,0,71.8,10,0.6363636363636364
-5295814,Tramell Jones Jr.,Florida,SEC,Oklahoma,10,22,133,6.0,0,2,16.8,10,0.45454545454545453
-4875127,Lanorris Sellers,South Carolina,SEC,Texas A&M,20,31,251,8.1,1,0,77.9,10,0.6451612903225806
-4870971,Marcel Reed,Texas A&M,SEC,South Carolina,25,43,251,5.8,0,0,54.5,10,0.5813953488372093
-5388435,Caleb Heavner,Miami (OH),Mid-American,Buffalo,12,23,154,6.7,1,0,31.1,10,0.5217391304347826
-5222591,Jason Wright,Buffalo,Mid-American,Miami (OH),22,46,358,7.8,2,2,61.3,10,0.4782608695652174
-4685574,Conner Weigman,Houston,Big 12,Cincinnati,17,24,227,9.5,2,0,90.2,10,0.7083333333333334
-4685345,JC French,Cincinnati,Big 12,Houston,19,30,217,7.2,2,0,82.1,10,0.6333333333333333
-5141571,George MacIntyre,Tennessee,SEC,Kentucky,9,14,125,8.9,0,0,60.7,10,0.6428571428571429
-4918099,Kenny Minchey,Kentucky,SEC,Tennessee,26,34,224,6.6,0,1,57.2,10,0.7647058823529411
-5105849,Devon Dampier,Utah,Big 12,BYU,14,26,177,6.8,2,0,77.5,10,0.5384615384615384
-5141367,Bear Bachmeier,BYU,Big 12,Utah,21,35,272,7.8,1,4,56.5,10,0.6
-5141684,Austin Simmons,Missouri,SEC,Texas,23,43,252,5.9,2,0,75.3,10,0.5348837209302325
-4870906,Arch Manning,Texas,SEC,Missouri,28,38,297,7.8,3,0,78.0,10,0.7368421052631579
-4920153,William Watson III,Massachusetts,Mid-American,Ball State,17,25,302,12.1,1,0,51.3,10,0.68
-5075392,Keldric Luster,Ball State,Mid-American,Massachusetts,17,27,182,6.7,1,0,24.6,10,0.6296296296296297
-5079516,KJ Jackson,Arkansas,SEC,Auburn,14,30,180,6.0,1,1,45.2,10,0.4666666666666667
-4880272,Byrum Brown,Auburn,SEC,Arkansas,23,34,180,5.3,2,0,58.1,10,0.6764705882352942
-5144959,Drake Lindsey,Minnesota,Big Ten,UCLA,19,37,205,5.5,1,1,60.4,10,0.5135135135135135
-5092275,Ty Dieffenbach,UCLA,Big Ten,Minnesota,8,16,303,18.9,3,1,87.9,10,0.5
-5148427,Landyn Locke,Sam Houston,Conference USA,Jacksonville State,16,21,126,6.0,1,0,18.7,10,0.7619047619047619
-5220425,DJ Bailey,Sam Houston,Conference USA,Jacksonville State,5,7,63,9.0,1,0,92.1,10,0.7142857142857143
-5122157,Caden Creel,Jacksonville State,Conference USA,Sam Houston,18,28,246,8.8,2,0,40.2,10,0.6428571428571429
-5441396,Aaron Frye,Alabama State,SWAC,Texas Southern,13,17,209,12.3,2,0,,10,0.7647058823529411
-4917305,Cam'Ron McCoy,Texas Southern,SWAC,Alabama State,10,20,113,5.7,3,1,,10,0.5
-5154962,Kamden Sixkiller,Campbell,Coastal Athletic,Stony Brook,33,46,396,8.6,4,0,,10,0.717391304347826
-5226896,Quinn Boyd,Stony Brook,Coastal Athletic,Campbell,31,43,348,8.1,4,1,,10,0.7209302325581395
-5198324,Cibastian Broughton,Akron,Mid-American,Ohio,22,34,232,6.8,0,1,18.2,10,0.6470588235294118
-5228762,Nick Poulos,Ohio,Mid-American,Akron,12,20,197,9.9,1,0,59.7,10,0.6
+5153708,Keali'i Ah Yat,Montana,Big Sky,Portland State,19,28,259,9.3,1,0,,10,0.6785714285714286
+5075571,John-Keawe Sagapolutele,Portland State,Big Sky,Montana,21,37,205,5.5,1,0,,10,0.5675675675675675
+5083145,Bo Kelly,Cal Poly,Big Sky,Northern Arizona,18,28,146,5.2,0,1,,10,0.6428571428571429
+5225414,Ty Pennington,Northern Arizona,Big Sky,Cal Poly,14,29,130,4.5,0,0,,10,0.4827586206896552
 5079604,Isaiah Marshall,Kansas,Big 12,UCF,21,32,210,6.6,0,0,89.1,10,0.65625
 4911929,Alonza Barnett,UCF,Big 12,Kansas,18,31,251,8.1,2,1,63.3,10,0.5806451612903226
+5191162,Alberto Mendoza,Georgia Tech,ACC,Louisville,13,25,148,5.9,1,0,30.5,10,0.52
+5207610,Grady Adamson,Georgia Tech,ACC,Louisville,12,19,93,4.9,1,1,32.7,10,0.631578947368421
+5078278,Lincoln Kienholz,Louisville,ACC,Georgia Tech,17,25,182,7.3,2,0,78.8,10,0.68
+5141571,George MacIntyre,Tennessee,SEC,Kentucky,9,14,125,8.9,0,0,60.7,10,0.6428571428571429
+4918099,Kenny Minchey,Kentucky,SEC,Tennessee,26,34,224,6.6,0,1,57.2,10,0.7647058823529411
+5269403,Tommy Carr,Michigan,Big Ten,Michigan State,14,26,138,5.3,0,2,38.8,10,0.5384615384615384
+5146670,Alessio Milivojevic,Michigan State,Big Ten,Michigan,21,32,188,5.9,0,0,58.8,10,0.65625
+5224084,Trey Hedden,New Mexico State,Conference USA,Liberty,19,29,256,8.8,2,2,63.0,10,0.6551724137931034
+5138131,Deshawn Purdie,Liberty,Conference USA,New Mexico State,19,28,252,9.0,1,0,73.6,10,0.6785714285714286
 5209295,Jake Fette,Arizona State,Big 12,Colorado,13,19,187,9.8,1,0,63.1,10,0.6842105263157895
 5079771,Isaac Wilson,Colorado,Big 12,Arizona State,20,31,248,8.0,1,1,26.5,10,0.6451612903225806
-5079555,D.J. Lagway,Baylor,Big 12,Iowa State,16,28,229,8.2,2,0,81.8,10,0.5714285714285714
-5080403,Jaylen Raynor,Iowa State,Big 12,Baylor,22,37,256,6.9,2,0,88.5,10,0.5945945945945946
-5124584,Blake Barnett,Kansas State,Big 12,Oklahoma State,7,17,106,6.2,1,2,1.0,10,0.4117647058823529
-5164321,Dillon Duff,Kansas State,Big 12,Oklahoma State,10,17,94,5.5,1,1,71.2,10,0.5882352941176471
-5219834,Drew Mestemaker,Oklahoma State,Big 12,Kansas State,22,28,313,11.2,4,1,90.2,10,0.7857142857142857
+4795295,Katin Houser,Illinois,Big Ten,Nebraska,22,36,292,8.1,3,0,75.2,10,0.6111111111111112
+5044387,Anthony Colandrea,Nebraska,Big Ten,Illinois,32,43,284,6.6,1,0,55.5,10,0.7441860465116279
+5271361,Eddie Jordan,Lafayette,Patriot,William & Mary,11,20,130,6.5,0,0,,10,0.55
+5226917,Winston Watkins,William & Mary,Patriot,Lafayette,14,25,132,5.3,1,0,,10,0.56
+5416075,Donovyn Omolo,Central Arkansas,UAC,West Georgia,24,34,250,7.4,1,0,,10,0.7058823529411765
+5157481,Collin Hurst,West Georgia,UAC,Central Arkansas,15,25,184,7.4,1,0,,10,0.6
+4915622,Jake Strong,McNeese,Southland,Houston Christian,20,36,175,4.9,0,0,,10,0.5555555555555556
+4691966,Maddox Kopp,Houston Christian,Southland,McNeese,9,19,118,6.2,0,1,,10,0.47368421052631576
+5169036,Gavin Rutherford,Stephen F. Austin,Southland,Lamar,24,34,315,9.3,2,2,,10,0.7058823529411765
+5154911,Aiden McCown,Lamar,Southland,Stephen F. Austin,17,29,307,10.6,3,0,,10,0.5862068965517241
+4832830,Joshua Wood,Idaho,Big Sky,Eastern Washington,20,29,315,10.9,3,0,,10,0.6896551724137931
+5152110,Nate Bell,Eastern Washington,Big Sky,Idaho,17,24,174,7.3,1,0,,10,0.7083333333333334
+5146672,Jake Schakel,Eastern Washington,Big Sky,Idaho,6,10,74,7.4,2,1,,10,0.6
+5210475,Ryan Hopkins,Wisconsin,Big Ten,Rutgers,18,24,241,10.0,3,0,54.8,10,0.75
+5079717,AJ Surace,Rutgers,Big Ten,Wisconsin,14,24,161,6.7,1,0,45.6,10,0.5833333333333334
+5158746,Jordan Cooke,Idaho State,Big Sky,Montana State,30,52,318,6.1,0,1,,10,0.5769230769230769
+4684502,Justin Lamson,Montana State,Big Sky,Idaho State,22,37,209,5.6,1,0,,10,0.5945945945945946
+4773919,Thomas Castellanos,Texas Tech,Big 12,West Virginia,18,27,362,13.4,5,0,81.3,10,0.6666666666666666
+5079465,Michael Hawkins Jr.,West Virginia,Big 12,Texas Tech,11,16,303,18.9,1,0,92.0,10,0.6875
+5150998,Blake Baker,Louisiana Tech,Sun Belt,Troy,16,19,177,9.3,1,0,43.8,10,0.8421052631578947
+5296376,Trey Kukuk,Louisiana Tech,Sun Belt,Troy,8,10,68,6.8,1,0,93.1,10,0.8
+4912119,Tucker Kilcrease,Troy,Sun Belt,Louisiana Tech,18,33,215,6.5,0,1,14.5,10,0.5454545454545454
+5079542,Luke Kromenhoek,South Florida,American Athletic,East Carolina,17,21,179,8.5,1,0,31.3,10,0.8095238095238095
+5075800,Emory Williams,East Carolina,American Athletic,South Florida,19,27,175,6.5,2,0,43.7,10,0.7037037037037037
+4433829,Mitch Griffis,East Carolina,American Athletic,South Florida,7,11,48,4.4,0,0,48.3,10,0.6363636363636364
+5261479,Toa Faavae,New Mexico,Mountain West,Nevada,14,20,150,7.5,1,0,27.7,10,0.7
+4819250,AJ Bianco,Nevada,Mountain West,New Mexico,14,31,106,3.4,0,0,16.7,10,0.45161290322580644
+4801717,Noah Fifita,Arizona,Big 12,TCU,24,37,313,8.5,2,1,83.9,10,0.6486486486486487
+5083569,Jaden Craig,TCU,Big 12,Arizona,28,41,232,5.7,1,1,72.0,10,0.6829268292682927
+4685578,Gunner Stockton,Georgia,SEC,Ole Miss,9,15,186,12.4,4,0,95.1,10,0.6
+4911529,Trinidad Chambliss,Ole Miss,SEC,Georgia,18,34,170,5.0,0,1,40.9,10,0.5294117647058824
+5141684,Austin Simmons,Missouri,SEC,Texas,23,43,252,5.9,2,0,75.3,10,0.5348837209302325
+4870906,Arch Manning,Texas,SEC,Missouri,28,38,297,7.8,3,0,78.0,10,0.7368421052631579
+4915980,John Mateer,Oklahoma,SEC,Florida,21,33,207,6.3,2,0,71.8,10,0.6363636363636364
+5295814,Tramell Jones Jr.,Florida,SEC,Oklahoma,10,22,133,6.0,0,2,16.8,10,0.45454545454545453
+5151171,Will Burns,Southern Utah,Big Sky,Northern Colorado,18,29,201,6.9,2,0,,10,0.6206896551724138
+4873077,Brayten Silbor,Northern Colorado,Big Sky,Southern Utah,21,35,149,4.3,2,2,,10,0.6
+4801301,Tevin Carter,Prairie View A&M,SWAC,Alabama A&M,25,35,292,8.3,2,2,,10,0.7142857142857143
+4568411,Cornelious Brown,Alabama A&M,SWAC,Prairie View A&M,16,32,124,3.9,0,2,,10,0.5
+5144078,Ethan Grunkemeyer,Virginia Tech,ACC,SMU,28,38,291,7.7,1,1,63.7,10,0.7368421052631579
+5084084,Kevin Jennings,SMU,ACC,Virginia Tech,24,32,350,10.9,4,1,84.5,10,0.75
+5141367,Bear Bachmeier,BYU,Big 12,Utah,21,35,272,7.8,1,4,56.5,10,0.6
+5105849,Devon Dampier,Utah,Big 12,BYU,14,26,177,6.8,2,0,77.5,10,0.5384615384615384
+5226663,Frankie Weaver,Monmouth,Coastal Athletic,North Carolina A&T,14,29,201,6.9,1,0,,10,0.4827586206896552
+5164567,Kevin White,North Carolina A&T,Coastal Athletic,Monmouth,13,29,236,8.1,2,0,,10,0.4482758620689655
+5405931,Jacob Davis,Towson,Coastal Athletic,Sacred Heart,24,35,251,7.2,3,0,,10,0.6857142857142857
+5225700,Jack Snyder,Sacred Heart,Coastal Athletic,Towson,27,33,261,7.9,2,1,,10,0.8181818181818182
+5155943,James Murphy,Brown,Ivy,Yale,22,28,273,9.8,3,1,,10,0.7857142857142857
+5079683,Dante Reno,Yale,Ivy,Brown,25,39,186,4.8,1,0,,10,0.6410256410256411
+5302683,Ty Ciongoli,Princeton,Ivy,Dartmouth,7,13,119,9.2,1,1,,10,0.5384615384615384
+5442807,Wyatt Becker,Princeton,Ivy,Dartmouth,6,7,69,9.9,0,0,,10,0.8571428571428571
+5155398,Grayson Saunier,Dartmouth,Ivy,Princeton,22,31,262,8.5,0,2,,10,0.7096774193548387
+5095771,Ethan Greenwood,Long Island University,NEC,New Haven,12,20,130,6.5,0,0,,10,0.6
+4685334,A.J. Duffy,New Haven,NEC,Long Island University,15,26,227,8.7,1,0,,10,0.5769230769230769
+4685698,Destin Wade,North Alabama,UAC,West Florida,12,19,194,10.2,2,2,,10,0.631578947368421
+5436233,Ty'ray Davis,West Florida,UAC,North Alabama,22,35,308,8.8,2,1,,10,0.6285714285714286
+5298853,Treynor Cleeland,UC Davis,Big Sky,Utah Tech,21,34,144,4.2,1,1,,10,0.6176470588235294
+5224562,Bronson Barben,Utah Tech,Big Sky,UC Davis,9,15,86,5.7,1,0,,10,0.6
+4993406,CJ Tiller,Utah Tech,Big Sky,UC Davis,5,14,70,5.0,0,1,,10,0.35714285714285715
+5085112,Emmett Brown,Incarnate Word,Southland,SE Louisiana,18,25,294,11.8,1,1,,10,0.72
+4685440,Kyle Lowe,SE Louisiana,Southland,Incarnate Word,10,21,143,6.8,0,0,,10,0.47619047619047616
+5405607,Issac Mooring III,SE Louisiana,Southland,Incarnate Word,3,5,5,1.0,0,1,,10,0.6
+5077787,Jaxon Smolik,Temple,American Athletic,Navy,12,26,173,6.7,3,1,22.8,10,0.46153846153846156
+5220473,Jackson Gutierrez,Navy,American Athletic,Temple,6,11,178,16.2,1,1,63.9,10,0.5454545454545454
+5079443,Hauss Hejny,Colorado State,Pac-12,Boise State,14,25,253,10.1,2,0,80.4,10,0.56
+5212610,Ksaan Farrar,Colorado State,Pac-12,Boise State,4,8,53,6.6,1,0,67.7,10,0.5
+5160730,Max Cutforth,Boise State,Pac-12,Colorado State,16,19,317,16.7,4,0,95.8,10,0.8421052631578947
+5122157,Caden Creel,Jacksonville State,Conference USA,Sam Houston,18,28,246,8.8,2,0,40.2,10,0.6428571428571429
+5148427,Landyn Locke,Sam Houston,Conference USA,Jacksonville State,16,21,126,6.0,1,0,18.7,10,0.7619047619047619
+5220425,DJ Bailey,Sam Houston,Conference USA,Jacksonville State,5,7,63,9.0,1,0,92.1,10,0.7142857142857143
 4801299,Rocco Becht,Penn State,Big Ten,Washington,16,27,240,8.9,2,0,66.0,10,0.5925925925925926
 5079653,Demond Williams Jr.,Washington,Big Ten,Penn State,19,33,172,5.2,2,1,74.0,10,0.5757575757575758
+4838679,Ashton Daniels,Florida State,ACC,Boston College,15,26,178,6.8,0,1,65.4,10,0.5769230769230769
+5307005,Mason McKenzie,Boston College,ACC,Florida State,15,27,166,6.1,2,1,37.2,10,0.5555555555555556
+5092275,Ty Dieffenbach,UCLA,Big Ten,Minnesota,8,16,303,18.9,3,1,87.9,10,0.5
+5144959,Drake Lindsey,Minnesota,Big Ten,UCLA,19,37,205,5.5,1,1,60.4,10,0.5135135135135135
+4685459,Nicco Marchiol,Northwestern,Big Ten,Iowa,24,32,181,5.7,1,0,69.9,10,0.75
+5089314,Hank Brown,Iowa,Big Ten,Northwestern,16,21,126,6.0,1,1,86.3,10,0.7619047619047619
+5079572,Dylan Raiola,Oregon,Big Ten,Ohio State,25,40,257,6.4,2,0,88.8,10,0.625
+5214646,Luke Fahey,Ohio State,Big Ten,Oregon,36,50,360,7.2,2,1,51.0,10,0.72
+4801307,Tayven Jackson,North Texas,American Athletic,Rice,18,31,303,9.8,1,0,62.4,10,0.5806451612903226
+5145788,Gael Ochoa,Rice,American Athletic,North Texas,8,13,172,13.2,1,1,16.1,10,0.6153846153846154
 5224011,Baylor Hayes,Tulsa,American Athletic,Tulane,26,33,338,10.2,4,0,91.0,10,0.7878787878787878
 5291713,Trace Johnson,Tulane,American Athletic,Tulsa,11,19,69,3.6,0,1,4.1,10,0.5789473684210527
 5219709,Dagan Bruno,Tulane,American Athletic,Tulsa,4,6,43,7.2,1,1,39.5,10,0.6666666666666666
-5141634,Steele Pizzella,Wake Forest,ACC,Merrimack,23,28,432,15.4,3,0,87.0,10,0.8214285714285714
-5146355,AJ Hairston,Merrimack,FCS Independents,Wake Forest,11,27,80,3.0,0,1,,10,0.4074074074074074
-5225304,Cole Meehan,Merrimack,FCS Independents,Wake Forest,5,8,20,2.5,0,1,,10,0.625
+5079369,C.J. Carr,Notre Dame,FBS Independents,Miami,29,40,319,8.0,3,0,89.3,10,0.725
+5121169,Darian Mensah,Miami,ACC,Notre Dame,24,43,276,6.4,3,1,76.5,10,0.5581395348837209
+5150297,Cale Hellums,Army,American Athletic,Air Force,5,10,38,3.8,0,1,31.6,10,0.5
+5306440,Evan Medders,Air Force,Mountain West,Army,6,8,84,10.5,1,0,62.1,10,0.75
+4923285,McCae Hillstead,Utah State,Pac-12,Fresno State,9,14,117,8.4,0,0,70.9,10,0.6428571428571429
+5010409,Jayden Mandal,Fresno State,Pac-12,Utah State,22,39,262,6.7,1,0,59.0,10,0.5641025641025641
 5212654,Braden Atkinson,Oregon State,Pac-12,Texas State,20,36,192,5.3,0,1,,10,0.5555555555555556
 4685497,Maalik Murphy,Oregon State,Pac-12,Texas State,5,7,75,10.7,0,1,,10,0.7142857142857143
 5148803,Brad Jackson,Texas State,Pac-12,Oregon State,16,20,214,10.7,1,1,,10,0.8
-5079628,John White,Southern Miss,Sun Belt,James Madison,22,35,266,7.6,1,0,27.5,10,0.6285714285714286
-5172036,JC Evans,James Madison,Sun Belt,Southern Miss,19,26,251,9.7,1,0,84.7,10,0.7307692307692307
-5261479,Toa Faavae,New Mexico,Mountain West,Nevada,14,20,150,7.5,1,0,27.7,10,0.7
-4819250,AJ Bianco,Nevada,Mountain West,New Mexico,14,31,106,3.4,0,0,16.7,10,0.45161290322580644
+4870607,Jackson Arnold,UNLV,Mountain West,Wyoming,7,18,83,4.6,2,1,,10,0.3888888888888889
+4685495,Alex Orji,UNLV,Mountain West,Wyoming,2,5,58,11.6,0,1,,10,0.4
+4838536,Tyler Hughes,Wyoming,Mountain West,UNLV,5,9,107,11.9,1,0,,10,0.5555555555555556
+5296625,Landon Sims,Wyoming,Mountain West,UNLV,2,6,25,4.2,1,1,,10,0.3333333333333333
+5096134,Keely Watson,South Carolina State,MEAC,Howard,21,29,241,8.3,1,0,,10,0.7241379310344828
+5443342,Ronnie Robinson,South Carolina State,MEAC,Howard,2,6,12,2.0,0,0,,10,0.3333333333333333
+5098448,Isaiah Freeman,Howard,MEAC,South Carolina State,19,37,233,6.3,3,1,,10,0.5135135135135135
+4695784,Carson Camp,Duquesne,NEC,Robert Morris,10,20,114,5.7,0,1,,10,0.5
+4832789,Carson Haggard,Robert Morris,NEC,Duquesne,16,30,217,7.2,0,1,,10,0.5333333333333333
+5150426,Deljay Bailey,Norfolk State,MEAC,North Carolina Central,22,26,278,10.7,2,0,,10,0.8461538461538461
+5159177,Joshua Jones,North Carolina Central,MEAC,Norfolk State,16,28,156,5.6,3,2,,10,0.5714285714285714
+5095216,Kai Coln,UAlbany,Coastal Athletic,Bryant,12,25,140,5.6,0,1,,10,0.48
+5226265,Brennan Myer,Bryant,Coastal Athletic,UAlbany,13,18,254,14.1,1,0,,10,0.7222222222222222
+4869817,Cole Pennington,Gardner-Webb,OVC,Lindenwood,18,34,235,6.9,3,2,,10,0.5294117647058824
+5225648,Pops Battle,Lindenwood,OVC,Gardner-Webb,11,19,137,7.2,2,1,,10,0.5789473684210527
+5101124,Micah Alejado,Hawai'i,Mountain West,UTEP,26,40,303,7.6,1,1,50.4,10,0.65
+5232049,Raymond Moore III,UTEP,Mountain West,Hawai'i,9,18,109,6.1,1,0,28.7,10,0.5
+5215357,Daniel Rolovich,San José State,Mountain West,Northern Illinois,16,27,231,8.6,1,0,28.8,10,0.5925925925925926
+4881032,Taron Dickens,Northern Illinois,Mountain West,San José State,26,36,259,7.2,1,1,36.6,10,0.7222222222222222
+4870883,J.J. Kohl,Florida International,Conference USA,Missouri State,18,26,218,8.4,0,1,7.8,10,0.6923076923076923
+4685252,Henry Belin IV,Missouri State,Conference USA,Florida International,19,35,225,6.4,0,1,23.2,10,0.5428571428571428
 5159078,Tait Reynolds,Clemson,ACC,Syracuse,17,28,161,5.8,0,1,59.8,10,0.6071428571428571
 4685694,Steven Angeli,Syracuse,ACC,Clemson,18,40,263,6.6,1,1,29.2,10,0.45
 5079301,CJ Bailey,NC State,ACC,Duke,15,24,123,5.1,0,0,49.4,10,0.625
 4870793,Tad Hudson,NC State,ACC,Duke,3,7,62,8.9,0,0,34.5,10,0.42857142857142855
 4694149,Walker Eget,Duke,ACC,NC State,22,31,208,6.7,1,0,85.3,10,0.7096774193548387
-5191162,Alberto Mendoza,Georgia Tech,ACC,Louisville,13,25,148,5.9,1,0,30.5,10,0.52
-5207610,Grady Adamson,Georgia Tech,ACC,Louisville,12,19,93,4.9,1,1,32.7,10,0.631578947368421
-5078278,Lincoln Kienholz,Louisville,ACC,Georgia Tech,17,25,182,7.3,2,0,78.8,10,0.68
-5079443,Hauss Hejny,Colorado State,Pac-12,Boise State,14,25,253,10.1,2,0,80.4,10,0.56
-5212610,Ksaan Farrar,Colorado State,Pac-12,Boise State,4,8,53,6.6,1,0,67.7,10,0.5
-5160730,Max Cutforth,Boise State,Pac-12,Colorado State,16,19,317,16.7,4,0,95.8,10,0.8421052631578947
-5269403,Tommy Carr,Michigan,Big Ten,Michigan State,14,26,138,5.3,0,2,38.8,10,0.5384615384615384
-5146670,Alessio Milivojevic,Michigan State,Big Ten,Michigan,21,32,188,5.9,0,0,58.8,10,0.65625
-4869991,Caden Veltkamp,Florida Atlantic,American Athletic,UTSA,17,25,210,8.4,4,0,81.9,10,0.68
-4775136,Owen McCown,UTSA,American Athletic,Florida Atlantic,20,35,265,7.6,3,0,34.2,10,0.5714285714285714
-5044387,Anthony Colandrea,Nebraska,Big Ten,Illinois,32,43,284,6.6,1,0,55.5,10,0.7441860465116279
-4795295,Katin Houser,Illinois,Big Ten,Nebraska,22,36,292,8.1,3,0,75.2,10,0.6111111111111112
-5302683,Ty Ciongoli,Princeton,Ivy,Dartmouth,7,13,119,9.2,1,1,,10,0.5384615384615384
-5442807,Wyatt Becker,Princeton,Ivy,Dartmouth,6,7,69,9.9,0,0,,10,0.8571428571428571
-5155398,Grayson Saunier,Dartmouth,Ivy,Princeton,22,31,262,8.5,0,2,,10,0.7096774193548387
-4875733,Pat McQuaide,Villanova,Patriot,Richmond,11,17,163,9.6,3,0,,10,0.6470588235294118
-5299849,Jack Callaghan,Richmond,Patriot,Villanova,8,21,60,2.9,0,0,,10,0.38095238095238093
-5155943,James Murphy,Brown,Ivy,Yale,22,28,273,9.8,3,1,,10,0.7857142857142857
-5079683,Dante Reno,Yale,Ivy,Brown,25,39,186,4.8,1,0,,10,0.6410256410256411
-5089309,Jake Stearney,Colgate,Patriot,Lehigh,8,16,105,6.6,0,2,,10,0.5
-5155751,Jackson Kilburg,Colgate,Patriot,Lehigh,5,11,48,4.4,1,0,,10,0.45454545454545453
-5402237,Patrick Coan,Lehigh,Patriot,Colgate,13,24,221,9.2,1,0,,10,0.5416666666666666
-5226663,Frankie Weaver,Monmouth,Coastal Athletic,North Carolina A&T,14,29,201,6.9,1,0,,10,0.4827586206896552
-5164567,Kevin White,North Carolina A&T,Coastal Athletic,Monmouth,13,29,236,8.1,2,0,,10,0.4482758620689655
-4695784,Carson Camp,Duquesne,NEC,Robert Morris,10,20,114,5.7,0,1,,10,0.5
-4832789,Carson Haggard,Robert Morris,NEC,Duquesne,16,30,217,7.2,0,1,,10,0.5333333333333333
-5225700,Jack Snyder,Sacred Heart,Coastal Athletic,Towson,27,33,261,7.9,2,1,,10,0.8181818181818182
-5405931,Jacob Davis,Towson,Coastal Athletic,Sacred Heart,24,35,251,7.2,3,0,,10,0.6857142857142857
-5095771,Ethan Greenwood,Long Island University,NEC,New Haven,12,20,130,6.5,0,0,,10,0.6
-4685334,A.J. Duffy,New Haven,NEC,Long Island University,15,26,227,8.7,1,0,,10,0.5769230769230769
-5223983,Battle Alberson,Chattanooga,Southern,Mercer,5,9,41,4.6,0,1,,10,0.5555555555555556
-5193282,JP Pickles,Mercer,Southern,Chattanooga,13,22,110,5.0,2,0,,10,0.5909090909090909
-5141629,Keelon Russell,Alabama,SEC,LSU,17,24,206,8.6,3,0,90.2,10,0.7083333333333334
-5078810,Sam Leavitt,LSU,SEC,Alabama,35,47,380,8.1,0,1,77.1,10,0.7446808510638298
-5077787,Jaxon Smolik,Temple,American Athletic,Navy,12,26,173,6.7,3,1,22.8,10,0.46153846153846156
-5220473,Jackson Gutierrez,Navy,American Athletic,Temple,6,11,178,16.2,1,1,63.9,10,0.5454545454545454
-5144078,Ethan Grunkemeyer,Virginia Tech,ACC,SMU,28,38,291,7.7,1,1,63.7,10,0.7368421052631579
-5084084,Kevin Jennings,SMU,ACC,Virginia Tech,24,32,350,10.9,4,1,84.5,10,0.75
-5091836,Jaxon Potter,Old Dominion,Sun Belt,Coastal Carolina,17,30,150,5.0,1,1,18.9,10,0.5666666666666667
-5296439,Deuce Bailey,Coastal Carolina,Sun Belt,Old Dominion,17,33,233,7.1,0,3,16.4,10,0.5151515151515151
-5152029,Tre Guerra,Coastal Carolina,Sun Belt,Old Dominion,2,7,10,1.4,0,1,0.4,10,0.2857142857142857
-5150297,Cale Hellums,Army,American Athletic,Air Force,5,10,38,3.8,0,1,31.6,10,0.5
-5306440,Evan Medders,Air Force,Mountain West,Army,6,8,84,10.5,1,0,62.1,10,0.75
-4923285,McCae Hillstead,Utah State,Pac-12,Fresno State,9,14,117,8.4,0,0,70.9,10,0.6428571428571429
-5010409,Jayden Mandal,Fresno State,Pac-12,Utah State,22,39,262,6.7,1,0,59.0,10,0.5641025641025641
-5096134,Keely Watson,South Carolina State,MEAC,Howard,21,29,241,8.3,1,0,,10,0.7241379310344828
-5443342,Ronnie Robinson,South Carolina State,MEAC,Howard,2,6,12,2.0,0,0,,10,0.3333333333333333
-5098448,Isaiah Freeman,Howard,MEAC,South Carolina State,19,37,233,6.3,3,1,,10,0.5135135135135135
-5154881,Bryce Schondelmyer,Dayton,Pioneer,Valparaiso,23,32,291,9.1,4,3,,10,0.71875
-5089335,Rowan Keefe,Valparaiso,Pioneer,Dayton,17,35,179,5.1,1,1,,10,0.4857142857142857
-4812381,Gunnar Smith,Fordham,Patriot,Bucknell,11,17,81,4.8,0,0,,10,0.6470588235294118
-5402059,Emmett Dowling,Bucknell,Patriot,Fordham,19,32,146,4.6,1,1,,10,0.59375
-5404620,Riley Warzynski,Drake,Pioneer,San Diego,14,28,98,3.5,1,0,,10,0.5
-5404623,Braylon Wilson,Drake,Pioneer,San Diego,5,15,58,3.9,0,1,,10,0.3333333333333333
-5232445,CJ Ceron,San Diego,Pioneer,Drake,9,17,148,8.7,1,1,,10,0.5294117647058824
-5106897,Jack O'Connell,Stonehill,NEC,Central Connecticut,11,28,111,4.0,0,2,,10,0.39285714285714285
-4711410,Brett Griffis,Central Connecticut,NEC,Stonehill,21,27,286,10.6,3,0,,10,0.7777777777777778
-5271361,Eddie Jordan,Lafayette,Patriot,William & Mary,11,20,130,6.5,0,0,,10,0.55
-5226917,Winston Watkins,William & Mary,Patriot,Lafayette,14,25,132,5.3,1,0,,10,0.56
-5230195,Karson Siqueiros-Lasky,Pennsylvania,Ivy,Cornell,24,38,220,5.8,1,0,,10,0.631578947368421
-5443096,Michael McColgan,Cornell,Ivy,Pennsylvania,5,22,47,2.1,0,0,,10,0.22727272727272727
-4870864,Gabarri Johnson,Samford,Southern,East Tennessee State,19,32,168,5.3,1,0,,10,0.59375
-5441449,Will Shields,Samford,Southern,East Tennessee State,4,7,56,8.0,1,0,,10,0.5714285714285714
-5164309,Mason Mims,East Tennessee State,Southern,Samford,16,27,171,6.3,2,0,,10,0.5925925925925926
-4875128,Lex Thomas,Western Carolina,Southern,Wofford,22,35,237,6.8,0,0,,10,0.6285714285714286
-5439484,Kaeden Gilstrap,Wofford,Southern,Western Carolina,9,18,96,5.3,0,0,,10,0.5
-5156255,JT Fayard,Wofford,Southern,Western Carolina,4,13,22,1.7,0,0,,10,0.3076923076923077
+4592532,Billy Edwards,North Carolina,ACC,UConn,29,38,255,6.7,3,1,67.1,10,0.7631578947368421
+5079619,Kalieb Osborne,UConn,FBS Independents,North Carolina,17,35,245,7.0,2,2,38.9,10,0.4857142857142857
+5154962,Kamden Sixkiller,Campbell,Coastal Athletic,Stony Brook,33,46,396,8.6,4,0,,10,0.717391304347826
+5226896,Quinn Boyd,Stony Brook,Coastal Athletic,Campbell,31,43,348,8.1,4,1,,10,0.7209302325581395
+5226704,Tommy McLeish,New Hampshire,Coastal Athletic,Rhode Island,21,37,271,7.3,2,0,,10,0.5675675675675675
+5226812,Alex McClelland,Rhode Island,Coastal Athletic,New Hampshire,10,24,142,5.9,1,0,,10,0.4166666666666667
+5299776,Charlie Smith,Harvard,Ivy,Columbia,12,20,184,9.2,2,1,,10,0.6
+5154125,Chase Goodwin,Columbia,Ivy,Harvard,9,23,55,2.4,0,1,,10,0.391304347826087
 5405365,Xavier Brookins,Hampton,Coastal Athletic,Elon,9,11,99,9.0,1,1,,10,0.8181818181818182
 5088851,Tre'Von Taylor,Hampton,Coastal Athletic,Elon,8,16,55,3.4,0,0,,10,0.5
 5212705,Brady Stober,Elon,Coastal Athletic,Hampton,14,23,166,7.2,0,4,,10,0.6086956521739131
-4869817,Cole Pennington,Gardner-Webb,OVC,Lindenwood,18,34,235,6.9,3,2,,10,0.5294117647058824
-5225648,Pops Battle,Lindenwood,OVC,Gardner-Webb,11,19,137,7.2,2,1,,10,0.5789473684210527
-5300880,Aidan Jakobsohn,UT Rio Grande Valley,Southland,Northwestern State,15,20,188,9.4,3,0,,10,0.75
-4808719,Zach Wilcke,Northwestern State,Southland,UT Rio Grande Valley,28,50,244,4.9,0,3,,10,0.56
-5123665,Trey Owens,Arkansas State,Sun Belt,UL Monroe,16,29,193,6.7,1,2,28.6,10,0.5517241379310345
-5122054,Aidan Armenta,UL Monroe,Sun Belt,Arkansas State,11,15,90,6.0,0,2,75.4,10,0.7333333333333333
-5382898,Landon Varnes,Kennesaw State,Conference USA,Delaware,19,37,254,6.9,1,1,19.5,10,0.5135135135135135
-4870645,Rickie Collins,Kennesaw State,Conference USA,Delaware,5,7,55,7.9,0,1,19.8,10,0.7142857142857143
-5153846,Nick Minicucci,Delaware,Conference USA,Kennesaw State,35,54,408,7.6,2,0,47.6,10,0.6481481481481481
-5299776,Charlie Smith,Harvard,Ivy,Columbia,12,20,184,9.2,2,1,,10,0.6
-5154125,Chase Goodwin,Columbia,Ivy,Harvard,9,23,55,2.4,0,1,,10,0.391304347826087
-5226704,Tommy McLeish,New Hampshire,Coastal Athletic,Rhode Island,21,37,271,7.3,2,0,,10,0.5675675675675675
-5226812,Alex McClelland,Rhode Island,Coastal Athletic,New Hampshire,10,24,142,5.9,1,0,,10,0.4166666666666667
-5083490,Ayden Pereira,Georgia State,Sun Belt,App State,10,17,115,6.8,3,0,48.1,10,0.5882352941176471
-4870999,Malachi Singleton,App State,Sun Belt,Georgia State,23,34,241,7.1,2,2,11.7,10,0.6764705882352942
-5085784,Chase Mason,South Dakota State,MVFC,Northern Iowa,10,18,181,10.1,2,0,,10,0.5555555555555556
-4826635,Jaxon Dailey,Northern Iowa,MVFC,South Dakota State,23,39,177,4.5,1,0,,10,0.5897435897435898
-5227699,Beckham Pellant,Illinois State,MVFC,North Dakota,24,42,239,5.7,2,0,,10,0.5714285714285714
-5155528,Jerry Kaminski,North Dakota,MVFC,Illinois State,18,27,293,10.9,5,0,,10,0.6666666666666666
-5083941,Collin Shannon,Murray State,MVFC,Youngstown State,23,39,351,9.0,3,0,,10,0.5897435897435898
-5109518,Beau Brungard,Youngstown State,MVFC,Murray State,31,34,423,12.4,4,0,,10,0.9117647058823529
-4432703,Jake Garcia,Furman,Southern,The Citadel,15,24,127,5.3,1,0,,10,0.625
-4695602,Nick Billoups,The Citadel,Southern,Furman,11,20,120,6.0,0,0,,10,0.55
-5027925,Jax Leatherwood,Tennessee Tech,Southern,VMI,21,28,312,11.1,5,0,,10,0.75
-5225341,JoJo Crump,VMI,Southern,Tennessee Tech,4,7,64,9.1,1,2,,10,0.5714285714285714
-5088964,Sonny Mannino,Marist,Pioneer,Morehead State,10,24,55,2.3,0,0,,10,0.4166666666666667
-5084352,Bryce Patterson,Morehead State,Pioneer,Marist,10,25,250,10.0,1,3,,10,0.4
-5165011,Kennedy McGill,Western Illinois,OVC,Eastern Illinois,12,14,215,15.4,1,0,,10,0.8571428571428571
-5113896,Cole Lacrue,Eastern Illinois,OVC,Western Illinois,11,17,174,10.2,2,2,,10,0.6470588235294118
-5083199,Jeremiah Salem,Eastern Illinois,OVC,Western Illinois,2,10,23,2.3,1,0,,10,0.2
-5153708,Keali'i Ah Yat,Montana,Big Sky,Portland State,19,28,259,9.3,1,0,,10,0.6785714285714286
-5075571,John-Keawe Sagapolutele,Portland State,Big Sky,Montana,21,37,205,5.5,1,0,,10,0.5675675675675675
-4801301,Tevin Carter,Prairie View A&M,SWAC,Alabama A&M,25,35,292,8.3,2,2,,10,0.7142857142857143
-4568411,Cornelious Brown,Alabama A&M,SWAC,Prairie View A&M,16,32,124,3.9,0,2,,10,0.5
-5298925,Jared Lockhart,Jackson State,SWAC,Mississippi Valley State,22,33,299,9.1,3,1,,10,0.6666666666666666
-5233879,Josh Brown,Mississippi Valley State,SWAC,Jackson State,8,15,31,2.1,0,2,,10,0.5333333333333333
-4870848,Tyler Jefferson,Bethune-Cookman,SWAC,Southern,12,31,144,4.6,1,1,,10,0.3870967741935484
-5442202,Christian Johnson,Southern,SWAC,Bethune-Cookman,8,13,111,8.5,2,0,,10,0.6153846153846154
-4949488,Jacobe Robinson,Grambling,SWAC,Arkansas-Pine Bluff,15,23,203,8.8,1,0,,10,0.6521739130434783
-5085259,Ashton Frye,Grambling,SWAC,Arkansas-Pine Bluff,6,12,30,2.5,0,0,,10,0.5
-5163068,Jack Schierholz,Arkansas-Pine Bluff,SWAC,Grambling,10,19,208,10.9,1,0,,10,0.5263157894736842
-5226265,Brennan Myer,Bryant,Coastal Athletic,UAlbany,13,18,254,14.1,1,0,,10,0.7222222222222222
-5095216,Kai Coln,UAlbany,Coastal Athletic,Bryant,12,25,140,5.6,0,1,,10,0.48
-5085112,Emmett Brown,Incarnate Word,Southland,SE Louisiana,18,25,294,11.8,1,1,,10,0.72
-4685440,Kyle Lowe,SE Louisiana,Southland,Incarnate Word,10,21,143,6.8,0,0,,10,0.47619047619047616
-5405607,Issac Mooring III,SE Louisiana,Southland,Incarnate Word,3,5,5,1.0,0,1,,10,0.6
-5083145,Bo Kelly,Cal Poly,Big Sky,Northern Arizona,18,28,146,5.2,0,1,,10,0.6428571428571429
-5225414,Ty Pennington,Northern Arizona,Big Sky,Cal Poly,14,29,130,4.5,0,0,,10,0.4827586206896552
-4832830,Joshua Wood,Idaho,Big Sky,Eastern Washington,20,29,315,10.9,3,0,,10,0.6896551724137931
-5152110,Nate Bell,Eastern Washington,Big Sky,Idaho,17,24,174,7.3,1,0,,10,0.7083333333333334
-5146672,Jake Schakel,Eastern Washington,Big Sky,Idaho,6,10,74,7.4,2,1,,10,0.6
 5442068,John Bargen,Indiana State,MVFC,Southern Illinois,11,18,57,3.2,0,2,,10,0.6111111111111112
 4697094,DJ Williams,Southern Illinois,MVFC,Indiana State,16,29,211,7.3,4,0,,10,0.5517241379310345
-5158746,Jordan Cooke,Idaho State,Big Sky,Montana State,30,52,318,6.1,0,1,,10,0.5769230769230769
-4684502,Justin Lamson,Montana State,Big Sky,Idaho State,22,37,209,5.6,1,0,,10,0.5945945945945946
-5194626,Roman Gagliano,Middle Tennessee,Conference USA,Western Kentucky,30,41,312,7.6,4,0,74.5,10,0.7317073170731707
-4920158,Brock Glenn,Western Kentucky,Conference USA,Middle Tennessee,13,23,152,6.6,1,0,51.5,10,0.5652173913043478
-5196864,Rodney Tisdale Jr.,Western Kentucky,Conference USA,Middle Tennessee,11,13,107,8.2,1,0,95.5,10,0.8461538461538461
-5150998,Blake Baker,Louisiana Tech,Sun Belt,Troy,16,19,177,9.3,1,0,43.8,10,0.8421052631578947
-5296376,Trey Kukuk,Louisiana Tech,Sun Belt,Troy,8,10,68,6.8,1,0,93.1,10,0.8
-4912119,Tucker Kilcrease,Troy,Sun Belt,Louisiana Tech,18,33,215,6.5,0,1,14.5,10,0.5454545454545454
-4714009,Myles Burkett,Eastern Kentucky,UAC,Austin Peay,21,33,302,9.2,4,1,,10,0.6363636363636364
-4870889,Chris Parson,Austin Peay,UAC,Eastern Kentucky,13,21,194,9.2,1,1,,10,0.6190476190476191
-5169036,Gavin Rutherford,Stephen F. Austin,Southland,Lamar,24,34,315,9.3,2,2,,10,0.7058823529411765
-5154911,Aiden McCown,Lamar,Southland,Stephen F. Austin,17,29,307,10.6,3,0,,10,0.5862068965517241
-4915622,Jake Strong,McNeese,Southland,Houston Christian,20,36,175,4.9,0,0,,10,0.5555555555555556
-4691966,Maddox Kopp,Houston Christian,Southland,McNeese,9,19,118,6.2,0,1,,10,0.47368421052631576
-4870883,J.J. Kohl,Florida International,Conference USA,Missouri State,18,26,218,8.4,0,1,7.8,10,0.6923076923076923
-4685252,Henry Belin IV,Missouri State,Conference USA,Florida International,19,35,225,6.4,0,1,23.2,10,0.5428571428571428
-5416075,Donovyn Omolo,Central Arkansas,UAC,West Georgia,24,34,250,7.4,1,0,,10,0.7058823529411765
-5157481,Collin Hurst,West Georgia,UAC,Central Arkansas,15,25,184,7.4,1,0,,10,0.6
-4685459,Nicco Marchiol,Northwestern,Big Ten,Iowa,24,32,181,5.7,1,0,69.9,10,0.75
-5089314,Hank Brown,Iowa,Big Ten,Northwestern,16,21,126,6.0,1,1,86.3,10,0.7619047619047619
-5138131,Deshawn Purdie,Liberty,Conference USA,New Mexico State,19,28,252,9.0,1,0,73.6,10,0.6785714285714286
-5224084,Trey Hedden,New Mexico State,Conference USA,Liberty,19,29,256,8.8,2,2,63.0,10,0.6551724137931034
-5079369,C.J. Carr,Notre Dame,FBS Independents,Miami,29,40,319,8.0,3,0,89.3,10,0.725
-5121169,Darian Mensah,Miami,ACC,Notre Dame,24,43,276,6.4,3,1,76.5,10,0.5581395348837209
-4870607,Jackson Arnold,UNLV,Mountain West,Wyoming,7,18,83,4.6,2,1,,10,0.3888888888888889
-4685495,Alex Orji,UNLV,Mountain West,Wyoming,2,5,58,11.6,0,1,,10,0.4
-4838536,Tyler Hughes,Wyoming,Mountain West,UNLV,5,9,107,11.9,1,0,,10,0.5555555555555556
-5296625,Landon Sims,Wyoming,Mountain West,UNLV,2,6,25,4.2,1,1,,10,0.3333333333333333
-5298853,Treynor Cleeland,UC Davis,Big Sky,Utah Tech,21,34,144,4.2,1,1,,10,0.6176470588235294
-5224562,Bronson Barben,Utah Tech,Big Sky,UC Davis,9,15,86,5.7,1,0,,10,0.6
-4993406,CJ Tiller,Utah Tech,Big Sky,UC Davis,5,14,70,5.0,0,1,,10,0.35714285714285715
 4899468,Kaden Anderson,Tarleton State,UAC,Abilene Christian,7,9,213,23.7,2,0,,10,0.7777777777777778
 5147465,Tucker Parks,Abilene Christian,UAC,Tarleton State,25,30,215,7.2,1,0,,10,0.8333333333333334
-5227557,Alex Gevaudan,Mercyhurst,NEC,Wagner,12,27,195,7.2,2,1,,10,0.4444444444444444
-5440760,Jason Wiley,Wagner,NEC,Mercyhurst,30,39,242,6.2,3,0,,10,0.7692307692307693
-4685697,Zion Turner,Marshall,Sun Belt,Georgia Southern,11,26,141,5.4,0,2,9.4,10,0.4230769230769231
+5027925,Jax Leatherwood,Tennessee Tech,Southern,VMI,21,28,312,11.1,5,0,,10,0.75
+5225341,JoJo Crump,VMI,Southern,Tennessee Tech,4,7,64,9.1,1,2,,10,0.5714285714285714
+5298925,Jared Lockhart,Jackson State,SWAC,Mississippi Valley State,22,33,299,9.1,3,1,,10,0.6666666666666666
+5233879,Josh Brown,Mississippi Valley State,SWAC,Jackson State,8,15,31,2.1,0,2,,10,0.5333333333333333
+4714009,Myles Burkett,Eastern Kentucky,UAC,Austin Peay,21,33,302,9.2,4,1,,10,0.6363636363636364
+4870889,Chris Parson,Austin Peay,UAC,Eastern Kentucky,13,21,194,9.2,1,1,,10,0.6190476190476191
 4685740,Max Johnson,Georgia Southern,Sun Belt,Marshall,19,26,271,10.4,4,0,80.2,10,0.7307692307692307
+4685697,Zion Turner,Marshall,Sun Belt,Georgia Southern,11,26,141,5.4,0,2,9.4,10,0.4230769230769231
 4871091,D'Wayne' Winfield,Louisiana,Sun Belt,South Alabama,10,14,147,10.5,1,1,42.2,10,0.7142857142857143
 4869553,Bishop Davenport,South Alabama,Sun Belt,Louisiana,16,22,210,9.5,0,1,78.0,10,0.7272727272727273
-4773919,Thomas Castellanos,Texas Tech,Big 12,West Virginia,18,27,362,13.4,5,0,81.3,10,0.6666666666666666
-5079465,Michael Hawkins Jr.,West Virginia,Big 12,Texas Tech,11,16,303,18.9,1,0,92.0,10,0.6875
-5104738,Ryan Browne,Purdue,Big Ten,Maryland,24,38,296,7.8,0,0,64.8,10,0.631578947368421
-5141695,Malik Washington,Maryland,Big Ten,Purdue,13,18,253,14.1,2,1,89.8,10,0.7222222222222222
-5210475,Ryan Hopkins,Wisconsin,Big Ten,Rutgers,18,24,241,10.0,3,0,54.8,10,0.75
-5079717,AJ Surace,Rutgers,Big Ten,Wisconsin,14,24,161,6.7,1,0,45.6,10,0.5833333333333334
+5219834,Drew Mestemaker,Oklahoma State,Big 12,Texas Tech,27,42,277,6.6,1,2,42.3,11,0.6428571428571429
+5291690,Broderick Vehrs,Oklahoma State,Big 12,Texas Tech,2,7,20,2.9,0,0,76.4,11,0.2857142857142857
+4773919,Thomas Castellanos,Texas Tech,Big 12,Oklahoma State,12,23,263,11.4,4,0,60.6,11,0.5217391304347826
+5300776,Michael McMaugh,Maine,Coastal Athletic,UAlbany,9,20,36,1.8,0,1,,11,0.45
+5095216,Kai Coln,UAlbany,Coastal Athletic,Maine,20,30,264,8.8,2,1,,11,0.6666666666666666
+4832789,Carson Haggard,Robert Morris,NEC,Stonehill,15,23,200,8.7,2,1,,11,0.6521739130434783
+5106897,Jack O'Connell,Stonehill,NEC,Robert Morris,13,30,125,4.2,0,0,,11,0.43333333333333335
+5229448,David Parsons,Morehead State,Pioneer,Presbyterian,15,25,273,10.9,4,0,,11,0.6
+5439630,Jayden Torres,Presbyterian,Pioneer,Morehead State,12,18,169,9.4,2,0,,11,0.6666666666666666
+5231053,Max Holtzclaw,Presbyterian,Pioneer,Morehead State,11,20,80,4.0,0,1,,11,0.55
+5439441,Da'Jean Golmond,Norfolk State,MEAC,Morgan State,12,21,165,7.9,0,3,,11,0.5714285714285714
+5150426,Deljay Bailey,Norfolk State,MEAC,Morgan State,9,14,38,2.7,0,0,,11,0.6428571428571429
+5221616,Ade Olanegan,Morgan State,MEAC,Norfolk State,14,26,107,4.1,0,2,,11,0.5384615384615384
+5226663,Frankie Weaver,Monmouth,Coastal Athletic,Merrimack,28,47,361,7.7,4,1,,11,0.5957446808510638
+5146355,AJ Hairston,Merrimack,FCS Independents,Monmouth,17,21,344,16.4,4,0,,11,0.8095238095238095
+5079301,CJ Bailey,NC State,ACC,Syracuse,15,27,211,7.8,1,1,62.1,11,0.5555555555555556
+4685694,Steven Angeli,Syracuse,ACC,NC State,27,42,272,6.5,2,0,41.9,11,0.6428571428571429
+5088964,Sonny Mannino,Marist,Pioneer,Butler,18,32,138,4.3,0,2,,11,0.5625
+5224468,Gabe Passini,Butler,Pioneer,Marist,10,16,101,6.3,0,0,,11,0.625
+5154881,Bryce Schondelmyer,Dayton,Pioneer,Davidson,18,30,183,6.1,2,0,,11,0.6
+5224535,Casey Bullock,Davidson,Pioneer,Dayton,22,42,154,3.7,0,2,,11,0.5238095238095238
+5225341,JoJo Crump,VMI,Southern,The Citadel,4,8,97,12.1,2,0,,11,0.5
+4695602,Nick Billoups,The Citadel,Southern,VMI,5,8,50,6.3,0,0,,11,0.625
+5223107,Quentin Hayes,The Citadel,Southern,VMI,4,5,44,8.8,0,0,,11,0.8
+5227557,Alex Gevaudan,Mercyhurst,NEC,Duquesne,19,43,225,5.2,1,0,,11,0.4418604651162791
+4695784,Carson Camp,Duquesne,NEC,Mercyhurst,11,20,133,6.7,2,0,,11,0.55
+5057381,Ryder Burton,UAB,American Athletic,Temple,11,19,133,7.0,0,1,8.1,11,0.5789473684210527
+5078166,Ajani Sheppard,Temple,American Athletic,UAB,11,30,85,2.8,1,0,4.2,11,0.36666666666666664
+5301114,Carter Carroll,William & Mary,Patriot,Bucknell,10,18,135,7.5,1,0,,11,0.5555555555555556
+5226917,Winston Watkins,William & Mary,Patriot,Bucknell,4,7,15,2.1,0,0,,11,0.5714285714285714
+5402059,Emmett Dowling,Bucknell,Patriot,William & Mary,19,32,247,7.7,2,2,,11,0.59375
+5155751,Jackson Kilburg,Colgate,Patriot,Lafayette,9,19,130,6.8,1,0,,11,0.47368421052631576
+5271361,Eddie Jordan,Lafayette,Patriot,Colgate,15,25,156,6.2,0,2,,11,0.6
+5227733,Brock Riddle,Indiana State,MVFC,Murray State,5,10,38,3.8,0,1,,11,0.5
+5442068,John Bargen,Indiana State,MVFC,Murray State,4,8,34,4.3,0,0,,11,0.5
+5083941,Collin Shannon,Murray State,MVFC,Indiana State,25,33,355,10.8,3,0,,11,0.7575757575757576
+5155398,Grayson Saunier,Dartmouth,Ivy,Cornell,20,27,234,8.7,1,0,,11,0.7407407407407407
+5443096,Michael McColgan,Cornell,Ivy,Dartmouth,20,26,191,7.3,1,0,,11,0.7692307692307693
+5439109,Trey Smith,Furman,Southern,Chattanooga,11,21,79,3.8,1,0,,11,0.5238095238095238
+4432703,Jake Garcia,Furman,Southern,Chattanooga,8,15,72,4.8,0,2,,11,0.5333333333333333
+5153308,Matthew Clemmer,Chattanooga,Southern,Furman,3,7,23,3.3,0,0,,11,0.42857142857142855
+4949488,Jacobe Robinson,Grambling,SWAC,Bethune-Cookman,11,23,224,9.7,4,1,,11,0.4782608695652174
+5306457,Hayden Benoit,Grambling,SWAC,Bethune-Cookman,1,5,10,2.0,0,0,,11,0.2
+5443045,Cordan Patterson,Bethune-Cookman,SWAC,Grambling,18,25,206,8.2,2,0,,11,0.72
+4875733,Pat McQuaide,Villanova,Patriot,Holy Cross,33,58,413,7.1,2,3,,11,0.5689655172413793
+5154302,David Lynch,Holy Cross,Patriot,Villanova,14,24,168,7.0,2,0,,11,0.5833333333333334
+5158948,Jared Curtis,Vanderbilt,SEC,Alabama,25,40,223,5.6,0,0,42.2,11,0.625
+5141629,Keelon Russell,Alabama,SEC,Vanderbilt,22,33,217,6.6,3,1,52.4,11,0.6666666666666666
+5298739,Logan Inagawa,Massachusetts,Mid-American,Toledo,10,27,99,3.7,0,1,5.3,11,0.37037037037037035
+5082330,John Alan Richter,Toledo,Mid-American,Massachusetts,13,22,197,9.0,1,0,17.6,11,0.5909090909090909
+4837195,Luca Stanzani,Long Island University,NEC,Central Connecticut,8,12,87,7.3,1,0,,11,0.6666666666666666
+5095771,Ethan Greenwood,Long Island University,NEC,Central Connecticut,8,14,60,4.3,0,0,,11,0.5714285714285714
+4711410,Brett Griffis,Central Connecticut,NEC,Long Island University,11,21,150,7.1,2,1,,11,0.5238095238095238
+5079683,Dante Reno,Yale,Ivy,Princeton,13,18,115,6.4,3,0,,11,0.7222222222222222
+5302683,Ty Ciongoli,Princeton,Ivy,Yale,11,26,129,5.0,0,2,,11,0.4230769230769231
+5442807,Wyatt Becker,Princeton,Ivy,Yale,2,6,33,5.5,0,0,,11,0.3333333333333333
+5440760,Jason Wiley,Wagner,NEC,New Haven,24,32,194,6.1,1,0,,11,0.75
+4685334,A.J. Duffy,New Haven,NEC,Wagner,15,32,119,3.7,1,0,,11,0.46875
+5098448,Isaiah Freeman,Howard,MEAC,Delaware State,14,23,166,7.2,0,2,,11,0.6086956521739131
+5150645,Ui Ale,Delaware State,MEAC,Howard,9,19,46,2.4,0,1,,11,0.47368421052631576
+5230195,Karson Siqueiros-Lasky,Pennsylvania,Ivy,Harvard,15,23,210,9.1,1,0,,11,0.6521739130434783
+5289943,Miles Teodecki,Pennsylvania,Ivy,Harvard,4,8,29,3.6,0,0,,11,0.5
+5299776,Charlie Smith,Harvard,Ivy,Pennsylvania,18,28,199,7.1,3,1,,11,0.6428571428571429
+5226704,Tommy McLeish,New Hampshire,Coastal Athletic,Stony Brook,24,37,283,7.6,0,0,,11,0.6486486486486487
+5226896,Quinn Boyd,Stony Brook,Coastal Athletic,New Hampshire,25,41,224,5.5,0,0,,11,0.6097560975609756
+5165011,Kennedy McGill,Western Illinois,OVC,Gardner-Webb,12,17,215,12.6,4,0,,11,0.7058823529411765
+4869817,Cole Pennington,Gardner-Webb,OVC,Western Illinois,10,18,88,4.9,1,2,,11,0.5555555555555556
+5439737,Lan Farmer,Gardner-Webb,OVC,Western Illinois,6,7,68,9.7,0,1,,11,0.8571428571428571
+5203716,Ethan Drumm,Wofford,Southern,East Tennessee State,21,37,211,5.7,1,3,,11,0.5675675675675675
+5164309,Mason Mims,East Tennessee State,Southern,Wofford,27,33,227,6.9,2,0,,11,0.8181818181818182
+5440776,Jacob Tiberi,Chicago State,FCS Independents,Virginia Lynchburg,21,33,361,10.9,3,1,,11,0.6363636363636364
+5451166,James Carney,Virginia Lynchburg,,Chicago State,14,36,139,3.9,0,1,,11,0.3888888888888889
+5083569,Jaden Craig,TCU,Big 12,Kansas State,20,34,225,6.6,1,0,69.3,11,0.5882352941176471
+5164321,Dillon Duff,Kansas State,Big 12,TCU,22,33,244,7.4,1,0,71.6,11,0.6666666666666666
+5044387,Anthony Colandrea,Nebraska,Big Ten,Rutgers,15,22,188,8.5,2,0,77.0,11,0.6818181818181818
+5079717,AJ Surace,Rutgers,Big Ten,Nebraska,4,12,24,2.0,0,2,0.5,11,0.3333333333333333
+4899369,Christopher Vizzina,Clemson,ACC,Georgia Tech,12,27,133,4.9,0,1,15.4,11,0.4444444444444444
+5081434,Trent Pearman,Clemson,ACC,Georgia Tech,2,6,6,1.0,0,0,0.0,11,0.3333333333333333
+5191162,Alberto Mendoza,Georgia Tech,ACC,Clemson,8,14,138,9.9,0,1,50.5,11,0.5714285714285714
+5027925,Jax Leatherwood,Tennessee Tech,Southern,Mercer,31,49,294,6.0,2,1,,11,0.6326530612244898
+5193282,JP Pickles,Mercer,Southern,Tennessee Tech,4,11,100,9.1,0,0,,11,0.36363636363636365
+5151370,Anthony Policare,St. Thomas (MN),Pioneer,Drake,12,20,283,14.2,2,1,,11,0.6
+5404620,Riley Warzynski,Drake,Pioneer,St. Thomas (MN),39,64,434,6.8,3,3,,11,0.609375
+5164313,Jaron-Keawe Sagapolutele,California,ACC,Virginia,16,30,141,4.7,0,2,36.5,11,0.5333333333333333
+4685696,Beau Pribula,Virginia,ACC,California,16,24,146,6.1,1,0,64.0,11,0.6666666666666666
+4870819,Eli Holstein,Virginia,ACC,California,5,9,77,8.6,0,0,59.5,11,0.5555555555555556
+5083490,Ayden Pereira,Georgia State,Sun Belt,Georgia Southern,14,19,75,3.9,0,0,6.2,11,0.7368421052631579
+4685740,Max Johnson,Georgia Southern,Sun Belt,Georgia State,16,22,203,9.2,2,1,20.2,11,0.7272727272727273
+4568411,Cornelious Brown,Alabama A&M,SWAC,Texas Southern,18,24,201,8.4,2,0,,11,0.75
+4917305,Cam'Ron McCoy,Texas Southern,SWAC,Alabama A&M,6,15,61,4.1,0,0,,11,0.4
+5442346,Jeremiah Harrell,Texas Southern,SWAC,Alabama A&M,1,5,8,1.6,0,0,,11,0.2
+5122157,Caden Creel,Jacksonville State,Conference USA,Western Kentucky,17,25,164,6.6,2,1,12.9,11,0.68
+5196864,Rodney Tisdale Jr.,Western Kentucky,Conference USA,Jacksonville State,14,16,120,7.5,0,1,29.3,11,0.875
+4920158,Brock Glenn,Western Kentucky,Conference USA,Jacksonville State,7,10,82,8.2,1,0,85.9,11,0.7
+5230073,Cobey Thompkins,North Carolina Central,MEAC,South Carolina State,12,30,104,3.5,0,0,,11,0.4
+5159177,Joshua Jones,North Carolina Central,MEAC,South Carolina State,6,13,72,5.5,2,1,,11,0.46153846153846156
+5096134,Keely Watson,South Carolina State,MEAC,North Carolina Central,15,25,169,6.8,3,0,,11,0.6
+5148427,Landyn Locke,Sam Houston,Conference USA,Kennesaw State,9,15,71,4.7,1,0,24.4,11,0.6
+5220425,DJ Bailey,Sam Houston,Conference USA,Kennesaw State,3,9,18,2.0,0,1,7.0,11,0.3333333333333333
+5382898,Landon Varnes,Kennesaw State,Conference USA,Sam Houston,22,35,181,5.2,1,0,39.1,11,0.6285714285714286
+5154855,Cutter Stewart,Houston Christian,Southland,Northwestern State,25,44,407,9.3,3,0,,11,0.5681818181818182
+4808719,Zach Wilcke,Northwestern State,Southland,Houston Christian,21,44,195,4.4,2,1,,11,0.4772727272727273
+5224084,Trey Hedden,New Mexico State,Conference USA,Missouri State,11,28,110,3.9,2,2,11.7,11,0.39285714285714285
+4685252,Henry Belin IV,Missouri State,Conference USA,New Mexico State,20,37,187,5.1,1,1,19.1,11,0.5405405405405406
+4685698,Destin Wade,North Alabama,UAC,West Georgia,16,21,153,7.3,0,1,,11,0.7619047619047619
+4880196,Colton FitzGerald,West Georgia,UAC,North Alabama,14,27,157,5.8,1,0,,11,0.5185185185185185
+5299226,Tate Surber,UT Martin,OVC,Lindenwood,19,28,213,7.6,1,0,,11,0.6785714285714286
+5225648,Pops Battle,Lindenwood,OVC,UT Martin,20,37,288,7.8,3,0,,11,0.5405405405405406
+5436233,Ty'ray Davis,West Florida,UAC,Tarleton State,20,42,261,6.2,1,2,,11,0.47619047619047616
+4899468,Kaden Anderson,Tarleton State,UAC,West Florida,22,37,259,7.0,2,1,,11,0.5945945945945946
+5163068,Jack Schierholz,Arkansas-Pine Bluff,SWAC,Prairie View A&M,10,22,140,6.4,0,0,,11,0.45454545454545453
+4801301,Tevin Carter,Prairie View A&M,SWAC,Arkansas-Pine Bluff,29,38,201,5.3,0,0,,11,0.7631578947368421
+4878822,Jaylon Tolbert,Alcorn State,SWAC,Southern,15,21,237,11.3,3,1,,11,0.7142857142857143
+5442202,Christian Johnson,Southern,SWAC,Alcorn State,17,24,201,8.4,2,0,,11,0.7083333333333334
+5441449,Will Shields,Samford,Southern,Western Carolina,20,33,280,8.5,0,1,,11,0.6060606060606061
+4875128,Lex Thomas,Western Carolina,Southern,Samford,22,36,243,6.8,2,0,,11,0.6111111111111112
+5085112,Emmett Brown,Incarnate Word,Southland,Nicholls,15,24,200,8.3,3,1,,11,0.625
+5226521,Preston Welch,Nicholls,Southland,Incarnate Word,5,17,105,6.2,1,2,,11,0.29411764705882354
+5439307,Chase Richardson,Nicholls,Southland,Incarnate Word,5,7,17,2.4,0,0,,11,0.7142857142857143
+5162467,Daylin Lee,Tennessee State,OVC,Eastern Illinois,20,34,211,6.2,1,0,,11,0.5882352941176471
+5113896,Cole Lacrue,Eastern Illinois,OVC,Tennessee State,10,19,101,5.3,1,1,,11,0.5263157894736842
+5269403,Tommy Carr,Michigan,Big Ten,Oregon,4,12,45,3.8,0,0,14.7,11,0.3333333333333333
+5141741,Bryce Underwood,Michigan,Big Ten,Oregon,2,8,26,3.3,0,0,41.6,11,0.25
+5079572,Dylan Raiola,Oregon,Big Ten,Michigan,20,28,341,12.2,4,0,86.1,11,0.7142857142857143
+5079628,John White,Southern Miss,Sun Belt,Louisiana Tech,21,43,220,5.1,2,4,7.0,11,0.4883720930232558
+5150998,Blake Baker,Louisiana Tech,Sun Belt,Southern Miss,21,28,236,8.4,3,0,66.9,11,0.75
+5296376,Trey Kukuk,Louisiana Tech,Sun Belt,Southern Miss,4,7,65,9.3,0,0,25.1,11,0.5714285714285714
+5232049,Raymond Moore III,UTEP,Mountain West,Wyoming,11,19,87,4.6,0,0,33.1,11,0.5789473684210527
+5296625,Landon Sims,Wyoming,Mountain West,UTEP,19,25,289,11.6,1,0,60.8,11,0.76
+4592532,Billy Edwards,North Carolina,ACC,Louisville,10,14,120,8.6,0,0,13.4,11,0.7142857142857143
+5199937,Travis Burgess,North Carolina,ACC,Louisville,6,11,59,5.4,0,1,63.8,11,0.5454545454545454
+5078278,Lincoln Kienholz,Louisville,ACC,North Carolina,23,31,154,5.0,1,0,40.7,11,0.7419354838709677
+5084084,Kevin Jennings,SMU,ACC,Wake Forest,22,35,209,6.0,1,1,29.9,11,0.6285714285714286
+4920227,Giovanni Lopez,Wake Forest,ACC,SMU,14,25,201,8.0,1,0,86.3,11,0.56
+5141634,Steele Pizzella,Wake Forest,ACC,SMU,4,5,48,9.6,0,0,94.4,11,0.8
+4819250,AJ Bianco,Nevada,Mountain West,Northern Illinois,6,13,96,7.4,2,1,30.3,11,0.46153846153846156
+4881032,Taron Dickens,Northern Illinois,Mountain West,Nevada,21,35,194,5.5,1,1,11.8,11,0.6
+4685578,Gunner Stockton,Georgia,SEC,Missouri,18,24,252,10.5,1,0,97.4,11,0.75
+5141684,Austin Simmons,Missouri,SEC,Georgia,17,25,175,7.0,3,1,53.0,11,0.68
+5233879,Josh Brown,Mississippi Valley State,SWAC,Florida A&M,9,23,70,3.0,0,1,,11,0.391304347826087
+5227056,James Hayes,Florida A&M,SWAC,Mississippi Valley State,14,27,144,5.3,1,2,,11,0.5185185185185185
+4878681,Davis Warren,Stanford,ACC,Virginia Tech,16,31,203,6.5,0,0,68.6,11,0.5161290322580645
+5144078,Ethan Grunkemeyer,Virginia Tech,ACC,Stanford,17,34,270,7.9,2,2,6.0,11,0.5
+5078810,Sam Leavitt,LSU,SEC,Texas,27,37,244,6.6,2,3,71.6,11,0.7297297297297297
+4870906,Arch Manning,Texas,SEC,LSU,19,35,174,5.0,1,3,73.1,11,0.5428571428571428
+4432691,Carlos Del Rio-Wilson,Marshall,Sun Belt,App State,12,22,106,4.8,0,0,32.7,11,0.5454545454545454
+4870999,Malachi Singleton,App State,Sun Belt,Marshall,12,21,131,6.2,0,1,20.6,11,0.5714285714285714
+5089314,Hank Brown,Iowa,Big Ten,Purdue,20,29,188,6.5,1,0,56.0,11,0.6896551724137931
+5104738,Ryan Browne,Purdue,Big Ten,Iowa,14,23,158,6.9,1,1,56.7,11,0.6086956521739131
+5149006,Evans Chuba,Purdue,Big Ten,Iowa,3,5,46,9.2,0,0,26.9,11,0.6
+4700135,Cam Fancher,Michigan State,Big Ten,Washington,14,22,134,6.1,1,1,36.5,11,0.6363636363636364
+5146670,Alessio Milivojevic,Michigan State,Big Ten,Washington,7,12,108,9.0,0,0,88.5,11,0.5833333333333334
+5079653,Demond Williams Jr.,Washington,Big Ten,Michigan State,22,33,288,8.7,2,0,64.5,11,0.6666666666666666
+4801717,Noah Fifita,Arizona,Big 12,Utah,27,43,356,8.3,3,1,74.9,11,0.627906976744186
+5105849,Devon Dampier,Utah,Big 12,Arizona,13,25,204,8.2,2,1,72.7,11,0.52
+5198324,Cibastian Broughton,Akron,Mid-American,Western Michigan,12,18,173,9.6,2,0,4.9,11,0.6666666666666666
+5074245,Broc Lowry,Western Michigan,Mid-American,Akron,15,15,149,9.9,1,0,63.3,11,1.0
+5145473,Mason Reynolds,Western Michigan,Mid-American,Akron,7,8,57,7.1,2,0,89.9,11,0.875
+4685454,Jayden Maiava,USC,Big Ten,Indiana,26,42,311,7.4,1,3,83.0,11,0.6190476190476191
+4695867,Grant Wilson,Indiana,Big Ten,USC,17,27,305,11.3,2,1,66.0,11,0.6296296296296297
+5079369,C.J. Carr,Notre Dame,FBS Independents,Boston College,20,28,217,7.8,2,1,73.4,11,0.7142857142857143
+5307005,Mason McKenzie,Boston College,ACC,Notre Dame,8,21,51,2.4,0,1,9.0,11,0.38095238095238093
+5121169,Darian Mensah,Miami,ACC,Duke,30,41,382,9.3,1,0,79.9,11,0.7317073170731707
+4694149,Walker Eget,Duke,ACC,Miami,26,42,195,4.6,1,1,55.9,11,0.6190476190476191
+5212705,Brady Stober,Elon,Coastal Athletic,Campbell,19,27,276,10.2,1,0,,11,0.7037037037037037
+5154962,Kamden Sixkiller,Campbell,Coastal Athletic,Elon,37,60,429,7.2,3,0,,11,0.6166666666666667
+5416075,Donovyn Omolo,Central Arkansas,UAC,Eastern Kentucky,15,20,173,8.7,4,1,,11,0.75
+4714009,Myles Burkett,Eastern Kentucky,UAC,Central Arkansas,12,18,158,8.8,1,1,,11,0.6666666666666666
+5224320,Jared Echols,Charleston Southern,OVC,Southeast Missouri State,10,24,128,5.3,0,0,,11,0.4166666666666667
+5298251,Caden Clay,Charleston Southern,OVC,Southeast Missouri State,3,6,60,10.0,1,0,,11,0.5
+5152442,Chance Wilson,Southeast Missouri State,OVC,Charleston Southern,12,19,202,10.6,2,0,,11,0.631578947368421
+5298925,Jared Lockhart,Jackson State,SWAC,Alabama State,21,36,229,6.4,1,1,,11,0.5833333333333334
+5441396,Aaron Frye,Alabama State,SWAC,Jackson State,15,25,118,4.7,0,1,,11,0.6
+5119841,Dru Deshields,Kent State,Mid-American,Bowling Green,19,38,332,8.7,2,2,61.6,11,0.5
+4912647,Austin Novosad,Bowling Green,Mid-American,Kent State,15,25,229,9.2,3,0,34.3,11,0.6
+4870883,J.J. Kohl,Florida International,Conference USA,Delaware,26,37,313,8.5,1,2,40.6,11,0.7027027027027027
+5153846,Nick Minicucci,Delaware,Conference USA,Florida International,27,30,230,7.7,2,0,75.4,11,0.9
+5194626,Roman Gagliano,Middle Tennessee,Conference USA,Liberty,24,34,202,5.9,2,0,58.7,11,0.7058823529411765
+5138131,Deshawn Purdie,Liberty,Conference USA,Middle Tennessee,8,17,64,3.8,1,0,19.0,11,0.47058823529411764
+4431633,Will Crowder,Troy,Sun Belt,South Alabama,24,41,231,5.6,1,0,36.6,11,0.5853658536585366
+4869553,Bishop Davenport,South Alabama,Sun Belt,Troy,9,21,122,5.8,0,0,35.5,11,0.42857142857142855
+4775136,Owen McCown,UTSA,American Athletic,North Texas,15,24,85,3.5,0,1,7.7,11,0.625
+4801307,Tayven Jackson,North Texas,American Athletic,UTSA,10,20,125,6.3,0,1,29.2,11,0.5
+5175092,Chris Jimerson Jr.,North Texas,American Athletic,UTSA,7,12,70,5.8,1,0,28.2,11,0.5833333333333334
+5145788,Gael Ochoa,Rice,American Athletic,Tulane,5,13,32,2.5,1,0,67.2,11,0.38461538461538464
+5291713,Trace Johnson,Tulane,American Athletic,Rice,19,38,190,5.0,1,2,35.2,11,0.5
+5123665,Trey Owens,Arkansas State,Sun Belt,Coastal Carolina,23,40,217,5.4,0,1,47.4,11,0.575
+5296439,Deuce Bailey,Coastal Carolina,Sun Belt,Arkansas State,21,24,208,8.7,1,0,50.4,11,0.875
+4801306,Conner Harrell,Charlotte,American Athletic,East Carolina,15,29,161,5.6,1,2,10.8,11,0.5172413793103449
+5075800,Emory Williams,East Carolina,American Athletic,Charlotte,18,34,143,4.2,0,2,9.8,11,0.5294117647058824
+5152110,Nate Bell,Eastern Washington,Big Sky,Utah Tech,21,35,188,5.4,3,0,,11,0.6
+4993406,CJ Tiller,Utah Tech,Big Sky,Eastern Washington,18,23,344,15.0,3,0,,11,0.782608695652174
+4565552,Deacon Hill,Utah Tech,Big Sky,Eastern Washington,4,14,22,1.6,0,0,,11,0.2857142857142857
+4832830,Joshua Wood,Idaho,Big Sky,UC Davis,21,32,307,9.6,2,1,,11,0.65625
+5298853,Treynor Cleeland,UC Davis,Big Sky,Idaho,20,29,276,9.5,4,0,,11,0.6896551724137931
+5225414,Ty Pennington,Northern Arizona,Big Sky,Weber State,23,35,300,8.6,1,2,,11,0.6571428571428571
+5439505,Nate Dahle,Weber State,Big Sky,Northern Arizona,19,30,229,7.6,2,0,,11,0.6333333333333333
+5149056,Jadyn Glasser,Central Michigan,Mid-American,Sacramento State,11,19,105,5.5,0,0,46.6,11,0.5789473684210527
+5401458,Brian Salazar,Sacramento State,Mid-American,Central Michigan,13,28,103,3.7,0,1,20.7,11,0.4642857142857143
+5280838,Drew Bellisari,Miami (OH),Mid-American,Ohio,8,15,99,6.6,0,0,86.6,11,0.5333333333333333
+5388435,Caleb Heavner,Miami (OH),Mid-American,Ohio,1,8,39,4.9,0,0,1.1,11,0.125
+5228762,Nick Poulos,Ohio,Mid-American,Miami (OH),20,39,193,4.9,1,1,15.1,11,0.5128205128205128
+5079542,Luke Kromenhoek,South Florida,American Athletic,Memphis,22,37,271,7.3,3,0,80.5,11,0.5945945945945946
+5165807,Marcus Stokes,Memphis,American Athletic,South Florida,15,31,313,10.1,3,0,83.3,11,0.4838709677419355
+4871091,D'Wayne' Winfield,Louisiana,Sun Belt,UL Monroe,7,13,65,5.0,1,0,20.6,11,0.5384615384615384
+5122054,Aidan Armenta,UL Monroe,Sun Belt,Louisiana,9,15,70,4.7,0,0,50.3,11,0.6
+5207934,Austin Carlisle,UL Monroe,Sun Belt,Louisiana,9,14,42,3.0,1,1,28.0,11,0.6428571428571429
+5075392,Keldric Luster,Ball State,Mid-American,Buffalo,20,39,136,3.5,0,0,17.2,11,0.5128205128205128
+5222591,Jason Wright,Buffalo,Mid-American,Ball State,5,14,48,3.4,1,0,6.2,11,0.35714285714285715
+5224011,Baylor Hayes,Tulsa,American Athletic,Florida Atlantic,21,32,309,9.7,2,2,37.4,11,0.65625
+4869991,Caden Veltkamp,Florida Atlantic,American Athletic,Tulsa,32,58,340,5.9,2,1,41.4,11,0.5517241379310345
+5075571,John-Keawe Sagapolutele,Portland State,Big Sky,Southern Utah,22,33,132,4.0,1,2,,11,0.6666666666666666
+5151171,Will Burns,Southern Utah,Big Sky,Portland State,14,23,166,7.2,2,1,,11,0.6086956521739131
+5225700,Jack Snyder,Sacred Heart,Coastal Athletic,Bryant,16,21,178,8.5,1,1,,11,0.7619047619047619
+5226265,Brennan Myer,Bryant,Coastal Athletic,Sacred Heart,12,17,159,9.4,0,0,,11,0.7058823529411765
+5226812,Alex McClelland,Rhode Island,Coastal Athletic,Towson,7,25,113,4.5,1,0,,11,0.28
+5405931,Jacob Davis,Towson,Coastal Athletic,Rhode Island,11,22,100,4.5,0,0,,11,0.5
+5154125,Chase Goodwin,Columbia,Ivy,Brown,32,47,280,6.0,1,0,,11,0.6808510638297872
+5155943,James Murphy,Brown,Ivy,Columbia,9,20,175,8.8,0,0,,11,0.45
+5109518,Beau Brungard,Youngstown State,MVFC,Illinois State,15,27,178,6.6,1,1,,11,0.5555555555555556
+5227699,Beckham Pellant,Illinois State,MVFC,Youngstown State,17,26,141,5.4,1,0,,11,0.6538461538461539
+5164567,Kevin White,North Carolina A&T,Coastal Athletic,Hampton,10,16,188,11.8,1,1,,11,0.625
+5150663,Champ Long,North Carolina A&T,Coastal Athletic,Hampton,2,6,16,2.7,0,2,,11,0.3333333333333333
+5088851,Tre'Von Taylor,Hampton,Coastal Athletic,North Carolina A&T,6,19,65,3.4,1,0,,11,0.3157894736842105
+5405365,Xavier Brookins,Hampton,Coastal Athletic,North Carolina A&T,2,7,11,1.6,0,1,,11,0.2857142857142857
+5161159,Chris Stephenson,Stetson,Pioneer,Valparaiso,17,24,306,12.8,3,0,,11,0.7083333333333334
+5089335,Rowan Keefe,Valparaiso,Pioneer,Stetson,24,42,303,7.2,2,1,,11,0.5714285714285714
+5154911,Aiden McCown,Lamar,Southland,East Texas A&M,17,29,275,9.5,4,1,,11,0.5862068965517241
+5441947,Reese Mooney,East Texas A&M,Southland,Lamar,21,44,299,6.8,1,0,,11,0.4772727272727273
+5300880,Aidan Jakobsohn,UT Rio Grande Valley,Southland,Stephen F. Austin,6,19,47,2.5,0,1,,11,0.3157894736842105
+5300847,Atzel Chavez Jr.,UT Rio Grande Valley,Southland,Stephen F. Austin,2,8,39,4.9,0,0,,11,0.25
+5303186,JT Kitna,Stephen F. Austin,Southland,UT Rio Grande Valley,19,26,216,8.3,3,1,,11,0.7307692307692307
+5207640,Corey Dailey,Pittsburgh,ACC,Florida State,16,34,157,4.6,1,1,19.0,11,0.47058823529411764
+4838679,Ashton Daniels,Florida State,ACC,Pittsburgh,16,24,163,6.8,0,0,58.8,11,0.6666666666666666
+5092275,Ty Dieffenbach,UCLA,Big Ten,Illinois,13,20,232,11.6,2,1,93.6,11,0.65
+5142594,Madden Iamaleava,UCLA,Big Ten,Illinois,3,7,21,3.0,0,0,26.4,11,0.42857142857142855
+4795295,Katin Houser,Illinois,Big Ten,UCLA,16,34,176,5.2,2,3,42.4,11,0.47058823529411764
+5210475,Ryan Hopkins,Wisconsin,Big Ten,Maryland,11,22,77,3.5,0,0,5.3,11,0.5
+4872721,Cardell Williams,Maryland,Big Ten,Wisconsin,21,23,183,8.0,1,0,78.5,11,0.9130434782608695
+5214646,Luke Fahey,Ohio State,Big Ten,Northwestern,21,32,201,6.3,3,1,68.6,11,0.65625
+4685459,Nicco Marchiol,Northwestern,Big Ten,Ohio State,18,31,225,7.3,1,0,67.2,11,0.5806451612903226
+4801299,Rocco Becht,Penn State,Big Ten,Minnesota,9,15,84,5.6,3,0,80.5,11,0.6
+5144959,Drake Lindsey,Minnesota,Big Ten,Penn State,16,30,185,6.2,2,0,22.3,11,0.5333333333333333
+4911929,Alonza Barnett,UCF,Big 12,Arizona State,21,30,257,8.6,1,0,30.3,11,0.7
+5209295,Jake Fette,Arizona State,Big 12,UCF,21,36,196,5.4,0,0,60.9,11,0.5833333333333334
+5172036,JC Evans,James Madison,Sun Belt,UConn,27,42,236,5.6,1,1,66.7,11,0.6428571428571429
+5079619,Kalieb Osborne,UConn,FBS Independents,James Madison,16,20,274,13.7,3,0,90.5,11,0.8
+4685440,Kyle Lowe,SE Louisiana,Southland,McNeese,12,22,131,6.0,1,2,,11,0.5454545454545454
+4915622,Jake Strong,McNeese,Southland,SE Louisiana,5,9,35,3.9,0,1,,11,0.5555555555555556
+5275329,Brady Barrier,McNeese,Southland,SE Louisiana,3,7,15,2.1,0,0,,11,0.42857142857142855
+5010409,Jayden Mandal,Fresno State,Pac-12,Texas State,20,34,250,7.4,1,1,55.1,11,0.5882352941176471
+5148803,Brad Jackson,Texas State,Pac-12,Fresno State,25,33,355,10.8,3,0,92.7,11,0.7575757575757576
+4870513,Maddux Madsen,Boise State,Pac-12,Oregon State,23,32,371,11.6,4,0,95.5,11,0.71875
+4685497,Maalik Murphy,Oregon State,Pac-12,Boise State,31,39,396,10.2,3,1,87.7,11,0.7948717948717948
+5295238,Luke Weaver,San José State,Mountain West,Air Force,11,24,138,5.8,0,0,24.1,11,0.4583333333333333
+4870607,Jackson Arnold,UNLV,Mountain West,New Mexico,12,26,201,7.7,2,1,69.0,11,0.46153846153846156
+5261479,Toa Faavae,New Mexico,Mountain West,UNLV,7,14,40,2.9,1,1,9.7,11,0.5
+4923285,McCae Hillstead,Utah State,Pac-12,San Diego State,17,34,139,4.1,1,0,12.3,11,0.5
+5141664,Stone Saunders,San Diego State,Pac-12,Utah State,16,34,180,5.3,0,1,24.9,11,0.47058823529411764
+5263246,Owen Eshelman,Washington State,Pac-12,Colorado State,13,14,135,9.6,1,0,88.1,11,0.9285714285714286
+5079443,Hauss Hejny,Colorado State,Pac-12,Washington State,14,24,199,8.3,0,1,18.8,11,0.5833333333333334
+5141367,Bear Bachmeier,BYU,Big 12,Baylor,14,24,104,4.3,1,0,91.9,11,0.5833333333333334
+5079555,D.J. Lagway,Baylor,Big 12,BYU,21,37,159,4.3,1,1,44.4,11,0.5675675675675675
+4685345,JC French,Cincinnati,Big 12,Iowa State,14,23,97,4.2,1,0,6.4,11,0.6086956521739131
+5080403,Jaylen Raynor,Iowa State,Big 12,Cincinnati,14,23,229,10.0,1,1,51.5,11,0.6086956521739131
+4915980,John Mateer,Oklahoma,SEC,Ole Miss,10,19,111,5.8,0,0,,11,0.5263157894736842
+4911529,Trinidad Chambliss,Ole Miss,SEC,Oklahoma,14,27,127,4.7,1,0,,11,0.5185185185185185
+5079465,Michael Hawkins Jr.,West Virginia,Big 12,Kansas,19,34,227,6.7,1,1,40.0,11,0.5588235294117647
+5079604,Isaiah Marshall,Kansas,Big 12,West Virginia,15,18,152,8.4,0,1,82.6,11,0.8333333333333334
+5141571,George MacIntyre,Tennessee,SEC,Texas A&M,13,17,109,6.4,0,0,38.2,11,0.7647058823529411
+4870971,Marcel Reed,Texas A&M,SEC,Tennessee,9,22,71,3.2,0,1,5.0,11,0.4090909090909091
+4685574,Conner Weigman,Houston,Big 12,Colorado,26,42,272,6.5,3,1,62.9,11,0.6190476190476191
+5079771,Isaac Wilson,Colorado,Big 12,Houston,17,25,217,8.7,1,1,46.7,11,0.68
+4918099,Kenny Minchey,Kentucky,SEC,Florida,15,26,181,7.0,1,0,52.4,11,0.5769230769230769
+5132812,Aaron Philo,Florida,SEC,Kentucky,16,24,119,5.0,0,0,83.6,11,0.6666666666666666
+5081405,AJ Swann,Mississippi State,SEC,Auburn,6,13,138,10.6,1,0,24.8,11,0.46153846153846156
+5294646,Parker Puckett,Mississippi State,SEC,Auburn,10,14,68,4.9,0,0,2.6,11,0.7142857142857143
+4880272,Byrum Brown,Auburn,SEC,Mississippi State,19,26,232,8.9,3,1,43.8,11,0.7307692307692307
+5079516,KJ Jackson,Arkansas,SEC,South Carolina,15,24,188,7.8,2,0,86.3,11,0.625
+5164334,Cutter Woods,South Carolina,SEC,Arkansas,24,43,271,6.3,0,3,20.0,11,0.5581395348837209
+5087156,Nathan Hayes,North Dakota State,Mountain West,Hawai'i,13,20,97,4.9,1,0,32.7,11,0.65
+5101124,Micah Alejado,Hawai'i,Mountain West,North Dakota State,31,47,231,4.9,0,2,11.3,11,0.6595744680851063
+5153708,Keali'i Ah Yat,Montana,Big Sky,Idaho State,25,34,329,9.7,3,1,,11,0.7352941176470589
+5158746,Jordan Cooke,Idaho State,Big Sky,Montana,27,53,356,6.7,3,1,,11,0.5094339622641509
+5402159,Gavin Beard,Georgetown,Patriot,Fordham,10,31,60,1.9,0,1,,11,0.3225806451612903
+4812381,Gunnar Smith,Fordham,Patriot,Georgetown,13,21,138,6.6,1,0,,11,0.6190476190476191
+5302115,Austyn Modrzewski,South Dakota,MVFC,Northern Iowa,23,29,356,12.3,5,1,,11,0.7931034482758621
+4826635,Jaxon Dailey,Northern Iowa,MVFC,South Dakota,23,47,294,6.3,3,1,,11,0.48936170212765956
+4697094,DJ Williams,Southern Illinois,MVFC,South Dakota State,23,43,209,4.9,1,0,,11,0.5348837209302325
+5085784,Chase Mason,South Dakota State,MVFC,Southern Illinois,22,32,320,10.0,3,0,,11,0.6875
+5151506,Josh Holst,South Dakota State,MVFC,Southern Illinois,4,6,116,19.3,1,0,,11,0.6666666666666666
+5299849,Jack Callaghan,Richmond,Patriot,Lehigh,23,31,207,6.7,1,0,,11,0.7419354838709677
+5402237,Patrick Coan,Lehigh,Patriot,Richmond,10,21,82,3.9,1,0,,11,0.47619047619047616
+5147465,Tucker Parks,Abilene Christian,UAC,Austin Peay,22,36,249,6.9,2,1,,11,0.6111111111111112
+4870889,Chris Parson,Austin Peay,UAC,Abilene Christian,22,31,355,11.5,3,1,,11,0.7096774193548387
+4873077,Brayten Silbor,Northern Colorado,Big Sky,Montana State,22,32,242,7.6,2,0,,11,0.6875
+4684502,Justin Lamson,Montana State,Big Sky,Northern Colorado,24,28,246,8.8,0,0,,11,0.8571428571428571
+5198324,Cibastian Broughton,Akron,Mid-American,Massachusetts,10,17,165,9.7,1,2,,12,0.5882352941176471
+5298739,Logan Inagawa,Massachusetts,Mid-American,Akron,12,21,104,5.0,3,1,,12,0.5714285714285714
+5119841,Dru Deshields,Kent State,Mid-American,Miami (OH),8,15,92,6.1,0,1,,12,0.5333333333333333
+5222633,Nolan Good,Kent State,Mid-American,Miami (OH),3,5,47,9.4,0,0,,12,0.6
+5280838,Drew Bellisari,Miami (OH),Mid-American,Kent State,7,12,124,10.3,0,0,,12,0.5833333333333334
+5075392,Keldric Luster,Ball State,Mid-American,Ohio,20,33,257,7.8,2,1,,12,0.6060606060606061
+5228762,Nick Poulos,Ohio,Mid-American,Ball State,9,13,155,11.9,1,1,,12,0.6923076923076923
+5149056,Jadyn Glasser,Central Michigan,Mid-American,Buffalo,10,19,101,5.3,3,2,,12,0.5263157894736842
+5222591,Jason Wright,Buffalo,Mid-American,Central Michigan,6,13,152,11.7,1,0,,12,0.46153846153846156
+5074245,Broc Lowry,Western Michigan,Mid-American,Eastern Michigan,12,18,106,5.9,0,0,,12,0.6666666666666666
+5094040,Brogan McCaughey,Eastern Michigan,Mid-American,Western Michigan,12,16,135,8.4,1,0,,12,0.75
+5144207,Jace Stuckey,Eastern Michigan,Mid-American,Western Michigan,6,9,7,0.8,0,1,,12,0.6666666666666666

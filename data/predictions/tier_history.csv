@@ -1,6 +1,6 @@
 tier,label,wins,losses,pushes,win_pct,units,by_season,description
-fav_value,Model backs the favorite,99,90,1,52.4,0.0,"{""2025"": [64, 52], ""2026"": [35, 38]}",The model thinks a 3.5-14 point favorite should be favored by at least 3 more points.
-big_gap,Big disagreement,153,122,2,55.6,17.1,"{""2025"": [106, 79], ""2026"": [47, 43]}",The model's line is 10+ points away from Vegas.
-lean,Lean,505,456,10,52.5,3.1,"{""2025"": [248, 236], ""2026"": [257, 220]}",The model and Vegas disagree by 3-10 points.
-pass,No edge,576,594,7,49.2,-70.4,"{""2025"": [313, 299], ""2026"": [263, 295]}",The model and Vegas are within 3 points of each other.
-all_3plus,All picks (3+ pt gap),757,668,13,53.1,20.2,"{""2025"": [418, 367], ""2026"": [339, 301]}",Every game where the model and Vegas differ by 3+ points.
+fav_value,Model backs the favorite,102,92,1,52.6,0.7,"{""2025"": [66, 51], ""2026"": [36, 41]}",The model thinks a 3.5-14 point favorite should be favored by at least 3 more points.
+big_gap,Big disagreement,156,124,2,55.7,17.8,"{""2025"": [108, 80], ""2026"": [48, 44]}",The model's line is 10+ points away from Vegas.
+lean,Lean,529,486,10,52.1,-5.1,"{""2025"": [246, 241], ""2026"": [283, 245]}",The model and Vegas disagree by 3-10 points.
+pass,No edge,612,626,9,49.4,-69.6,"{""2025"": [309, 296], ""2026"": [303, 330]}",The model and Vegas are within 3 points of each other.
+all_3plus,All picks (3+ pt gap),787,702,13,52.9,13.5,"{""2025"": [420, 372], ""2026"": [367, 330]}",Every game where the model and Vegas differ by 3+ points.
