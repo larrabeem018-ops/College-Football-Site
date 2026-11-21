@@ -1,18 +1,18 @@
 player_id,player,team,conference,attempts,location_eligible,location_available,zone,zone_att,zone_comp,zone_int,zone_comp_rate,zone_ypa,zone_adot,zone_success,zone_ppa
-5306440,Evan Medders,Air Force,MWC,25,25,24,short left,4,4,0,1.0,10.3,6.3,0.75,0.424
-5306440,Evan Medders,Air Force,MWC,25,25,24,short middle,8,5,0,0.625,9.8,14.1,0.625,0.743
-5306440,Evan Medders,Air Force,MWC,25,25,24,short right,7,2,0,0.286,1.0,7.0,0.143,-0.471
-5306440,Evan Medders,Air Force,MWC,25,25,24,deep left,1,1,0,1.0,25.0,20.0,1.0,1.784
-5306440,Evan Medders,Air Force,MWC,25,25,24,deep middle,3,1,0,0.333,6.7,27.7,0.333,0.167
-5306440,Evan Medders,Air Force,MWC,25,25,24,deep right,1,0,0,0.0,0.0,34.0,0.0,-1.159
-5306440,Evan Medders,Air Force,MWC,25,25,24,unknown,1,1,0,1.0,5.0,,1.0,2.439
-5449066,Howard Fisher IV,Air Force,MWC,9,9,9,short left,4,1,0,0.25,1.3,11.8,0.0,-0.284
-5449066,Howard Fisher IV,Air Force,MWC,9,9,9,short middle,2,1,0,0.5,10.5,12.0,0.5,0.891
-5449066,Howard Fisher IV,Air Force,MWC,9,9,9,short right,2,1,0,0.5,5.0,5.0,0.5,-0.224
-5449066,Howard Fisher IV,Air Force,MWC,9,9,9,deep left,0,0,0,,,,0.0,0.0
-5449066,Howard Fisher IV,Air Force,MWC,9,9,9,deep middle,1,0,0,0.0,0.0,28.0,0.0,-0.617
-5449066,Howard Fisher IV,Air Force,MWC,9,9,9,deep right,0,0,0,,,,0.0,0.0
-5449066,Howard Fisher IV,Air Force,MWC,9,9,9,unknown,0,0,0,,,,0.0,0.0
+5306440,Evan Medders,Air Force,MWC,29,29,28,short left,4,4,0,1.0,10.3,6.3,0.75,0.424
+5306440,Evan Medders,Air Force,MWC,29,29,28,short middle,8,5,0,0.625,9.8,14.1,0.625,0.743
+5306440,Evan Medders,Air Force,MWC,29,29,28,short right,9,3,0,0.333,2.3,6.7,0.222,-0.324
+5306440,Evan Medders,Air Force,MWC,29,29,28,deep left,1,1,0,1.0,25.0,20.0,1.0,1.784
+5306440,Evan Medders,Air Force,MWC,29,29,28,deep middle,5,3,0,0.6,25.6,28.0,0.6,2.227
+5306440,Evan Medders,Air Force,MWC,29,29,28,deep right,1,0,0,0.0,0.0,34.0,0.0,-1.159
+5306440,Evan Medders,Air Force,MWC,29,29,28,unknown,1,1,0,1.0,5.0,,1.0,2.439
+5449066,Howard Fisher IV,Air Force,MWC,10,10,10,short left,5,1,0,0.2,1.0,13.0,0.0,-0.283
+5449066,Howard Fisher IV,Air Force,MWC,10,10,10,short middle,2,1,0,0.5,10.5,12.0,0.5,0.891
+5449066,Howard Fisher IV,Air Force,MWC,10,10,10,short right,2,1,0,0.5,5.0,5.0,0.5,-0.224
+5449066,Howard Fisher IV,Air Force,MWC,10,10,10,deep left,0,0,0,,,,0.0,0.0
+5449066,Howard Fisher IV,Air Force,MWC,10,10,10,deep middle,1,0,0,0.0,0.0,28.0,0.0,-0.617
+5449066,Howard Fisher IV,Air Force,MWC,10,10,10,deep right,0,0,0,,,,0.0,0.0
+5449066,Howard Fisher IV,Air Force,MWC,10,10,10,unknown,0,0,0,,,,0.0,0.0
 5223108,Josh Johnson,Air Force,MWC,4,4,4,short left,0,0,0,,,,0.0,0.0
 5223108,Josh Johnson,Air Force,MWC,4,4,4,short middle,1,1,0,1.0,14.0,13.0,1.0,1.616
 5223108,Josh Johnson,Air Force,MWC,4,4,4,short right,2,1,0,0.5,3.0,3.0,0.0,-0.266
@@ -34,6 +34,13 @@ player_id,player,team,conference,attempts,location_eligible,location_available,z
 5238868,Liam Szarka,Air Force,MWC,39,38,34,deep middle,6,2,0,0.333,10.0,29.8,0.333,-0.087
 5238868,Liam Szarka,Air Force,MWC,39,38,34,deep right,1,1,0,1.0,21.0,20.0,1.0,2.839
 5238868,Liam Szarka,Air Force,MWC,39,38,34,unknown,4,0,4,0.0,0.0,17.8,0.0,-4.002
+5223110,Maguire Martin,Air Force,MWC,1,1,1,short left,0,0,0,,,,0.0,0.0
+5223110,Maguire Martin,Air Force,MWC,1,1,1,short middle,0,0,0,,,,0.0,0.0
+5223110,Maguire Martin,Air Force,MWC,1,1,1,short right,1,1,0,1.0,35.0,4.0,1.0,3.871
+5223110,Maguire Martin,Air Force,MWC,1,1,1,deep left,0,0,0,,,,0.0,0.0
+5223110,Maguire Martin,Air Force,MWC,1,1,1,deep middle,0,0,0,,,,0.0,0.0
+5223110,Maguire Martin,Air Force,MWC,1,1,1,deep right,0,0,0,,,,0.0,0.0
+5223110,Maguire Martin,Air Force,MWC,1,1,1,unknown,0,0,0,,,,0.0,0.0
 5295013,Mason Hayes,Air Force,MWC,1,1,1,short left,0,0,0,,,,0.0,0.0
 5295013,Mason Hayes,Air Force,MWC,1,1,1,short middle,0,0,0,,,,0.0,0.0
 5295013,Mason Hayes,Air Force,MWC,1,1,1,short right,0,0,0,,,,0.0,0.0
@@ -342,13 +349,13 @@ player_id,player,team,conference,attempts,location_eligible,location_available,z
 5307005,Mason McKenzie,Boston College,ACC,249,249,235,deep middle,11,6,0,0.545,17.0,26.0,0.545,1.25
 5307005,Mason McKenzie,Boston College,ACC,249,249,235,deep right,16,5,0,0.313,10.9,24.6,0.375,0.562
 5307005,Mason McKenzie,Boston College,ACC,249,249,235,unknown,14,5,9,0.357,4.9,11.8,0.286,-1.826
-4912647,Austin Novosad,Bowling Green,MAC,32,32,32,short left,13,6,0,0.462,9.3,8.2,0.385,0.761
-4912647,Austin Novosad,Bowling Green,MAC,32,32,32,short middle,3,3,0,1.0,9.0,8.0,0.333,0.544
-4912647,Austin Novosad,Bowling Green,MAC,32,32,32,short right,12,7,0,0.583,5.3,2.8,0.333,-0.222
-4912647,Austin Novosad,Bowling Green,MAC,32,32,32,deep left,4,2,0,0.5,13.3,31.0,0.5,0.623
-4912647,Austin Novosad,Bowling Green,MAC,32,32,32,deep middle,0,0,0,,,,0.0,0.0
-4912647,Austin Novosad,Bowling Green,MAC,32,32,32,deep right,0,0,0,,,,0.0,0.0
-4912647,Austin Novosad,Bowling Green,MAC,32,32,32,unknown,0,0,0,,,,0.0,0.0
+4912647,Austin Novosad,Bowling Green,MAC,54,54,54,short left,20,9,0,0.45,7.4,8.5,0.3,0.466
+4912647,Austin Novosad,Bowling Green,MAC,54,54,54,short middle,7,6,0,0.857,7.3,8.0,0.286,0.255
+4912647,Austin Novosad,Bowling Green,MAC,54,54,54,short right,18,10,0,0.556,4.4,3.1,0.278,-0.274
+4912647,Austin Novosad,Bowling Green,MAC,54,54,54,deep left,6,3,0,0.5,13.7,28.5,0.5,0.857
+4912647,Austin Novosad,Bowling Green,MAC,54,54,54,deep middle,2,2,0,1.0,24.5,22.5,1.0,1.811
+4912647,Austin Novosad,Bowling Green,MAC,54,54,54,deep right,1,0,0,0.0,0.0,27.0,0.0,-0.436
+4912647,Austin Novosad,Bowling Green,MAC,54,54,54,unknown,0,0,0,,,,0.0,0.0
 5226453,Brennan Ridley,Bowling Green,MAC,1,1,0,short left,0,0,0,,,,0.0,0.0
 5226453,Brennan Ridley,Bowling Green,MAC,1,1,0,short middle,0,0,0,,,,0.0,0.0
 5226453,Brennan Ridley,Bowling Green,MAC,1,1,0,short right,0,0,0,,,,0.0,0.0
@@ -510,13 +517,20 @@ player_id,player,team,conference,attempts,location_eligible,location_available,z
 5200187,Brock Bradley,Clemson,ACC,1,1,1,deep middle,0,0,0,,,,0.0,0.0
 5200187,Brock Bradley,Clemson,ACC,1,1,1,deep right,0,0,0,,,,0.0,0.0
 5200187,Brock Bradley,Clemson,ACC,1,1,1,unknown,0,0,0,,,,0.0,0.0
-5112674,Bryant Wesco Jr.,Clemson,ACC,1,1,1,short left,0,0,0,,,,0.0,0.0
-5112674,Bryant Wesco Jr.,Clemson,ACC,1,1,1,short middle,0,0,0,,,,0.0,0.0
-5112674,Bryant Wesco Jr.,Clemson,ACC,1,1,1,short right,1,1,0,1.0,36.0,19.0,1.0,1.928
-5112674,Bryant Wesco Jr.,Clemson,ACC,1,1,1,deep left,0,0,0,,,,0.0,0.0
-5112674,Bryant Wesco Jr.,Clemson,ACC,1,1,1,deep middle,0,0,0,,,,0.0,0.0
-5112674,Bryant Wesco Jr.,Clemson,ACC,1,1,1,deep right,0,0,0,,,,0.0,0.0
-5112674,Bryant Wesco Jr.,Clemson,ACC,1,1,1,unknown,0,0,0,,,,0.0,0.0
+5112674,Bryant Wesco Jr.,Clemson,ACC,2,2,1,short left,0,0,0,,,,0.0,0.0
+5112674,Bryant Wesco Jr.,Clemson,ACC,2,2,1,short middle,0,0,0,,,,0.0,0.0
+5112674,Bryant Wesco Jr.,Clemson,ACC,2,2,1,short right,1,1,0,1.0,36.0,19.0,1.0,1.928
+5112674,Bryant Wesco Jr.,Clemson,ACC,2,2,1,deep left,0,0,0,,,,0.0,0.0
+5112674,Bryant Wesco Jr.,Clemson,ACC,2,2,1,deep middle,0,0,0,,,,0.0,0.0
+5112674,Bryant Wesco Jr.,Clemson,ACC,2,2,1,deep right,0,0,0,,,,0.0,0.0
+5112674,Bryant Wesco Jr.,Clemson,ACC,2,2,1,unknown,1,0,1,0.0,0.0,36.0,0.0,-3.336
+5210003,Chris Denson,Clemson,ACC,2,2,2,short left,0,0,0,,,,0.0,0.0
+5210003,Chris Denson,Clemson,ACC,2,2,2,short middle,1,0,0,0.0,0.0,-5.0,0.0,-1.162
+5210003,Chris Denson,Clemson,ACC,2,2,2,short right,0,0,0,,,,0.0,0.0
+5210003,Chris Denson,Clemson,ACC,2,2,2,deep left,0,0,0,,,,0.0,0.0
+5210003,Chris Denson,Clemson,ACC,2,2,2,deep middle,0,0,0,,,,0.0,0.0
+5210003,Chris Denson,Clemson,ACC,2,2,2,deep right,1,0,0,0.0,0.0,32.0,0.0,-0.908
+5210003,Chris Denson,Clemson,ACC,2,2,2,unknown,0,0,0,,,,0.0,0.0
 4899369,Christopher Vizzina,Clemson,ACC,50,50,47,short left,15,10,0,0.667,7.7,6.3,0.533,0.405
 4899369,Christopher Vizzina,Clemson,ACC,50,50,47,short middle,8,3,0,0.375,3.3,7.9,0.25,0.33
 4899369,Christopher Vizzina,Clemson,ACC,50,50,47,short right,17,12,0,0.706,3.5,4.5,0.118,-0.136
@@ -531,13 +545,13 @@ player_id,player,team,conference,attempts,location_eligible,location_available,z
 5159078,Tait Reynolds,Clemson,ACC,242,240,235,deep middle,4,1,0,0.25,6.8,32.5,0.25,0.28
 5159078,Tait Reynolds,Clemson,ACC,242,240,235,deep right,14,1,0,0.071,1.4,27.8,0.071,-0.473
 5159078,Tait Reynolds,Clemson,ACC,242,240,235,unknown,5,1,4,0.2,5.4,26.8,0.2,-3.218
-5081434,Trent Pearman,Clemson,ACC,19,19,17,short left,7,4,0,0.571,2.7,1.0,0.143,-0.022
-5081434,Trent Pearman,Clemson,ACC,19,19,17,short middle,3,3,0,1.0,10.0,6.3,0.667,0.607
-5081434,Trent Pearman,Clemson,ACC,19,19,17,short right,5,3,0,0.6,7.4,9.4,0.6,0.405
-5081434,Trent Pearman,Clemson,ACC,19,19,17,deep left,2,0,0,0.0,0.0,32.0,0.0,-1.078
-5081434,Trent Pearman,Clemson,ACC,19,19,17,deep middle,0,0,0,,,,0.0,0.0
-5081434,Trent Pearman,Clemson,ACC,19,19,17,deep right,0,0,0,,,,0.0,0.0
-5081434,Trent Pearman,Clemson,ACC,19,19,17,unknown,2,0,2,0.0,0.0,12.5,0.0,-7.706
+5081434,Trent Pearman,Clemson,ACC,46,46,44,short left,14,8,0,0.571,2.8,2.8,0.143,-0.209
+5081434,Trent Pearman,Clemson,ACC,46,46,44,short middle,4,4,0,1.0,9.3,6.3,0.75,0.879
+5081434,Trent Pearman,Clemson,ACC,46,46,44,short right,21,13,0,0.619,4.7,6.0,0.381,0.227
+5081434,Trent Pearman,Clemson,ACC,46,46,44,deep left,3,0,0,0.0,0.0,28.7,0.0,-1.091
+5081434,Trent Pearman,Clemson,ACC,46,46,44,deep middle,0,0,0,,,,0.0,0.0
+5081434,Trent Pearman,Clemson,ACC,46,46,44,deep right,2,2,0,1.0,37.5,29.5,1.0,3.68
+5081434,Trent Pearman,Clemson,ACC,46,46,44,unknown,2,0,2,0.0,0.0,12.5,0.0,-7.706
 5296439,Deuce Bailey,Coastal Carolina,SBC,295,294,282,short left,75,39,0,0.52,5.9,5.7,0.387,0.059
 5296439,Deuce Bailey,Coastal Carolina,SBC,295,294,282,short middle,60,40,0,0.667,7.7,7.5,0.5,0.493
 5296439,Deuce Bailey,Coastal Carolina,SBC,295,294,282,short right,96,65,0,0.677,6.5,5.8,0.417,0.295
@@ -685,13 +699,13 @@ player_id,player,team,conference,attempts,location_eligible,location_available,z
 5211205,Terry Walker III,Duke,ACC,4,4,4,deep middle,0,0,0,,,,0.0,0.0
 5211205,Terry Walker III,Duke,ACC,4,4,4,deep right,0,0,0,,,,0.0,0.0
 5211205,Terry Walker III,Duke,ACC,4,4,4,unknown,0,0,0,,,,0.0,0.0
-4694149,Walker Eget,Duke,ACC,292,288,284,short left,87,64,0,0.736,7.8,5.2,0.563,0.525
-4694149,Walker Eget,Duke,ACC,292,288,284,short middle,58,38,0,0.655,7.2,5.1,0.431,0.317
-4694149,Walker Eget,Duke,ACC,292,288,284,short right,103,68,0,0.66,6.3,4.1,0.476,0.4
-4694149,Walker Eget,Duke,ACC,292,288,284,deep left,19,7,0,0.368,10.3,27.6,0.368,0.325
-4694149,Walker Eget,Duke,ACC,292,288,284,deep middle,5,1,0,0.2,6.2,35.0,0.2,-0.205
-4694149,Walker Eget,Duke,ACC,292,288,284,deep right,12,3,0,0.25,7.4,24.3,0.25,-0.095
-4694149,Walker Eget,Duke,ACC,292,288,284,unknown,4,0,4,0.0,0.0,12.3,0.0,-3.536
+4694149,Walker Eget,Duke,ACC,330,326,321,short left,96,67,0,0.698,7.2,4.9,0.531,0.423
+4694149,Walker Eget,Duke,ACC,330,326,321,short middle,63,41,0,0.651,7.5,5.5,0.429,0.353
+4694149,Walker Eget,Duke,ACC,330,326,321,short right,119,76,0,0.639,5.7,3.8,0.454,0.29
+4694149,Walker Eget,Duke,ACC,330,326,321,deep left,23,8,0,0.348,9.9,27.5,0.348,0.338
+4694149,Walker Eget,Duke,ACC,330,326,321,deep middle,6,2,0,0.333,8.7,32.5,0.333,0.412
+4694149,Walker Eget,Duke,ACC,330,326,321,deep right,14,3,0,0.214,6.4,24.1,0.214,-0.184
+4694149,Walker Eget,Duke,ACC,330,326,321,unknown,5,0,5,0.0,0.0,13.2,0.0,-3.644
 5075800,Emory Williams,East Carolina,AAC,178,177,169,short left,43,28,0,0.651,5.5,4.5,0.465,0.333
 5075800,Emory Williams,East Carolina,AAC,178,177,169,short middle,44,29,0,0.659,7.6,6.5,0.545,0.453
 5075800,Emory Williams,East Carolina,AAC,178,177,169,short right,66,46,0,0.697,4.7,2.3,0.409,0.059
@@ -1091,13 +1105,13 @@ player_id,player,team,conference,attempts,location_eligible,location_available,z
 5140620,Connor Moberly,Iowa State,B12,19,19,19,deep middle,0,0,0,,,,0.0,0.0
 5140620,Connor Moberly,Iowa State,B12,19,19,19,deep right,1,0,0,0.0,0.0,36.0,0.0,-0.651
 5140620,Connor Moberly,Iowa State,B12,19,19,19,unknown,0,0,0,,,,0.0,0.0
-5080403,Jaylen Raynor,Iowa State,B12,246,246,238,short left,62,32,0,0.516,4.1,6.1,0.371,0.034
-5080403,Jaylen Raynor,Iowa State,B12,246,246,238,short middle,37,26,0,0.703,8.9,7.3,0.514,0.352
-5080403,Jaylen Raynor,Iowa State,B12,246,246,238,short right,99,70,0,0.707,7.1,4.4,0.475,0.378
-5080403,Jaylen Raynor,Iowa State,B12,246,246,238,deep left,11,7,0,0.636,22.0,22.2,0.636,1.474
-5080403,Jaylen Raynor,Iowa State,B12,246,246,238,deep middle,11,4,0,0.364,10.9,28.4,0.364,0.418
-5080403,Jaylen Raynor,Iowa State,B12,246,246,238,deep right,18,6,0,0.333,10.9,23.2,0.333,0.384
-5080403,Jaylen Raynor,Iowa State,B12,246,246,238,unknown,8,2,6,0.25,6.5,19.3,0.25,-2.119
+5080403,Jaylen Raynor,Iowa State,B12,269,269,260,short left,69,37,0,0.536,4.1,6.2,0.362,0.001
+5080403,Jaylen Raynor,Iowa State,B12,269,269,260,short middle,41,29,0,0.707,8.6,7.4,0.488,0.334
+5080403,Jaylen Raynor,Iowa State,B12,269,269,260,short right,107,75,0,0.701,6.6,4.1,0.439,0.229
+5080403,Jaylen Raynor,Iowa State,B12,269,269,260,deep left,11,7,0,0.636,22.0,22.2,0.636,1.474
+5080403,Jaylen Raynor,Iowa State,B12,269,269,260,deep middle,11,4,0,0.364,10.9,28.4,0.364,0.418
+5080403,Jaylen Raynor,Iowa State,B12,269,269,260,deep right,21,7,0,0.333,10.4,23.0,0.333,0.419
+5080403,Jaylen Raynor,Iowa State,B12,269,269,260,unknown,9,2,7,0.222,5.8,18.3,0.222,-2.309
 5122157,Caden Creel,Jacksonville State,CUSA,261,261,248,short left,78,58,0,0.744,7.3,3.9,0.474,0.259
 5122157,Caden Creel,Jacksonville State,CUSA,261,261,248,short middle,62,47,0,0.758,8.2,5.2,0.565,0.472
 5122157,Caden Creel,Jacksonville State,CUSA,261,261,248,short right,78,53,0,0.679,6.3,3.2,0.462,0.273
@@ -1623,20 +1637,20 @@ player_id,player,team,conference,attempts,location_eligible,location_available,z
 4911541,Carson Gulker,Michigan State,B1G,1,1,1,deep middle,0,0,0,,,,0.0,0.0
 4911541,Carson Gulker,Michigan State,B1G,1,1,1,deep right,0,0,0,,,,0.0,0.0
 4911541,Carson Gulker,Michigan State,B1G,1,1,1,unknown,0,0,0,,,,0.0,0.0
-5266583,Kayd Coffman,Michigan State,B1G,11,11,10,short left,2,2,0,1.0,16.5,11.5,1.0,2.709
-5266583,Kayd Coffman,Michigan State,B1G,11,11,10,short middle,1,0,0,0.0,0.0,7.0,0.0,-0.372
-5266583,Kayd Coffman,Michigan State,B1G,11,11,10,short right,4,2,0,0.5,2.3,6.5,0.25,-0.064
-5266583,Kayd Coffman,Michigan State,B1G,11,11,10,deep left,3,0,0,0.0,0.0,23.7,0.0,-0.603
-5266583,Kayd Coffman,Michigan State,B1G,11,11,10,deep middle,0,0,0,,,,0.0,0.0
-5266583,Kayd Coffman,Michigan State,B1G,11,11,10,deep right,0,0,0,,,,0.0,0.0
-5266583,Kayd Coffman,Michigan State,B1G,11,11,10,unknown,1,0,1,0.0,0.0,7.0,0.0,-8.401
-5164308,Leo Hannan,Michigan State,B1G,15,15,14,short left,4,2,0,0.5,4.5,3.5,0.25,-0.327
-5164308,Leo Hannan,Michigan State,B1G,15,15,14,short middle,2,2,0,1.0,5.5,4.5,0.5,-0.047
-5164308,Leo Hannan,Michigan State,B1G,15,15,14,short right,7,5,0,0.714,5.4,4.0,0.429,0.534
-5164308,Leo Hannan,Michigan State,B1G,15,15,14,deep left,1,0,0,0.0,0.0,21.0,0.0,-0.388
-5164308,Leo Hannan,Michigan State,B1G,15,15,14,deep middle,0,0,0,,,,0.0,0.0
-5164308,Leo Hannan,Michigan State,B1G,15,15,14,deep right,0,0,0,,,,0.0,0.0
-5164308,Leo Hannan,Michigan State,B1G,15,15,14,unknown,1,0,1,0.0,0.0,28.0,0.0,-3.808
+5266583,Kayd Coffman,Michigan State,B1G,30,30,28,short left,9,7,0,0.778,8.6,6.3,0.556,0.92
+5266583,Kayd Coffman,Michigan State,B1G,30,30,28,short middle,5,1,0,0.2,1.8,4.2,0.2,0.091
+5266583,Kayd Coffman,Michigan State,B1G,30,30,28,short right,9,5,0,0.556,4.3,5.2,0.333,0.093
+5266583,Kayd Coffman,Michigan State,B1G,30,30,28,deep left,4,1,0,0.25,5.8,22.8,0.25,0.346
+5266583,Kayd Coffman,Michigan State,B1G,30,30,28,deep middle,0,0,0,,,,0.0,0.0
+5266583,Kayd Coffman,Michigan State,B1G,30,30,28,deep right,1,0,0,0.0,0.0,35.0,0.0,-0.44
+5266583,Kayd Coffman,Michigan State,B1G,30,30,28,unknown,2,0,2,0.0,0.0,6.5,0.0,-6.622
+5164308,Leo Hannan,Michigan State,B1G,19,19,18,short left,4,2,0,0.5,4.5,3.5,0.25,-0.327
+5164308,Leo Hannan,Michigan State,B1G,19,19,18,short middle,2,2,0,1.0,5.5,4.5,0.5,-0.047
+5164308,Leo Hannan,Michigan State,B1G,19,19,18,short right,10,7,0,0.7,5.2,3.0,0.4,0.346
+5164308,Leo Hannan,Michigan State,B1G,19,19,18,deep left,1,0,0,0.0,0.0,21.0,0.0,-0.388
+5164308,Leo Hannan,Michigan State,B1G,19,19,18,deep middle,0,0,0,,,,0.0,0.0
+5164308,Leo Hannan,Michigan State,B1G,19,19,18,deep right,1,0,0,0.0,0.0,29.0,0.0,-0.517
+5164308,Leo Hannan,Michigan State,B1G,19,19,18,unknown,1,0,1,0.0,0.0,28.0,0.0,-3.808
 4565180,Peter Costelli,Middle Tennessee,CUSA,1,1,1,short left,0,0,0,,,,0.0,0.0
 4565180,Peter Costelli,Middle Tennessee,CUSA,1,1,1,short middle,0,0,0,,,,0.0,0.0
 4565180,Peter Costelli,Middle Tennessee,CUSA,1,1,1,short right,0,0,0,,,,0.0,0.0
@@ -1903,13 +1917,13 @@ player_id,player,team,conference,attempts,location_eligible,location_available,z
 5228804,James Laubstein,New Mexico,MWC,1,1,1,deep middle,0,0,0,,,,0.0,0.0
 5228804,James Laubstein,New Mexico,MWC,1,1,1,deep right,0,0,0,,,,0.0,0.0
 5228804,James Laubstein,New Mexico,MWC,1,1,1,unknown,0,0,0,,,,0.0,0.0
-5122887,Luke Moga,New Mexico,MWC,40,40,40,short left,12,7,0,0.583,5.2,5.8,0.417,0.046
-5122887,Luke Moga,New Mexico,MWC,40,40,40,short middle,3,2,0,0.667,3.0,4.0,0.333,-0.148
-5122887,Luke Moga,New Mexico,MWC,40,40,40,short right,20,14,0,0.7,5.6,6.8,0.45,0.236
-5122887,Luke Moga,New Mexico,MWC,40,40,40,deep left,2,1,0,0.5,21.0,22.5,0.5,1.719
-5122887,Luke Moga,New Mexico,MWC,40,40,40,deep middle,1,0,0,0.0,0.0,43.0,0.0,-1.051
-5122887,Luke Moga,New Mexico,MWC,40,40,40,deep right,2,1,0,0.5,17.5,33.5,0.5,0.949
-5122887,Luke Moga,New Mexico,MWC,40,40,40,unknown,0,0,0,,,,0.0,0.0
+5122887,Luke Moga,New Mexico,MWC,80,80,80,short left,25,13,0,0.52,5.3,7.0,0.44,0.255
+5122887,Luke Moga,New Mexico,MWC,80,80,80,short middle,14,8,0,0.571,5.5,9.2,0.357,0.24
+5122887,Luke Moga,New Mexico,MWC,80,80,80,short right,31,22,0,0.71,5.2,5.7,0.452,0.209
+5122887,Luke Moga,New Mexico,MWC,80,80,80,deep left,4,2,0,0.5,16.5,24.3,0.5,1.179
+5122887,Luke Moga,New Mexico,MWC,80,80,80,deep middle,2,0,0,0.0,0.0,45.5,0.0,-1.019
+5122887,Luke Moga,New Mexico,MWC,80,80,80,deep right,4,2,0,0.5,14.0,29.8,0.5,0.411
+5122887,Luke Moga,New Mexico,MWC,80,80,80,unknown,0,0,0,,,,0.0,0.0
 5261479,Toa Faavae,New Mexico,MWC,136,136,129,short left,43,30,0,0.698,6.3,6.2,0.465,0.379
 5261479,Toa Faavae,New Mexico,MWC,136,136,129,short middle,27,19,0,0.704,9.0,8.7,0.593,0.669
 5261479,Toa Faavae,New Mexico,MWC,136,136,129,short right,35,20,0,0.571,5.6,5.3,0.429,0.012
@@ -2218,13 +2232,13 @@ player_id,player,team,conference,attempts,location_eligible,location_available,z
 4870921,Dante Moore,Oregon,B1G,100,100,99,deep middle,6,5,0,0.833,33.7,26.3,0.833,2.949
 4870921,Dante Moore,Oregon,B1G,100,100,99,deep right,8,5,0,0.625,19.6,26.0,0.625,0.992
 4870921,Dante Moore,Oregon,B1G,100,100,99,unknown,1,1,0,1.0,27.0,,1.0,2.741
-5079572,Dylan Raiola,Oregon,B1G,213,213,208,short left,56,36,0,0.643,5.0,4.4,0.446,0.076
-5079572,Dylan Raiola,Oregon,B1G,213,213,208,short middle,41,29,0,0.707,9.8,7.1,0.561,0.721
-5079572,Dylan Raiola,Oregon,B1G,213,213,208,short right,90,65,0,0.722,7.4,4.0,0.422,0.273
-5079572,Dylan Raiola,Oregon,B1G,213,213,208,deep left,7,3,0,0.429,12.7,25.6,0.429,0.794
-5079572,Dylan Raiola,Oregon,B1G,213,213,208,deep middle,3,1,0,0.333,12.3,29.0,0.333,0.585
-5079572,Dylan Raiola,Oregon,B1G,213,213,208,deep right,11,4,0,0.364,16.0,30.8,0.364,0.828
-5079572,Dylan Raiola,Oregon,B1G,213,213,208,unknown,5,3,2,0.6,5.8,17.0,0.6,0.035
+5079572,Dylan Raiola,Oregon,B1G,246,246,241,short left,67,44,0,0.657,5.3,4.5,0.433,0.107
+5079572,Dylan Raiola,Oregon,B1G,246,246,241,short middle,44,30,0,0.682,9.6,7.1,0.545,0.677
+5079572,Dylan Raiola,Oregon,B1G,246,246,241,short right,103,73,0,0.709,6.9,4.0,0.427,0.222
+5079572,Dylan Raiola,Oregon,B1G,246,246,241,deep left,9,4,0,0.444,12.1,24.6,0.444,0.742
+5079572,Dylan Raiola,Oregon,B1G,246,246,241,deep middle,5,3,0,0.6,17.6,27.6,0.6,1.552
+5079572,Dylan Raiola,Oregon,B1G,246,246,241,deep right,13,4,0,0.308,13.5,30.8,0.308,0.643
+5079572,Dylan Raiola,Oregon,B1G,246,246,241,unknown,5,3,2,0.6,5.8,17.0,0.6,0.035
 4685565,Evan Stewart,Oregon,B1G,1,1,1,short left,0,0,0,,,,0.0,0.0
 4685565,Evan Stewart,Oregon,B1G,1,1,1,short middle,0,0,0,,,,0.0,0.0
 4685565,Evan Stewart,Oregon,B1G,1,1,1,short right,0,0,0,,,,0.0,0.0
@@ -2337,13 +2351,13 @@ player_id,player,team,conference,attempts,location_eligible,location_available,z
 5104738,Ryan Browne,Purdue,B1G,311,311,304,deep middle,3,0,0,0.0,0.0,27.0,0.0,-1.418
 5104738,Ryan Browne,Purdue,B1G,311,311,304,deep right,19,8,0,0.421,14.3,28.9,0.421,0.693
 5104738,Ryan Browne,Purdue,B1G,311,311,304,unknown,7,1,6,0.143,1.3,21.3,0.143,-2.845
-5145788,Gael Ochoa,Rice,AAC,42,42,41,short left,11,6,0,0.545,6.1,7.5,0.364,0.369
-5145788,Gael Ochoa,Rice,AAC,42,42,41,short middle,3,2,0,0.667,20.7,13.7,0.667,1.409
-5145788,Gael Ochoa,Rice,AAC,42,42,41,short right,17,10,0,0.588,5.1,6.4,0.588,0.566
-5145788,Gael Ochoa,Rice,AAC,42,42,41,deep left,1,0,0,0.0,0.0,25.0,0.0,-1.041
-5145788,Gael Ochoa,Rice,AAC,42,42,41,deep middle,6,3,0,0.5,24.8,27.0,0.5,1.868
-5145788,Gael Ochoa,Rice,AAC,42,42,41,deep right,3,0,0,0.0,0.0,33.0,0.0,-1.675
-5145788,Gael Ochoa,Rice,AAC,42,42,41,unknown,1,0,1,0.0,0.0,5.0,0.0,-8.289
+5145788,Gael Ochoa,Rice,AAC,57,57,56,short left,22,13,0,0.591,5.0,6.2,0.455,0.212
+5145788,Gael Ochoa,Rice,AAC,57,57,56,short middle,3,2,0,0.667,20.7,13.7,0.667,1.409
+5145788,Gael Ochoa,Rice,AAC,57,57,56,short right,19,11,0,0.579,5.1,6.8,0.579,0.542
+5145788,Gael Ochoa,Rice,AAC,57,57,56,deep left,1,0,0,0.0,0.0,25.0,0.0,-1.041
+5145788,Gael Ochoa,Rice,AAC,57,57,56,deep middle,8,4,0,0.5,22.8,29.4,0.5,1.67
+5145788,Gael Ochoa,Rice,AAC,57,57,56,deep right,3,0,0,0.0,0.0,33.0,0.0,-1.675
+5145788,Gael Ochoa,Rice,AAC,57,57,56,unknown,1,0,1,0.0,0.0,5.0,0.0,-8.289
 4685291,Jacurri Brown,Rice,AAC,82,82,80,short left,28,14,0,0.5,5.3,5.5,0.286,-0.076
 4685291,Jacurri Brown,Rice,AAC,82,82,80,short middle,15,11,0,0.733,7.2,8.7,0.533,0.38
 4685291,Jacurri Brown,Rice,AAC,82,82,80,short right,19,10,0,0.526,4.3,5.8,0.316,-0.2
@@ -2351,13 +2365,13 @@ player_id,player,team,conference,attempts,location_eligible,location_available,z
 4685291,Jacurri Brown,Rice,AAC,82,82,80,deep middle,9,1,0,0.111,2.8,25.8,0.111,-0.408
 4685291,Jacurri Brown,Rice,AAC,82,82,80,deep right,3,2,0,0.667,22.7,31.3,0.667,1.252
 4685291,Jacurri Brown,Rice,AAC,82,82,80,unknown,2,0,2,0.0,0.0,5.5,0.0,-4.372
-5265447,Patrick Crayton Jr.,Rice,AAC,6,6,6,short left,2,1,0,0.5,2.0,3.5,0.0,-0.203
-5265447,Patrick Crayton Jr.,Rice,AAC,6,6,6,short middle,1,0,0,0.0,0.0,0.0,0.0,-0.32
-5265447,Patrick Crayton Jr.,Rice,AAC,6,6,6,short right,1,0,0,0.0,0.0,7.0,0.0,-0.908
-5265447,Patrick Crayton Jr.,Rice,AAC,6,6,6,deep left,1,0,0,0.0,0.0,28.0,0.0,-0.657
-5265447,Patrick Crayton Jr.,Rice,AAC,6,6,6,deep middle,1,1,0,1.0,25.0,22.0,1.0,2.019
-5265447,Patrick Crayton Jr.,Rice,AAC,6,6,6,deep right,0,0,0,,,,0.0,0.0
-5265447,Patrick Crayton Jr.,Rice,AAC,6,6,6,unknown,0,0,0,,,,0.0,0.0
+5265447,Patrick Crayton Jr.,Rice,AAC,16,16,16,short left,5,2,0,0.4,1.8,6.8,0.2,-0.423
+5265447,Patrick Crayton Jr.,Rice,AAC,16,16,16,short middle,2,0,0,0.0,0.0,-0.5,0.0,-0.439
+5265447,Patrick Crayton Jr.,Rice,AAC,16,16,16,short right,3,2,0,0.667,8.0,9.7,0.667,1.034
+5265447,Patrick Crayton Jr.,Rice,AAC,16,16,16,deep left,2,1,0,0.5,15.0,28.5,0.5,1.358
+5265447,Patrick Crayton Jr.,Rice,AAC,16,16,16,deep middle,2,1,0,0.5,12.5,22.5,0.5,0.599
+5265447,Patrick Crayton Jr.,Rice,AAC,16,16,16,deep right,2,1,0,0.5,23.5,33.5,0.5,2.029
+5265447,Patrick Crayton Jr.,Rice,AAC,16,16,16,unknown,0,0,0,,,,0.0,0.0
 5079717,AJ Surace,Rutgers,B1G,120,120,113,short left,26,13,0,0.5,5.6,7.3,0.462,0.289
 5079717,AJ Surace,Rutgers,B1G,120,120,113,short middle,34,20,0,0.588,5.8,7.6,0.5,0.411
 5079717,AJ Surace,Rutgers,B1G,120,120,113,short right,31,21,0,0.677,5.7,5.9,0.452,0.287
@@ -2722,13 +2736,13 @@ player_id,player,team,conference,attempts,location_eligible,location_available,z
 5089003,Colin Chase,Temple,AAC,4,4,4,deep middle,0,0,0,,,,0.0,0.0
 5089003,Colin Chase,Temple,AAC,4,4,4,deep right,2,1,0,0.5,14.5,23.5,0.5,1.107
 5089003,Colin Chase,Temple,AAC,4,4,4,unknown,0,0,0,,,,0.0,0.0
-5077787,Jaxon Smolik,Temple,AAC,53,53,51,short left,29,21,0,0.724,8.0,4.3,0.483,0.537
-5077787,Jaxon Smolik,Temple,AAC,53,53,51,short middle,5,2,0,0.4,2.6,5.6,0.4,-0.135
-5077787,Jaxon Smolik,Temple,AAC,53,53,51,short right,13,4,0,0.308,2.5,6.0,0.231,-0.151
-5077787,Jaxon Smolik,Temple,AAC,53,53,51,deep left,1,0,0,0.0,0.0,29.0,0.0,-4.054
-5077787,Jaxon Smolik,Temple,AAC,53,53,51,deep middle,1,0,0,0.0,0.0,20.0,0.0,-0.347
-5077787,Jaxon Smolik,Temple,AAC,53,53,51,deep right,2,1,0,0.5,12.5,25.0,0.5,1.397
-5077787,Jaxon Smolik,Temple,AAC,53,53,51,unknown,2,0,2,0.0,0.0,7.0,0.0,-4.706
+5077787,Jaxon Smolik,Temple,AAC,70,70,67,short left,35,26,0,0.743,8.4,3.3,0.543,0.547
+5077787,Jaxon Smolik,Temple,AAC,70,70,67,short middle,6,2,0,0.333,2.2,6.2,0.333,-0.256
+5077787,Jaxon Smolik,Temple,AAC,70,70,67,short right,19,7,0,0.368,2.7,5.6,0.316,0.068
+5077787,Jaxon Smolik,Temple,AAC,70,70,67,deep left,4,1,0,0.25,7.3,29.0,0.25,-0.916
+5077787,Jaxon Smolik,Temple,AAC,70,70,67,deep middle,1,0,0,0.0,0.0,20.0,0.0,-0.347
+5077787,Jaxon Smolik,Temple,AAC,70,70,67,deep right,2,1,0,0.5,12.5,25.0,0.5,1.397
+5077787,Jaxon Smolik,Temple,AAC,70,70,67,unknown,3,0,3,0.0,0.0,15.7,0.333,-4.706
 5158973,Faizon Brandon,Tennessee,SEC,103,103,102,short left,33,22,0,0.667,5.8,3.0,0.424,0.159
 5158973,Faizon Brandon,Tennessee,SEC,103,103,102,short middle,24,18,0,0.75,8.2,6.0,0.667,0.506
 5158973,Faizon Brandon,Tennessee,SEC,103,103,102,short right,31,18,0,0.581,4.3,5.4,0.29,-0.016
@@ -2827,13 +2841,13 @@ player_id,player,team,conference,attempts,location_eligible,location_available,z
 5126468,Will Hammond,Texas Tech,B12,206,206,199,deep middle,4,2,0,0.5,4.5,29.0,0.25,-0.37
 5126468,Will Hammond,Texas Tech,B12,206,206,199,deep right,15,6,0,0.4,13.7,26.1,0.4,0.962
 5126468,Will Hammond,Texas Tech,B12,206,206,199,unknown,7,1,6,0.143,4.6,24.3,0.143,-2.994
-5082330,John Alan Richter,Toledo,MAC,300,300,292,short left,97,68,0,0.701,6.8,5.3,0.515,0.273
-5082330,John Alan Richter,Toledo,MAC,300,300,292,short middle,63,45,0,0.714,8.9,6.2,0.492,0.626
-5082330,John Alan Richter,Toledo,MAC,300,300,292,short right,83,58,0,0.699,6.1,4.3,0.41,0.214
-5082330,John Alan Richter,Toledo,MAC,300,300,292,deep left,23,11,0,0.478,13.3,25.2,0.435,0.493
-5082330,John Alan Richter,Toledo,MAC,300,300,292,deep middle,10,4,0,0.4,17.9,29.7,0.4,1.021
-5082330,John Alan Richter,Toledo,MAC,300,300,292,deep right,16,5,0,0.313,10.9,28.8,0.313,0.148
-5082330,John Alan Richter,Toledo,MAC,300,300,292,unknown,8,4,3,0.5,13.3,13.3,0.5,0.052
+5082330,John Alan Richter,Toledo,MAC,322,322,314,short left,106,73,0,0.689,6.6,5.3,0.481,0.234
+5082330,John Alan Richter,Toledo,MAC,322,322,314,short middle,65,46,0,0.708,8.9,6.2,0.492,0.63
+5082330,John Alan Richter,Toledo,MAC,322,322,314,short right,89,63,0,0.708,6.4,4.1,0.427,0.237
+5082330,John Alan Richter,Toledo,MAC,322,322,314,deep left,24,12,0,0.5,14.3,25.5,0.458,0.625
+5082330,John Alan Richter,Toledo,MAC,322,322,314,deep middle,11,4,0,0.364,16.3,29.5,0.364,0.882
+5082330,John Alan Richter,Toledo,MAC,322,322,314,deep right,19,5,0,0.263,9.2,29.0,0.263,0.044
+5082330,John Alan Richter,Toledo,MAC,322,322,314,unknown,8,4,3,0.5,13.3,13.3,0.5,0.052
 5394415,Khamoni Robinson,Toledo,MAC,5,5,5,short left,0,0,0,,,,0.0,0.0
 5394415,Khamoni Robinson,Toledo,MAC,5,5,5,short middle,2,1,0,0.5,5.5,6.0,0.5,0.123
 5394415,Khamoni Robinson,Toledo,MAC,5,5,5,short right,1,1,0,1.0,10.0,10.0,1.0,0.273
@@ -2946,13 +2960,13 @@ player_id,player,team,conference,attempts,location_eligible,location_available,z
 5057381,Ryder Burton,UAB,AAC,241,240,230,deep middle,1,0,0,0.0,0.0,39.0,0.0,-0.969
 5057381,Ryder Burton,UAB,AAC,241,240,230,deep right,16,3,0,0.188,5.9,28.1,0.188,-0.218
 5057381,Ryder Burton,UAB,AAC,241,240,230,unknown,10,2,8,0.2,4.9,19.9,0.2,-2.462
-4911929,Alonza Barnett,UCF,B12,127,126,122,short left,42,28,0,0.667,5.5,3.3,0.381,0.039
-4911929,Alonza Barnett,UCF,B12,127,126,122,short middle,20,14,0,0.7,11.0,8.6,0.55,0.557
-4911929,Alonza Barnett,UCF,B12,127,126,122,short right,44,26,0,0.591,5.6,5.6,0.318,-0.104
-4911929,Alonza Barnett,UCF,B12,127,126,122,deep left,6,1,0,0.167,7.3,32.3,0.167,-0.3
-4911929,Alonza Barnett,UCF,B12,127,126,122,deep middle,5,2,0,0.4,14.2,31.8,0.4,0.767
-4911929,Alonza Barnett,UCF,B12,127,126,122,deep right,5,5,0,1.0,29.4,25.0,1.0,2.375
-4911929,Alonza Barnett,UCF,B12,127,126,122,unknown,4,2,2,0.5,6.3,13.5,0.5,-0.225
+4911929,Alonza Barnett,UCF,B12,154,153,149,short left,47,32,0,0.681,5.7,3.9,0.404,0.047
+4911929,Alonza Barnett,UCF,B12,154,153,149,short middle,26,18,0,0.692,9.5,8.1,0.5,0.408
+4911929,Alonza Barnett,UCF,B12,154,153,149,short right,52,31,0,0.596,5.7,5.3,0.346,0.027
+4911929,Alonza Barnett,UCF,B12,154,153,149,deep left,9,3,0,0.333,15.9,31.4,0.333,0.668
+4911929,Alonza Barnett,UCF,B12,154,153,149,deep middle,7,2,0,0.286,10.1,28.7,0.286,0.344
+4911929,Alonza Barnett,UCF,B12,154,153,149,deep right,8,7,0,0.875,24.0,24.6,0.875,2.255
+4911929,Alonza Barnett,UCF,B12,154,153,149,unknown,4,2,2,0.5,6.3,13.5,0.5,-0.225
 5154248,Kaleb Annett,UCF,B12,3,3,3,short left,1,1,0,1.0,5.0,3.0,0.0,0.044
 5154248,Kaleb Annett,UCF,B12,3,3,3,short middle,0,0,0,,,,0.0,0.0
 5154248,Kaleb Annett,UCF,B12,3,3,3,short right,2,1,0,0.5,0.5,-1.0,0.0,-0.508
@@ -3107,6 +3121,13 @@ player_id,player,team,conference,attempts,location_eligible,location_available,z
 4923285,McCae Hillstead,Utah State,PAC,108,107,102,deep middle,1,0,0,0.0,0.0,21.0,0.0,-0.662
 4923285,McCae Hillstead,Utah State,PAC,108,107,102,deep right,6,2,0,0.333,9.8,32.0,0.333,0.397
 4923285,McCae Hillstead,Utah State,PAC,108,107,102,unknown,5,1,4,0.2,3.0,8.5,0.2,-3.501
+5327568,Bodey Weaver,UTEP,MWC,1,1,1,short left,1,1,0,1.0,3.0,-2.0,0.0,-0.189
+5327568,Bodey Weaver,UTEP,MWC,1,1,1,short middle,0,0,0,,,,0.0,0.0
+5327568,Bodey Weaver,UTEP,MWC,1,1,1,short right,0,0,0,,,,0.0,0.0
+5327568,Bodey Weaver,UTEP,MWC,1,1,1,deep left,0,0,0,,,,0.0,0.0
+5327568,Bodey Weaver,UTEP,MWC,1,1,1,deep middle,0,0,0,,,,0.0,0.0
+5327568,Bodey Weaver,UTEP,MWC,1,1,1,deep right,0,0,0,,,,0.0,0.0
+5327568,Bodey Weaver,UTEP,MWC,1,1,1,unknown,0,0,0,,,,0.0,0.0
 5390014,Braesen Leon,UTEP,MWC,1,1,1,short left,1,1,0,1.0,22.0,-1.0,1.0,2.532
 5390014,Braesen Leon,UTEP,MWC,1,1,1,short middle,0,0,0,,,,0.0,0.0
 5390014,Braesen Leon,UTEP,MWC,1,1,1,short right,0,0,0,,,,0.0,0.0
@@ -3128,13 +3149,13 @@ player_id,player,team,conference,attempts,location_eligible,location_available,z
 4877714,Jaden Smith,UTEP,MWC,1,1,1,deep middle,0,0,0,,,,0.0,0.0
 4877714,Jaden Smith,UTEP,MWC,1,1,1,deep right,0,0,0,,,,0.0,0.0
 4877714,Jaden Smith,UTEP,MWC,1,1,1,unknown,0,0,0,,,,0.0,0.0
-5232049,Raymond Moore III,UTEP,MWC,114,114,112,short left,39,23,0,0.59,3.9,4.9,0.282,-0.101
-5232049,Raymond Moore III,UTEP,MWC,114,114,112,short middle,18,15,0,0.833,7.3,5.1,0.556,0.281
-5232049,Raymond Moore III,UTEP,MWC,114,114,112,short right,38,26,0,0.684,6.4,6.6,0.421,0.221
-5232049,Raymond Moore III,UTEP,MWC,114,114,112,deep left,7,0,0,0.0,0.0,31.3,0.0,-0.757
-5232049,Raymond Moore III,UTEP,MWC,114,114,112,deep middle,3,0,0,0.0,0.0,36.3,0.0,-1.489
-5232049,Raymond Moore III,UTEP,MWC,114,114,112,deep right,7,3,0,0.429,12.4,31.3,0.429,0.77
-5232049,Raymond Moore III,UTEP,MWC,114,114,112,unknown,2,0,2,0.0,0.0,13.5,0.0,-7.262
+5232049,Raymond Moore III,UTEP,MWC,133,133,130,short left,48,31,0,0.646,3.9,3.9,0.292,-0.075
+5232049,Raymond Moore III,UTEP,MWC,133,133,130,short middle,19,15,0,0.789,6.9,4.9,0.526,0.224
+5232049,Raymond Moore III,UTEP,MWC,133,133,130,short right,45,31,0,0.689,6.3,6.4,0.422,0.233
+5232049,Raymond Moore III,UTEP,MWC,133,133,130,deep left,7,0,0,0.0,0.0,31.3,0.0,-0.757
+5232049,Raymond Moore III,UTEP,MWC,133,133,130,deep middle,3,0,0,0.0,0.0,36.3,0.0,-1.489
+5232049,Raymond Moore III,UTEP,MWC,133,133,130,deep right,8,3,0,0.375,10.9,30.5,0.375,0.585
+5232049,Raymond Moore III,UTEP,MWC,133,133,130,unknown,3,0,3,0.0,0.0,11.0,0.0,-6.369
 5151316,Brandon Tennison,UTSA,AAC,4,4,4,short left,2,0,0,0.0,0.0,0.0,0.0,-0.583
 5151316,Brandon Tennison,UTSA,AAC,4,4,4,short middle,1,1,0,1.0,7.0,7.0,1.0,1.659
 5151316,Brandon Tennison,UTSA,AAC,4,4,4,short right,0,0,0,,,,0.0,0.0
@@ -3373,13 +3394,13 @@ player_id,player,team,conference,attempts,location_eligible,location_available,z
 5210475,Ryan Hopkins,Wisconsin,B1G,59,59,58,deep middle,3,1,0,0.333,7.0,26.0,0.333,0.398
 5210475,Ryan Hopkins,Wisconsin,B1G,59,59,58,deep right,4,1,0,0.25,0.0,14.0,0.0,-0.708
 5210475,Ryan Hopkins,Wisconsin,B1G,59,59,58,unknown,1,0,1,0.0,0.0,18.0,0.0,-1.058
-5296625,Landon Sims,Wyoming,MWC,31,31,30,short left,13,11,0,0.846,12.9,7.1,0.462,0.475
-5296625,Landon Sims,Wyoming,MWC,31,31,30,short middle,3,2,0,0.667,3.3,10.0,0.333,-1.631
-5296625,Landon Sims,Wyoming,MWC,31,31,30,short right,12,7,0,0.583,7.7,5.5,0.417,0.413
-5296625,Landon Sims,Wyoming,MWC,31,31,30,deep left,2,1,0,0.5,10.5,25.5,0.5,0.751
-5296625,Landon Sims,Wyoming,MWC,31,31,30,deep middle,0,0,0,,,,0.0,0.0
-5296625,Landon Sims,Wyoming,MWC,31,31,30,deep right,0,0,0,,,,0.0,0.0
-5296625,Landon Sims,Wyoming,MWC,31,31,30,unknown,1,0,1,0.0,0.0,-2.0,0.0,-3.732
+5296625,Landon Sims,Wyoming,MWC,54,54,53,short left,21,14,0,0.667,9.0,6.6,0.381,0.266
+5296625,Landon Sims,Wyoming,MWC,54,54,53,short middle,4,3,0,0.75,4.5,9.0,0.5,-1.112
+5296625,Landon Sims,Wyoming,MWC,54,54,53,short right,23,14,0,0.609,5.8,3.9,0.348,0.198
+5296625,Landon Sims,Wyoming,MWC,54,54,53,deep left,3,1,0,0.333,7.0,25.7,0.333,0.216
+5296625,Landon Sims,Wyoming,MWC,54,54,53,deep middle,0,0,0,,,,0.0,0.0
+5296625,Landon Sims,Wyoming,MWC,54,54,53,deep right,2,2,0,1.0,35.5,24.5,1.0,3.685
+5296625,Landon Sims,Wyoming,MWC,54,54,53,unknown,1,0,1,0.0,0.0,-2.0,0.0,-3.732
 5227257,Markell Holman,Wyoming,MWC,1,1,1,short left,0,0,0,,,,0.0,0.0
 5227257,Markell Holman,Wyoming,MWC,1,1,1,short middle,0,0,0,,,,0.0,0.0
 5227257,Markell Holman,Wyoming,MWC,1,1,1,short right,1,1,0,1.0,3.0,3.0,1.0,2.211

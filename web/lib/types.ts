@@ -71,6 +71,7 @@ export type TeamDoc = {
   portal: { in: { n: number; total: number; avg: number | null }; out: { n: number; total: number; avg: number | null };
     flowsIn: { team: string; n: number }[]; flowsOut: { team: string; n: number }[]; differential: { cat: string; stat: string; in: number; out: number }[] };
   betting: Record<string, TeamBetting>;
+  transferProd?: { season: number; summary: TProdTeam | null; incoming: TProd[]; outgoing: TProd[] };
 };
 
 export type BettingFile = {
@@ -96,5 +97,20 @@ export type ZoneStat = { att: number; comp: number; int: number; ypa: number | n
 export type QbLocations = { zones: Record<ZoneName, ZoneStat>; unknown: number };
 export type ZoneAvg = Record<ZoneName, { pct: number | null; share: number | null; ypa: number | null }>;
 export type QbFile = { season: number; final: boolean; gamesPlayed: number; zoneAvg: ZoneAvg; qbs: QbRow[] };
+/** One transfer's production at his NEW school this season (zero stats are omitted). */
+export type TProd = {
+  name: string; pos: string; grp: string; from: string; to: string; rating: number | null; stars: number | null;
+  cmp?: number; att?: number; passYds?: number; passTd?: number; passInt?: number; car?: number; rushYds?: number; rushTd?: number;
+  rec?: number; recYds?: number; recTd?: number; tkl?: number; tfl?: number; sacks?: number; int?: number; pd?: number;
+  epa: number | null; offShare: number | null; tklShare: number | null;
+};
+/** A school's share of this season's production that came from incoming transfers. */
+export type TProdTeam = {
+  team: string; n: number; played: number; offT: number; offAll: number; offShare: number | null;
+  passShare: number | null; rushShare: number | null; recShare: number | null; tdShare: number | null;
+  tklT: number; tklAll: number; tklShare: number | null; sackShare: number | null;
+  epaT: number; epaAll: number | null; epaShare: number | null; topOff: string | null; topDef: string | null;
+};
+export type TransferProdFile = { season: number; players: TProd[]; teams: TProdTeam[] };
 export type PortalRow = { team: string; in: number; out: number; net: number; nIn: number; nOut: number };
 export type CompareFile = { units: Record<string, { Offense: number; Defense: number; "Special Teams": number; Total: number }>; stats: Record<string, SeasonStats>; returning: Record<string, Returning> };

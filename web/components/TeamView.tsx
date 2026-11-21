@@ -6,6 +6,7 @@ import { dateShort, fmt, fmtInt, heightText, money, recordText, signed } from "@
 import Tabs, { Segmented } from "./Tabs";
 import TeamBadge from "./TeamBadge";
 import { ProductionChart, SimpleBars } from "./charts";
+import { DEF_COLS, OFF_COLS, PlayerTable, isOffense, pct } from "./TransferProdView";
 
 type Refs = Record<string, TeamRef>;
 const POS_ORDER = ["QB", "RB", "WR", "TE", "OL", "DL", "LB", "DB", "K", "P", "LS"];
@@ -206,6 +207,34 @@ function Turnover({ doc, refs }: { doc: TeamDoc; refs: Refs }) {
   );
 }
 
+function TransferSeason({ doc, refs }: { doc: TeamDoc; refs: Refs }) {
+  const tp = doc.transferProd;
+  if (!tp || (!tp.incoming.length && !tp.outgoing.length)) return null;
+  const S = tp.summary;
+  const H4 = ({ children }: { children: React.ReactNode }) => <h4 className="m-0 text-[15px] font-bold text-soft">{children}</h4>;
+  const split = (list: typeof tp.incoming) => [list.filter(isOffense), list.filter((x) => !isOffense(x))] as const;
+  const [inOff, inDef] = split(tp.incoming), [outOff, outDef] = split(tp.outgoing);
+  return (
+    <section className="flex flex-col gap-4">
+      <H3>{tp.season} season: what the transfers are producing</H3>
+      {S && (
+        <div className="grid grid-cols-[repeat(auto-fit,minmax(170px,1fr))] gap-3">
+          <Metric label="Transfers who've played" value={`${S.played} of ${S.n}`} />
+          <Metric label="Share of offensive yards" value={pct(S.offShare)} sub={`${fmtInt(S.offT)} of ${fmtInt(S.offAll)} yds`} />
+          <Metric label="Share of offensive TDs" value={pct(S.tdShare)} />
+          <Metric label="Share of tackles" value={pct(S.tklShare)} sub={`${fmtInt(S.tklT)} of ${fmtInt(S.tklAll)} · sacks ${pct(S.sackShare)}`} />
+          <Metric label="Transfer EPA" value={fmt(S.epaT, 1)} sub={S.epaShare != null ? `${pct(S.epaShare)} of team player EPA` : undefined} />
+        </div>
+      )}
+      {inOff.length > 0 && <><H4>Incoming: offense</H4><PlayerTable players={inOff} cols={OFF_COLS} refs={refs} show="from" initial="epa" /></>}
+      {inDef.length > 0 && <><H4>Incoming: defense</H4><PlayerTable players={inDef} cols={DEF_COLS} refs={refs} show="from" initial="tkl" /></>}
+      {outOff.length + outDef.length > 0 && <p className="m-0 mt-2 text-[13px] text-muted">Players who left {doc.school}, and what they&apos;re doing at their new schools:</p>}
+      {outOff.length > 0 && <><H4>Departed: offense</H4><PlayerTable players={outOff} cols={OFF_COLS} refs={refs} show="to" initial="epa" /></>}
+      {outDef.length > 0 && <><H4>Departed: defense</H4><PlayerTable players={outDef} cols={DEF_COLS} refs={refs} show="to" initial="tkl" /></>}
+    </section>
+  );
+}
+
 function Transfers({ doc, refs }: { doc: TeamDoc; refs: Refs }) {
   const p = doc.portal;
   const Flow = ({ rows, title }: { rows: { team: string; n: number }[]; title: string }) => {
@@ -243,6 +272,8 @@ function Transfers({ doc, refs }: { doc: TeamDoc; refs: Refs }) {
   );
   return (
     <div className="flex flex-col gap-8">
+      <TransferSeason doc={doc} refs={refs} />
+      {doc.transferProd && (doc.transferProd.incoming.length > 0 || doc.transferProd.outgoing.length > 0) && <H3>Portal haul (preseason)</H3>}
       <div className="grid grid-cols-[repeat(auto-fit,minmax(170px,1fr))] gap-3">
         <Metric label="Incoming players" value={p.in.n} sub={`Total rating ${p.in.total.toFixed(2)} · avg ${fmt(p.in.avg, 2)}`} />
         <Metric label="Outgoing players" value={p.out.n} sub={`Total rating ${p.out.total.toFixed(2)} · avg ${fmt(p.out.avg, 2)}`} />

@@ -578,6 +578,90 @@ def main():
                             "nIn": int((transfers["destination"] == team).sum()),
                             "nOut": int((transfers["origin"] == team).sum())})
 
+    # ------------------------------------------------------------------ transfers: this season's production
+    # Each player in this cycle's portal, matched by player id to his stats AT HIS NEW SCHOOL this
+    # season (update_data.py -> data/player_stats_{SEASON}.csv + data/player_ppa_{SEASON}.csv).
+    TP_STATS = {"passing_COMPLETIONS": "cmp", "passing_ATT": "att", "passing_YDS": "passYds", "passing_TD": "passTd",
+                "passing_INT": "passInt", "rushing_CAR": "car", "rushing_YDS": "rushYds", "rushing_TD": "rushTd",
+                "receiving_REC": "rec", "receiving_YDS": "recYds", "receiving_TD": "recTd",
+                "defensive_TOT": "tkl", "defensive_TFL": "tfl", "defensive_SACKS": "sacks",
+                "interceptions_INT": "int", "defensive_PD": "pd"}
+    cur_ps = read(f"data/player_stats_{SEASON}.csv")
+    cur_ppa = read(f"data/player_ppa_{SEASON}.csv")
+    tp_players, tp_teams = [], {}
+
+    def share(a, b):
+        return a / b if b and b > 0 else None
+
+    if cur_ps is not None and not cur_ps.empty:
+        cur_ps["playerId"] = cur_ps["playerId"].astype(str)
+        for c, k in TP_STATS.items():
+            cur_ps[k] = pd.to_numeric(cur_ps[c], errors="coerce").fillna(0) if c in cur_ps.columns else 0.0
+        cur_ps["off"] = cur_ps["passYds"] + cur_ps["rushYds"] + cur_ps["recYds"]
+        cur_ps["offTd"] = cur_ps["passTd"] + cur_ps["rushTd"] + cur_ps["recTd"]
+        team_epa = {}
+        if cur_ppa is not None and not cur_ppa.empty and "totalPPA_all" in cur_ppa.columns:
+            cur_ppa = cur_ppa.rename(columns={"id": "playerId"})
+            cur_ppa["playerId"] = cur_ppa["playerId"].astype(str)
+            cur_ppa["totalPPA_all"] = pd.to_numeric(cur_ppa["totalPPA_all"], errors="coerce")
+            team_epa = cur_ppa.groupby("team")["totalPPA_all"].sum().to_dict()
+            cur_ps = cur_ps.merge(cur_ppa.drop_duplicates(["playerId", "team"])[["playerId", "team", "totalPPA_all"]]
+                                  .rename(columns={"totalPPA_all": "epa"}), on=["playerId", "team"], how="left")
+        else:
+            cur_ps["epa"] = np.nan
+        tcols = list(TP_STATS.values()) + ["off", "offTd"]
+        team_tot = cur_ps.groupby("team")[tcols].sum()
+
+        tr = (transfers.drop_duplicates(["playerId", "destination"])
+              .merge(cur_ps, left_on=["playerId", "destination"], right_on=["playerId", "team"], how="inner"))
+        tr = tr[(tr[tcols].abs().sum(axis=1) > 0) | tr["epa"].notna()]
+        for r in tr.to_dict("records"):
+            tt = team_tot.loc[r["destination"]] if r["destination"] in team_tot.index else None
+            pos = r.get("position_y") if isinstance(r.get("position_y"), str) else r.get("position_x")
+            first = r.get("firstName_y") if isinstance(r.get("firstName_y"), str) else r.get("firstName_x")
+            last = r.get("lastName_y") if isinstance(r.get("lastName_y"), str) else r.get("lastName_x")
+            rec = {"name": f"{first} {last}", "pos": pos, "grp": pos_group(pos),
+                   "from": r["origin"], "to": r["destination"], "rating": num(r.get("rating")), "stars": num(r.get("stars")),
+                   **{k: float(r[k]) for k in TP_STATS.values() if r[k]}, "epa": num(r.get("epa")),
+                   "offShare": share(r["off"], tt["off"] if tt is not None else None),
+                   "tklShare": share(r["tkl"], tt["tkl"] if tt is not None else None)}
+            tp_players.append(rec)
+
+        tp_df = pd.DataFrame(tp_players)
+        for k in TP_STATS.values():   # zero stats are left out of the JSON; fill them back for the sums
+            tp_df[k] = pd.to_numeric(tp_df[k], errors="coerce").fillna(0) if k in tp_df.columns else 0.0
+        n_in = transfers.drop_duplicates(["playerId", "destination"]).groupby("destination").size()
+        for team in team_tot.index:
+            if team not in n_in.index:
+                continue
+            tt = team_tot.loc[team]
+            mine = tp_df[tp_df["to"] == team] if len(tp_df) else tp_df
+            sums = {k: float(mine[k].sum()) if len(mine) and k in mine.columns else 0.0 for k in TP_STATS.values()}
+            off_t = sums["passYds"] + sums["rushYds"] + sums["recYds"]
+            td_t = sums["passTd"] + sums["rushTd"] + sums["recTd"]
+            epa_t = float(mine["epa"].sum()) if len(mine) else 0.0
+            epa_all = team_epa.get(team)
+            top_off = mine.assign(_k=mine["epa"].fillna(mine["passYds"] + mine["rushYds"] + mine["recYds"]) if len(mine) else 0)
+            top_off = top_off[top_off["grp"].isin(["QB", "RB", "WR", "TE"])].sort_values("_k", ascending=False) if len(mine) else top_off
+            top_def = mine[mine["grp"].isin(["DL", "LB", "DB"])] if len(mine) else mine
+            top_def = top_def.assign(_k=top_def["tkl"] + 3 * top_def["sacks"] + 3 * top_def["int"]).sort_values("_k", ascending=False) if len(top_def) else top_def
+            tp_teams[team] = {
+                "team": team, "n": int(n_in[team]), "played": int(len(mine)),
+                "offT": off_t, "offAll": float(tt["off"]), "offShare": share(off_t, tt["off"]),
+                "passShare": share(sums["passYds"], tt["passYds"]), "rushShare": share(sums["rushYds"], tt["rushYds"]),
+                "recShare": share(sums["recYds"], tt["recYds"]), "tdShare": share(td_t, tt["offTd"]),
+                "tklT": sums["tkl"], "tklAll": float(tt["tkl"]), "tklShare": share(sums["tkl"], tt["tkl"]),
+                "sackShare": share(sums["sacks"], tt["sacks"]),
+                "epaT": epa_t, "epaAll": num(epa_all), "epaShare": share(epa_t, epa_all) if epa_t > 0 else None,
+                "topOff": top_off.iloc[0]["name"] if len(top_off) else None,
+                "topDef": top_def.iloc[0]["name"] if len(top_def) else None,
+            }
+        print(f"  transfer production: {len(tp_players)} transfers with {SEASON} stats across {len(tp_teams)} schools")
+    else:
+        print(f"  transfer production: no data/player_stats_{SEASON}.csv yet -- skipped")
+    write("transfer_production.json", {"season": SEASON, "players": tp_players,
+                                       "teams": sorted(tp_teams.values(), key=lambda r: -(r["offShare"] or 0))})
+
     units_all = {}
     directory = []
     for team in page_teams:
@@ -682,6 +766,9 @@ def main():
                        "flowsOut": [{"team": k, "n": int(v)} for k, v in flows_out.items()],
                        "differential": diff},
             "betting": bet,
+            "transferProd": {"season": SEASON, "summary": tp_teams.get(team),
+                             "incoming": [p for p in tp_players if p["to"] == team],
+                             "outgoing": [p for p in tp_players if p["from"] == team]},
         }
         write(f"teams/{ref['slug']}.json", team_doc)
         st = team_stats(team)

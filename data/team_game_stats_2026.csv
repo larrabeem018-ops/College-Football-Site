@@ -2809,8 +2809,20 @@ gameId,week,team,conference,opponent,homeAway,points,totalYards,rushingYards,net
 401866689,11,Rhode Island,Coastal Athletic,Towson,home,16,288.0,175.0,113.0,48.0,25.0,4.0,18.0,2.0
 401868286,11,Valparaiso,Pioneer,Stetson,away,34,457.0,154.0,303.0,35.0,43.0,7.0,16.0,1.0
 401868286,11,Stetson,Pioneer,Valparaiso,home,31,410.0,104.0,306.0,29.0,24.0,2.0,11.0,0.0
+401856869,12,UCF,Big 12,Iowa State,home,48,460.0,205.0,255.0,42.0,27.0,7.0,12.0,0.0
+401856869,12,Iowa State,Big 12,UCF,away,17,298.0,189.0,109.0,34.0,23.0,1.0,10.0,4.0
+401864545,12,Air Force,Mountain West,UTEP,home,52,586.0,429.0,157.0,64.0,6.0,9.0,13.0,0.0
+401864545,12,UTEP,Mountain West,Air Force,away,3,116.0,24.0,92.0,23.0,20.0,3.0,11.0,2.0
 401866467,12,Akron,Mid-American,Massachusetts,away,34,379.0,214.0,165.0,35.0,17.0,3.0,9.0,2.0
 401866467,12,Massachusetts,Mid-American,Akron,home,33,373.0,269.0,104.0,50.0,21.0,7.0,15.0,1.0
+401862830,12,Temple,American Athletic,Rice,home,27,410.0,300.0,110.0,35.0,17.0,5.0,10.0,2.0
+401862830,12,Rice,American Athletic,Temple,away,31,458.0,264.0,194.0,52.0,25.0,5.0,15.0,1.0
+401868323,12,Nicholls,Southland,SE Louisiana,home,10,164.0,74.0,90.0,26.0,31.0,4.0,15.0,3.0
+401868323,12,SE Louisiana,Southland,Nicholls,away,38,469.0,316.0,153.0,51.0,24.0,7.0,17.0,2.0
+401858529,12,Oregon,Big Ten,Michigan State,away,45,422.0,188.0,234.0,38.0,34.0,10.0,15.0,0.0
+401858529,12,Michigan State,Big Ten,Oregon,home,7,200.0,80.0,120.0,37.0,23.0,6.0,15.0,2.0
+401866468,12,Toledo,Mid-American,Bowling Green,home,19,290.0,99.0,191.0,41.0,24.0,5.0,16.0,0.0
+401866468,12,Bowling Green,Mid-American,Toledo,away,0,188.0,44.0,144.0,29.0,22.0,1.0,12.0,1.0
 401866466,12,Kent State,Mid-American,Miami (OH),home,3,170.0,31.0,139.0,19.0,20.0,2.0,9.0,1.0
 401866466,12,Miami (OH),Mid-American,Kent State,away,20,425.0,301.0,124.0,58.0,12.0,4.0,12.0,0.0
 401866464,12,Ball State,Mid-American,Ohio,away,28,448.0,191.0,257.0,34.0,35.0,3.0,12.0,2.0
@@ -2819,3 +2831,9 @@ gameId,week,team,conference,opponent,homeAway,points,totalYards,rushingYards,net
 401866469,12,Buffalo,Mid-American,Central Michigan,home,40,435.0,283.0,152.0,44.0,13.0,7.0,12.0,0.0
 401866465,12,Western Michigan,Mid-American,Eastern Michigan,home,34,341.0,235.0,106.0,43.0,18.0,5.0,12.0,1.0
 401866465,12,Eastern Michigan,Mid-American,Western Michigan,away,27,330.0,188.0,142.0,42.0,25.0,1.0,9.0,1.0
+401868314,12,Northwestern State,Southland,Stephen F. Austin,away,0,210.0,64.0,146.0,25.0,36.0,2.0,14.0,1.0
+401868314,12,Stephen F. Austin,Southland,Northwestern State,home,66,703.0,286.0,417.0,50.0,32.0,8.0,12.0,0.0
+401858303,12,Clemson,ACC,Duke,away,20,384.0,220.0,164.0,51.0,30.0,8.0,18.0,2.0
+401858303,12,Duke,ACC,Clemson,home,10,247.0,98.0,149.0,22.0,38.0,6.0,16.0,1.0
+401864542,12,Wyoming,Mountain West,New Mexico,home,17,188.0,46.0,142.0,25.0,23.0,3.0,12.0,0.0
+401864542,12,New Mexico,Mountain West,Wyoming,away,24,433.0,199.0,234.0,40.0,40.0,7.0,16.0,2.0

@@ -268,6 +268,40 @@ def fetch_player_stats():
     return wide
 
 
+
+# ---------------------------------------------------------------------------
+# 4b) In-season player production -- every player's season stats and EPA
+#     (CFBD "PPA") for each season in SEASONS. Two calls per season. Used by
+#     export_web_data.py to show what this cycle's transfers have produced at
+#     their new schools. A finished season that's already saved is skipped;
+#     the season in progress is re-pulled every run (totals change weekly).
+# ---------------------------------------------------------------------------
+
+def fetch_player_production(year):
+    section(f"Player season stats + EPA ({year})")
+    stats_path, ppa_path = f"data/player_stats_{year}.csv", f"data/player_ppa_{year}.csv"
+    if (year < UPCOMING_SEASON and not FULL_REFRESH
+            and os.path.exists(stats_path) and os.path.exists(ppa_path)):
+        print("  finished season already saved -- skipping (use --full to re-pull)")
+        return
+    long_df = pd.json_normalize(get("/stats/player/season", year=year))
+    if long_df.empty:
+        print("  no player stats returned -- skipping")
+    else:
+        long_df["stat"] = pd.to_numeric(long_df["stat"], errors="coerce")
+        info = long_df.groupby(["playerId", "team"], as_index=False).agg(
+            player=("player", "first"), position=("position", "first"), conference=("conference", "first"))
+        wide = long_df.pivot_table(index=["playerId", "team"], columns=["category", "statType"],
+                                   values="stat", aggfunc="sum")
+        wide.columns = [f"{cat}_{stat}" for cat, stat in wide.columns]
+        wide = info.merge(wide.reset_index(), on=["playerId", "team"], how="left")
+        save(wide, stats_path)
+    ppa = pd.json_normalize(get("/ppa/players/season", year=year), sep="_")
+    if ppa.empty:
+        print("  no player EPA returned -- skipping")
+    else:
+        save(ppa, ppa_path)
+
 # ---------------------------------------------------------------------------
 # 5) Teams / team_info (refresh so conference realignment is current)
 # ---------------------------------------------------------------------------
@@ -1077,6 +1111,8 @@ def main():
     parser.add_argument("--skip-qb", action="store_true", help="skip per-week QB stats pull (both seasons)")
     parser.add_argument("--skip-lines", action="store_true", help="skip betting lines pull (both seasons)")
     parser.add_argument("--skip-team-stats", action="store_true", help="skip team season offense/defense stats pull (both seasons)")
+    parser.add_argument("--skip-player-stats", action="store_true",
+                        help="skip the in-season player stats + EPA pull (transfer production)")
     parser.add_argument("--skip-model-inputs", action="store_true",
                         help="skip advanced game stats / returning production / talent (used by score_model.py)")
     parser.add_argument("--only-model-inputs", action="store_true",
@@ -1188,6 +1224,15 @@ def main():
         fetch_team_stats_all_seasons()
     else:
         print("\nSkipping team season stats (--skip-team-stats)")
+
+    if not args.skip_player_stats:
+        for year in SEASONS:
+            try:
+                fetch_player_production(year)
+            except Exception as e:
+                print(f"  Player stats / EPA fetch failed for {year}: {e}")
+    else:
+        print("\nSkipping player stats (--skip-player-stats)")
 
     if not args.skip_model_inputs:
         fetch_model_inputs()
